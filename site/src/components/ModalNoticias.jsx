@@ -4,7 +4,8 @@ export default function ModalNoticias({ noticias, aberto, aoFechar }) {
   // Filtros selecionados (categorias e tags)
   const [filtros, setFiltros] = useState([])
 
-  if (!aberto) return null
+  // NOTA: hooks (useMemo) precisam vir ANTES de qualquer return,
+  // senão o React quebra com "hooks chamados condicionalmente"
 
   // Extrai categorias e tags únicas das notícias
   const categorias = useMemo(() => {
@@ -29,6 +30,9 @@ export default function ModalNoticias({ noticias, aberto, aoFechar }) {
       )
     })
   }, [noticias, filtros])
+
+  // ⬇ Só depois de todos os hooks é que podemos sair mais cedo
+  if (!aberto) return null
 
   // Alterna um filtro (adiciona ou remove)
   function toggleFiltro(valor) {
