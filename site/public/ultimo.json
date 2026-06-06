@@ -1,705 +1,727 @@
 [
   {
-    "id": "2026-06-06-guto-miguel-campeao-roland-garros",
+    "id": "2026-06-06-geada-sul-de-minas",
     "data": "2026-06-06",
-    "titulo": "Guto Miguel é campeão juvenil de Roland Garros",
-    "resumo": "O tenista brasileiro Guto Miguel, de 17 anos, conquistou o título de Roland Garros na categoria juvenil. Ele venceu o americano Michael Antonius na final. Este feito é considerado inédito para o tênis brasileiro.",
-    "categoria": "esportes",
+    "titulo": "Fim de semana começa com geada e baixas temperaturas no Sul de Minas",
+    "resumo": "O Sul de Minas Gerais registrou baixas temperaturas e geada no início deste sábado (6). O fenômeno cobriu flores e gramados com uma fina camada de gelo em cidades próximas à Serra da Mantiqueira. A região da Serra da Mantiqueira foi a mais afetada.",
+    "categoria": "meio-ambiente",
     "tags": [
-      "tênis",
-      "Roland Garros",
-      "juvenil",
-      "campeão",
-      "Guto Miguel"
+      "geada",
+      "frio",
+      "Sul de Minas",
+      "Serra da Mantiqueira",
+      "outono"
     ],
     "entidades": [
-      "Guto Miguel",
-      "Michael Antonius",
-      "Roland Garros"
+      "Sul de Minas Gerais",
+      "Serra da Mantiqueira"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/06/06/fotos-geada-outono-sul-de-minas.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-recorde-frio-rio-janeiro",
+    "data": "2026-06-06",
+    "titulo": "Rio de Janeiro registra a madrugada mais fria do ano",
+    "resumo": "A madrugada deste sábado (6) foi a mais fria do ano no Rio de Janeiro. A temperatura mínima registrada foi de 12,5 graus Celsius na estação da Vila Militar, Zona Norte da cidade. O recorde anterior de frio havia sido em 12 de maio.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "frio",
+      "temperatura",
+      "Rio de Janeiro",
+      "madrugada fria",
+      "recorde"
+    ],
+    "entidades": [
+      "Rio de Janeiro",
+      "Vila Militar",
+      "Instituto Nacional de Meteorologia (Inmet)"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/06/rio-tem-madrugada-mais-fria-do-ano.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-desabamento-ponte-acre",
+    "data": "2026-06-06",
+    "titulo": "Sobrevivente relata momento de queda de ponte no Acre",
+    "resumo": "Um dos sobreviventes do desabamento de parte da Ponte Frei Paolino Baldassari, em Sena Madureira (AC), relatou o momento em que a estrutura cedeu. O incidente, ocorrido na sexta-feira (5), deixou quatro pessoas feridas. O sobrevivente descreveu ter 'encostado no fundo do rio'.",
+    "categoria": "seguranca",
+    "tags": [
+      "desabamento",
+      "ponte",
+      "acidente",
+      "Acre",
+      "sobrevivente"
+    ],
+    "entidades": [
+      "Ponte Frei Paolino Baldassari",
+      "Sena Madureira",
+      "Acre"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/tenis/guto-miguel-repete-maior-feito-de-joao-fonseca-como-juvenil-e-faz-historia/"
-      },
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/tenis/guto-miguel-alcanca-feito-inedito-para-o-tenis-brasileiro-com-titulo/"
-      },
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/tenis/guto-miguel-vence-faz-historia-e-e-campeao-juvenil-de-roland-garros/"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ac/acre/noticia/2026/06/06/trabalhadores-feridos-em-desabamento-no-ac-estavam-na-ponte-encostei-no-fundo-do-rio.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-06-parada-lgbt-sp",
+    "id": "2026-06-06-morte-crianca-atropelada-poco-redondo",
     "data": "2026-06-06",
-    "titulo": "Parada do Orgulho LGBT+ de São Paulo atrai multidões",
-    "resumo": "A Parada do Orgulho LGBT+ de São Paulo é destacada como um dos maiores eventos de celebração do orgulho LGBT+ do mundo. A manifestação movimenta a cidade e completa três décadas de história. Outras cidades como Londres, Nova York e Madri também possuem grandes eventos.",
-    "categoria": "cultura",
+    "titulo": "Criança morre atropelada por caminhão em Poço Redondo",
+    "resumo": "Familiares e amigos se despediram neste sábado (6) do menino de quase 2 anos que morreu atropelado por um caminhão em Poço Redondo (SE). O sepultamento ocorreu no povoado Lagoa Dantas. O acidente aconteceu na SE-230.",
+    "categoria": "seguranca",
     "tags": [
-      "Parada LGBT",
-      "Orgulho LGBT+",
-      "São Paulo",
-      "evento",
-      "multidão"
+      "morte",
+      "criança",
+      "atropelamento",
+      "Poço Redondo",
+      "caminhão"
     ],
     "entidades": [
-      "São Paulo",
-      "Londres",
-      "Nova York",
-      "Madri"
+      "Poço Redondo",
+      "SE-230"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/pop/qual-foi-o-maior-publico-da-parada-de-sp-compare-com-outros-paises/"
-      },
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/pop/parada-do-orgulho-lgbt-de-sao-paulo-e-a-maior-do-mundo-saiba/"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/06/familiares-e-amigos-de-despedem-de-crianca-que-morreu-atropelada-por-caminhao-em-poco-redondo.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-06-brasil-titulos-iuanes-china",
+    "id": "2026-06-06-morte-coordenadora-escola-acidente-tocantins",
     "data": "2026-06-06",
-    "titulo": "Brasil planeja anunciar emissão de títulos em iuanes durante viagem à China",
-    "resumo": "O Brasil tem planos de anunciar a emissão de títulos em iuanes durante uma viagem oficial à China. Autoridades brasileiras visitarão Xangai e Pequim entre os dias 24 e 26 de junho para tratar do assunto. Esta medida faz parte de estratégias econômicas com o país asiático.",
-    "categoria": "economia",
+    "titulo": "Coordenadora de escola morre em acidente no sul do Tocantins",
+    "resumo": "Leomarcia Souza Aguiar Mota, de 52 anos, morreu em um acidente de trânsito envolvendo dois carros na zona rural de Formoso do Araguaia, sul do Tocantins. A vítima era coordenadora de apoio em uma escola da região.",
+    "categoria": "seguranca",
     "tags": [
-      "Brasil",
-      "China",
-      "títulos",
-      "iuanes",
-      "economia",
-      "viagem oficial"
+      "morte",
+      "acidente de trânsito",
+      "coordenadora de escola",
+      "Tocantins"
     ],
     "entidades": [
-      "Brasil",
-      "China",
-      "Xangai",
-      "Pequim"
+      "Leomarcia Souza Aguiar Mota",
+      "Formoso do Araguaia",
+      "Tocantins"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/brasil-planeja-anunciar-emissao-de-titulos-em-iuanes-durante-viagem-a-china/"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/06/coordenadora-de-escola-morre-em-acidente-no-sul-do-tocantins.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-06-el-nino-agro",
-    "data": "2026-06-06",
-    "titulo": "El Niño gera alerta para investidores do agronegócio",
-    "resumo": "O fenômeno climático El Niño acendeu um alerta entre investidores com exposição ao agronegócio. Há preocupações sobre os possíveis efeitos do fenômeno sobre as safras, os preços dos alimentos e os ativos ligados ao setor agropecuário. O mercado financeiro acompanha a situação com atenção.",
-    "categoria": "economia",
-    "tags": [
-      "El Niño",
-      "agronegócio",
-      "investidores",
-      "clima",
-      "safras",
-      "preços de alimentos"
-    ],
-    "entidades": [],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/el-nino-acende-alerta-aos-investidores-com-exposicao-ao-agro/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-06-sintomas-gripais-presidente-prudente",
-    "data": "2026-06-06",
-    "titulo": "Aumento de casos gripais eleva procura por pronto-socorro infantil em Presidente Prudente",
-    "resumo": "Houve um aumento superior a 50% na procura por atendimento de crianças com sintomas gripais em Presidente Prudente. Congestão nasal, tosse intensa e febre levaram à elevação no tempo de espera no pronto-socorro infantil da Santa Casa. A situação preocupa as autoridades de saúde locais.",
-    "categoria": "saude",
-    "tags": [
-      "saúde",
-      "sintomas gripais",
-      "crianças",
-      "pronto-socorro",
-      "Presidente Prudente"
-    ],
-    "entidades": [
-      "Presidente Prudente",
-      "Santa Casa"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/06/06/casos-de-tosse-febre-e-congestao-nasal-elevam-procura-por-pronto-socorro-infantil-em-presidente-prudente.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-06-teste-pezinho-25-anos",
-    "data": "2026-06-06",
-    "titulo": "Teste do Pezinho completa 25 anos com desafios na ampliação",
-    "resumo": "O Programa Nacional de Triagem Neonatal, conhecido como teste do pezinho, completa 25 anos. O exame é crucial para a identificação precoce de diversas doenças em recém-nascidos. Apesar de sua importância, a ampliação do teste ainda enfrenta desafios no Brasil.",
-    "categoria": "saude",
-    "tags": [
-      "saúde",
-      "teste do pezinho",
-      "triagem neonatal",
-      "doenças",
-      "recém-nascidos"
-    ],
-    "entidades": [
-      "Programa Nacional de Triagem Neonatal"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/saude/noticia/2026/06/06/nos-25-anos-do-teste-do-pezinho-exame-ampliado-ainda-e-desafio-no-brasil.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-06-ataques-ira-eua",
-    "data": "2026-06-06",
-    "titulo": "Irã afirma que ataques dos EUA contra radares violam cessar-fogo",
-    "resumo": "O Ministério das Relações Exteriores do Irã declarou que ataques dos Estados Unidos contra radares iranianos violam o cessar-fogo. Teerã classificou a ofensiva como um ato de agressão militar contra a soberania e a integridade territorial do país. A tensão na região aumenta.",
-    "categoria": "internacional",
-    "tags": [
-      "Irã",
-      "EUA",
-      "radares",
-      "cessar-fogo",
-      "agressão militar",
-      "soberania"
-    ],
-    "entidades": [
-      "Irã",
-      "Estados Unidos"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/ira-afirma-que-ataques-dos-eua-contra-radares-violam-cessar-fogo/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-06-suecia-prisoes-menores",
-    "data": "2026-06-06",
-    "titulo": "Suécia cria prisões especiais para menores infratores a partir de 13 anos",
-    "resumo": "A Suécia implementará unidades prisionais especiais para adolescentes a partir de 13 anos envolvidos em crimes de gangues. A medida visa reduzir a idade penal e aumentar o controle sobre jovens infratores. A criação dessas prisões especiais busca lidar com o aumento da criminalidade juvenil.",
-    "categoria": "internacional",
-    "tags": [
-      "Suécia",
-      "prisões",
-      "menores",
-      "adolescentes",
-      "crimes de gangues",
-      "idade penal"
-    ],
-    "entidades": [
-      "Suécia"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/suecia-cria-prisoes-para-menores-a-partir-de-13-anos/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-06-luxemburgo-critica-ancelotti",
-    "data": "2026-06-06",
-    "titulo": "Luxemburgo critica Ancelotti sobre testes de jogadores",
-    "resumo": "O ex-treinador da Seleção Brasileira, Vanderlei Luxemburgo, criticou o técnico Carlo Ancelotti. Luxemburgo questionou a necessidade de testes em jogadores que já deveriam ter seu desempenho consolidado. Ele comparou a abordagem de Ancelotti com a de outros treinadores brasileiros.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "treinador",
-      "Luxemburgo",
-      "Ancelotti",
-      "Seleção Brasileira"
-    ],
-    "entidades": [
-      "Vanderlei Luxemburgo",
-      "Carlo Ancelotti",
-      "Seleção Brasileira"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/luxemburgo-detona-ancelotti-testes-alguma-coisa-esta-errada/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-06-turista-uruguaio-afogamento",
+    "id": "2026-06-06-turista-afogamento-arraial-do-cabo",
     "data": "2026-06-06",
     "titulo": "Turista uruguaio morre após afogamento em Arraial do Cabo",
-    "resumo": "Um turista uruguaio de 41 anos faleceu após se afogar na Praia Grande, em Arraial do Cabo, Região dos Lagos do Rio. Há suspeita de que a vítima tenha sofrido um infarto enquanto estava no mar. As autoridades locais investigam as circunstâncias do ocorrido.",
+    "resumo": "Um turista uruguaio de 41 anos morreu na tarde de sexta-feira (5) após se afogar na Praia Grande, em Arraial do Cabo (RJ). Há suspeita de que a vítima tenha sofrido um infarto enquanto nadava. A Prefeitura informou sobre o ocorrido.",
     "categoria": "seguranca",
     "tags": [
       "morte",
       "afogamento",
       "turista",
       "Arraial do Cabo",
-      "Praia Grande",
-      "infarto"
+      "Praia Grande"
     ],
     "entidades": [
       "Arraial do Cabo",
-      "Praia Grande"
+      "Praia Grande",
+      "Uruguai"
     ],
-    "importancia": 2,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "G1",
+        "nome": "g1.com",
         "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/06/06/turista-uruguaio-morre-apos-afogamento-na-praia-grande-em-arraial-do-cabo.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-06-jiboia-motor-caminhonete",
+    "id": "2026-06-06-policial-preso-volta-redonda",
     "data": "2026-06-06",
-    "titulo": "Jiboia de 1,5 metro é encontrada dentro do motor de caminhonete em Pernambuco",
-    "resumo": "Uma jiboia de aproximadamente 1,5 metro foi encontrada dentro do motor de uma caminhonete na BR-104, em Caruaru, Agreste de Pernambuco. O animal foi localizado pelo motorista do veículo. A remoção da cobra foi realizada com apoio.",
+    "titulo": "Policial Militar é preso após invadir e destruir casa de ex-companheira em Volta Redonda",
+    "resumo": "Um policial militar, que está afastado, foi preso após invadir e destruir a casa de sua ex-companheira em Volta Redonda (RJ). O incidente ocorreu na noite de sexta-feira (5), no bairro Santa Rita do Zarur. A prisão foi realizada pela Deam.",
+    "categoria": "seguranca",
+    "tags": [
+      "policial militar",
+      "prisão",
+      "violência doméstica",
+      "Volta Redonda",
+      "destruição de propriedade"
+    ],
+    "entidades": [
+      "Policial Militar",
+      "Volta Redonda",
+      "Deam de Volta Redonda"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/06/06/policial-militar-e-preso-apos-invadir-e-destruir-casa-de-ex-companheira-em-volta-redonda.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-celular-recuperado-itanhaem",
+    "data": "2026-06-06",
+    "titulo": "Dono de celular roubado encontra aparelho à venda na web",
+    "resumo": "Um celular que havia sido roubado em Mongaguá (SP) foi recuperado pela Polícia Militar em Itanhaém. O aparelho foi encontrado após o dono localizar o item à venda em um anúncio online. A recuperação ocorreu no bairro Gaivota.",
+    "categoria": "seguranca",
+    "tags": [
+      "celular roubado",
+      "recuperação",
+      "polícia militar",
+      "Mongaguá",
+      "Itanhaém"
+    ],
+    "entidades": [
+      "Polícia Militar",
+      "Mongaguá",
+      "Itanhaém",
+      "Gaivota"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/06/dono-de-celular-roubado-encontra-o-aparelho-a-venda-em-anuncio-na-web.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-operacao-tolerancia-zero-belem",
+    "data": "2026-06-06",
+    "titulo": "Dois motoristas presos por embriaguez em Belém na Operação Tolerância Zero",
+    "resumo": "Dois motoristas foram presos por embriaguez ao volante em Belém (PA) durante o primeiro dia da Operação Tolerância Zero. A ação teve início no distrito de Icoaraci e marcou o uso de etilômetros pela primeira vez na cidade.",
+    "categoria": "seguranca",
+    "tags": [
+      "lei seca",
+      "embriaguez ao volante",
+      "prisão",
+      "Belém",
+      "Operação Tolerância Zero"
+    ],
+    "entidades": [
+      "Belém",
+      "Icoaraci",
+      "Operação Tolerância Zero"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pa/para/noticia/2026/06/06/dois-motoristas-sao-presos-por-embriaguez-ao-volante-no-primeiro-dia-da-operacao-tolerancia-zero-em-belem.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-vandalismo-onibus-salvador",
+    "data": "2026-06-06",
+    "titulo": "Motorista de ônibus fica ferido após vandalismo com explosivos em Salvador",
+    "resumo": "Um motorista de ônibus ficou ferido após ter o veículo vandalizado com explosivos, barras de ferro e bolas de sinuca em Salvador (BA) neste sábado (6). O ato foi realizado por um grupo de suspeitos. A Secretaria de Mobilidade Urbana (Semob) informou sobre o ocorrido.",
+    "categoria": "seguranca",
+    "tags": [
+      "vandalismo",
+      "ônibus",
+      "Salvador",
+      "ferido",
+      "explosivos"
+    ],
+    "entidades": [
+      "Salvador",
+      "Secretaria de Mobilidade Urbana (Semob)"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/06/vandalismo-onibus-salvador.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-jiboia-motor-caminhonete-caruaru",
+    "data": "2026-06-06",
+    "titulo": "Jiboia de 1,5 metro é encontrada em motor de caminhonete em Caruaru",
+    "resumo": "Uma jiboia de aproximadamente 1,5 metro foi encontrada dentro do motor de uma caminhonete na BR-104, em Caruaru (PE), na manhã deste sábado (6). O animal foi localizado pelo motorista do veículo e retirado com apoio. A ocorrência foi no Agreste de Pernambuco.",
     "categoria": "meio-ambiente",
     "tags": [
-      "animal",
       "jiboia",
+      "animal silvestre",
+      "encontrado",
       "Caruaru",
-      "Pernambuco",
-      "BR-104",
-      "motor de veículo"
+      "BR-104"
     ],
     "entidades": [
       "Caruaru",
-      "Pernambuco",
-      "BR-104"
+      "BR-104",
+      "Pernambuco"
     ],
     "importancia": 2,
     "fontes": [
       {
-        "nome": "G1",
+        "nome": "g1.com",
         "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/06/06/jiboia-de-15-metro-e-encontrada-dentro-do-motor-de-caminhonete-na-br-104-em-caruaru.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-06-entregador-gas-acidente-joao-pessoa",
+    "id": "2026-06-06-teste-pezinho-25-anos",
     "data": "2026-06-06",
-    "titulo": "Entregador de gás morre em acidente com moto e carro em João Pessoa",
-    "resumo": "Um entregador de gás morreu em um acidente envolvendo uma moto e um carro no bairro Padre Zé, em João Pessoa. O entregador estava em serviço no momento do ocorrido. A Polícia Civil investiga as causas do acidente.",
-    "categoria": "seguranca",
+    "titulo": "Teste do pezinho completa 25 anos e ampliação do exame ainda é desafio",
+    "resumo": "O Programa Nacional de Triagem Neonatal, conhecido como teste do pezinho, completa 25 anos neste sábado (6). O exame é fundamental para a identificação precoce de doenças em recém-nascidos. No entanto, a ampliação do alcance do teste ainda é um desafio no Brasil.",
+    "categoria": "saude",
     "tags": [
+      "teste do pezinho",
+      "triagem neonatal",
+      "saúde infantil",
+      "doenças congênitas",
+      "desafio"
+    ],
+    "entidades": [
+      "Programa Nacional de Triagem Neonatal (PNTN)"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/saude/noticia/2026/06/06/nos-25-anos-do-teste-do-pezinho-exame-ampliado-ainda-e-desafio-no-brasil.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-vazamento-agua-sao-bernardo-campo",
+    "data": "2026-06-06",
+    "titulo": "Vazamento de água interrompe rua em São Bernardo do Campo",
+    "resumo": "Um vazamento de água foi registrado em uma rua de São Bernardo do Campo (SP) na manhã deste sábado (6). A água jorrou no meio da Rua Sapucaí, causando interdição. O vazamento teria começado por volta das 5h.",
+    "categoria": "infraestrutura",
+    "tags": [
+      "vazamento de água",
+      "rua",
+      "São Bernardo do Campo",
+      "ABC Paulista",
+      "interrupção"
+    ],
+    "entidades": [
+      "São Bernardo do Campo",
+      "Rua Sapucaí"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/06/agua-vaza-no-meio-de-rua-de-sao-bernardo-do-campo.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-casamento-familia-real-britanica",
+    "data": "2026-06-06",
+    "titulo": "Família real britânica participa de casamento de neto da Rainha Elizabeth II",
+    "resumo": "Membros da família real britânica, incluindo o Rei Charles III, a Rainha Camilla, Kate Middleton e o Príncipe William, compareceram ao casamento de Peter Phillips, neto da Rainha Elizabeth II. A cerimônia foi realizada em Londres.",
+    "categoria": "internacional",
+    "tags": [
+      "família real",
+      "casamento",
+      "Reino Unido",
+      "Rainha Elizabeth II",
+      "Rei Charles III"
+    ],
+    "entidades": [
+      "Família Real Britânica",
+      "Rainha Elizabeth II",
+      "Rei Charles III",
+      "Rainha Camilla",
+      "Kate Middleton",
+      "Príncipe William",
+      "Peter Phillips",
+      "Harriet Sperling",
+      "Londres"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/familia-real-participa-de-casamento-de-neto-da-rainha-elizabeth-ii/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-trump-chama-netanyahu-louco",
+    "data": "2026-06-06",
+    "titulo": "Trump chama Netanyahu de 'louco' e analistas debatem impacto na guerra",
+    "resumo": "O ex-presidente dos Estados Unidos, Donald Trump, confirmou ter chamado o primeiro-ministro israelense, Benjamin Netanyahu, de 'louco' em uma ligação. Analistas discutem as possíveis consequências dessa declaração para o conflito no Oriente Médio.",
+    "categoria": "internacional",
+    "tags": [
+      "Donald Trump",
+      "Benjamin Netanyahu",
+      "Israel",
+      "Palestina",
+      "guerra",
+      "Oriente Médio",
+      "declaração"
+    ],
+    "entidades": [
+      "Donald Trump",
+      "Benjamin Netanyahu"
+    ],
+    "importancia": 5,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/trump-chama-netanyahu-de-louco-qual-o-real-impacto-na-guerra/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-buscas-caverna-laos",
+    "data": "2026-06-06",
+    "titulo": "Buscas por homens presos em caverna no Laos são suspensas",
+    "resumo": "As buscas pelos dois últimos homens presos em uma caverna inundada no Laos há mais de duas semanas foram suspensas neste sábado (6). Um mergulhador malaio especializado em cavernas declarou que a missão chegou ao fim. A operação de resgate durou mais de duas semanas.",
+    "categoria": "internacional",
+    "tags": [
+      "resgate",
+      "Laos",
+      "caverna",
+      "suspensão",
+      "buscas"
+    ],
+    "entidades": [
+      "Laos",
+      "Lee Kian Lie"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mundo/noticia/2026/06/06/buscas-por-dois-homens-presos-em-caverna-no-laos-sao-suspensas-apos-mais-de-duas-semanas.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-meia-maratona-manaus",
+    "data": "2026-06-06",
+    "titulo": "Meia Maratona altera trânsito na Zona Oeste de Manaus neste domingo",
+    "resumo": "A realização da \"Meia Maratona Desafio 30\" provocará alterações no trânsito da Zona Oeste de Manaus neste domingo (7). A competição contará com percursos de 6, 10, 21 e 30 quilômetros. Motoristas devem ficar atentos às vias afetadas.",
+    "categoria": "esportes",
+    "tags": [
+      "meia maratona",
+      "trânsito",
+      "Manaus",
+      "Zona Oeste",
+      "evento esportivo"
+    ],
+    "entidades": [
+      "Manaus",
+      "Meia Maratona Desafio 30"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/06/meia-maratona-provoca-alteracoes-no-transito-da-zona-oeste-de-manaus-neste-domingo-veja-as-vias-afetadas.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-astro-frances-preparacao-copa",
+    "data": "2026-06-06",
+    "titulo": "Declaração de astro francês gera repercussão negativa antes da Copa",
+    "resumo": "Uma declaração do jogador francês Rayan Cherki causou repercussão negativa na comissão técnica da seleção. O atleta demonstrou excesso de confiança após o último jogo de preparação para a Copa do Mundo. O comentário ocorreu em um momento crucial para a equipe.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "França",
+      "Copa do Mundo",
+      "Rayan Cherki",
+      "declaração",
+      "confiança"
+    ],
+    "entidades": [
+      "Rayan Cherki",
+      "seleção francesa"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/declaracao-de-astro-frances-repercute-mal-na-comissao-tecnica-antes-da-copa/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-luxemburgo-critica-ancelotti",
+    "data": "2026-06-06",
+    "titulo": "Luxemburgo critica Ancelotti sobre testes na seleção brasileira",
+    "resumo": "O ex-treinador da Seleção Brasileira, Vanderlei Luxemburgo, criticou o técnico Carlo Ancelotti por realizar 'testes' na equipe. Luxemburgo afirmou que o time já deveria estar definido e comparou a situação com a de outros técnicos brasileiros. Ele considera que 'algo está errado'.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "Brasil",
+      "seleção brasileira",
+      "Vanderlei Luxemburgo",
+      "Carlo Ancelotti",
+      "crítica"
+    ],
+    "entidades": [
+      "Vanderlei Luxemburgo",
+      "Carlo Ancelotti",
+      "Seleção Brasileira"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/luxemburgo-detona-ancelotti-testes-alguma-coisa-esta-errada/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-gabriel-bortoleto-gp-monaco",
+    "data": "2026-06-06",
+    "titulo": "Gabriel Bortoleto sofre acidente na classificação do GP de Mônaco",
+    "resumo": "O piloto brasileiro Gabriel Bortoleto sofreu um acidente durante a qualificação para o Grande Prêmio de Mônaco. O incidente ocorreu enquanto ele tentava melhorar seu tempo para avançar para o Q2 da corrida. As imagens do acidente foram divulgadas.",
+    "categoria": "esportes",
+    "tags": [
+      "automobilismo",
+      "Fórmula 2",
+      "Mônaco",
+      "Gabriel Bortoleto",
       "acidente",
-      "morte",
-      "entregador",
-      "moto",
-      "carro",
-      "João Pessoa"
+      "qualificação"
     ],
     "entidades": [
-      "João Pessoa",
-      "Padre Zé"
+      "Gabriel Bortoleto",
+      "Grande Prêmio de Mônaco"
     ],
-    "importancia": 2,
+    "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/06/06/entregador-de-gas-morre-em-acidente-envolvendo-moto-e-carro-em-joao-pessoa.ghtml"
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/gabriel-bortoleto-bate-na-qualy-do-gp-de-monaco-veja-acidente/"
       }
     ]
   },
   {
-    "id": "2026-06-06-prisao-suspeito-madrasta",
+    "id": "2026-06-06-guto-miguel-campeao-roland-garros-juvenil",
     "data": "2026-06-06",
-    "titulo": "Suspeito de matar madrasta a tiros é preso no Espírito Santo",
-    "resumo": "Um jovem de 26 anos foi preso sob suspeita de ter matado a madrasta a tiros. O crime ocorreu em Cachoeiro de Itapemirim, Espírito Santo. A vítima, uma empresária de 46 anos, foi alvejada na noite de sexta-feira. O suspeito foi detido.",
-    "categoria": "justica",
+    "titulo": "Guto Miguel é campeão de Roland Garros juvenil",
+    "resumo": "O tenista brasileiro Guto Miguel, de 17 anos, conquistou o título de Roland Garros na categoria juvenil. Ele venceu o americano Michael Antonius na final deste sábado (6). Este feito iguala o maior feito de João Fonseca como juvenil no torneio.",
+    "categoria": "esportes",
     "tags": [
-      "prisão",
-      "homicídio",
-      "suspeito",
-      "madrasta",
-      "Espírito Santo",
-      "Cachoeiro de Itapemirim"
+      "tênis",
+      "Roland Garros",
+      "juvenil",
+      "Guto Miguel",
+      "campeão",
+      "Brasil"
     ],
     "entidades": [
-      "Cachoeiro de Itapemirim",
-      "Espírito Santo",
-      "Flaviana Granzieiri"
+      "Guto Miguel",
+      "Roland Garros",
+      "Michael Antonius",
+      "João Fonseca"
     ],
-    "importancia": 2,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/06/06/suspeito-de-matar-madrasta-a-tiros-e-preso-em-cachoeiro-de-itapemirim.ghtml"
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/tenis/guto-miguel-repete-maior-feito-de-joao-fonseca-como-juvenil-e-faz-historia/"
       }
     ]
   },
   {
-    "id": "2026-06-06-prisao-irmao-df",
+    "id": "2026-06-06-protagonismo-negro-tv-ronald-sotto",
     "data": "2026-06-06",
-    "titulo": "Homem é preso suspeito de atirar contra irmão após briga no DF",
-    "resumo": "Um homem foi preso no Distrito Federal sob a suspeita de ter atirado contra o próprio irmão após uma discussão. O incidente ocorreu em Taguatinga na noite de sexta-feira. A vítima foi atingida na perna e recebeu atendimento médico.",
-    "categoria": "justica",
-    "tags": [
-      "prisão",
-      "violência",
-      "briga",
-      "irmão",
-      "Distrito Federal",
-      "Taguatinga"
-    ],
-    "entidades": [
-      "Distrito Federal",
-      "Taguatinga"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/06/homem-e-preso-suspeito-de-atirar-contra-irmao-apos-briga-no-df.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-06-festas-juninas-shows",
-    "data": "2026-06-06",
-    "titulo": "Festas Juninas em Natal e Votorantim contam com shows de artistas renomados",
-    "resumo": "O São João de Natal terá shows gratuitos de Calcinha Preta, Pablo e Marina Elali na Arena das Dunas. Já a Festa Junina de Votorantim contará com a apresentação do cantor Thiaguinho, um dos maiores nomes do pagode. Ambas as festas atraem público e movimentam as cidades.",
+    "titulo": "Ronald Sotto defende protagonismo negro na TV como 'caminho irreversível'",
+    "resumo": "O ator Ronald Sotto afirmou que o protagonismo negro na televisão é um 'caminho irreversível'. Ele atualmente interpreta o personagem Tonho na novela das 18h da TV Globo. A declaração ressalta a importância da representatividade na mídia.",
     "categoria": "cultura",
     "tags": [
-      "festas juninas",
-      "shows",
-      "música",
+      "televisão",
+      "representatividade",
+      "protagonismo negro",
+      "ator",
+      "novela",
+      "Ronald Sotto"
+    ],
+    "entidades": [
+      "Ronald Sotto",
+      "TV Globo"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/pop/celebridades/ronald-sotto-afirma-que-protagonismo-negro-na-tv-e-caminho-irreversivel/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-album-fotos-debora-bloch-londres",
+    "data": "2026-06-06",
+    "titulo": "Débora Bloch compartilha fotos com filho em Londres",
+    "resumo": "A atriz Débora Bloch compartilhou um álbum de fotos ao lado de seu filho, Hugo Anquier, durante uma visita a Londres. As imagens mostram momentos em família na capital inglesa. Débora Bloch também é mãe de Julia Anquier.",
+    "categoria": "cultura",
+    "tags": [
+      "celebridades",
+      "atriz",
+      "família",
+      "filho",
+      "Londres",
+      "Débora Bloch"
+    ],
+    "entidades": [
+      "Débora Bloch",
+      "Hugo Anquier",
+      "Julia Anquier",
+      "Londres"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/pop/celebridades/debora-bloch-abre-album-de-fotos-ao-lado-do-filho-em-londres/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-ex-gisele-foto-filhos",
+    "data": "2026-06-06",
+    "titulo": "Ex de Gisele Bündchen publica foto com filhos e detalhe chama atenção",
+    "resumo": "O ex-marido de Gisele Bündchen, Tom Brady, publicou uma foto com os filhos em suas redes sociais. Um detalhe na imagem do filho mais novo chamou a atenção dos seguidores. A publicação gerou comentários sobre a família.",
+    "categoria": "cultura",
+    "tags": [
+      "celebridades",
+      "família",
+      "filhos",
+      "publicação",
+      "Gisele Bündchen",
+      "Tom Brady"
+    ],
+    "entidades": [
+      "Gisele Bündchen",
+      "Tom Brady"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/pop/celebridades/ex-de-gisele-publica-foto-com-filhos-e-detalhe-em-cacula-chama-atencao/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-raizen-reestruturacao-financeira",
+    "data": "2026-06-06",
+    "titulo": "Raizen avança na reestruturação financeira após adesão de credores",
+    "resumo": "A Raizen anunciou que alcançou a adesão dos credores e está avançando em seu plano de reestruturação financeira. A companhia assegura que este processo não afetará seus clientes, fornecedores ou o fornecimento de produtos. O objetivo é fortalecer a saúde financeira da empresa.",
+    "categoria": "economia",
+    "tags": [
+      "Raizen",
+      "reestruturação financeira",
+      "credores",
+      "economia",
+      "agronegócio"
+    ],
+    "entidades": [
+      "Raizen"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/agro/raizen-alcanca-adesao-dos-credores-e-avanca-na-reestruturacao-financeira/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-sao-joao-natal-shows",
+    "data": "2026-06-06",
+    "titulo": "São João de Natal tem shows gratuitos de Calcinha Preta e Pablo",
+    "resumo": "O São João de Natal terá shows gratuitos neste sábado (6) com apresentações de Calcinha Preta, Pablo, Marina Elali e Abiel na Arena das Dunas. A programação faz parte das festividades juninas da cidade. A abertura do evento também contou com mudanças no trânsito local.",
+    "categoria": "cultura",
+    "tags": [
+      "São João",
       "Natal",
-      "Votorantim",
+      "shows",
+      "gratuitos",
+      "festas juninas",
       "Calcinha Preta",
-      "Pablo",
-      "Thiaguinho"
+      "Pablo"
     ],
     "entidades": [
       "Natal",
       "Arena das Dunas",
-      "Votorantim",
       "Calcinha Preta",
       "Pablo",
       "Marina Elali",
-      "Abiel",
-      "Thiaguinho"
+      "Abiel"
     ],
-    "importancia": 2,
+    "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
+        "nome": "g1.com",
         "url": "https://g1.globo.com/rn/rio-grande-do-norte/sao-joao-no-rn/noticia/2026/06/06/sao-joao-de-natal-tem-shows-de-calcinha-preta-e-pablo-neste-sabado-na-arena-das-dunas.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/06/festa-junina-de-votorantim-recebe-o-pagode-de-thiaguinho-neste-sabado.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-06-britney-spears-filho",
+    "id": "2026-06-06-telejornais-minas-gerais-ao-vivo",
     "data": "2026-06-06",
-    "titulo": "Britney Spears se declara ao filho após momento difícil",
-    "resumo": "A cantora Britney Spears fez uma declaração ao seu filho em meio a um período de dificuldades em sua vida pessoal. A notícia surge após momentos de apreensão relacionados à sua saúde mental e questões legais. Spears tem compartilhado momentos de sua vida com seus seguidores.",
-    "categoria": "cultura",
+    "titulo": "Telejornais regionais de Minas Gerais transmitidos ao vivo",
+    "resumo": "As afiliadas do G1 em Minas Gerais, como a EPTV1 de Ribeirão e Franca, e as TVs Integração de Divinópolis, Uberaba e Uberlândia, estão transmitindo seus telejornais ao vivo neste sábado (6). Os telespectadores podem acompanhar as notícias locais.",
+    "categoria": "comunicacao",
     "tags": [
-      "celebridades",
-      "Britney Spears",
-      "filho",
-      "declaração",
-      "saúde mental"
-    ],
-    "entidades": [
-      "Britney Spears"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/pop/celebridades/apos-prisao-e-internacao-britney-spears-se-declara-ao-filho/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-06-rayssa-leal-mes-orgulho",
-    "data": "2026-06-06",
-    "titulo": "Rayssa Leal fala sobre sexualidade no Mês do Orgulho",
-    "resumo": "A skatista Rayssa Leal se pronunciou sobre sua sexualidade durante o Mês do Orgulho. Ela respondeu a seguidores sobre fazer parte da comunidade LGBT, afirmando que não surpreenderia ninguém. A atleta tem se destacado não só no esporte, mas também em suas posições públicas.",
-    "categoria": "cultura",
-    "tags": [
-      "Rayssa Leal",
-      "skatista",
-      "Mês do Orgulho",
-      "sexualidade",
-      "LGBT"
-    ],
-    "entidades": [
-      "Rayssa Leal"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/pop/celebridades/no-mes-do-orgulho-rayssa-leal-fala-sobre-sexualidade-chocando-0-pessoas/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-06-peixe-sem-machos",
-    "data": "2026-06-06",
-    "titulo": "Espécie de peixe que vive sem machos há 100 mil anos é tema de notícia",
-    "resumo": "Uma espécie de peixe que se reproduz sem a necessidade de machos há cerca de 100 mil anos foi destacada em reportagem. Esses peixes habitam rios do México e do sul do Texas. A particularidade evolutiva da espécie desperta interesse científico.",
-    "categoria": "ciencia",
-    "tags": [
-      "ciência",
-      "biologia",
-      "espécie de peixe",
-      "reprodução assexuada",
-      "evolução",
-      "México",
-      "Texas"
-    ],
-    "entidades": [
-      "México",
-      "Texas"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/meio-ambiente/noticia/2026/06/06/a-especie-de-peixe-que-vive-sem-machos-ha-100-mil-anos.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-06-recorde-frio-bh",
-    "data": "2026-06-06",
-    "titulo": "Belo Horizonte registra novo recorde de frio do ano",
-    "resumo": "Belo Horizonte registrou a temperatura mais baixa do ano neste sábado, marcando 8,8°C na região da Pampulha. O recorde de frio foi observado por volta das 6h da manhã, de acordo com a Defesa Civil Municipal. A baixa temperatura chamou a atenção.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "clima",
-      "frio",
-      "recorde",
-      "Belo Horizonte",
-      "temperatura"
-    ],
-    "entidades": [
-      "Belo Horizonte",
-      "Pampulha"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/06/bh-registra-8-8-c-e-bate-novo-recorde-de-frio-do-ano-neste-sabado.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-06-filha-presidente-colombia-james",
-    "data": "2026-06-06",
-    "titulo": "Filha do presidente da Colômbia se pronuncia após polêmica com James Rodríguez",
-    "resumo": "A filha do presidente da Colômbia, Antonella Petro, manifestou-se após uma polêmica envolvendo o jogador James Rodríguez. Houve alegações de que o meia teria se recusado a tirar uma foto com ela. O incidente ocorreu durante o embarque da seleção colombiana.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "Colômbia",
-      "James Rodríguez",
-      "polêmica",
-      "presidente",
-      "Antonella Petro"
-    ],
-    "entidades": [
-      "Colômbia",
-      "James Rodríguez",
-      "Antonella Petro"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/filha-do-presidente-da-colombia-se-manifesta-apos-polemica-com-james/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-06-wembanyama-derrota-spurs",
-    "data": "2026-06-06",
-    "titulo": "Wembanyama assume responsabilidade por derrota dos Spurs",
-    "resumo": "O jogador Victor Wembanyama assumiu a responsabilidade pela derrota do San Antonio Spurs em uma partida da final da NBA. Ele expressou frustração com seu desempenho, afirmando que 'jogou tudo fora'. Os Spurs estão em desvantagem na série contra o New York Knicks.",
-    "categoria": "esportes",
-    "tags": [
-      "basquete",
-      "NBA",
-      "San Antonio Spurs",
-      "New York Knicks",
-      "Wembanyama",
-      "derrota",
-      "final"
-    ],
-    "entidades": [
-      "Victor Wembanyama",
-      "San Antonio Spurs",
-      "New York Knicks"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/basquete/wembanyama-assume-responsabilidade-em-derrota-dos-spurs-joguei-tudo-fora/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-06-inter-interesse-gui-negao",
-    "data": "2026-06-06",
-    "titulo": "Internacional demonstra interesse em contratar Gui Negão, do Corinthians",
-    "resumo": "O Internacional estaria interessado na contratação do atacante Gui Negão, atualmente no Corinthians. O clube europeu também monitora o desempenho do jogador. A negociação pode movimentar o mercado de transferências.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "transferência",
-      "Internacional",
-      "Corinthians",
-      "Gui Negão",
-      "atacante"
-    ],
-    "entidades": [
-      "Internacional",
-      "Corinthians",
-      "Gui Negão"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/internacional-futebol/inter-tem-interesse-na-contratacao-de-gui-negao-atacante-do-corinthians/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-06-aniversario-sonora-churrasco",
-    "data": "2026-06-06",
-    "titulo": "Aniversário de Sonora terá churrasco gratuito com carne doada",
-    "resumo": "A cidade de Sonora, no Mato Grosso do Sul, comemorará seus 38 anos com um churrasco gratuito para os moradores neste domingo. A carne será proveniente de 15 vacas doadas por produtores rurais do município. O evento faz parte das celebrações de aniversário da cidade.",
-    "categoria": "cultura",
-    "tags": [
-      "celebração",
-      "aniversário",
-      "Sonora",
-      "churrasco",
-      "doação",
-      "produtores rurais"
-    ],
-    "entidades": [
-      "Sonora",
-      "Mato Grosso do Sul"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/06/aniversario-de-sonora-tera-churrasco-gratuito-com-carne-de-15-vacas-doadas-por-produtores.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-06-naufragio-rio-amazonas-santarem",
-    "data": "2026-06-06",
-    "titulo": "Homem vai parar na água após naufrágio de lancha em Santarém",
-    "resumo": "Uma tentativa frustrada de embarque resultou em naufrágio de uma lancha no Rio Amazonas, em Santarém, no oeste do Pará. O homem, que perdeu a balsa, tentou pegar a lancha para embarcar, mas a embarcação virou. Ele acabou caindo na água.",
-    "categoria": "seguranca",
-    "tags": [
-      "naufrágio",
-      "acidente",
-      "lancha",
-      "Rio Amazonas",
-      "Santarém",
-      "Pará"
-    ],
-    "entidades": [
-      "Santarém",
-      "Pará",
-      "Rio Amazonas",
-      "Santana do Tapará"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/06/em-santarem-homem-perde-balsa-pega-lancha-para-tentar-embarcar-no-rio-e-vai-parar-na-agua-apos-naufragio.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-06-virginia-ze-felipe-show",
-    "data": "2026-06-06",
-    "titulo": "Filhas de Virginia e Zé Felipe se arrumam para show do pai",
-    "resumo": "As filhas de Virginia Fonseca e Zé Felipe, Maria Flor e Maria Alice, fizeram um 'arrume-se comigo' para assistir a um show do pai. As crianças estiveram presentes no Arraiá do Bem, em Goiânia. A família compartilhou o momento nas redes sociais.",
-    "categoria": "cultura",
-    "tags": [
-      "celebridades",
-      "Virginia Fonseca",
-      "Zé Felipe",
-      "filhas",
-      "show",
-      "Goiânia",
-      "Arraiá do Bem"
-    ],
-    "entidades": [
-      "Virginia Fonseca",
-      "Zé Felipe",
-      "Maria Flor",
-      "Maria Alice",
-      "Goiânia"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/pop/celebridades/filhas-de-virginia-e-ze-felipe-fazem-arrume-se-comigo-para-show-do-pai/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-06-eptv1-noticias",
-    "data": "2026-06-06",
-    "titulo": "EPTV1 de Ribeirão e Franca transmite notícias deste sábado",
-    "resumo": "A EPTV1, afiliada da TV Globo em Ribeirão Preto e Franca, está transmitindo as notícias de sábado, 6 de junho. A programação ao vivo acompanha os principais acontecimentos regionais e estaduais. O público pode acompanhar os destaques do dia.",
-    "categoria": "geral",
-    "tags": [
+      "telejornal",
+      "ao vivo",
+      "Minas Gerais",
       "notícias",
+      "TV"
+    ],
+    "entidades": [
       "EPTV1",
+      "TV Integração",
       "Ribeirão Preto",
       "Franca",
-      "ao vivo"
+      "Divinópolis",
+      "Uberaba",
+      "Uberlândia",
+      "Minas Gerais"
     ],
-    "entidades": [
-      "EPTV1",
-      "Ribeirão Preto",
-      "Franca"
-    ],
-    "importancia": 1,
+    "importancia": 2,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv1.ghtml"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mg/ribeirao-preto-franca/ao-vivo/eptv1.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml"
       }
     ]
   }
