@@ -17,7 +17,7 @@ export default function MapaMundi({ aoClicarBrasil }) {
         const geojson = feature(dados, dados.objects.countries)
         const lista = geojson.features.map(f => ({
           geometria: f.geometry,
-          codigo: f.properties?.ISO_A3,
+          codigo: f.id, // código ISO numérico (Brasil = 76)
         }))
         setPaises(lista)
       })
@@ -39,8 +39,8 @@ export default function MapaMundi({ aoClicarBrasil }) {
 
   // 3. Projeta os países no plano cartesiano
   const projecao = geoMercator()
-    .scale(dimensoes.w * 0.18)
-    .center([5, 10])
+    .scale(dimensoes.w * 0.15)
+    .center([10, 10])
     .translate([dimensoes.w / 2, dimensoes.h / 2])
 
   const gerarCaminho = geoPath().projection(projecao)
@@ -52,7 +52,7 @@ export default function MapaMundi({ aoClicarBrasil }) {
         className="w-full h-auto"
       >
         {paises.map((p, i) => {
-          const ehBrasil = p.codigo === 'BRA'
+          const ehBrasil = p.codigo === 76
           const caminho = gerarCaminho(p.geometria)
           if (!caminho) return null
 
