@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "coletar": "node coletor.js",
+    "processar": "node cerebro.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -12,6 +13,8 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.4.2",
     "rss-parser": "^3.13.0"
   }
 }

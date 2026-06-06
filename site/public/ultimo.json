@@ -1,1367 +1,706 @@
 [
   {
-    "titulo": "Luxemburgo detona Ancelotti: “Testes? Alguma coisa está errada”",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/luxemburgo-detona-ancelotti-testes-alguma-coisa-esta-errada/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T14:19:21.000Z",
-    "trecho": "Ex-treinador da Seleção Brasileira afirmou que o time já deveria estar definido e comparou a campanha do italiano a de outros treinadores brasileiros"
+    "id": "2026-06-06-guto-miguel-campeao-roland-garros",
+    "data": "2026-06-06",
+    "titulo": "Guto Miguel é campeão juvenil de Roland Garros",
+    "resumo": "O tenista brasileiro Guto Miguel, de 17 anos, conquistou o título de Roland Garros na categoria juvenil. Ele venceu o americano Michael Antonius na final. Este feito é considerado inédito para o tênis brasileiro.",
+    "categoria": "esportes",
+    "tags": [
+      "tênis",
+      "Roland Garros",
+      "juvenil",
+      "campeão",
+      "Guto Miguel"
+    ],
+    "entidades": [
+      "Guto Miguel",
+      "Michael Antonius",
+      "Roland Garros"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/tenis/guto-miguel-repete-maior-feito-de-joao-fonseca-como-juvenil-e-faz-historia/"
+      },
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/tenis/guto-miguel-alcanca-feito-inedito-para-o-tenis-brasileiro-com-titulo/"
+      },
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/tenis/guto-miguel-vence-faz-historia-e-e-campeao-juvenil-de-roland-garros/"
+      }
+    ]
   },
   {
-    "titulo": "EPTV1 - Ribeirão e Franca",
-    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv1.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T14:17:53.000Z",
-    "trecho": "EPTV1 - Ribeirão e Franca Acompanhe as notícias deste sábado (6)."
+    "id": "2026-06-06-parada-lgbt-sp",
+    "data": "2026-06-06",
+    "titulo": "Parada do Orgulho LGBT+ de São Paulo atrai multidões",
+    "resumo": "A Parada do Orgulho LGBT+ de São Paulo é destacada como um dos maiores eventos de celebração do orgulho LGBT+ do mundo. A manifestação movimenta a cidade e completa três décadas de história. Outras cidades como Londres, Nova York e Madri também possuem grandes eventos.",
+    "categoria": "cultura",
+    "tags": [
+      "Parada LGBT",
+      "Orgulho LGBT+",
+      "São Paulo",
+      "evento",
+      "multidão"
+    ],
+    "entidades": [
+      "São Paulo",
+      "Londres",
+      "Nova York",
+      "Madri"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/pop/qual-foi-o-maior-publico-da-parada-de-sp-compare-com-outros-paises/"
+      },
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/pop/parada-do-orgulho-lgbt-de-sao-paulo-e-a-maior-do-mundo-saiba/"
+      }
+    ]
   },
   {
-    "titulo": "Jiboia de 1,5 metro é encontrada dentro do motor de caminhonete na BR-104, em Caruaru",
-    "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/06/06/jiboia-de-15-metro-e-encontrada-dentro-do-motor-de-caminhonete-na-br-104-em-caruaru.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T14:15:58.000Z",
-    "trecho": "Jiboia de 1,5 metro é encontrada dentro de motor de carro\nUma jiboia de aproximadamente 1,5 metro foi encontrada dentro do motor de uma caminhonete na manhã deste sábado (6), na BR-104, em Caruaru, no Agreste de Pernambuco. O animal foi localizado pelo motorista do veículo e retirado com o apoio da "
-  },
-  {
-    "titulo": "Turista uruguaio morre após afogamento na Praia Grande, em Arraial do Cabo",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/06/06/turista-uruguaio-morre-apos-afogamento-na-praia-grande-em-arraial-do-cabo.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T14:13:02.000Z",
-    "trecho": "Turista uruguaio morre após afogamento em praia de Arraial do Cabo\nUm turista uruguaio de 41 anos morreu na tarde desta sexta-feira (5) após se afogar na Praia Grande, em Arraial do Cabo, na Região dos Lagos do Rio. Segundo a Prefeitura, há suspeita de que a vítima tenha sofrido um infarto enquanto "
-  },
-  {
-    "titulo": "Nos 25 anos do teste do pezinho, exame ampliado ainda é desafio no Brasil",
-    "link": "https://g1.globo.com/saude/noticia/2026/06/06/nos-25-anos-do-teste-do-pezinho-exame-ampliado-ainda-e-desafio-no-brasil.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T14:11:44.000Z",
-    "trecho": "Hoje é o Dia Nacional do Teste do Pezinho\nPrincipal teste para identificar dezenas de doenças de maneira precoce em recém-nascidos, o Programa Nacional de Triagem Neonatal (PNTN), popularmente conhecido como teste do pezinho, completa 25 anos neste sábado (6).\nO exame é essencial no diagnóstico prec"
-  },
-  {
-    "titulo": "Guto Miguel repete maior feito de João Fonseca como juvenil e faz história",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/guto-miguel-repete-maior-feito-de-joao-fonseca-como-juvenil-e-faz-historia/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T14:08:13.000Z",
-    "trecho": "Brasileiro de 17 anos venceu o estadunidense Michael Antonius neste sábado (6), e se sagrou campeão de Roland Garros"
-  },
-  {
-    "titulo": "São João de Natal tem shows de Calcinha Preta e Pablo neste sábado na Arena das Dunas",
-    "link": "https://g1.globo.com/rn/rio-grande-do-norte/sao-joao-no-rn/noticia/2026/06/06/sao-joao-de-natal-tem-shows-de-calcinha-preta-e-pablo-neste-sabado-na-arena-das-dunas.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T14:07:22.000Z",
-    "trecho": "Abertura do São João de Natal tem shows e mudanças no trânsito\nO São João de Natal segue neste sábado (6) com shows de Calcinha Preta, Pablo, Marina Elali e Abiel na Arena das Dunas, em Natal. As apresentações são gratuitas. \nOs horários das apresentações ainda não foram divulgados pela Prefeitura d"
-  },
-  {
-    "titulo": "Após prisão e internação, Britney Spears se declara ao filho",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/apos-prisao-e-internacao-britney-spears-se-declara-ao-filho/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T14:06:43.000Z",
-    "trecho": "Cantora tem passado por momento difícil na vida pessoal"
-  },
-  {
-    "titulo": "Casos de tosse, febre e congestão nasal elevam procura por pronto-socorro infantil em Presidente Prudente",
-    "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/06/06/casos-de-tosse-febre-e-congestao-nasal-elevam-procura-por-pronto-socorro-infantil-em-presidente-prudente.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T14:06:17.000Z",
-    "trecho": "Procura por pronto-socorro infantil dispara e eleva o tempo de espera em Prudente\nA procura por atendimento de crianças com sintomas gripais, como congestão nasal, tosse intensa e febre, aumentou mais de 50% no pronto-socorro da Santa Casa de Presidente Prudente (SP) e elevou o tempo de espera para "
-  },
-  {
-    "titulo": "Guto Miguel alcança feito inédito para o tênis brasileiro com título",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/guto-miguel-alcanca-feito-inedito-para-o-tenis-brasileiro-com-titulo/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T14:01:40.000Z",
-    "trecho": "Brasileiro de 17 anos venceu o Michael Antonius neste sábado (6), e se sagrou campeão de Roland Garros"
-  },
-  {
-    "titulo": "Qual foi o maior público da Parada de SP? Compare com outros países",
-    "link": "https://www.cnnbrasil.com.br/pop/qual-foi-o-maior-publico-da-parada-de-sp-compare-com-outros-paises/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T14:00:48.000Z",
-    "trecho": "Londres, Nova York e Madri também estão entre as cidades com os maiores eventos de celebração do orgulho LGBT+"
-  },
-  {
+    "id": "2026-06-06-brasil-titulos-iuanes-china",
+    "data": "2026-06-06",
     "titulo": "Brasil planeja anunciar emissão de títulos em iuanes durante viagem à China",
-    "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/brasil-planeja-anunciar-emissao-de-titulos-em-iuanes-durante-viagem-a-china/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T14:00:40.000Z",
-    "trecho": "Autoridades brasileiras vão a Xangai e Pequim entre 24 e 26 de junho"
+    "resumo": "O Brasil tem planos de anunciar a emissão de títulos em iuanes durante uma viagem oficial à China. Autoridades brasileiras visitarão Xangai e Pequim entre os dias 24 e 26 de junho para tratar do assunto. Esta medida faz parte de estratégias econômicas com o país asiático.",
+    "categoria": "economia",
+    "tags": [
+      "Brasil",
+      "China",
+      "títulos",
+      "iuanes",
+      "economia",
+      "viagem oficial"
+    ],
+    "entidades": [
+      "Brasil",
+      "China",
+      "Xangai",
+      "Pequim"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/brasil-planeja-anunciar-emissao-de-titulos-em-iuanes-durante-viagem-a-china/"
+      }
+    ]
   },
   {
-    "titulo": "Suécia cria prisões para menores a partir de 13 anos",
-    "link": "https://www.cnnbrasil.com.br/internacional/suecia-cria-prisoes-para-menores-a-partir-de-13-anos/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T14:00:28.000Z",
-    "trecho": "Unidades especiais serão construídas para adolescentes envolvidos em crimes de gangues após redução da idade penal"
+    "id": "2026-06-06-el-nino-agro",
+    "data": "2026-06-06",
+    "titulo": "El Niño gera alerta para investidores do agronegócio",
+    "resumo": "O fenômeno climático El Niño acendeu um alerta entre investidores com exposição ao agronegócio. Há preocupações sobre os possíveis efeitos do fenômeno sobre as safras, os preços dos alimentos e os ativos ligados ao setor agropecuário. O mercado financeiro acompanha a situação com atenção.",
+    "categoria": "economia",
+    "tags": [
+      "El Niño",
+      "agronegócio",
+      "investidores",
+      "clima",
+      "safras",
+      "preços de alimentos"
+    ],
+    "entidades": [],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/el-nino-acende-alerta-aos-investidores-com-exposicao-ao-agro/"
+      }
+    ]
   },
   {
-    "titulo": "Inter tem interesse na contratação de Gui Negão, atacante do Corinthians",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/internacional-futebol/inter-tem-interesse-na-contratacao-de-gui-negao-atacante-do-corinthians/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T14:00:26.000Z",
-    "trecho": "Clube europeu também monitora atacante do Timão"
+    "id": "2026-06-06-sintomas-gripais-presidente-prudente",
+    "data": "2026-06-06",
+    "titulo": "Aumento de casos gripais eleva procura por pronto-socorro infantil em Presidente Prudente",
+    "resumo": "Houve um aumento superior a 50% na procura por atendimento de crianças com sintomas gripais em Presidente Prudente. Congestão nasal, tosse intensa e febre levaram à elevação no tempo de espera no pronto-socorro infantil da Santa Casa. A situação preocupa as autoridades de saúde locais.",
+    "categoria": "saude",
+    "tags": [
+      "saúde",
+      "sintomas gripais",
+      "crianças",
+      "pronto-socorro",
+      "Presidente Prudente"
+    ],
+    "entidades": [
+      "Presidente Prudente",
+      "Santa Casa"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/06/06/casos-de-tosse-febre-e-congestao-nasal-elevam-procura-por-pronto-socorro-infantil-em-presidente-prudente.ghtml"
+      }
+    ]
   },
   {
-    "titulo": "Entregador de gás morre em acidente envolvendo moto e carro, em João Pessoa",
-    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/06/06/entregador-de-gas-morre-em-acidente-envolvendo-moto-e-carro-em-joao-pessoa.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T14:00:11.000Z",
-    "trecho": "Homem morre em acidente envolvendo moto e carro, em João Pessoa\nYanka Oliveira/TV Cabo Branco\nUm entregador de gás morreu em um acidente envolvendo uma moto e um carro, no bairro Padre Zé, em João Pessoa, na manhã deste sábado (6). Ele estava realizando uma entrega pilotando a moto quando o acidente"
+    "id": "2026-06-06-teste-pezinho-25-anos",
+    "data": "2026-06-06",
+    "titulo": "Teste do Pezinho completa 25 anos com desafios na ampliação",
+    "resumo": "O Programa Nacional de Triagem Neonatal, conhecido como teste do pezinho, completa 25 anos. O exame é crucial para a identificação precoce de diversas doenças em recém-nascidos. Apesar de sua importância, a ampliação do teste ainda enfrenta desafios no Brasil.",
+    "categoria": "saude",
+    "tags": [
+      "saúde",
+      "teste do pezinho",
+      "triagem neonatal",
+      "doenças",
+      "recém-nascidos"
+    ],
+    "entidades": [
+      "Programa Nacional de Triagem Neonatal"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/saude/noticia/2026/06/06/nos-25-anos-do-teste-do-pezinho-exame-ampliado-ainda-e-desafio-no-brasil.ghtml"
+      }
+    ]
   },
   {
-    "titulo": "El Niño acende alerta aos investidores com exposição ao agro",
-    "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/el-nino-acende-alerta-aos-investidores-com-exposicao-ao-agro/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T14:00:03.000Z",
-    "trecho": "Fenômeno climático preocupa mercado financeiro por possíveis efeitos sobre safras, preços de alimentos e ativos ligados ao agro"
-  },
-  {
-    "titulo": "Suspeito de matar madrasta a tiros é preso em Cachoeiro de Itapemirim",
-    "link": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/06/06/suspeito-de-matar-madrasta-a-tiros-e-preso-em-cachoeiro-de-itapemirim.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:58:14.000Z",
-    "trecho": "Paulo César de Almeida Júnior, de 26 anos, foi preso suspeito de matar a madrasta, a empresária Flaviana Granzieiri, de 46 anos, em Cachoeiro de Itapemirim, Espírito Santo\nReprodução/Rede social\nUm jovem de 26 anos suspeito de matar a madrasta a tiros foi preso na noite de sexta-feira (5), em Cachoe"
-  },
-  {
-    "titulo": "No Mês do Orgulho, Rayssa Leal fala sobre sexualidade: “Chocando 0 pessoas”",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/no-mes-do-orgulho-rayssa-leal-fala-sobre-sexualidade-chocando-0-pessoas/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T13:55:36.000Z",
-    "trecho": "Skatista ainda respondeu os seguidores sobre fazer parte da comunidade LGBT"
-  },
-  {
-    "titulo": "Parada do Orgulho LGBT+ de São Paulo é a maior do mundo? Saiba",
-    "link": "https://www.cnnbrasil.com.br/pop/parada-do-orgulho-lgbt-de-sao-paulo-e-a-maior-do-mundo-saiba/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T13:52:27.000Z",
-    "trecho": "Manifestação reúne multidões, movimenta a cidade e chega a três décadas de história"
-  },
-  {
-    "titulo": "Festa Junina de Votorantim recebe o pagode de Thiaguinho",
-    "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/06/festa-junina-de-votorantim-recebe-o-pagode-de-thiaguinho.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:52:00.000Z",
-    "trecho": "Festa Junina de Votorantim recebe o pagode de Thiaguinho neste sábado\nDivulgação\nO cantor Thiaguinho é a atração deste sábado (6) na Festa Junina de Votorantim 2026. O show de um dos maiores nomes do pagode é realizado na Praça de Eventos “Lecy de Campos”.\nConsiderada a maior festa junina do estado "
-  },
-  {
-    "titulo": "A espécie de peixe que vive sem machos há 100 mil anos",
-    "link": "https://g1.globo.com/meio-ambiente/noticia/2026/06/06/a-especie-de-peixe-que-vive-sem-machos-ha-100-mil-anos.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:51:34.000Z",
-    "trecho": "A espécie de peixe que vive sem machos há 100 mil anos.\nManfred Schartl via BBC\nNos rios do México e do sul do Estado americano do Texas, é possível encontrar uma espécie de peixe que não deveria existir.\n📱Favorite o g1 no Google e acompanhe as principais notícias do dia\nNas águas quentes e lentas "
-  },
-  {
-    "titulo": "Filha do presidente da Colômbia se manifesta após polêmica com James",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/filha-do-presidente-da-colombia-se-manifesta-apos-polemica-com-james/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T13:50:44.000Z",
-    "trecho": "Suposta recusa do meia em tirar foto com Antonella Petro marcou embarca da seleção para a Copa do Mundo"
-  },
-  {
-    "titulo": "Guto Miguel vence, faz história e é campeão juvenil de Roland Garros",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/guto-miguel-vence-faz-historia-e-e-campeao-juvenil-de-roland-garros/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T13:50:06.000Z",
-    "trecho": "Tenista de 17 anos venceu o americano Michael Antonius e ficou com a taça"
-  },
-  {
+    "id": "2026-06-06-ataques-ira-eua",
+    "data": "2026-06-06",
     "titulo": "Irã afirma que ataques dos EUA contra radares violam cessar-fogo",
-    "link": "https://www.cnnbrasil.com.br/internacional/ira-afirma-que-ataques-dos-eua-contra-radares-violam-cessar-fogo/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T13:46:58.000Z",
-    "trecho": "Ministério das Relações Exteriores de Teerã disse que ofensiva é um ato de agressão militar contra a soberania e a integridade territorial do país"
+    "resumo": "O Ministério das Relações Exteriores do Irã declarou que ataques dos Estados Unidos contra radares iranianos violam o cessar-fogo. Teerã classificou a ofensiva como um ato de agressão militar contra a soberania e a integridade territorial do país. A tensão na região aumenta.",
+    "categoria": "internacional",
+    "tags": [
+      "Irã",
+      "EUA",
+      "radares",
+      "cessar-fogo",
+      "agressão militar",
+      "soberania"
+    ],
+    "entidades": [
+      "Irã",
+      "Estados Unidos"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/ira-afirma-que-ataques-dos-eua-contra-radares-violam-cessar-fogo/"
+      }
+    ]
   },
   {
-    "titulo": "Aniversário de Sonora terá churrasco gratuito com carne de 15 vacas doadas por produtores",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/06/aniversario-de-sonora-tera-churrasco-gratuito-com-carne-de-15-vacas-doadas-por-produtores.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:44:20.000Z",
-    "trecho": "Churrasco de graça aos moradores será neste domingo\n(Reprodução/IA)\nQuem mora em Sonora (MS) terá churrasco de graça à vontade neste domingo (7). A festa faz parte das comemorações pelos 38 anos da cidade, e será possível graças à doação de 15 vacas feita por produtores rurais do município.\nO almoço"
+    "id": "2026-06-06-suecia-prisoes-menores",
+    "data": "2026-06-06",
+    "titulo": "Suécia cria prisões especiais para menores infratores a partir de 13 anos",
+    "resumo": "A Suécia implementará unidades prisionais especiais para adolescentes a partir de 13 anos envolvidos em crimes de gangues. A medida visa reduzir a idade penal e aumentar o controle sobre jovens infratores. A criação dessas prisões especiais busca lidar com o aumento da criminalidade juvenil.",
+    "categoria": "internacional",
+    "tags": [
+      "Suécia",
+      "prisões",
+      "menores",
+      "adolescentes",
+      "crimes de gangues",
+      "idade penal"
+    ],
+    "entidades": [
+      "Suécia"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/suecia-cria-prisoes-para-menores-a-partir-de-13-anos/"
+      }
+    ]
   },
   {
-    "titulo": "BH registra 8,8°C e bate novo recorde de frio do ano neste sábado",
-    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/06/bh-registra-8-8-c-e-bate-novo-recorde-de-frio-do-ano-neste-sabado.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:43:37.000Z",
-    "trecho": "Região da Pampulha registrou a temperatura mais baixa deste ano, em BH.\nReprodução/TV Globo\nBelo Horizonte registrou neste sábado (6) a menor temperatura do ano. Os termômetros marcaram 8,8°C na região da Pampulha, por volta das 6h, segundo a Defesa Civil Municipal.\nO registro chama a atenção porque"
+    "id": "2026-06-06-luxemburgo-critica-ancelotti",
+    "data": "2026-06-06",
+    "titulo": "Luxemburgo critica Ancelotti sobre testes de jogadores",
+    "resumo": "O ex-treinador da Seleção Brasileira, Vanderlei Luxemburgo, criticou o técnico Carlo Ancelotti. Luxemburgo questionou a necessidade de testes em jogadores que já deveriam ter seu desempenho consolidado. Ele comparou a abordagem de Ancelotti com a de outros treinadores brasileiros.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "treinador",
+      "Luxemburgo",
+      "Ancelotti",
+      "Seleção Brasileira"
+    ],
+    "entidades": [
+      "Vanderlei Luxemburgo",
+      "Carlo Ancelotti",
+      "Seleção Brasileira"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/luxemburgo-detona-ancelotti-testes-alguma-coisa-esta-errada/"
+      }
+    ]
   },
   {
-    "titulo": "Wembanyama assume responsabilidade em derrota dos Spurs: “Joguei tudo fora”",
-    "link": "https://www.cnnbrasil.com.br/esportes/basquete/wembanyama-assume-responsabilidade-em-derrota-dos-spurs-joguei-tudo-fora/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T13:41:02.000Z",
-    "trecho": "San Antonio Spurs está em desvantagem após perder os dois primeiros jogos da final da NBA para o New York Knicks"
+    "id": "2026-06-06-turista-uruguaio-afogamento",
+    "data": "2026-06-06",
+    "titulo": "Turista uruguaio morre após afogamento em Arraial do Cabo",
+    "resumo": "Um turista uruguaio de 41 anos faleceu após se afogar na Praia Grande, em Arraial do Cabo, Região dos Lagos do Rio. Há suspeita de que a vítima tenha sofrido um infarto enquanto estava no mar. As autoridades locais investigam as circunstâncias do ocorrido.",
+    "categoria": "seguranca",
+    "tags": [
+      "morte",
+      "afogamento",
+      "turista",
+      "Arraial do Cabo",
+      "Praia Grande",
+      "infarto"
+    ],
+    "entidades": [
+      "Arraial do Cabo",
+      "Praia Grande"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/06/06/turista-uruguaio-morre-apos-afogamento-na-praia-grande-em-arraial-do-cabo.ghtml"
+      }
+    ]
   },
   {
-    "titulo": "Filhas de Virginia e Zé Felipe fazem “arrume-se comigo” para show do pai",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/filhas-de-virginia-e-ze-felipe-fazem-arrume-se-comigo-para-show-do-pai/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T13:41:00.000Z",
-    "trecho": "Maria Flor e Maria Alice marcaram presença no Arraiá do Bem, em Goiânia"
+    "id": "2026-06-06-jiboia-motor-caminhonete",
+    "data": "2026-06-06",
+    "titulo": "Jiboia de 1,5 metro é encontrada dentro do motor de caminhonete em Pernambuco",
+    "resumo": "Uma jiboia de aproximadamente 1,5 metro foi encontrada dentro do motor de uma caminhonete na BR-104, em Caruaru, Agreste de Pernambuco. O animal foi localizado pelo motorista do veículo. A remoção da cobra foi realizada com apoio.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "animal",
+      "jiboia",
+      "Caruaru",
+      "Pernambuco",
+      "BR-104",
+      "motor de veículo"
+    ],
+    "entidades": [
+      "Caruaru",
+      "Pernambuco",
+      "BR-104"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/06/06/jiboia-de-15-metro-e-encontrada-dentro-do-motor-de-caminhonete-na-br-104-em-caruaru.ghtml"
+      }
+    ]
   },
   {
+    "id": "2026-06-06-entregador-gas-acidente-joao-pessoa",
+    "data": "2026-06-06",
+    "titulo": "Entregador de gás morre em acidente com moto e carro em João Pessoa",
+    "resumo": "Um entregador de gás morreu em um acidente envolvendo uma moto e um carro no bairro Padre Zé, em João Pessoa. O entregador estava em serviço no momento do ocorrido. A Polícia Civil investiga as causas do acidente.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente",
+      "morte",
+      "entregador",
+      "moto",
+      "carro",
+      "João Pessoa"
+    ],
+    "entidades": [
+      "João Pessoa",
+      "Padre Zé"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/06/06/entregador-de-gas-morre-em-acidente-envolvendo-moto-e-carro-em-joao-pessoa.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-prisao-suspeito-madrasta",
+    "data": "2026-06-06",
+    "titulo": "Suspeito de matar madrasta a tiros é preso no Espírito Santo",
+    "resumo": "Um jovem de 26 anos foi preso sob suspeita de ter matado a madrasta a tiros. O crime ocorreu em Cachoeiro de Itapemirim, Espírito Santo. A vítima, uma empresária de 46 anos, foi alvejada na noite de sexta-feira. O suspeito foi detido.",
+    "categoria": "justica",
+    "tags": [
+      "prisão",
+      "homicídio",
+      "suspeito",
+      "madrasta",
+      "Espírito Santo",
+      "Cachoeiro de Itapemirim"
+    ],
+    "entidades": [
+      "Cachoeiro de Itapemirim",
+      "Espírito Santo",
+      "Flaviana Granzieiri"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/06/06/suspeito-de-matar-madrasta-a-tiros-e-preso-em-cachoeiro-de-itapemirim.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-prisao-irmao-df",
+    "data": "2026-06-06",
     "titulo": "Homem é preso suspeito de atirar contra irmão após briga no DF",
-    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/06/homem-e-preso-suspeito-de-atirar-contra-irmao-apos-briga-no-df.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:40:56.000Z",
-    "trecho": "Homem é preso suspeito de atirar contra irmão após briga no DF\nPMDF\nUm homem foi preso suspeito de atirar contra o próprio irmão após uma briga na noite de sexta-feira (5), em Taguatinga, no Distrito Federal.\nSegundo a Polícia Militar, a vítima foi atingida na perna e recebeu atendimento médico. O a"
-  },
-  {
-    "titulo": "​Em Santarém, homem perde balsa, pega lancha para tentar embarcar no rio e vai parar na água após naufrágio",
-    "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/06/em-santarem-homem-perde-balsa-pega-lancha-para-tentar-embarcar-no-rio-e-vai-parar-na-agua-apos-naufragio.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:38:18.000Z",
-    "trecho": "Lancha vira no rio Tapajós\nRedes Sociais\nUma tentativa frustrada de embarque terminou em naufrágio na manhã deste sábado (6) no Rio Amazonas, em Santarém, no oeste do Pará. \nUm homem, que havia perdido o horário de partida de uma balsa com destino à comunidade de Santana do Tapará, pegou uma lancha "
-  },
-  {
-    "titulo": "Dicionário Pajubá: 15 palavras (e significados) que você ouvirá na Parada",
-    "link": "https://www.cnnbrasil.com.br/educacao/dicionario-pajuba-15-palavras-e-significados-que-voce-ouvira-na-parada/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T13:37:41.000Z",
-    "trecho": "De \"alibã\" a \"aquendar\", entenda os significados dos termos do dialeto LGBTQIA+ que ecoarão pelas ruas de São Paulo"
-  },
-  {
-    "titulo": "Dona dos postos Shell no Brasil tenta reorganizar dívida de R$ 64,7 bilhões e ganha apoio de credores",
-    "link": "https://g1.globo.com/economia/noticia/2026/06/06/dona-dos-postos-shell-no-brasil-tenta-reorganizar-divida-de-r-647-bilhoes-e-ganha-apoio-de-credores.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:36:19.000Z",
-    "trecho": "Preços dos combustíveis exibidos em um posto de gasolina Shell em Copenhague, Dinamarca\nReuters\nAbastecer o carro em um posto Shell, comprar etanol ou consumir açúcar produzido pela Raízen são situações comuns para milhões de brasileiros. Agora, a empresa, uma das maiores do setor de energia do país"
-  },
-  {
-    "titulo": "Motorista é detido pela PRF após acidente envolvendo 5 veículos sobre a 'Ponte do Tancredo Neves'; duas pessoas gravemente feridas",
-    "link": "https://g1.globo.com/pi/piaui/noticia/2026/06/06/acidente-ponte-do-tancredo-neves.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:36:14.000Z",
-    "trecho": "Acidente envolvendo 5 veículos sobre a 'Ponte do Tancredo Neves' deixa 2 feridos e causa c\nUm acidente grave envolvendo três carros de passeio, um caminhão e uma moto foi registrado na manhã do sábado (06) na Ponte Presidente Médici, conhecida como Ponte do Tancredo Neves, na zona sudeste de Teresin"
-  },
-  {
-    "titulo": "Criminosos exigiam R$ 120 mil de empresário morto durante assalto em mercadinho de Manaus, diz polícia",
-    "link": "https://g1.globo.com/am/amazonas/noticia/2026/06/06/criminosos-exigiam-r-120-mil-de-empresario-morto-durante-assalto-em-mercadinho-de-manaus-diz-policia.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:34:37.000Z",
-    "trecho": "Vídeo mostra suspeitos de matar comerciante em Manaus chegando ao local do crime\nOs suspeitos envolvidos no latrocínio do empresário Evilázio Alves da Silva, de 60 anos, acreditavam que a vítima guardava R$ 120 mil e, por isso, planejaram o assalto ao mercadinho dele, no bairro São José Operário, Zo"
-  },
-  {
-    "titulo": "Grave acidente mata dois homens em rodovia no interior de SP; um dos carros pegou fogo",
-    "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/06/06/grave-acidente-mata-duas-pessoas-em-rodovia-no-interior-de-sp-um-dos-carros-pegou-fogo.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:34:29.000Z",
-    "trecho": "Carro pegou fogo após colisão com outro em grave acidente entre São Sebastião da Grama e Divinolândia (SP)\nTV Vargem\nUm grave acidente envolvendo dois carros matou duas pessoas na noite de sexta-feira (5), na Rodovia Dom Tomás Vaquero (SP-344), entre Divinolândia e São Sebastião da Grama. \n📱 Siga o"
-  },
-  {
-    "titulo": "Mulher é atingida por barra de ferro durante briga no interior da Bahia; suspeita fugiu",
-    "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/06/briga-mulher-ferida-bahia.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:31:10.000Z",
-    "trecho": "Mulher ficou ferida aapós ser atingida por barra de ferro durante briga em Conceição do Coité\nRedes Sociais\nUma mulher ficou ferida após ser atingida por golpes de barra de ferro durante uma briga na sexta-feira (5), em Conceição do Coité, na região sisaleira da Bahia. O caso ocorreu no Largo da Pam"
-  },
-  {
-    "titulo": "Dois suspeitos de cometer homicídio morrem em ação policial no interior do Ceará",
-    "link": "https://g1.globo.com/ce/ceara/noticia/2026/06/06/dois-suspeitos-de-cometer-homicidio-morrem-em-acao-policial-no-interior-do-ceara.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:31:07.000Z",
-    "trecho": "Dois suspeitos de homicídio morrem em confronto com a polícia em Novo Oriente\nDois suspeitos de homicídio morreram durante uma ação policial em Novo Oriente, no interior do Ceará, nesta sexta-feira (5).\nConforme a Polícia Militar, a ação teve início após os agentes serem acionados para uma ocorrênci"
-  },
-  {
-    "titulo": "ETFs de renda fixa garantem diversificação e praticidade",
-    "link": "https://www.cnnbrasil.com.br/economia/investimentos/etfs-de-renda-fixa-garantem-diversificacao-e-praticidade/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T13:30:46.000Z",
-    "trecho": "Produtos permitem acesso a diferentes títulos em uma única aplicação"
-  },
-  {
-    "titulo": "Granollers e Zeballos conquistam bicampeonato nas duplas em Roland Garros",
-    "link": "https://www.cnnbrasil.com.br/esportes/tenis/granollers-e-zeballos-conquistam-bicampeonato-nas-duplas-em-roland-garros/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T13:29:22.000Z",
-    "trecho": "Dupla conquista terceiro Grand Slam juntos após vitória dominante na final"
-  },
-  {
-    "titulo": "Cavalo se assusta com caminhão, cai em bueiro de três metros e é içado por retroescavadeira no Paraná",
-    "link": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/06/06/cavalo-cai-bueiro-parana.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:27:59.000Z",
-    "trecho": "Cavalo se assusta com caminhão e cai em bueiro de três metros no Paraná\nUm cavalo foi resgatado após cair em um bueiro de cerca de três metros de profundidade às margens da PR-466, em Pitanga, na região central do Paraná. O caso aconteceu por volta das 3h deste sábado (6), de acordo com o Corpo de B"
-  },
-  {
-    "titulo": "Ponte que desabou no Acre já estava interditada; governo apura causa",
-    "link": "https://www.cnnbrasil.com.br/nacional/norte/ac/ponte-que-desabou-no-acre-ja-estava-interditada-governo-apura-causa/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T13:27:55.000Z",
-    "trecho": "Vídeo mostra momento do desabamento que deixou quatro pessoas feridas, sendo duas em estado grave; obra custou R$ 36 milhões"
-  },
-  {
-    "titulo": "Polícia prende dois homens após tiroteio em conjunto habitacional na Zona Sul de Macapá",
-    "link": "https://g1.globo.com/ap/amapa/noticia/2026/06/06/policia-prende-dois-homens-apos-tiroteio-em-conjunto-habitacional-na-zona-sul-de-macapa.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:27:43.000Z",
-    "trecho": "Polícia prende dois homens após tiroteio em conjunto habitacional na Zona Sul de Macapá\nDois homens foram presos na madrugada deste sábado (6) após confronto com policiais do Grupo Tático Aéreo (GTA) no conjunto habitacional Vila das Oliveiras, localizado na Zona Sul de Macapá.\nSegundo a corporação,"
-  },
-  {
-    "titulo": "Homem é preso suspeito de esfaquear colega durante discussão em Pederneiras",
-    "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/06/06/homem-e-preso-suspeito-de-esfaquear-colega-durante-discussao-em-pederneiras.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:26:33.000Z",
-    "trecho": "A Polícia Militar atendeu a ocorrência em Bauru (SP)\nGabriel Pelosi/TV TEM\nUm homem foi preso na madrugada de sexta-feira (5), em Pederneiras (SP), suspeito de esfaquear um colega de trabalho em um hotel localizado na região central da cidade.\nSegundo o boletim de ocorrência, os dois retornavam de u"
-  },
-  {
-    "titulo": "Ucrânia lança centenas de drones contra a Rússia no encerramento de fórum econômico",
-    "link": "https://g1.globo.com/mundo/noticia/2026/06/06/ucrania-lanca-centenas-de-drones-contra-a-russia-no-encerramento-de-forum-economico.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:26:32.000Z",
-    "trecho": "Zelensky celebra ataques de longo alcance contra infraestrutura militar russa\nA Ucrânia lançou centenas de drones contra a Rússia nas primeiras horas deste sábado (6), muitos deles contra a região de São Petersburgo, onde se realiza o último dia do fórum econômico mais importante do país.\nEm todo a "
-  },
-  {
-    "titulo": "Dia do Meio Ambiente: museu faz doação de mudas e oficinas gratuitas em MT; confira",
-    "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/06/06/dia-do-meio-ambiente-museu-faz-doacao-de-mudas-e-oficinas-gratuitas-em-mt-confira.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:25:31.000Z",
-    "trecho": "Museu promove doação de mudas, oficinas e programação para toda a família em MT\nAssessoria\nO Museu de História Natural de Mato Grosso promove, neste sábado (6), uma programação para o Dia do Meio Ambiente. Além de oficinas educativas e atividades culturais, o público poderá levar para casa mudas de "
-  },
-  {
-    "titulo": "Homem é morto a tiros no bairro Linhares, em Juiz de Fora",
-    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/06/06/homem-e-morto-a-tiros-no-bairro-linhares-em-juiz-de-fora.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:22:26.000Z",
-    "trecho": "Um homem de 34 anos foi morto a tiros na rua Engenheiro Paulo Correa e Castro, no bairro Linhares, em Juiz de Fora, na noite da sexta-feira (5). Conforme informações da Polícia Militar, a vítima teria sido abordada por dois suspeitos que estavam em uma motocicleta. \nUm dos homens atirou duas vezes c"
-  },
-  {
-    "titulo": "Jovem que amarrou celular a balões diz que aparelho funciona perfeitamente mesmo após cair de mais de 3 mil metros de altitude em Goiânia",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/06/06/jovem-que-amarrou-celular-a-baloes-diz-que-aparelho-funciona-perfeitamente-mesmo-apos-cair-de-mais-de-3-mil-metros-de-atitude-em-goiania.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:20:07.000Z",
-    "trecho": "Jovem amarra celular a balões de gás hélio faz vídeo a 3 km de altura\nO celular que um jovem universitário de Goiânia amarrou a balões de gás hélio, para fazer um experimento científico, não estragou após cair de uma altura de mais de 3 mil metros de altitude. Em entrevista ao g1, Pedro Augusto de J"
-  },
-  {
-    "titulo": "Análise: Camisa da seleção da Colômbia vira alvo de disputa em eleição",
-    "link": "https://www.cnnbrasil.com.br/internacional/analise-camisa-da-selecao-da-colombia-vira-alvo-de-disputa-em-eleicao/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T13:18:36.000Z",
-    "trecho": "Decisão judicial afirma que a vestimenta favorece candidato de ultradireita e seu partido, comprometendo a igualdade com os outros partidos"
-  },
-  {
-    "titulo": "Papa pede fim das 'narrativas divisivas' no mundo diz preferir Real Madrid ao Barcelona em visita à Espanha",
-    "link": "https://g1.globo.com/mundo/noticia/2026/06/06/papa-pede-fim-das-narrativas-divisivas-no-mundo-e-diz-preferir-real-madrid-ao-barcelona-em-visita-a-espanha.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:17:32.000Z",
-    "trecho": "O papa Leão XIV acena ao chegar ao aerorpoto de Madri para visita à Espanha, em 6 de junho de 2026.\nYara Nardi/ Reuters\nO papa Leão XIV pediu a líderes mundiais neste sábado (6) que moderem as \"narrativas divisivas e polarizantes\" usadas para fragmentar eleitorados e ganhar popularidade. \nO pedido d"
-  },
-  {
-    "titulo": "1 em cada 5 estudantes recorre à IA por solidão, diz pesquisa",
-    "link": "https://www.cnnbrasil.com.br/educacao/1-em-cada-5-estudantes-recorre-a-ia-por-solidao-diz-pesquisa/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T13:17:26.000Z",
-    "trecho": "Levantamento aponta dificuldades de socialização entre adolescentes e destaca importância do apoio emocional nas escolas"
-  },
-  {
-    "titulo": "Lego lança edição da Sagrada Família com 12 mil peças a US$ 799",
-    "link": "https://www.cnnbrasil.com.br/economia/negocios/lego-lanca-edicao-da-sagrada-familia-com-12-mil-pecas-a-us-799/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T13:12:25.000Z",
-    "trecho": "Este é o maior set de peças da história da fabricante dinamarquesa de brinquedos"
-  },
-  {
-    "titulo": "Senai oferece mais de 150 vagas e bolsas de estudo em cursos técnicos no sul da Bahia",
-    "link": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/06/06/senai-oferece-mais-de-150-vagas-em-cursos-tecnicos-no-sul-da-bahia.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:12:08.000Z",
-    "trecho": "Senai tem vagas em cursos técnicos\nValter Andrade / Fieb\nO Senai Bahia está com 160 vagas abertas, sendo 35 bolsas, para cursos técnicos em Ilhéus, cidade que fica no sul da Bahia. As inscrições podem ser realizadas até o dia 15 de julho, através do site.\nAs vagas divulgadas fazem parte das mais de "
-  },
-  {
-    "titulo": "Piauí registra apenas 14 doações de órgãos em quatro meses: ‘precisamos de mais sim’",
-    "link": "https://g1.globo.com/pi/piaui/noticia/2026/06/06/piaui-doacoes-de-orgaos.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:07:27.000Z",
-    "trecho": "Piauí registra apenas 14 doações de órgãos em quatro meses: ‘precisamos de mais sim’\nA doação de órgãos as vezes é a última esperança para pacientes com problemas de saúde grave, mas a decisão parte de uma família que vive o pior momento, a morte de alguém muito amado. No Piauí, de janeiro a abril d"
-  },
-  {
-    "titulo": "Idosa morre atropelada ao descer de ônibus e atravessar pista da MG-050, em Formiga",
-    "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/06/06/idosa-morre-atropelada-ao-descer-de-onibus-e-atravessar-pista-da-mg-050-em-formiga.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:07:06.000Z",
-    "trecho": "Motociclista ficou em estado grave e idosa morreu em acidente na MG-050\nPMRv/Divulgação\nUma idosa de 74 anos morreu e um motociclista de 30 anos ficou gravemente ferido em um acidente na MG-050, em Formiga. Segundo a  Polícia Militar Rodoviária (PMRv), a idosa foi atropelada pela moto após descer de"
-  },
-  {
-    "titulo": "VÍDEO: Homem morre ao defender mulheres de importunação sexual; suspeito do crime estava com o filho de 10 anos",
-    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/06/video-homem-morre-ao-defender-mulheres-de-assedio-suspeito-do-crime-estava-com-o-filho-de-10-anos.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:06:21.000Z",
-    "trecho": "Homem tenta proteger mulheres de assédio, leva soco e morre a tiros na Grande BH\nUm homem foi morto após tentar defender duas mulheres de importunação sexual, em Nova Lima, na Grande BH. O crime foi na madrugada deste sábado (6).\nCâmeras de segurança flagraram o momento do crime e também o áudio da "
-  },
-  {
-    "titulo": "Homem é morto a tiros e mulher fica ferida após serem baleados dentro de residência em Cachoeira Paulista",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/06/homem-e-morto-a-tiros-e-mulher-fica-ferida-apos-serem-baleados-dentro-de-residencia-em-cachoeira-paulista.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:06:09.000Z",
-    "trecho": "Delegacia de Lorena (SP)\nReprodução/TV Vanguarda\nUm homem morreu e uma mulher ficou ferida após serem baleados dentro de uma casa na madrugada deste sábado (6), em Cachoeira Paulista, no interior de São Paulo. O caso foi registrado na delegacia de Lorena.\nDe acordo com o boletim de ocorrência, polic"
-  },
-  {
-    "titulo": "Venda de carros elétricos dispara no Sul de Minas; Pouso Alegre registra alta de mais de 329%",
-    "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/06/06/venda-de-carros-eletricos-dispara-no-sul-de-minas-pouso-alegre-registra-alta-de-mais-de-329percent.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:03:41.000Z",
-    "trecho": "Venda de carros elétricos dispara no Sul de MG; Pouso Alegre registra alta de mais de 329%\nA venda de carros elétricos cresceu em ritmo acelerado nas principais cidades do Sul de Minas, com destaque para Pouso Alegre (MG), que lidera o avanço na região. Segundo dados da Associação Brasileira do Veíc"
-  },
-  {
-    "titulo": "Rio: mostra sobre Iemanjá ocupa Biblioteca Parque Estadual até dia 15",
-    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/rio-mostra-sobre-iemanja-ocupa-biblioteca-parque-estadual-ate-dia-15",
-    "fonte": "agenciabrasil.ebc",
-    "data": "2026-06-06T13:02:00.000Z",
-    "trecho": "A exposição gratuita Saudação a Iemanjá - 3 Tempos, promovida pelo movimento artístico independente Tabuleta Itinerante, ocupa até o próximo dia 15 a Biblioteca Parque Estadual, ligada à Secretaria de Estado de Cultura e Economia Criativa do Rio de Janeiro. O funcionamento é de segunda a sexta-feira"
-  },
-  {
-    "titulo": "Motociclista morre após ser atingido na Atílio Balbo, em Sertãozinho, SP",
-    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/06/06/motociclista-morre-apos-ser-atingido-na-atilio-balbo-em-sertaozinho-sp.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T13:01:47.000Z",
-    "trecho": "Motocicleta no acostamento do quilômetro 330 após ser atingida na traseira por veículo não identificado\nDivulgação/ Artesp\nUm motociclista, que não teve a identidade divulgada, morreu na manhã deste sábado (6) depois de ter a moto atingida na traseira por um carro e ser arremessado por 70 metros de "
-  },
-  {
-    "titulo": "Netanyahu enfrenta dilema político após Trump impedir ataque no Líbano",
-    "link": "https://www.cnnbrasil.com.br/internacional/netanyahu-enfrenta-dilema-politico-apos-trump-impedir-ataque-no-libano/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T13:00:45.000Z",
-    "trecho": "Primeiro-ministro de Israel tem sofrido pressão do governo para intensificar conflito em Beirute, mas Casa Branca não permitiu que ofensiva acontecesse"
-  },
-  {
-    "titulo": "Setor privado está mobilizado contra tarifaço, diz ex-diretor-geral da OMC",
-    "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/setor-privado-esta-mobilizado-contra-tarifaco-diz-ex-diretor-geral-da-omc/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T13:00:35.000Z",
-    "trecho": "Roberto Azevêdo avalia impacto das novas tarifas americanas sobre o Brasil e defende abordagem pragmática nas negociações com Washington"
-  },
-  {
-    "titulo": "Heny Borel: Promotor detalha bastidores do júri e explica recurso do MP",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/heny-borel-promotor-detalha-bastidores-do-juri-e-explica-recurso-do-mp/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T13:00:34.000Z",
-    "trecho": "Em entrevista ao Live CNN, Fábio Vieira questiona reformulação de quesito pela juíza e perdão judicial concedido a Monique Medeiros após julgamento no Rio de Janeiro"
-  },
-  {
-    "titulo": "5 famosos internacionais que já curtiram a Parada do Orgulho LGBT+ de SP",
-    "link": "https://www.cnnbrasil.com.br/pop/celebridades/5-famosos-internacionais-que-ja-curtiram-a-parada-do-orgulho-lgbt-de-sp/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T13:00:15.000Z",
-    "trecho": "Artistas marcaram presença em diferentes edições do evento, que acontece anualmente na Avenida Paulista"
-  },
-  {
-    "titulo": "Enem: prazo de inscrição é prorrogado até dia 12 de junho",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/enem-prazo-de-inscricao-e-prorrogado-ate-dia-12-de-junho",
-    "fonte": "agenciabrasil.ebc",
-    "data": "2026-06-06T12:58:00.000Z",
-    "trecho": "O Ministério da Educação (MEC) e o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) prorrogaram o prazo de inscrição para o Enem 2026 até o dia 12 de junho, próxima sexta-feira. Com isso, os interessados ganham uma semana a mais para se inscrever na principal porta de en"
-  },
-  {
-    "titulo": "Vídeo: ponte de R$ 36 milhões desaba e deixa feridos no Acre",
-    "link": "https://www.cnnbrasil.com.br/nacional/norte/ac/video-ponte-de-r-36-milhoes-desaba-e-deixa-feridos-no-acre/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T12:55:14.000Z",
-    "trecho": "Segundo o governo, quatro pessoas ficaram feridas, sendo que duas estão em estado grave; equipes apuram a causa do acidente"
-  },
-  {
-    "titulo": "Levanta Poeira 2026: cultura e tradição marcam primeira noite da semifinal em Aracaju",
-    "link": "https://g1.globo.com/se/sergipe/saojoao/noticia/2026/06/06/levanta-poeira-2026-cultura-e-tradicao-marcam-primeira-noite-da-semifinal-em-aracaju.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T12:54:12.000Z",
-    "trecho": "Quadrilha Balança Mais Não Cai\nLéo Rocha\nA primeira noite das semifinais do Levanta Poeira 2026 aconteceu o Ginásio de Esportes Constâncio Vieira, em Aracaju, nesta sexta-feira (5). \nAs quatro quadrilhas das oito semifinalistas levaram ao público espetáculos marcados por tradição, emoção, cultura po"
-  },
-  {
-    "titulo": "Quadrilha é presa por furtar combustível de oleoduto da Petrobras no DF; desvio chegou a 100 mil litros em 5 dias",
-    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/06/quadrilha-e-presa-suspeita-de-furto-de-combustivel-em-oleoduto-da-petrobras-no-df-desvio-chegou-a-100-mil-litros-em-5-dias.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T12:53:52.000Z",
-    "trecho": "Quadrilha é presa por furtar combustível de oleoduto da Petrobras no DF\nUma quadrilha foi presa, na madrugada deste sábado (6),  suspeita de furtar combustível de um oleoduto da Transpetro, subsidiária da Petrobras, em Ceilândia, no Distrito Federal. Segundo as investigações, o desvio chegou a 100 m"
-  },
-  {
-    "titulo": "Dois homens são mortos a tiros após saírem de bar em zona rural de cidade da Bahia",
-    "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/06/crimes-interior-da-bahia.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T12:51:34.000Z",
-    "trecho": "Amigos foram mortos a tiros após saírem de bar em São Gonçalo dos Campos\nRedes Sociais\nDois homens foram mortos a tiros na madrugada deste sábado (6), apís saírem de um bar, no povoado de Magalhães, zona rural de São Gonçalo dos Campos, cidade vizinha a Feira de Santana. O crime aconteceu por volta "
-  },
-  {
-    "titulo": "Você viu? Sucuri de 5 metros reaparece, mineiro fica 6 meses na guerra da Ucrânia e jovem morre na DivinaExpo",
-    "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/06/06/voce-viu-sucuri-de-5-metros-reaparece-mineiro-fica-6-meses-na-guerra-da-ucrania-e-jovem-morre-na-divinaexpo.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T12:41:48.000Z",
-    "trecho": "Sucuri de 5 metros, mineiro fica 6 meses na guerra da Ucrânia e jovem que morreu após mal súbito na DivinaExpo.\nArte g1\nOlá!\nConfira o que foi destaque no g1 Centro-Oeste de Minas nesta semana, com as notícias mais acessadas entre os dias 30 de maio e 5 de junho.\n✅ Clique aqui para seguir o canal do"
-  },
-  {
-    "titulo": "A sombra do ICE preocupa e afasta torcedores dos jogos da Copa",
-    "link": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/06/06/a-sombra-do-ice-preocupa-e-afasta-torcedores-dos-jogos-da-copa.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T12:40:59.000Z",
-    "trecho": "A uma semana da abertura da Copa do Mundo, México vive onda de protestos\nA poucos dias da Copa do Mundo, a atuação de agentes do Serviço de Imigração e Fronteiras, o ICE, nas 11 cidades que sediam os jogos nos EUA preocupa torcedores estrangeiros e entidades de direitos humanos. \n✅ Siga o canal de n"
-  },
-  {
-    "titulo": "O que representa para Cuba a saída das principais multinacionais hoteleiras que operavam no país",
-    "link": "https://g1.globo.com/mundo/noticia/2026/06/06/o-que-representa-para-cuba-a-saida-das-principais-multinacionais-hoteleiras-que-operavam-no-pais.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T12:33:41.000Z",
-    "trecho": "GETTY IMAGES via BBC\nA saída parcial das principais redes de hotéis estrangeiras traz um novo revés para Cuba, que atravessa uma das piores crises da sua história recente.\nA rede espanhola Meliá anunciou na quarta-feira (3/6) o término imediato das operações de 15 dos seus 34 hotéis, especificamente"
-  },
-  {
-    "titulo": "Homem é preso após agredir mulher e ameaçá-la de morte em Piracicaba; suspeito tinha armas e R$ 14 mil em espécie",
-    "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/06/06/homem-e-preso-apos-agredir-mulher-e-ameaca-la-de-morte-em-piracicaba-suspeito-tinha-armas-e-r-14-mil-em-especie.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T12:28:45.000Z",
-    "trecho": "Homem é preso após agredir mulher e ameaçá-la de morte em Piracicaba; suspeito tinha armas e R$ 14 mil em espécie\nDivulgação/Polícia Militar\nUm homem foi preso em flagrante, na madrugada deste sábado (6) após agredir companheira e ameaçá-la de morte, em Piracicaba (SP). Segundo a PM, o suspeito tamb"
-  },
-  {
-    "titulo": "Livro compila histórias do rock brasileiro como manual para iniciantes no gênero",
-    "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/06/06/livro-compila-historias-do-rock-brasileiro-como-manual-para-iniciantes-do-genero.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T12:22:36.000Z",
-    "trecho": "Capa do livro 'Esse tal de rock'n'roll – 50 histórias essenciais do rock brasileiro'\nArte de Bruno Drummond / Bloco Narrativo\n♫ CRÍTICA DE LIVRO \nTítulo: Esse tal de rock'n'roll – 50 histórias essenciais do rock brasileiro\nAutor: Fabricio Mazocco\nCotação: ★ ★ ★ \n♬ Na próxima sexta-feira, 12 de junho"
-  },
-  {
-    "titulo": "Homem é morto a tiros e menino de 10 anos é baleado na Grande BH",
-    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/06/homem-e-morto-a-tiros-e-menino-de-10-anos-e-baleado-na-grande-bh.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T12:21:00.000Z",
-    "trecho": "Crime foi na Rua Lindóia, em Contagem.\nGoogle Street View\nUm homem de 36 anos morreu e um menino de 10 anos foi baleado durante um ataque a tiros na noite desta sexta-feira (5), no aglomerado Ressaca, em Contagem, na Região Metropolitana de Belo Horizonte.\nMoradores ouviram barulhos de tiros na Rua "
-  },
-  {
-    "titulo": "Musk está prestes a se tornar trilionário. Mas o quanto US$ 1 trilhão vale?",
-    "link": "https://www.cnnbrasil.com.br/economia/negocios/musk-esta-prestes-a-se-tornar-trilionario-mas-o-quanto-us-1-trilhao-vale/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T12:19:31.000Z",
-    "trecho": "Spoiler: em todo o mundo, apenas 20 países possuem economias superiores a US$ 1,1 tri, de acordo com o FMI"
-  },
-  {
-    "titulo": "Vídeos do g1 Bahia e TV Bahia - sábado, 6 de junho de 2026",
-    "link": "https://g1.globo.com/ba/bahia/edicao/2026/06/06/videos-do-g1-bahia-e-tv-bahia-sabado-6-de-junho-de-2026.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T12:19:16.000Z",
-    "trecho": "Confira os vídeos do g1 Bahia e TV Bahia deste sábado."
-  },
-  {
-    "titulo": "Mulher de 37 anos que fingiu ter 12 em SC aplicou o mesmo golpe em 7 estados durante 15 anos",
-    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/06/mulher-37-anos-fingiu-ter-12-sc-aplicou-mesmo-golpe-estados-15-anos.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T12:17:56.000Z",
-    "trecho": "Mulher de 37 anos é 'acolhida' após fingir ter 12 anos\nA mulher de 37 anos presa e indiciada após confessar ter se passado por uma adolescente de 12 anos e vivido como filha adotiva de uma família que a acolheu em Joinville, no Norte de Santa Catarina, foi presa algumas vezes após cometer crimes sem"
-  },
-  {
-    "titulo": "Às vésperas do 2º turno, Justiça peruana decide levar candidato à presidência a julgamento",
-    "link": "https://g1.globo.com/mundo/noticia/2026/06/06/candidato-a-presidencia-do-peru-julgamento.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T12:15:24.000Z",
-    "trecho": "Peruanos vão às urnas no domingo (7) em meio à crise política\nA Justiça do Peru decidiu, na sexta-feira (5), dois dias antes do segundo turno das eleições presidenciais, levar a julgamento o candidato de esquerda Roberto Sánchez por supostas irregularidades na declaração de financiamento de seu part"
-  },
-  {
-    "titulo": "Motociclista morre ao bater em carreta na SP-264 em Sorocaba",
-    "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/06/motociclista-morre-ao-bater-em-carreta-na-sp-264-em-sorocaba.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T12:13:16.000Z",
-    "trecho": "Motociclista morreu ao bater na traseira de uma carreta que estava parada na Rodovia João Leme dos Santos (SP-264), em Sorocaba (SP)\nArtesp/Divulgação\nUm motociclista morreu após bater na traseira de uma carreta que estava parada na Rodovia João Leme dos Santos (SP-264), em Sorocaba (SP), na noite d"
-  },
-  {
-    "titulo": "Professores de licenciatura podem se inscrever em premiação até dia 8",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/professores-de-licenciatura-podem-se-inscrever-em-premiacao-ate-dia-8",
-    "fonte": "agenciabrasil.ebc",
-    "data": "2026-06-06T12:13:00.000Z",
-    "trecho": "Os professores de cursos de licenciatura, em instituições públicas ou privadas, podem se inscrever na 16ª edição do Prêmio Professor Rubens Murillo Marques, da Fundação Carlos Chagas (FCC) até as 23h59 de segunda-feira (8), no horário de Brasília. É preciso que os interessados tenham experiências já"
-  },
-  {
-    "titulo": "Motorista perde o controle em curva e bate de frente com outro veículo em rodovia de Cesário Lange",
-    "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/06/06/motorista-perde-o-controle-em-curva-e-bate-de-frente-com-outro-veiculo-em-rodovia-de-cesario-lange.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T12:08:45.000Z",
-    "trecho": "Carros colidiram de frente na Rodovia Benedito Oliveira Vaz (SP-141) em Cesário Lange (SP)\nDefesa Civil de Cesário Lange\nDuas pessoas ficaram feridas após um acidente envolvendo dois carros na tarde desta sexta-feira (5), no quilômetro 51 da Rodovia Benedito Oliveira Vaz (SP-141), na altura do bairr"
-  },
-  {
-    "titulo": "Homem é preso por tentar invadir condomínio em João Pessoa; VÍDEO",
-    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/06/06/homem-e-preso-por-tentar-invadir-condominio-em-joao-pessoa-video.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T12:08:17.000Z",
-    "trecho": "Homem é flagrado tentando invadir condomínio, em João Pessoa\nUm homem foi preso suspeito de tentar invadir um condomínio residencial no bairro João Paulo II, em João Pessoa, na madrugada desta sexta-feira (5). A prisão foi feita pela Guarda Civil Metropolitana da capital e um vídeo registrou o momen"
-  },
-  {
-    "titulo": "Saiba quem era a cantora gospel que morreu no TO aos 38 anos",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/06/06/saiba-quem-era-a-cantora-gospel-que-morreu-no-to-aos-38-anos.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T12:03:57.000Z",
-    "trecho": "Cantora gospel Ana Clézia, de 38 anos, morreu em Palmas (TO)\nReprodução/Instagram de Ana Clézia e Laudicéia\nFilha de pastor e criada em meio religioso, Ana Clézia, de 38 anos, ganhou projeção no cenário da música cristã contemporânea como integrante da dupla Ana Clézia e Laudicéia. A morte dela du"
-  },
-  {
-    "titulo": "Vídeo: Com segunda menor temperatura do ano, Campos do Jordão (SP) registra geada",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/06/video-com-segunda-menor-temperatura-do-ano-campos-do-jordao-sp-registra-geada.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T12:03:40.000Z",
-    "trecho": "Com segunda menor temperatura do ano, Campos do Jordão (SP) registra geada\nCampos do Jordão registrou geada na manhã deste sábado (6), após os termômetros marcarem 3,1°C, segundo a Defesa Civil de SP.\nO órgão informou que a mínima registrada na cidade foi a menor deste sábado em todo o estado e tamb"
-  },
-  {
-    "titulo": "Estátua gigante de Pelé é instalada em cidade do México que receberá jogos da Copa do Mundo de 2026",
-    "link": "https://g1.globo.com/globo-reporter/noticia/2026/06/06/estatua-gigante-de-pele-e-instalada-em-cidade-do-mexico-que-recebera-jogos-da-copa-do-mundo-de-2026.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T12:01:46.000Z",
-    "trecho": "Estátua gigante de Pelé é instalada em cidade do México que receberá jogos da Copa do Mundo de 2026\nUma das cidades-sede da Copa do Mundo de 2026, Guadalajara, no México, inaugurou recentemente uma estátua de quase 10 metros de altura em homenagem a Pelé. O monumento reforça a ligação histórica da c"
-  },
-  {
-    "titulo": "Festa de Santo Antônio terá círio, procissão, leilão e programação cultural em Santarém",
-    "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/06/festa-de-santo-antonio-tera-cirio-procissao-leilao-e-programacao-cultural-em-santarem.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T12:00:39.000Z",
-    "trecho": "Paróquia Santo Antônio em Santarém\nArquidiocese de Santarém/Divulgação\nA Paróquia Santo Antônio, no bairro Laguinho, em Santarém, no oeste do Pará, inicia nesta sexta-feira (6) uma das mais tradicionais festividades religiosas da cidade. Com uma programação que reúne fé, devoção popular e manifestaç"
-  },
-  {
-    "titulo": "À espera do hexa, moradores revivem tradição iniciada há 12 anos e pintam rua de verde e amarelo no Acre",
-    "link": "https://g1.globo.com/ac/acre/noticia/2026/06/06/a-espera-do-hexa-moradores-revivem-tradicao-iniciada-ha-12-anos-e-pintam-rua-de-verde-e-amarelo-no-acre.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T12:00:33.000Z",
-    "trecho": "Moradores revivem tradição iniciada na Copa de 2014 e pintam rua no Acre\nEnquanto a Seleção Brasileira se prepara para estrear na Copa do Mundo no próximo sábado (13), moradores de diferentes bairros de Rio Branco correm contra o tempo para concluir pinturas, pendurar bandeiras, colorir as casas e t"
-  },
-  {
-    "titulo": "Análise: Governo espanhol sofre pressão por eleições antecipadas",
-    "link": "https://www.cnnbrasil.com.br/internacional/analise-governo-espanhol-sofre-pressao-por-eleicoes-antecipadas/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T12:00:16.000Z",
-    "trecho": "Oposição e aliados questionam credibilidade do executivo e pedem volta às urnas após escândalos"
-  },
-  {
-    "titulo": "Peru vai às urnas neste domingo em eleição marcada por polarização e instabilidade política",
-    "link": "https://g1.globo.com/mundo/noticia/2026/06/06/peru-vai-as-urnas-neste-domingo-em-eleicao-marcada-por-polarizacao-e-instabilidade-politica.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:59:36.000Z",
-    "trecho": "Peruanos vão às urnas no domingo (7) em meio à crise política\nO Peru realiza neste domingo (7) o segundo turno das eleições presidenciais em uma disputa acirrada entre a candidata de direita Keiko Fujimori e o esquerdista Roberto Sánchez. \nA votação ocorre em meio a um cenário de forte polarização p"
-  },
-  {
-    "titulo": "Sem a União Europeia, Brasil pode deixar de exportar quase US$ 2 bilhões ao ano em carnes; entenda",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/06/sem-uniao-europeia-brasil-exportacao-de-carnes.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:56:59.000Z",
-    "trecho": "União Europeia veta importações de carne e produtos de origem animal do Brasil\nA União Europeia (UE) oficializou na quinta-feira (4) a decisão que retira o Brasil da lista de países considerados adequados às suas normas sobre o uso de antimicrobianos na pecuária. A medida ameaça as exportações brasi"
-  },
-  {
-    "titulo": "Brasileiro procurado pela Interpol é preso na Guiana",
-    "link": "https://www.cnnbrasil.com.br/nacional/norte/pa/brasileiro-procurado-pela-interpol-e-preso-na-guiana/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T11:55:20.000Z",
-    "trecho": "Homem é apontado como integrante de grupo criminoso envolvido em roubo ocorrido na cidade de Tailândia, no Pará"
-  },
-  {
-    "titulo": "Bahrein afirma ter interceptado três mísseis iranianos",
-    "link": "https://www.cnnbrasil.com.br/internacional/bahrein-afirma-ter-interceptado-tres-misseis-iranianos/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T11:54:59.000Z",
-    "trecho": "Os Estados Unidos também interceptaram uma onda de mísseis balísticos e drones disparados pelo Irã em direção ao Kuwait e ao Bahrein em um ataque ocorrido durante a madrugada"
-  },
-  {
-    "titulo": "Mulher que fingia ser adolescente é indiciada por estelionato em SC",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/mulher-que-fingia-ser-adolescente-e-indiciada-por-estelionato-em-sc/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T11:51:08.000Z",
-    "trecho": "Mulher que se passava por menor de 12 anos para aplicar golpe em famílias foi presa na última terça-feira (2)"
-  },
-  {
-    "titulo": "São João 2026 de Campina Grande tem Herique e Juliano neste sábado (6)",
-    "link": "https://g1.globo.com/pb/paraiba/sao-joao/noticia/2026/06/06/sao-joao-2026-de-campina-grande-tem-herique-e-juliano-neste-sabado-6.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:50:33.000Z",
-    "trecho": "A dupla Henrique e Juliano se apresenta no Parque do Povo\nRandes Filho / Divulgação\nA dupla sertaneja Henrique e Juliano é a principal atração deste sábado (6) no palco do Parque do Povo, no São João 2026 de Campina Grande.Outro destaque do dia é a cantora Walkyria Santos. \nO São João 2026 de Campin"
-  },
-  {
-    "titulo": "Grande Natal tem seis pontos impróprios para banho neste fim de semana",
-    "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/06/06/grande-natal-tem-seis-pontos-improprios-para-banho-neste-fim-de-semana.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:47:23.000Z",
-    "trecho": "Morro do Careca, na praia de Ponta Negra, em Natal\nDrone do Sol/@dronedosol\nO litoral da Grande Natal tem seis trechos impróprios para banho neste fim de semana, segundo o último boletim de balneabilidade divulgado, neste sábado (6), pelo Instituto de Desenvolvimento Sustentável e Meio Ambiente (Ide"
-  },
-  {
-    "titulo": "Arábia Saudita vence Porto Rico em amistoso e ganha confiança para a Copa",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/arabia-saudita-vence-porto-rico-em-amistoso-e-ganha-confianca-para-a-copa/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T11:47:23.000Z",
-    "trecho": "Equipe bate adversário por 3 a 0 em amistoso marcado por longa paralisação devido a tempestades nos Estados Unidos"
-  },
-  {
-    "titulo": "Cadelas são resgatadas após serem encontradas acorrentadas no litoral de SP",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/06/cadelas-sao-resgatadas-apos-serem-encontradas-acorrentadas-no-litoral-de-sp.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:41:07.000Z",
-    "trecho": "Cadelas são resgatadas após serem encontradas acorrentadas em São Vicente, SP\nPrefeitura de São Vicente/Divulgação\nTrês cadelas foram resgatadas em situação de maus-tratos em uma casa em São Vicente, no litoral de São Paulo. Conforme apurado pelo g1 neste sábado (6), o tutor foi encaminhado à delega"
-  },
-  {
-    "titulo": "Hora do Rancho: aprenda a fazer fondue de pé de moça, perfeito para dias frios",
-    "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/06/06/hora-do-rancho-aprenda-a-fazer-fondue-de-pe-de-moca-perfeito-para-dias-frios.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:36:21.000Z",
-    "trecho": "Em Águas de Lindóia (SP), o quadro Hora do Rancho convida você a participar do Festival de Inverno da cidade e a descobrir os sabores especiais da gastronomia local. O evento acontece entre os dias 3 e 26 de julho.\n📱 Receba conteúdos do Terra da Gente também no WhatsApp\nE, aproveitando as temperatu"
-  },
-  {
-    "titulo": "Casal foragido há mais de 15 anos por homicídio e tráfico de drogas é preso com documentos falsos no ES",
-    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/06/06/casal-foragido-ha-mais-de-15-anos-por-homicidio-e-trafico-e-preso-com-documentos-falsos-no-es.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:34:26.000Z",
-    "trecho": "Posto da Polícia Rodoviária Federal (PRF), em Viana, Espírito Santo\nReprodução/PRF\nUm casal foragido da Justiça há mais de 15 anos foi preso pela Polícia Rodoviária Federal (PRF) na manhã desta quinta-feira (4), na BR-101, na Serra, na Grande Vitória. Segundo a corporação, os dois utilizavam identid"
-  },
-  {
-    "titulo": "Idosa morre após sofrer descarga elétrica enquanto limpava cozinha no interior da Bahia",
-    "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/06/morte-descarga-eletrica-bahia.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:33:32.000Z",
-    "trecho": "Idosa de 78 anos morreu enquanto limpava cozinha em Conceição do Coité\nRedes Sociais\nUma idosa de 78 anos morreu após sofrer uma descarga elétrica enquanto realizava atividades domésticas em uma fazenda na zona rural de Conceição do Coité, na região sisaleira da Bahia. O caso aconteceu na sexta-feir"
-  },
-  {
-    "titulo": "Adversário do Brasil na Copa, Haiti perde de virada para o Peru em amistoso",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/adversario-do-brasil-na-copa-haiti-perde-de-virada-para-o-peru-em-amistoso/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T11:29:50.000Z",
-    "trecho": "Seleção Haitiana está no Grupo C da Copa, ao lado de Brasil, Marrocos e Escócia"
-  },
-  {
-    "titulo": "Em meio a conflito, Irã acusa EUA de discriminação em vistos para a Copa do Mundo",
-    "link": "https://g1.globo.com/mundo/noticia/2026/06/06/em-meio-a-conflito-ira-acusa-eua-de-discriminacao-em-vistos-para-a-copa-do-mundo.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:28:20.000Z",
-    "trecho": "A equipe masculina de futebol do Irã comemora a classificação para a Copa do Mundo 2026, após empatar com o Uzbequistão, em março do ano passado\nGetty Images via BBC\nA dez dias da estreia da seleção iraniana na Copa do Mundo, a participação do país no torneio é marcada por tensões diplomáticas e mil"
-  },
-  {
-    "titulo": "VÍDEO: Incêndio destrói restaurante e floricultura às margens da RSC-287 em Santa Cruz do Sul",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/06/incendio-destroi-restaurante-e-floricultura-as-margens-da-rsc-287-em-santa-cruz-do-sul.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:26:54.000Z",
-    "trecho": "Incêndio destrói restaurante e floricultura às margens da RSC-287\nUm incêndio destruiu um tradicional restaurante com uma floricultura anexa, às margens da RSC-287, em Santa Cruz do Sul, na Região Central. As chamas começaram por volta de 19h50 de sexta-feira (5), na localidade de Linha Pinheiral, e"
-  },
-  {
-    "titulo": "Zé Felipe surpreende ao levar filhos ao palco, chama Leonardo para cantar e o exalta: ‘O maior’",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/06/06/ze-felipe-surpreende-ao-levar-filhos-ao-palco-e-chamar-leonardo-para-cantar-durante-show-em-goiania-video.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:25:10.000Z",
-    "trecho": "Zé Felipe leva filhos ao palco e chama Leonardo para cantar durante show em Goiânia\nO cantor Zé Felipe surpreendeu fãs ao levar os filhos Maria Alice, Maria Flor e José Leonardo para o palco de seu show no Arraiá do Bem, em Goiânia (veja o vídeo acima). Além desta surpresa, o cantor também chamou o "
-  },
-  {
-    "titulo": "Acidentes com postes deixam 13 mil imóveis sem energia no Alto Tietê em 3 meses",
-    "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/06/06/acidentes-com-postes-deixam-13-mil-imoveis-sem-energia-no-alto-tiete-em-3-meses.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:18:06.000Z",
-    "trecho": "Carro bateu em poste na avenida Miguel Gemma\nCauê Adamuz / g1\nAcidentes de trânsito envolvendo postes deixaram 13.129 imóveis sem energia no Alto Tietê nos três primeiros meses de 2026. Os dados são da concessionária de energia EDP, responsável pelo fornecimento em oito cidades da região.\nAo todo, f"
-  },
-  {
-    "titulo": "Camarão marinho no interior de SP: projeto avança contra doença e quer expandir o cultivo longe do oceano",
-    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/06/06/camarao-marinho-no-interior-de-sp-projeto-avanca-contra-doenca-e-quer-expandir-o-cultivo-longe-do-oceano.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:17:32.000Z",
-    "trecho": "Camarão marinho no interior de SP: projeto avança contra doença e quer expandir o cultivo\nCriar camarão marinho a quilômetros de distância do oceano pode parecer improvável, mas uma pesquisa desenvolvida em Jaguariúna (SP) mostra que a produção no interior paulista é possível e pode abrir espaço par"
-  },
-  {
-    "titulo": "Brasil encara Estados Unidos em amistoso de olho na Copa do Mundo Feminina",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/brasil-encara-estados-unidos-em-amistoso-de-olho-na-copa-do-mundo-feminina/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T11:15:52.000Z",
-    "trecho": "Arthur Elias tem apenas Marta como dúvida para o duelo, e camisa 10 deve começar no banco"
-  },
-  {
-    "titulo": "UE oficializa veto à carne do Brasil a partir de setembro",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/06/ue-oficializa-veto-a-carne-do-brasil-a-partir-de-setembro.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:13:22.000Z",
-    "trecho": "Carne bovina\nFoto de David Foodphototasty na Unsplash\nA União Europeia (UE) publicou, na quinta-feira (4), um documento oficializando a sua decisão de excluir o Brasil da lista de países que cumprem as suas regras contra o uso excessivo de antimicrobianos na pecuária.\nCom isso, o Brasil fica proibid"
-  },
-  {
-    "titulo": "Incêndio em Guarulhos causou desabamento e coluna de fumaça",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-em-guarulhos-causou-desabamento-e-coluna-de-fumaca/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T11:13:17.000Z",
-    "trecho": "Defesa Civil confirmou que incêncio atingiu galpão de uma empresa; até o momento, não há registros de vitímas"
-  },
-  {
-    "titulo": "São João 2026 de Galante, distrito de Campina Grande, começa neste sábado; veja programação",
-    "link": "https://g1.globo.com/pb/paraiba/sao-joao/noticia/2026/06/06/sao-joao-2026-de-galante-comeca-veja-programacao.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:11:41.000Z",
-    "trecho": "São João de Galante, distrito de Campina Grande, Paraíba\nDivulgação/Arte Produções\nA programação oficial do São João 2026 de Galante, distrito de Campina Grande,  começa neste sábado (6). No primeiro dia de festa se apresentam Natan Vinicius, Sirano e Sirino e Gegê Bismarck\nA festa gratuita vai acon"
-  },
-  {
-    "titulo": "Wembanyama vacila, Knicks vencem Spurs e abrem 2 a 0 nas Finais da NBA",
-    "link": "https://www.cnnbrasil.com.br/esportes/basquete/wembanyama-vacila-knicks-vencem-spurs-e-abrem-2-a-0-nas-finais-da-nba/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T11:07:32.000Z",
-    "trecho": "Brunson decide no fim, e Nova York fica a duas vitórias do primeiro título desde 1973"
-  },
-  {
-    "titulo": "Vacina com “superantígeno” feito por IA pode prevenir futuras pandemias",
-    "link": "https://www.cnnbrasil.com.br/ciencia/vacina-com-superantigeno-feito-por-ia-pode-prevenir-futuras-pandemias/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T11:02:16.000Z",
-    "trecho": "Tecnologia inédita pode oferecer ampla proteção contra milhares de variantes de vírus, como coronavírus ou Ebola"
-  },
-  {
-    "titulo": "Maior felino das Américas: monitoramento aponta queda na população de onças-pintadas no Contínuo de Paranapiacaba",
-    "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/06/06/maior-predador-da-america-do-sul-monitoramento-de-oncas-pintadas-no-continuo-de-paranapiacaba-revela-queda-na-populacao-de-felinos.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:00:55.000Z",
-    "trecho": "Onça-pintada RonRon, monitorada pelo projeto, é flagrada por armadilha fotográfica\nA onça-pintada (Panthera onca), maior felino das Américas e principal predador da América do Sul, tem enfrentado uma redução crescente de sua população e precisa lutar contra diferentes ameaças, como a caça, os atrope"
-  },
-  {
-    "titulo": "Brasileiro é apaixonado pelo mercado de beleza, diz analista",
-    "link": "https://www.cnnbrasil.com.br/economia/negocios/brasileiro-e-apaixonado-pelo-mercado-de-beleza-diz-analista/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T11:00:49.000Z",
-    "trecho": "No primeiro trimestre de 2026, país registrou crescimento acima da média mundial em vendas de produtos de beleza premium, segundo dados da Circana"
-  },
-  {
-    "titulo": "Vitória Brasil já está garantida: cidade do interior paulista vira cenário verde e amarelo à espera da Copa do Mundo",
-    "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/06/06/vitoria-brasil-ja-esta-garantida-cidade-do-interior-paulista-vira-cenario-verde-e-amarelo-a-espera-da-copa-do-mundo.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:00:45.000Z",
-    "trecho": "Moradores de VItória Brasil, no noroeste paulista, preparam a cidade para a Copa\nQuando a Copa do Mundo se aproxima, poucas cidades brasileiras conseguem traduzir tão bem o sentimento de torcida nacional quanto Vitória Brasil, no noroeste paulista.\nCom pouco mais de 1,8 mil habitantes, o município t"
-  },
-  {
-    "titulo": "Forró, pipoca e bandeirinhas: professor brasileiro nos EUA leva tradição da festa junina a crianças americanas",
-    "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/06/06/forro-pipoca-e-bandeirinhas-professor-brasileiro-nos-eua-leva-tradicao-da-festa-junina-a-criancas-americanas.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:00:43.000Z",
-    "trecho": "Professor brasileiro nos EUA leva tradição da festa junina a crianças americanas\nCom direito a pipoca, bandeirinhas, forró e chapéu de palha, um professor brasileiro levou a tradição da festa junina para crianças de uma escola onde dá aulas de música em Atlanta, nos Estados Unidos.\nLiel Vini é natur"
-  },
-  {
-    "titulo": "Confira a  programação e atrações culturais do Festival de Cinema Latino-Americano de Alter do Chão",
-    "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/06/confira-a-programacao-e-atracoes-culturais-do-festival-de-cinema-latino-americano-de-alter-do-chao.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:00:42.000Z",
-    "trecho": "Confira a  programação e atrações culturais do Festival de Cinema Latino-Americano de Alter do Chão\nAgência Santarém/Divulgação\nO cinema amazônico e latino-americano volta a ocupar as telas e os espaços culturais de Santarém e na vila de Alter do Chão com a realização da quinta edição do CineAlter ("
-  },
-  {
-    "titulo": "Prefeitura de Sorocaba reduz número de médicos em unidades de pronto atendimento",
-    "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/06/prefeitura-de-sorocaba-reduz-numero-de-medicos-em-unidades-de-pronto-atendimento.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:00:40.000Z",
-    "trecho": "UBS do Aparecidinha em Sorocaba\nPrefeitura de Sorocaba/Divulgação\nA Prefeitura de Sorocaba reduziu o número de médicos plantonistas nas unidades de pronto atendimento (PA) da cidade em um momento de aumento nos casos de síndromes respiratórias e coronárias agudas. As unidades afetadas nesta rodada d"
-  },
-  {
-    "titulo": "Análise: Batalha subaquática intensifica com ameaças a cabos e oleodutos",
-    "link": "https://www.cnnbrasil.com.br/internacional/analise-batalha-subaquatica-intensifica-com-ameacas-a-cabos-e-oleodutos/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T11:00:39.000Z",
-    "trecho": "Pacto AUKUS (entre Austrália, Reino Unido e EUA) cria veículos não tripulados para combater riscos"
-  },
-  {
-    "titulo": "Doceiras do interior de SP transformam momentos difíceis em histórias de reinvenção: 'A arte de adocicar a vida'",
-    "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/06/06/doceiras-do-interior-de-sp-transformam-momentos-dificeis-em-historias-de-reinvencao-a-arte-de-adocicar-a-vida.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:00:38.000Z",
-    "trecho": "Doceiras do interior de SP transformam momentos difíceis em histórias de reinvenção\nNeste sábado (6), quando é celebrado o Dia Nacional da Doceira, histórias de dedicação, criatividade e empreendedorismo ajudam a mostrar como a confeitaria vai muito além do açúcar e das receitas. \nEm Presidente Prud"
-  },
-  {
-    "titulo": "Delator do esquema de roubo milionário de joias vendidas na TV depõe à Justiça; entenda o caso",
-    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/06/06/delator-do-esquema-de-roubo-milionario-de-joias-vendidas-na-tv-depoe-a-justica-entenda-o-caso.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:00:37.000Z",
-    "trecho": "Esquema de roubo de joias envolvia até TV\nFantástico/Reprodução\nA Justiça de Ribeirão Preto (SP) marcou as datas das audiências com testemunhas e acusados de participação em um esquema de roubo de R$ 4 milhões em jóias e outros objetos de valor que ficou conhecido por envolver uma rede de receptação"
-  },
-  {
-    "titulo": "Regular redes é regular discurso público, diz especialista sobre decreto",
-    "link": "https://www.cnnbrasil.com.br/politica/regular-redes-e-regular-discurso-publico-diz-especialista-sobre-decreto/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T11:00:27.000Z",
-    "trecho": "Em entrevista ao Live CNN, Ricardo Campos avalia que a regulação das redes sociais é regulação do discurso público e exige debate profundo no Congresso"
-  },
-  {
-    "titulo": "Assista aos telejornais da TV Bahia",
-    "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T11:00:17.000Z",
-    "trecho": "Assista aos telejornais da TV Bahia"
-  },
-  {
-    "titulo": "Seleção feminina encara Estados Unidos esta noite em São Paulo",
-    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/selecao-feminina-encara-estados-unidos-esta-noite-em-sao-paulo",
-    "fonte": "agenciabrasil.ebc",
-    "data": "2026-06-06T11:00:00.000Z",
-    "trecho": "Em meio à preparação para a Copa do Mundo de 2027 no Brasil, a seleção feminina encara na noite deste sábado (6) a equipe dos Estados Unidos, atual campeã olímpica e vice-líder no ranking da Fifa. O jogo às 19h (horário de Brasília) na Neo Química Arena, em São Paulo, será o primeiro de dois amistos"
-  },
-  {
-    "titulo": "Pai diz que vídeo do filho sendo espancado por lutador em quadra não sai da cabeça: ‘Cenas são fortes’",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/06/06/pai-diz-que-video-do-filho-sendo-espancado-por-lutador-em-quadra-nao-sai-da-cabeca-cenas-sao-fortes.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T10:59:35.000Z",
-    "trecho": "Pai diz que vídeo do filho sendo espancado por lutador em quadra não sai da cabeça\nO pai do adolescente de 17 anos que foi espancado por um lutador em uma praça de Goiânia disse que não tem como tirar da cabeça o que aconteceu. Em entrevista à TV Anhanguera, Frederico Lino afirmou que a família já p"
-  },
-  {
-    "titulo": "As duas eleições que podem consolidar 'círculo de fogo' pró-Trump em torno do Brasil",
-    "link": "https://g1.globo.com/mundo/noticia/2026/06/06/as-duas-eleicoes-que-podem-consolidar-circulo-de-fogo-pro-trump-em-torno-do-brasil.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T10:58:14.000Z",
-    "trecho": "Colômbia vai ao 2º turno com disputa acirrada entre governista e direita populista\nNeste mês de junho, dois países da América do Sul vizinhos ao Brasil vão decidir se querem ser governados pela direita ou pela esquerda nos próximos anos: Peru, neste domingo (7), e Colômbia, em 21 de junho. \n➡️ Em am"
-  },
-  {
-    "titulo": "Lotofácil: bolão de São Luís acerta 15 números e ganha mais de R$ 1,7 milhão",
-    "link": "https://g1.globo.com/ma/maranhao/noticia/2026/06/06/lotofacil-bolao-de-sao-luis-acerta-15-numeros-e-ganha-mais-de-r-17-milhao.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T10:55:30.000Z",
-    "trecho": "G1 | Loterias - Lotofácil 3703\nUma aposta feita em São Luís foi uma das cinco ganhadoras do prêmio principal da Lotofácil concurso 3703. O jogo acertou as 15 dezenas e levou R$ 1.714.257,54. O jogo vencedor é um bolão com 18 cotas.\nAs dezenas sorteadas foram: 01 – 03 – 05 – 07 – 08 – 09 – 10 – 14 – "
-  },
-  {
-    "titulo": "Motorista de aplicativo é encontrado carbonizado dentro de carro incendiado na Grande BH",
-    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/06/motorista-de-aplicativo-e-encontrado-carbonizado-dentro-de-carro-incendiado-na-grande-bh.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T10:51:55.000Z",
-    "trecho": "Carro incendiado, com o corpo carbonizado, foi localizado no bairro Parque Novo Ceasa, em Esmeraldas.\nPolícia Militar\nUm motorista de aplicativo de 41 anos  foi encontrado morto e carbonizado dentro de um carro incendiado nesta sexta-feira (5), no bairro Parque Novo Ceasa, em Esmeraldas, na Região M"
-  },
-  {
-    "titulo": "Mulher é baleada em Vila Isabel",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/06/mulher-e-baleada-em-vila-isabel.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T10:43:16.000Z",
-    "trecho": "Mulher estava na calçada da Rua Barão do Bom Retiro quando foi atingida\nJoilson Santana/TV Globo\nUma mulher de 48 anos foi baleada na tarde desta sexta-feira (5), durante uma troca de tiros na Rua Barão do Bom Retiro, em Vila Isabel, na Zona Norte do Rio de Janeiro.\nSegundo a Polícia Militar, equipe"
-  },
-  {
-    "titulo": "Irã diz que agência da ONU politiza supervisão do programa nuclear de Teerã",
-    "link": "https://www.cnnbrasil.com.br/internacional/ira-diz-que-agencia-da-onu-politiza-supervisao-do-programa-nuclear-de-teera/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T10:42:00.000Z",
-    "trecho": "Segundo vice-ministro das Relações Exteriores do Irã, a perda da capacidade de supervisão da agência em algumas instalações foi consequência dos ataques sofridos"
-  },
-  {
-    "titulo": "Mega-Sena sorteia prêmio estimado em R$ 32 milhões neste sábado",
-    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/mega-sena-sorteia-premio-estimado-em-r-32-milhoes-neste-sabado",
-    "fonte": "agenciabrasil.ebc",
-    "data": "2026-06-06T10:40:00.000Z",
-    "trecho": "As seis dezenas do concurso 3.015 da Mega-Sena serão sorteadas, a partir das 21h (horário de Brasília), no Espaço da Sorte, localizado na Avenida Paulista, nº 750, em São Paulo.\nO prêmio da faixa principal está acumulado e estimado em R$ 32 milhões.\nPor se tratar de um concurso com final cinco, ele "
-  },
-  {
-    "titulo": "Fachin cria grupo de trabalho para fazer 'pente-fino' em penduricalhos pagos a magistrados",
-    "link": "https://g1.globo.com/politica/noticia/2026/06/06/fachin-cria-grupo-de-trabalho-para-fazer-pente-fino-em-penduricalhos-pagos-a-magistrados.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T10:33:46.000Z",
-    "trecho": "Fachin cria grupo para fazer pente fino em penduricalhos\nO presidente do Supremo Tribunal Federal (STF) e do Conselho Nacional de Justiça (CNJ), ministro Edson Fachin, decidiu criar um grupo de trabalho para realizar um grande \"pente-fino\" nos penduricalhos pagos aos magistrados. \nEssa comissão terá"
-  },
-  {
-    "titulo": "Combate a incêndio de grandes proporções em Guarulhos teve apoio de 38 bombeiros, 14 viaturas, uma retroscavadeira e já dura mais de 14 horas",
-    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/06/combate-a-incendio-de-grandes-proporcoes-em-guarulhos-tem-38-bombeiros-14-viaturas-e-ja-dura-mais-de-dez-horas.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T10:26:26.000Z",
-    "trecho": "Combate a incêndio já dura mais de dez horas em Guarulhos\nO combate ao incêndio em um imóvel comercial na Rua Guaporé, em Guarulhos, já dura mais de 14 horas, segundo o Corpo de Bombeiros. Por volta das 9h, os bombeiros conseguiram controlar o incêndio, mas o fogo ainda não foi totalmente extinto.\n\ud83d"
-  },
-  {
-    "titulo": "Criança de 9 anos fica soterrada após casa do vizinho desabar em Salvador",
-    "link": "https://g1.globo.com/ba/bahia/noticia/2026/06/06/desabamento-de-imovel-em-salvador.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T10:16:41.000Z",
-    "trecho": "Casa ficou completamente destruída após desabamento neste sábado (6)\nRedes sociais\nUma criança de nove anos ficou soterrada após a casa do vizinho desabar no bairro de Pirajá, em Salvador, na madrugada deste sábado (6). Os escombros atingiram o quarto da menina, que ficou presa no local e precisou s"
-  },
-  {
-    "titulo": "Wesley Safadão homenageia o Nordeste e lota Parque do Povo no São João 2026 de Campina Grande",
-    "link": "https://g1.globo.com/pb/paraiba/sao-joao/noticia/2026/06/06/safadao-lota-parque-do-povo-no-sao-joao-2026-de-campina-grande.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T10:14:42.000Z",
-    "trecho": "Wesley Safadão lota Parque do Povo, em Campina Grande, no São João 2026\nO forró e o piseiro tomaram conta da primeira sexta-feira (5) do São João 2026 de Campina Grande. Com o Parque do Povo lotado desde o início da noite, Wesley Safadão comandou uma das apresentações mais aguardadas da programação "
-  },
-  {
-    "titulo": "MJ avança por novo banco nacional de dados de facções criminosas e milícias",
-    "link": "https://www.cnnbrasil.com.br/nacional/brasil/mj-avanca-por-novo-banco-nacional-de-dados-de-faccoes-criminosas-e-milicias/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T10:14:12.000Z",
-    "trecho": "Ferramenta prevista em lei vai integrar informações de todo o país para fortalecer investigações, ações de inteligência e combate ao crime organizado"
-  },
-  {
-    "titulo": "Litoral da Paraíba tem quatro trechos impróprios para banho; veja quais",
-    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/06/06/litoral-da-paraiba-tem-quatro-trechos-improprios-para-banho-veja-quais.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T10:12:51.000Z",
-    "trecho": "Litoral da Paraíba tem quatro trechos impróprios para banho\nKrys Carneiro/G1\nO Litoral da Paraíba tem quatro trechos impróprios para banho. A informação está em um relatório de balneabilidade divulgado pela Superintendência de Administração do Meio Ambiente (Sudema) na sexta-feira (5). Dois trechos "
-  },
-  {
-    "titulo": "EUA dizem que vão acelerar desenvolvimento e uso de IA",
-    "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/eua-dizem-que-vao-acelerar-desenvolvimento-e-uso-de-ia/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T10:04:25.000Z",
-    "trecho": "Casa Branca aponta segurança nacional como objetivo"
-  },
-  {
-    "titulo": "Itens 'roubados', escorregões e saltos em clientes: veja as peripécias do cão 'atrapalhante' de mercado em SC",
-    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/06/itens-roubados-escorregoes-peripecias-cao-ercado-sc.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T10:00:43.000Z",
-    "trecho": "Cão caramelo vira ‘funcionário CLT' em mercado de SC e conquista as redes sociais\nO cão Antônio, que virou o centro das atenções de um mercado e conveniência de São José, na Grande Florianópolis, passou a ser conhecido como o \"atrapalhante\" oficial da equipe após ter suas peripécias registradas pela"
-  },
-  {
-    "titulo": "Empreendedores do Amapá terão linha de crédito de até R$ 20 mil para vendas online",
-    "link": "https://g1.globo.com/ap/amapa/noticia/2026/06/06/empreendedores-do-amapa-terao-linha-de-credito-de-ate-r-20-mil-para-vendas-online.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T10:00:38.000Z",
-    "trecho": "Nova linha de crédito pode chegar até R$ 20 mil\nFábio Rossi/O Globo\nEmpreendedores do Amapá que trabalham pela internet poderão solicitar uma nova linha de crédito de até R$ 20 mil para investir nos negócios digitais.\nO programa Empreendedor Digital é voltado para microempreendedores individuais (ME"
-  },
-  {
-    "titulo": "Dia dos Namorados: filmes clássicos de romance serão reexibidos no cinema",
-    "link": "https://www.cnnbrasil.com.br/pop/cinema/dia-dos-namorados-filmes-classicos-de-romance-serao-reexibidos-no-cinema/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T10:00:25.000Z",
-    "trecho": "\"Um Lugar Chamado Notting Hill\" e \"O Amor Não Tira Férias\" são a aposta da Universal para o dia 12 de junho"
-  },
-  {
-    "titulo": "Liderado por Holanda, Grupo F pode entrar na rota do Brasil na 2ª fase",
-    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/liderado-por-holanda-grupo-f-pode-entrar-na-rota-do-Brasil-na-2a-fase",
-    "fonte": "agenciabrasil.ebc",
-    "data": "2026-06-06T10:00:00.000Z",
-    "trecho": "O Grupo F está no radar da seleção brasileira na Copa do Mundo do Canadá, México e Estados Unidos. Pelo chaveamento da competição, caso a Amarelinha se classifique à segunda fase (mata-mata antes das oitavas de final) em primeiro ou segundo lugares do Grupo C, terá como adversário o primeiro ou segu"
-  },
-  {
-    "titulo": "Filha de Trump planeja abrir resort de luxo em praia protegida na Albânia",
-    "link": "https://www.cnnbrasil.com.br/internacional/filha-de-trump-planeja-abrir-resort-de-luxo-em-praia-protegida-na-albania/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T09:54:13.000Z",
-    "trecho": "Ivanka Trump disse que propriedade fica em ilha privada no Mediterrâneo; moradores e ambientalistas são contra construção"
-  },
-  {
-    "titulo": "Motorista que teve falso positivo para cocaína vai receber R$ 5 mil em SC",
-    "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/motorista-que-teve-falso-positivo-para-cocaina-vai-receber-r-5-mil-em-sc/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T09:41:29.000Z",
-    "trecho": "Homem entrou com a ação após realizar o exame exigido para exercício da profissão; decisão judicial cabe recurso"
-  },
-  {
-    "titulo": "Filha de Leandro diz que gravar música do pai a fez reencontrar memórias: ‘O amor verdadeiro permanece’",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/06/06/filha-de-leandro-diz-que-gravar-musica-do-pai-a-fez-reencontrar-memorias-o-amor-verdadeiro-permanece.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T09:38:01.000Z",
-    "trecho": "Filha de Leandro emociona fãs ao cantar música do pai\nFilha do cantor Leandro, a médica dermatologista Lyandra Costa, que emocionou os fãs ao interpretar uma das músicas do pai, disse que gravar a canção a fez reencontrar memórias. \"Hoje compartilho esse momento com vocês como uma homenagem, mas tam"
-  },
-  {
-    "titulo": "Crise do petróleo vai frear corte dos juros no Brasil, diz pesquisadora",
-    "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/crise-do-petroleo-vai-frear-corte-dos-juros-no-brasil-diz-pesquisadora/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T09:30:52.000Z",
-    "trecho": "Tatiana Pinheiro, da FGV, avalia que conflito no Oriente Médio limita reduções da Selic e pressiona a inflação brasileira"
-  },
-  {
-    "titulo": "Entenda fenômeno que 'furou' pedra e criou ponto turístico famoso no Jalapão",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/06/06/entenda-fenomeno-que-furou-pedra-e-criou-ponto-turistico-famoso-no-jalapao.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T09:30:35.000Z",
-    "trecho": "Pedra Furada no Jalapão encanta turistas\nA Pedra Furada é um dos principais atrativos turísticos do Parque Estadual do Jalapão. A vista da vegetação e o pôr do sol atraem turistas de todo o Brasil e até de outros países. A formação dessa paisagem aconteceu ao longo de milhares de anos, segundo o geó"
-  },
-  {
-    "titulo": "Montaria, emoção e hits: veja como foi a 2ª noite da Festa do Peão de Americana 2026",
-    "link": "https://g1.globo.com/sp/campinas-regiao/festa-do-peao-de-americana/noticia/2026/06/06/montaria-emocao-e-hits-veja-como-foi-a-2a-noite-da-festa-do-peao-de-americana-2026.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T09:22:59.000Z",
-    "trecho": "Montaria, emoção e hits: veja como foi a 2ª noite da Festa do Peão de Americana 2026\nThomaz Marostegan\nA segunda noite da 38ª Festa do Peão de Americana, nesta sexta-feira (5), foi marcada pelo início das disputas de montaria em touros, homenagens e shows que levaram a arena do Parque de Eventos CCA"
-  },
-  {
-    "titulo": "Irmãos investem em cultivo de lúpulo em área nunca plantada e  ganham título com a 1ª safra",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/06/irmaos-investem-em-cultivo-de-lupulo-em-area-nunca-plantada-e-ganham-titulo-com-a-1a-safra.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T09:20:46.000Z",
-    "trecho": "Irmãos investem em cultivo de lúpulo em região onde plantação não era comum e conquistam 3° lugar em Copa Brasileira\nArquivo Pessoal\nO sonho de viver do agronegócio fez com que três irmãos investissem na plantação de lúpulo em uma área onde a planta nunca havia sido cultivada, em Iguape, no litoral "
-  },
-  {
-    "titulo": "Castelo do Alemão: Conheça a construção cercada de mistérios e lendas no litoral de SP",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/06/castelo-do-alemao-conheca-a-construcao-cercada-de-misterios-e-lendas-no-litoral-de-sp.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T09:20:44.000Z",
-    "trecho": "‘Castelo do Alemão’ em Peruíbe mistura lendas, história e mistério no litoral de SP\nMistérios e lendas rondam uma residência próxima à Estrada do Guaraú, em Peruíbe, no litoral de São Paulo. Conhecido como 'Castelo do Alemão' ou 'Castelinho', o imóvel alimenta o imaginário popular com histórias que "
-  },
-  {
-    "titulo": "Copa do Mundo fará torcedor ficar mais de um ano sem cortar o cabelo por promessa ao Santos; VÍDEO",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/06/copa-do-mundo-fara-torcedor-ficar-mais-de-um-ano-sem-cortar-o-cabelo-por-promessa-ao-santos-video.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T09:20:41.000Z",
-    "trecho": "Torcedor ultrapassa 300 dias sem cortar o cabelo e mantém promessa ao Santos FC\nClayton Aleixo, de 25 anos, que se autointitula torcedor \"maluco\" do Santos Futebol Clube, prometeu não cortar o cabelo até o time vencer cinco partidas consecutivas. Com a pausa dos campeonatos nacionais para a Copa do "
-  },
-  {
-    "titulo": "Vídeo: homem é preso logo depois de assaltar farmácia nos Jardins",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-homem-e-preso-logo-depois-de-assaltar-farmacia-nos-jardins/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T09:15:00.000Z",
-    "trecho": "Ao chegarem ao endereço, os policiais receberam a informação de que o suspeito havia acabado de fugir em direção à Alameda Joaquim Eugênio de Lima"
-  },
-  {
-    "titulo": "CIA 2026: assista ao vivo aos shows da Copa Inter Atléticas em Uberaba",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/cia-2026-assista-ao-vivo-aos-shows-da-copa-inter-atleticas-em-uberaba.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T09:11:46.000Z",
-    "trecho": "CIA 2026: assista ao vivo aos shows da Copa Inter Atléticas em Uberaba O g1 Triângulo transmite os shows desta quinta (4), a partir das 23h30, e de sexta (5) e sábado (6), a partir das 23h, direto do Centro Park, em Uberaba. Confira os shows transmitidos pelo g1 Triângulo: . Quinta (4): 23h30 - Turm"
-  },
-  {
-    "titulo": "Zé Neto e Cristiano apostam em trecho em inglês em nova música: 'Acabamos nos empolgando'",
-    "link": "https://g1.globo.com/sp/campinas-regiao/festa-do-peao-de-americana/noticia/2026/06/06/ze-neto-e-cristiano-apostam-em-trecho-em-ingles-em-nova-musica-acabamos-nos-empolgando.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T09:08:00.000Z",
-    "trecho": "Zé Neto e Cristiano apostam em trecho em inglês em nova música: 'Acabamos nos empolgando'\nZé Neto e Cristiano vivem a expectativa pelo lançamento da música “Fama de Louco”, novidade que marca uma mudança de posicionamento da dupla ao trazer um trecho em inglês, inspirado no clássico “I Wanna Know Wh"
-  },
-  {
-    "titulo": "Estudantes de Petrolina viralizam tocando forró e ganham elogio de vocalista do Natiruts",
-    "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/06/06/estudantes-de-petrolina-viralizam-tocando-forro-e-ganham-elogio-de-vocalista-do-natiruts.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T09:00:58.000Z",
-    "trecho": "Estudantes de Petrolina viralizam na internet tocando sanfona na escola\nOs corredores da Escola de Referência em Ensino Médio Otacílio Nunes de Souza, em Petrolina, no Sertão de Pernambuco, viraram palco para o talento de dois estudantes que estão chamando a atenção nas redes sociais. Os vídeos dos "
-  },
-  {
-    "titulo": "Você viu? Açougue interditado com quase 2,5kg de carne imprópria, delegado aposentado preso após acidente e temporal de granizo",
-    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/06/06/voce-viu-acougue-interditado-com-quase-25kg-de-carne-impropria-delegado-aposentado-preso-apos-acidente-e-temporal-de-granizo.ghtml",
-    "fonte": "g1.com",
-    "data": "2026-06-06T09:00:55.000Z",
-    "trecho": "Olá! Confira o que foi destaque no g1 Zona da Mata nesta semana, com as notícias mais acessadas entre os dias 30 de maio a 5 de junho.\n✅ Clique aqui para seguir o canal do g1 Zona da Mata no WhatsApp \nAçougue interditado no Santa Terezinha\nUm açougue com cerca de 2,4 toneladas de alimentos impróprio"
-  },
-  {
-    "titulo": "Gripe, rinite ou sinusite? Saiba a real diferença com Dr. Kalil",
-    "link": "https://www.cnnbrasil.com.br/saude/gripe-rinite-ou-sinusite-saiba-a-real-diferenca-com-dr-kalil/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T09:00:38.000Z",
-    "trecho": "Os especialistas Clystenes Odyr Soares Silva, e a infectologista e professora da Unifesp, Nancy Bellei, explicam no Sinais Vitais com Dr. Kalil como distinguir doenças respiratórias e alertam para o uso indiscriminado de antibióticos"
-  },
-  {
-    "titulo": "Fundos de investimento internacionais: como investir com diversificação",
-    "link": "https://www.cnnbrasil.com.br/economia/negocios/fundos-de-investimento-internacionais-como-investir-com-diversificacao/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T08:58:34.000Z",
-    "trecho": "Modalidade permite diversificação geográfica e proteção contra a desvalorização do real"
-  },
-  {
-    "titulo": "Ataque de Israel mata general e soldados libaneses, diz exército",
-    "link": "https://www.cnnbrasil.com.br/internacional/ataque-de-israel-mata-general-e-soldados-libaneses-diz-exercito/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T08:45:29.000Z",
-    "trecho": "Ação ocorre no sul do Líbano apesar de acordo mediado pelos EUA e estabelecido na última quarta-feira (3)"
-  },
-  {
-    "titulo": "Teste do pezinho alterado: o que isso quer dizer?",
-    "link": "https://www.cnnbrasil.com.br/saude/teste-do-pezinho-alterado-o-que-isso-quer-dizer/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T08:30:23.000Z",
-    "trecho": "Entenda por que o resultado pode assustar, o que acontece depois e quando agir rápido pode proteger a saúde do bebê"
-  },
-  {
-    "titulo": "Criciúma x Londrina: horário e onde assistir ao Brasileirão Série B",
-    "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/criciuma-x-londrina-horario-e-onde-assistir-ao-brasileirao-serie-b/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T08:00:42.000Z",
-    "trecho": "Equipes entram em campo neste sábado (6) pela 12ª rodada do torneio"
-  },
-  {
-    "titulo": "Julgamento de Eduardo avança enquanto STF avalia incluir Jair e Flávio",
-    "link": "https://www.cnnbrasil.com.br/politica/julgamento-de-eduardo-avanca-enquanto-stf-avalia-incluir-jair-e-flavio/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T08:00:37.000Z",
-    "trecho": "Defesa de Flávio também entrou com ação pedindo suspeição de Moraes nas investigações envolvendo Daniel Vorcaro"
-  },
-  {
-    "titulo": "Geely EX2 será produzido no Brasil ainda este ano; veja detalhes",
-    "link": "https://www.cnnbrasil.com.br/auto/geely-ex2-sera-produzido-no-brasil-ainda-este-ano-veja-detalhes/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T08:00:27.000Z",
-    "trecho": "Ao longo de 2026, o Geely EX2 já acumula pouco mais de 10 mil unidades emplacadas no Brasil"
-  },
-  {
-    "titulo": "Quais seleções podem ser a “zebra” da Copa do Mundo?; veja lista",
-    "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/quais-selecoes-podem-ser-a-zebra-da-copa-do-mundo-veja-lista/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T08:00:04.000Z",
-    "trecho": "Competição terá início na próxima quinta-feira (11), com o confronto entre México e África do Sul"
-  },
-  {
-    "titulo": "Papa Leão XIV viaja à Espanha com foco em migrantes e polarização",
-    "link": "https://www.cnnbrasil.com.br/internacional/papa-leao-xiv-viaja-a-espanha-com-foco-em-migrantes-e-polarizacao/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T07:56:42.000Z",
-    "trecho": "Em discurso inédito no parlamento espanhol, pontífice deve pedir diálogo global contra conflitos"
-  },
-  {
-    "titulo": "Ataque de tubarão de 4,5 metros mata homem na Austrália",
-    "link": "https://www.cnnbrasil.com.br/internacional/ataque-de-tubarao-de-45-metros-mata-homem-na-costa-da-australia/",
-    "fonte": "cnnbrasil",
-    "data": "2026-06-06T07:36:35.000Z",
-    "trecho": "Vítima de 35 anos praticava pesca submarina; incidente é o terceiro ataque fatal registrado no país em três semanas"
-  },
-  {
-    "titulo": "Parlamentares governistas vão aos EUA apresentar contraponto à direita",
-    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-06/parlamentares-governistas-vao-aos-eua-apresentar-contraponto-direita",
-    "fonte": "agenciabrasil.ebc",
-    "data": "2026-06-05T22:03:00.000Z",
-    "trecho": "Um grupo de parlamentares brasileiros esteve em Washington, de 3 a 5 de junho, com o objetivo de apresentar um contraponto às narrativas da direita brasileira junto a instituições americanas.\nFormado pelos deputados federais Pedro Uczai (PT/SC), Jandira Feghalli (PcdoB/RJ), Pedro Campos (PSB/PE) e A"
-  },
-  {
-    "titulo": "Soluções do Sul Global são protagonistas do Rio Nature & Climate Week",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/solucoes-do-sul-global-sao-protagonistas-do-rio-nature-climate-week",
-    "fonte": "agenciabrasil.ebc",
-    "data": "2026-06-05T21:39:00.000Z",
-    "trecho": "As conferências oficiais da primeira edição do Rio Nature & Climate Week foram encerradas nesta sexta-feira (5), pondo no centro do debate as propostas e soluções do Sul Global para a crise climática. \nA América Latina, a África e o Sudeste Asiático são detentores de 90% de tudo que ainda resta de f"
-  },
-  {
-    "titulo": "Fachin nega suspeição de Kassio para decidir sobre CPI do Master",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/fachin-nega-suspeicao-de-kassio-para-decidir-sobre-cpi-do-master",
-    "fonte": "agenciabrasil.ebc",
-    "data": "2026-06-05T20:30:00.000Z",
-    "trecho": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, negou pedido de quatro senadores para declarar a suspeição do ministro Kassio Nunes Marques para julgar um mandado de segurança que pede a criação da Comissão Parlamentar de Inquérito (CPI) do Banco Master.  A decisão foi proferi"
-  },
-  {
-    "titulo": "Ancelotti vai testar Paquetá e Igor Thiago em amistoso contra Egito",
-    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/ancelotti-vai-testar-paqueta-e-igor-thiago-em-amistoso-contra-egito",
-    "fonte": "agenciabrasil.ebc",
-    "data": "2026-06-05T20:13:00.000Z",
-    "trecho": "O técnico italiano Carlos Ancelotti revelou que deve testar Lucas Paquetá e Igor Thiago como titulares da seleção brasileira no último amistoso antes da Copa do Mundo neste sábado (6). Concentrada em Nova Jersey, a seleção embarca para Cleveland às 18h (horário de Brasília) desta sexta (5)  O Brasil"
-  },
-  {
-    "titulo": "Com Odebrecht de 'fiadora', Itaquer�o deve ganhar a abertura hoje",
-    "link": "http://www1.folha.uol.com.br/esporte/942850-com-odebrecht-de-fiadora-itaquerao-deve-ganhar-a-abertura-hoje.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "Painel FC: Ponte vai � Fifa contra S�o Paulo por Luis Fabiano",
-    "link": "http://www1.folha.uol.com.br/esporte/942849-painel-fc-ponte-vai-a-fifa-contra-sao-paulo-por-luis-fabiano.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "Compare os pre�os em S�o Paulo, Nova York, Londres e Paris",
-    "link": "http://www1.folha.uol.com.br/mercado/942847-compare-os-precos-em-sao-paulo-nova-york-londres-e-paris.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "Parques na Amaz�nia ser�o reduzidos por medida provis�ria",
-    "link": "http://www1.folha.uol.com.br/ambiente/942840-parques-na-amazonia-serao-reduzidos-por-medida-provisoria.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "DNA que 'monta' barbatana tamb�m produz pata",
-    "link": "http://www1.folha.uol.com.br/ciencia/942835-dna-que-monta-barbatana-tambem-produz-pata.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "�UDIO: S�o Paulo ter� quarta-feira de sol forte e calor; ou�a previs�o",
-    "link": "http://www1.folha.uol.com.br/multimidia/podcasts/942831-sao-paulo-tera-quarta-feira-de-sol-forte-e-calor-ouca-previsao.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "Cruzeiro pela Patag�nia lembra 180 anos de viagem de Darwin",
-    "link": "http://www1.folha.uol.com.br/turismo/942671-cruzeiro-pela-patagonia-lembra-180-anos-de-viagem-de-darwin.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "Santista Jonathan fecha com a Inter por R$ 11 milh�es",
-    "link": "http://www1.folha.uol.com.br/esporte/942818-santista-jonathan-fecha-com-a-inter-por-r-11-milhoes.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "Turismo desordenado amea�a antigos templos do Camboja",
-    "link": "http://www1.folha.uol.com.br/turismo/942510-turismo-desordenado-ameaca-antigos-templos-do-camboja.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "Homem gosta mais de demonstra��o de afeto que mulher, diz estudo",
-    "link": "http://www1.folha.uol.com.br/equilibrioesaude/942659-homem-gosta-mais-de-demonstracao-de-afeto-que-mulher-diz-estudo.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "Com muito a provar, sele��o brasileira tenta evitar vexame",
-    "link": "http://www1.folha.uol.com.br/esporte/942732-com-muito-a-provar-selecao-brasileira-tenta-evitar-vexame.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "Gugu perde \"talk show\" na Record para Roberto Justus",
-    "link": "http://www1.folha.uol.com.br/colunas/zapping/942781-gugu-perde-talk-show-na-record-para-roberto-justus.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "�UDIO: Efeito domin� preocupa economia europeia; ou�a rep�rter",
-    "link": "http://www1.folha.uol.com.br/multimidia/podcasts/942719-efeito-domino-preocupa-economia-europeia-ouca-reporter.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "Rep�blica Dominicana ganha site tur�stico em portugu�s",
-    "link": "http://www1.folha.uol.com.br/turismo/942645-republica-dominicana-ganha-site-turistico-em-portugues.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "O prazer de torcer contra",
-    "link": "http://www1.folha.uol.com.br/colunas/futebolnarede/942627-o-prazer-de-torcer-contra.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "Complexo imperial romano tem �rea fechada por risco de desabar",
-    "link": "http://www1.folha.uol.com.br/turismo/942472-complexo-imperial-romano-tem-area-fechada-por-risco-de-desabar.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "Presidente do Corinthians ironiza ministro ao falar de Itaquer�o",
-    "link": "http://www1.folha.uol.com.br/esporte/942594-presidente-do-corinthians-ironiza-ministro-ao-falar-de-itaquerao.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "Jovem chora ap�s receber transplante duplo de pernas",
-    "link": "http://www1.folha.uol.com.br/ciencia/942592-jovem-chora-apos-receber-transplante-duplo-de-pernas.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "�UDIO: Banda Sinf�nica do Estado de S�o Paulo apresenta tema de Star Wars",
-    "link": "http://www1.folha.uol.com.br/multimidia/podcasts/942586-banda-sinfonica-do-estado-de-sao-paulo-apresenta-tema-de-star-wars.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "Sexto Sal�o do Turismo abre amanh� em S�o Paulo",
-    "link": "http://www1.folha.uol.com.br/turismo/942551-sexto-salao-do-turismo-abre-amanha-em-sao-paulo.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "Gramado do Engenh�o ser� cuidado por empresa de bebidas",
-    "link": "http://www1.folha.uol.com.br/esporte/942534-gramado-do-engenhao-sera-cuidado-por-empresa-de-bebidas.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "Mulher acima dos 40 anos corre maior risco de ter DST, diz estudo",
-    "link": "http://www1.folha.uol.com.br/equilibrioesaude/942532-mulher-acima-dos-40-anos-corre-maior-risco-de-ter-dst-diz-estudo.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "Nasa tenta confirmar se asteroide Vesta tem lua ou n�o",
-    "link": "http://www1.folha.uol.com.br/ciencia/942514-nasa-tenta-confirmar-se-asteroide-vesta-tem-lua-ou-nao.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "Cerveja palestina investe no mercado global",
-    "link": "http://www1.folha.uol.com.br/bbc/942264-cerveja-palestina-investe-no-mercado-global.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
-  },
-  {
-    "titulo": "Andres fala em usar dinheiro da TV para pagar Tevez",
-    "link": "http://www1.folha.uol.com.br/esporte/942502-andres-fala-em-usar-dinheiro-da-tv-para-pagar-tevez.shtml",
-    "fonte": "feeds.folha.uol",
-    "data": "",
-    "trecho": ""
+    "resumo": "Um homem foi preso no Distrito Federal sob a suspeita de ter atirado contra o próprio irmão após uma discussão. O incidente ocorreu em Taguatinga na noite de sexta-feira. A vítima foi atingida na perna e recebeu atendimento médico.",
+    "categoria": "justica",
+    "tags": [
+      "prisão",
+      "violência",
+      "briga",
+      "irmão",
+      "Distrito Federal",
+      "Taguatinga"
+    ],
+    "entidades": [
+      "Distrito Federal",
+      "Taguatinga"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/06/homem-e-preso-suspeito-de-atirar-contra-irmao-apos-briga-no-df.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-festas-juninas-shows",
+    "data": "2026-06-06",
+    "titulo": "Festas Juninas em Natal e Votorantim contam com shows de artistas renomados",
+    "resumo": "O São João de Natal terá shows gratuitos de Calcinha Preta, Pablo e Marina Elali na Arena das Dunas. Já a Festa Junina de Votorantim contará com a apresentação do cantor Thiaguinho, um dos maiores nomes do pagode. Ambas as festas atraem público e movimentam as cidades.",
+    "categoria": "cultura",
+    "tags": [
+      "festas juninas",
+      "shows",
+      "música",
+      "Natal",
+      "Votorantim",
+      "Calcinha Preta",
+      "Pablo",
+      "Thiaguinho"
+    ],
+    "entidades": [
+      "Natal",
+      "Arena das Dunas",
+      "Votorantim",
+      "Calcinha Preta",
+      "Pablo",
+      "Marina Elali",
+      "Abiel",
+      "Thiaguinho"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rn/rio-grande-do-norte/sao-joao-no-rn/noticia/2026/06/06/sao-joao-de-natal-tem-shows-de-calcinha-preta-e-pablo-neste-sabado-na-arena-das-dunas.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/06/festa-junina-de-votorantim-recebe-o-pagode-de-thiaguinho-neste-sabado.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-britney-spears-filho",
+    "data": "2026-06-06",
+    "titulo": "Britney Spears se declara ao filho após momento difícil",
+    "resumo": "A cantora Britney Spears fez uma declaração ao seu filho em meio a um período de dificuldades em sua vida pessoal. A notícia surge após momentos de apreensão relacionados à sua saúde mental e questões legais. Spears tem compartilhado momentos de sua vida com seus seguidores.",
+    "categoria": "cultura",
+    "tags": [
+      "celebridades",
+      "Britney Spears",
+      "filho",
+      "declaração",
+      "saúde mental"
+    ],
+    "entidades": [
+      "Britney Spears"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/pop/celebridades/apos-prisao-e-internacao-britney-spears-se-declara-ao-filho/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-rayssa-leal-mes-orgulho",
+    "data": "2026-06-06",
+    "titulo": "Rayssa Leal fala sobre sexualidade no Mês do Orgulho",
+    "resumo": "A skatista Rayssa Leal se pronunciou sobre sua sexualidade durante o Mês do Orgulho. Ela respondeu a seguidores sobre fazer parte da comunidade LGBT, afirmando que não surpreenderia ninguém. A atleta tem se destacado não só no esporte, mas também em suas posições públicas.",
+    "categoria": "cultura",
+    "tags": [
+      "Rayssa Leal",
+      "skatista",
+      "Mês do Orgulho",
+      "sexualidade",
+      "LGBT"
+    ],
+    "entidades": [
+      "Rayssa Leal"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/pop/celebridades/no-mes-do-orgulho-rayssa-leal-fala-sobre-sexualidade-chocando-0-pessoas/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-peixe-sem-machos",
+    "data": "2026-06-06",
+    "titulo": "Espécie de peixe que vive sem machos há 100 mil anos é tema de notícia",
+    "resumo": "Uma espécie de peixe que se reproduz sem a necessidade de machos há cerca de 100 mil anos foi destacada em reportagem. Esses peixes habitam rios do México e do sul do Texas. A particularidade evolutiva da espécie desperta interesse científico.",
+    "categoria": "ciencia",
+    "tags": [
+      "ciência",
+      "biologia",
+      "espécie de peixe",
+      "reprodução assexuada",
+      "evolução",
+      "México",
+      "Texas"
+    ],
+    "entidades": [
+      "México",
+      "Texas"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/meio-ambiente/noticia/2026/06/06/a-especie-de-peixe-que-vive-sem-machos-ha-100-mil-anos.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-recorde-frio-bh",
+    "data": "2026-06-06",
+    "titulo": "Belo Horizonte registra novo recorde de frio do ano",
+    "resumo": "Belo Horizonte registrou a temperatura mais baixa do ano neste sábado, marcando 8,8°C na região da Pampulha. O recorde de frio foi observado por volta das 6h da manhã, de acordo com a Defesa Civil Municipal. A baixa temperatura chamou a atenção.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "clima",
+      "frio",
+      "recorde",
+      "Belo Horizonte",
+      "temperatura"
+    ],
+    "entidades": [
+      "Belo Horizonte",
+      "Pampulha"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/06/bh-registra-8-8-c-e-bate-novo-recorde-de-frio-do-ano-neste-sabado.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-filha-presidente-colombia-james",
+    "data": "2026-06-06",
+    "titulo": "Filha do presidente da Colômbia se pronuncia após polêmica com James Rodríguez",
+    "resumo": "A filha do presidente da Colômbia, Antonella Petro, manifestou-se após uma polêmica envolvendo o jogador James Rodríguez. Houve alegações de que o meia teria se recusado a tirar uma foto com ela. O incidente ocorreu durante o embarque da seleção colombiana.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "Colômbia",
+      "James Rodríguez",
+      "polêmica",
+      "presidente",
+      "Antonella Petro"
+    ],
+    "entidades": [
+      "Colômbia",
+      "James Rodríguez",
+      "Antonella Petro"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/filha-do-presidente-da-colombia-se-manifesta-apos-polemica-com-james/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-wembanyama-derrota-spurs",
+    "data": "2026-06-06",
+    "titulo": "Wembanyama assume responsabilidade por derrota dos Spurs",
+    "resumo": "O jogador Victor Wembanyama assumiu a responsabilidade pela derrota do San Antonio Spurs em uma partida da final da NBA. Ele expressou frustração com seu desempenho, afirmando que 'jogou tudo fora'. Os Spurs estão em desvantagem na série contra o New York Knicks.",
+    "categoria": "esportes",
+    "tags": [
+      "basquete",
+      "NBA",
+      "San Antonio Spurs",
+      "New York Knicks",
+      "Wembanyama",
+      "derrota",
+      "final"
+    ],
+    "entidades": [
+      "Victor Wembanyama",
+      "San Antonio Spurs",
+      "New York Knicks"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/basquete/wembanyama-assume-responsabilidade-em-derrota-dos-spurs-joguei-tudo-fora/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-inter-interesse-gui-negao",
+    "data": "2026-06-06",
+    "titulo": "Internacional demonstra interesse em contratar Gui Negão, do Corinthians",
+    "resumo": "O Internacional estaria interessado na contratação do atacante Gui Negão, atualmente no Corinthians. O clube europeu também monitora o desempenho do jogador. A negociação pode movimentar o mercado de transferências.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "transferência",
+      "Internacional",
+      "Corinthians",
+      "Gui Negão",
+      "atacante"
+    ],
+    "entidades": [
+      "Internacional",
+      "Corinthians",
+      "Gui Negão"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/internacional-futebol/inter-tem-interesse-na-contratacao-de-gui-negao-atacante-do-corinthians/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-aniversario-sonora-churrasco",
+    "data": "2026-06-06",
+    "titulo": "Aniversário de Sonora terá churrasco gratuito com carne doada",
+    "resumo": "A cidade de Sonora, no Mato Grosso do Sul, comemorará seus 38 anos com um churrasco gratuito para os moradores neste domingo. A carne será proveniente de 15 vacas doadas por produtores rurais do município. O evento faz parte das celebrações de aniversário da cidade.",
+    "categoria": "cultura",
+    "tags": [
+      "celebração",
+      "aniversário",
+      "Sonora",
+      "churrasco",
+      "doação",
+      "produtores rurais"
+    ],
+    "entidades": [
+      "Sonora",
+      "Mato Grosso do Sul"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/06/aniversario-de-sonora-tera-churrasco-gratuito-com-carne-de-15-vacas-doadas-por-produtores.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-naufragio-rio-amazonas-santarem",
+    "data": "2026-06-06",
+    "titulo": "Homem vai parar na água após naufrágio de lancha em Santarém",
+    "resumo": "Uma tentativa frustrada de embarque resultou em naufrágio de uma lancha no Rio Amazonas, em Santarém, no oeste do Pará. O homem, que perdeu a balsa, tentou pegar a lancha para embarcar, mas a embarcação virou. Ele acabou caindo na água.",
+    "categoria": "seguranca",
+    "tags": [
+      "naufrágio",
+      "acidente",
+      "lancha",
+      "Rio Amazonas",
+      "Santarém",
+      "Pará"
+    ],
+    "entidades": [
+      "Santarém",
+      "Pará",
+      "Rio Amazonas",
+      "Santana do Tapará"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/06/em-santarem-homem-perde-balsa-pega-lancha-para-tentar-embarcar-no-rio-e-vai-parar-na-agua-apos-naufragio.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-virginia-ze-felipe-show",
+    "data": "2026-06-06",
+    "titulo": "Filhas de Virginia e Zé Felipe se arrumam para show do pai",
+    "resumo": "As filhas de Virginia Fonseca e Zé Felipe, Maria Flor e Maria Alice, fizeram um 'arrume-se comigo' para assistir a um show do pai. As crianças estiveram presentes no Arraiá do Bem, em Goiânia. A família compartilhou o momento nas redes sociais.",
+    "categoria": "cultura",
+    "tags": [
+      "celebridades",
+      "Virginia Fonseca",
+      "Zé Felipe",
+      "filhas",
+      "show",
+      "Goiânia",
+      "Arraiá do Bem"
+    ],
+    "entidades": [
+      "Virginia Fonseca",
+      "Zé Felipe",
+      "Maria Flor",
+      "Maria Alice",
+      "Goiânia"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/pop/celebridades/filhas-de-virginia-e-ze-felipe-fazem-arrume-se-comigo-para-show-do-pai/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-06-eptv1-noticias",
+    "data": "2026-06-06",
+    "titulo": "EPTV1 de Ribeirão e Franca transmite notícias deste sábado",
+    "resumo": "A EPTV1, afiliada da TV Globo em Ribeirão Preto e Franca, está transmitindo as notícias de sábado, 6 de junho. A programação ao vivo acompanha os principais acontecimentos regionais e estaduais. O público pode acompanhar os destaques do dia.",
+    "categoria": "geral",
+    "tags": [
+      "notícias",
+      "EPTV1",
+      "Ribeirão Preto",
+      "Franca",
+      "ao vivo"
+    ],
+    "entidades": [
+      "EPTV1",
+      "Ribeirão Preto",
+      "Franca"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv1.ghtml"
+      }
+    ]
   }
 ]
