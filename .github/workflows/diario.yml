@@ -1,0 +1,63 @@
+# ============================================================
+# diario.yml — Roda o robô 1x por dia automaticamente
+# ============================================================
+# O que faz:
+# 1. Instala Node.js e dependências
+# 2. Roda o coletor (busca feeds RSS)
+# 3. Roda o cérebro (Gemini resume e etiqueta)
+# 4. Salva o resultado em site/public/ultimo.json
+# 5. Faz commit e push — o Cloudflare Pages detecta e atualiza o site
+# ============================================================
+
+name: Diário
+
+# Quando roda:
+on:
+  # Todo dia às 8h BRT (11h UTC)
+  schedule:
+    - cron: '0 11 * * *'
+  # Também pode ser disparado manualmente pelo painel do GitHub
+  workflow_dispatch:
+
+jobs:
+  processar:
+    runs-on: ubuntu-latest
+
+    # Permissão pra fazer commit no repositório
+    permissions:
+      contents: write
+
+    steps:
+      - name: Baixar o código
+        uses: actions/checkout@v4
+
+      - name: Instalar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Instalar dependências do robô
+        run: |
+          cd robo
+          npm ci
+
+      - name: Coletar notícias
+        run: |
+          cd robo
+          npm run coletar
+
+      - name: Processar com Gemini
+        run: |
+          cd robo
+          npm run processar
+        env:
+          # A chave da API vem dos Secrets do GitHub (explicado abaixo)
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Commitar atualização
+        run: |
+          git config user.name "StatusMundo Robô"
+          git config user.email "robo@statusmundo"
+          git add site/public/ultimo.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Atualização diária $(date +'%d/%m/%Y')"
+          git push
