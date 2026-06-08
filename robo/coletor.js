@@ -19,11 +19,19 @@ const parser = new RssParser()
 // Edite aqui: adicione ou remova URLs de feeds RSS
 // ============================================================
 const URLS_FEEDS = [
+  // === BRASIL (fontes originais) ===
   'https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml',
   'https://g1.globo.com/rss/g1/',
   'https://www.cnnbrasil.com.br/feed/',
   'https://feeds.folha.uol.com.br/emcimadahora/rss.xml',
   'https://www.estadao.com.br/feed/',
+
+  // === INTERNACIONAIS (em inglês, o Gemini traduz) ===
+  'https://feeds.bbci.co.uk/news/world/rss.xml',
+  'https://www.theguardian.com/world/rss',
+  'https://www.aljazeera.com/xml/rss/all.xml',
+  'https://rss.dw.com/rdf/rss-en-all',
+  'https://www.france24.com/en/rss',
 ]
 
 // ============================================================

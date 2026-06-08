@@ -1,740 +1,767 @@
 [
   {
-    "id": "2026-06-07-morte-menino-esgoto",
-    "data": "2026-06-07",
-    "titulo": "Menino de 2 anos é encontrado morto em esgoto no Piauí; suspeita de afogamento",
-    "resumo": "Um menino de dois anos foi encontrado morto em um esgoto nos fundos da casa onde morava com os pais em Jacobina do Piauí. A principal suspeita é de afogamento. As autoridades investigam o caso.",
-    "categoria": "seguranca",
+    "id": "2026-06-08-ataques-israel-ira",
+    "data": "2026-06-08",
+    "titulo": "Israel e Irã trocam ataques e tensões aumentam no Oriente Médio",
+    "resumo": "Israel e Irã realizaram ataques militares um contra o outro, aumentando a escalada de tensões na região. O presidente dos Estados Unidos, Donald Trump, conversou com Benjamin Netanyahu, pedindo calma, mas os ataques prosseguiram. O porta-voz do Ministério das Relações Exteriores do Irã afirmou que os EUA têm responsabilidade direta pela situação.",
+    "categoria": "internacional",
     "tags": [
-      "morte",
-      "esgoto",
-      "afogamento",
-      "criança",
-      "Piauí"
+      "conflito",
+      "oriente médio",
+      "escalada",
+      "diplomacia"
     ],
     "entidades": [
-      "Jacobina do Piauí"
+      "ONU",
+      "G7"
     ],
-    "importancia": 4,
+    "pessoas": [
+      "Donald Trump",
+      "Benjamin Netanyahu",
+      "Esmail Baghaei"
+    ],
+    "estados": [],
+    "cidades": [
+      "Jerusalém Oriental"
+    ],
+    "paises": [
+      "Israel",
+      "Irã",
+      "Estados Unidos"
+    ],
+    "importancia": 5,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/07/menino-encontrado-morto-esgoto-piaui.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-morte-mulher-hospital-pb",
-    "data": "2026-06-07",
-    "titulo": "Mulher deixada morta em hospital de João Pessoa é identificada",
-    "resumo": "A mulher que foi deixada morta e com hematomas no Hospital Edson Ramalho, em João Pessoa, foi identificada. Um homem desconhecido deixou a vítima no hospital. O Instituto de Polícia Científica apura as circunstâncias.",
-    "categoria": "seguranca",
-    "tags": [
-      "morte",
-      "hospital",
-      "identificada",
-      "lesões",
-      "João Pessoa"
-    ],
-    "entidades": [
-      "Hospital Edson Ramalho",
-      "João Pessoa",
-      "Instituto de Polícia Científica"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/06/07/mulher-deixada-morta-em-hospital-de-joao-pessoa-identificada-ipc.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-morte-vizinha-sp",
-    "data": "2026-06-07",
-    "titulo": "Acusado de matar vizinha em briga por água em SP está foragido há mais de um mês",
-    "resumo": "Um homem de 65 anos está foragido há mais de um mês após ser acusado de matar uma vizinha com um tiro na cabeça em Guarujá, litoral de São Paulo. O crime ocorreu durante uma briga relacionada à água. A polícia segue nas buscas.",
-    "categoria": "seguranca",
-    "tags": [
-      "homicídio",
-      "briga",
-      "água",
-      "foragido",
-      "São Paulo"
-    ],
-    "entidades": [
-      "Guarujá",
-      "São Paulo"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/07/acusado-de-matar-vizinha-com-tiro-na-cabeca-durante-briga-por-agua-em-sp-esta-foragido-ha-mais-de-um-mes.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-morte-onibus-rs",
-    "data": "2026-06-07",
-    "titulo": "Ônibus tomba na BR-290 no RS: uma morte e 11 feridos",
-    "resumo": "Um acidente com um ônibus de viagem na BR-290, em Glorinha (RS), resultou na morte de uma mulher de 69 anos e deixou 11 feridos. Dois passageiros tiveram ferimentos graves. As causas do tombamento estão sob investigação.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente",
-      "ônibus",
-      "tombamento",
-      "morte",
-      "feridos",
-      "Rio Grande do Sul"
-    ],
-    "entidades": [
-      "BR-290",
-      "Glorinha",
-      "Rio Grande do Sul"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/07/onibus-tomba-br-glorinha-mulher-morre-freeway.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-trafico-drogas-pr",
-    "data": "2026-06-07",
-    "titulo": "Traficante é flagrada escondendo crack em ursinho de pelúcia no Paraná",
-    "resumo": "Uma mulher foi presa em União da Vitória, no sul do Paraná, acusada de tráfico de drogas. Porções de crack foram encontradas dentro de um ursinho de pelúcia e na residência da suspeita. A Polícia Militar realizou a apreensão.",
-    "categoria": "seguranca",
-    "tags": [
-      "tráfico de drogas",
-      "prisão",
-      "crack",
-      "ursinho de pelúcia",
-      "Paraná"
-    ],
-    "entidades": [
-      "União da Vitória",
-      "Paraná",
-      "Polícia Militar"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/06/07/ursinho-de-pelucia-recheado-com-drogas-traficante-e-flagrada-escondendo-crack-dentro-de-brinquedo-no-parana.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-pm-baleia-suspeito-ma",
-    "data": "2026-06-07",
-    "titulo": "Policial de folga baleia suspeito de tentativa de assalto em São Luís",
-    "resumo": "Um homem suspeito de tentar cometer um assalto foi baleado por um policial militar de folga no bairro Turu, em São Luís. O caso ocorreu na madrugada de sábado. Dois suspeitos estariam envolvidos na tentativa de assalto.",
-    "categoria": "seguranca",
-    "tags": [
-      "assalto",
-      "tentativa de assalto",
-      "PM",
-      "baleado",
-      "São Luís"
-    ],
-    "entidades": [
-      "Turu",
-      "São Luís",
-      "Polícia Militar"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/07/suspeito-de-tentativa-de-assalto-e-baleado-por-pm-de-folga-no-bairro-turu-em-sao-luis.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-papa-madri",
-    "data": "2026-06-07",
-    "titulo": "Papa reúne mais de 1,2 milhão de fiéis em Madri e pede renovação da fé católica",
-    "resumo": "O Papa Leão XIV celebrou uma missa campal em Madri, reunindo mais de 1,2 milhão de fiéis. Durante a celebração, ele pediu a renovação da fé católica. O evento ocorreu no centro da capital espanhola.",
-    "categoria": "cultura",
-    "tags": [
-      "Papa",
-      "religião",
-      "fé católica",
-      "Missa",
-      "Madri",
-      "Espanha"
-    ],
-    "entidades": [
-      "Papa Leão XIV",
-      "Madri",
-      "Espanha"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/06/07/papa-reune-mais-de-12-milhao-de-fieis-em-madri-e-pede-renovacao-da-fe.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-gaokao-china",
-    "data": "2026-06-07",
-    "titulo": "Vestibular mais concorrido da China, Gaokao, tem mais de 12,9 milhões de inscritos",
-    "resumo": "Mais de 12,9 milhões de estudantes iniciaram a participação no Gaokao, o exame nacional de ingresso ao ensino superior na China, conhecido como o vestibular mais difícil do mundo. O exame utiliza tecnologia anti-cola e bloqueio de IA. As provas se estendem por vários dias.",
-    "categoria": "educacao",
-    "tags": [
-      "vestibular",
-      "China",
-      "Gaokao",
-      "estudantes",
-      "exame"
-    ],
-    "entidades": [
-      "China"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/educacao/noticia/2026/06/07/gaokao-vestibular-mais-dificil-do-mundo-tem-tecnologia-anti-cola-bloqueio-de-ia-e-silencio-nas-ruas-na-china.html"
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/8/israel-and-iran-exchange-attacks-as-ceasefire-falters?traffic_source=rss"
       },
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/educacao/noticia/2026/06/07/voce-acertaria-veja-3-questoes-de-ingles-do-gaokao-vestibular-mais-concorrido-da-china.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-mega-sena-df",
-    "data": "2026-06-07",
-    "titulo": "Morador do DF ganha R$ 30 milhões na Mega-Sena com aposta única",
-    "resumo": "Um morador do Distrito Federal ganhou sozinho o prêmio de R$ 30 milhões da Mega-Sena, no sorteio realizado no último sábado. A aposta vencedora foi uma única aposta simples. Os números sorteados foram 09, 18, 26, 31, 53 e 58.",
-    "categoria": "economia",
-    "tags": [
-      "Mega-Sena",
-      "prêmio",
-      "Distrito Federal",
-      "sorteio",
-      "aposta"
-    ],
-    "entidades": [
-      "Distrito Federal"
-    ],
-    "importancia": 3,
-    "fontes": [
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu"
+      },
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/07/morador-do-df-que-ganhou-r-30-milhoes-na-mega-sena-fez-unica-aposta-simples.html"
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/8/iran-war-day-101-tensions-escalate-as-iran-and-israel-trade-air-attacks?traffic_source=rss"
+      },
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/missiles-intercepted-over-occupied-east-jerusalem-and-west-bank-2?traffic_source=rss"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu"
       }
     ]
   },
   {
-    "id": "2026-06-07-sustentabilidade-negocios",
-    "data": "2026-06-07",
-    "titulo": "Sustentabilidade pode beneficiar pequenos negócios, aponta especialista",
-    "resumo": "A sustentabilidade é apresentada como um fator de benefício para pequenos negócios. O uso de recursos naturais, fontes renováveis e gestão de resíduos podem aumentar o valor e a percepção de marca. A adoção de práticas sustentáveis é incentivada.",
-    "categoria": "economia",
+    "id": "2026-06-08-terremoto-filipinas",
+    "data": "2026-06-08",
+    "titulo": "Terremoto de magnitude 7,8 atinge sul das Filipinas, deixando ao menos 15 mortos",
+    "resumo": "Um terremoto de magnitude 7,8 atingiu a região sul das Filipinas, causando o colapso de edifícios e resultando em pelo menos 15 mortes. As autoridades alertaram os moradores para não entrarem em construções danificadas devido ao risco de réplicas. Imagens mostram danos significativos na infraestrutura.",
+    "categoria": "internacional",
     "tags": [
-      "sustentabilidade",
-      "pequenos negócios",
-      "benefícios",
-      "práticas sustentáveis",
-      "mercado"
+      "terremoto",
+      "desastre natural",
+      "filipinas",
+      "mortes"
     ],
     "entidades": [],
-    "importancia": 3,
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Filipinas"
+    ],
+    "importancia": 4,
     "fontes": [
       {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/jun/08/philippines-earthquake-mindanao-tsunami-warnings"
+      },
+      {
         "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/economia/negocios/como-a-sustentabilidade-pode-beneficiar-os-pequenos-negocios/"
+        "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-78-deixa-mortos-nas-filipinas/"
       }
     ]
   },
   {
-    "id": "2026-06-07-decreto-big-techs",
-    "data": "2026-06-07",
-    "titulo": "Especialista vê risco à liberdade de expressão em decreto sobre big techs",
-    "resumo": "Um especialista em direito digital, Luis Fernando Prado, alertou para riscos à liberdade de expressão decorrentes de um decreto do Executivo sobre big techs. O decreto altera regras de expressão na internet. A análise foi feita em entrevista.",
+    "id": "2026-06-08-xi-jinping-coreia-norte",
+    "data": "2026-06-08",
+    "titulo": "Visita de Xi Jinping à Coreia do Norte busca reafirmar influência de Pequim",
+    "resumo": "O presidente chinês, Xi Jinping, visitou a Coreia do Norte em um movimento estratégico de Pequim para reafirmar sua influência sobre um parceiro considerado vital, porém imprevisível. A visita ocorre em um momento de tensões regionais e busca alinhar as estratégias dos dois países.",
+    "categoria": "internacional",
+    "tags": [
+      "diplomacia",
+      "china",
+      "coreia do norte",
+      "geopolítica"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Xi Jinping"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "China",
+      "Coreia do Norte"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "BBC",
+        "url": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-08-armenia-eleicoes",
+    "data": "2026-06-08",
+    "titulo": "Partido pró-Europa vence eleições na Armênia, marcando afastamento da Rússia",
+    "resumo": "O partido governista pró-Europa venceu as eleições parlamentares na Armênia, consolidando a aproximação do país com a Europa. O resultado fortalece a agenda do primeiro-ministro Nikol Pashinyan em busca de uma integração europeia mais profunda, apesar das advertências de Moscou.",
     "categoria": "politica",
     "tags": [
-      "decreto",
-      "big techs",
-      "liberdade de expressão",
-      "internet",
-      "direito digital"
-    ],
-    "entidades": [
-      "Luis Fernando Prado"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/tecnologia/especialista-ve-risco-a-liberdade-de-expressao-em-decreto-das-big-techs/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-seguranca-eua",
-    "data": "2026-06-07",
-    "titulo": "Disputa entre agências de inteligência ameaça segurança dos EUA",
-    "resumo": "Uma disputa entre agências de inteligência nos Estados Unidos pode comprometer a segurança do país. A colaboração entre elas está sendo prejudicada em análises importantes sobre Irã, China e Rússia, em um momento considerado delicado para o governo americano.",
-    "categoria": "internacional",
-    "tags": [
-      "segurança",
-      "agências de inteligência",
-      "EUA",
-      "Irã",
-      "China",
-      "Rússia"
-    ],
-    "entidades": [
-      "Estados Unidos",
-      "Irã",
-      "China",
-      "Rússia"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/disputa-entre-agencias-de-inteligencia-ameaca-seguranca-dos-eua/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-ira-paquistao",
-    "data": "2026-06-07",
-    "titulo": "Mediador paquistanês se encontra com ministros do Irã em meio a cessar-fogo frágil",
-    "resumo": "Um mediador do Paquistão está em negociações com ministros do Irã, buscando fortalecer um cessar-fogo iniciado em abril. A trégua tem enfrentado violações. O objetivo é estabilizar a situação na região.",
-    "categoria": "internacional",
-    "tags": [
-      "mediador",
-      "Paquistão",
-      "Irã",
-      "cessar-fogo",
-      "negociações"
-    ],
-    "entidades": [
-      "Paquistão",
-      "Irã"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/mediador-paquistanes-encontra-ministros-do-ira-em-meio-a-cessar-fogo-fragil/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-russia-armenia",
-    "data": "2026-06-07",
-    "titulo": "Rússia aumenta pressão sobre a Armênia antes das eleições",
-    "resumo": "A Rússia tem intensificado a pressão sobre a Armênia antes das eleições, com restrições comerciais e alertas. O objetivo é frear uma possível aproximação do país com o ocidente e a União Europeia. A Rússia busca manter sua influência.",
-    "categoria": "internacional",
-    "tags": [
-      "Rússia",
-      "Armênia",
       "eleições",
-      "pressão",
-      "Ocidente",
-      "União Europeia"
-    ],
-    "entidades": [
-      "Rússia",
-      "Armênia",
-      "União Europeia"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/russia-aumenta-a-pressao-sobre-a-armenia-antes-das-eleicoes/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-sao-joao-campina-grande",
-    "data": "2026-06-07",
-    "titulo": "São João de Campina Grande terá shows de Raphaela Santos e Nattanzinho Lima neste domingo",
-    "resumo": "O São João 2026 de Campina Grande terá atrações musicais neste domingo, 7 de junho. Entre os artistas confirmados para se apresentar no Parque do Povo estão Raphaela Santos e Nattanzinho Lima. Outros cantores também farão parte da programação.",
-    "categoria": "cultura",
-    "tags": [
-      "São João",
-      "Campina Grande",
-      "shows",
-      "música",
-      "atrações"
-    ],
-    "entidades": [
-      "Campina Grande",
-      "Raphaela Santos",
-      "Nattanzinho Lima",
-      "Parque do Povo"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pb/paraiba/sao-joao/noticia/2026/06/07/sao-joao-2026-de-campina-grande-tem-raphaela-santos-e-outras-atracoes-neste-domingo-7.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-cultura-economia-ma",
-    "data": "2026-06-07",
-    "titulo": "Cultura popular do São João movimenta economia e gera oportunidades no Maranhão",
-    "resumo": "O São João no Maranhão, com manifestações como o bumba meu boi, tem impulsionado a economia local. A cultura popular gera oportunidades para pequenos empreendedores e destaca a riqueza das tradições do estado. A celebração atrai muitos visitantes.",
-    "categoria": "economia",
-    "tags": [
-      "São João",
-      "cultura popular",
-      "economia",
-      "empreendedorismo",
-      "Maranhão"
-    ],
-    "entidades": [
-      "Maranhão",
-      "bumba meu boi"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/empreendedorismo/noticia/2026/06/07/sao-joao-cultura-popular-movimenta-economia-e-gera-oportunidades-para-pequenos-empreendedores-no-ma.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-cupim-casqueirado-patrimonio",
-    "data": "2026-06-07",
-    "titulo": "Cupim casqueirado vira patrimônio gastronômico e será apresentado em congresso internacional",
-    "resumo": "O cupim casqueirado, iguaria de Araçatuba (SP) criada em 1989, foi reconhecido como patrimônio imaterial gastronômico do município. A invenção, que visava atrair estudantes, será apresentada em um congresso internacional. O alimento faz parte da cultura local.",
-    "categoria": "cultura",
-    "tags": [
-      "patrimônio",
-      "gastronomia",
-      "cupim casqueirado",
-      "Araçatuba",
-      "internacional"
-    ],
-    "entidades": [
-      "Araçatuba",
-      "São Paulo"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/06/07/de-invencao-para-atrair-estudantes-a-apresentacao-em-congresso-internacional-saiba-como-cupim-casqueirado-virou-patrimonio.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-pesquisa-grama-sp",
-    "data": "2026-06-07",
-    "titulo": "Região de Itapetininga (SP) é responsável por 18% da produção de grama do Brasil",
-    "resumo": "Uma pesquisa da Associação Nacional Grama Legal apontou que a região de Itapetininga, em São Paulo, é a maior produtora de grama do Brasil, com cerca de 18% do total nacional. A produção abastece desde campos de futebol a jardins.",
-    "categoria": "economia",
-    "tags": [
-      "produção",
-      "grama",
-      "Itapetininga",
-      "São Paulo",
-      "pesquisa"
-    ],
-    "entidades": [
-      "Itapetininga",
-      "São Paulo",
-      "Associação Nacional Grama Legal"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/06/07/de-campos-de-futebol-a-jardins-regiao-de-itapetininga-e-responsavel-por-18percent-da-producao-de-grama-do-brasil-aponta-pesquisa.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-estudo-antibioticos-sp",
-    "data": "2026-06-07",
-    "titulo": "Estudo em hospital de Sorocaba reduz uso de antibióticos e vira artigo internacional",
-    "resumo": "Um estudo realizado no Hospital Regional de Sorocaba (SP) obteve uma redução de até 36,5% no uso de antibióticos em pacientes internados. O trabalho sobre resistência bacteriana foi publicado em uma revista internacional. A pesquisa foi desenvolvida por professores da Uniso.",
-    "categoria": "saude",
-    "tags": [
-      "estudo",
-      "hospital",
-      "antibióticos",
-      "resistência bacteriana",
-      "publicação internacional",
-      "Sorocaba"
-    ],
-    "entidades": [
-      "Hospital Regional de Sorocaba",
-      "Sorocaba",
-      "Uniso"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/07/estudo-feito-em-hospital-de-sorocaba-reduz-uso-de-antibioticos-vira-artigo-sobre-resistencia-bacteriana-e-e-publicado-em-revista-internacional.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-processos-planos-saude-sp",
-    "data": "2026-06-07",
-    "titulo": "Processos contra planos de saúde sobem mais de 160% em Presidente Prudente (SP)",
-    "resumo": "O número de processos judiciais contra planos de saúde em Presidente Prudente (SP) cresceu mais de 160% nos últimos cinco anos, segundo dados do CNJ. Em maio, a Agência Nacional de Saúde Suplementar (ANS) também registrou aumento de demandas. As causas ainda estão sendo analisadas.",
-    "categoria": "justica",
-    "tags": [
-      "processos judiciais",
-      "planos de saúde",
-      "aumento",
-      "Presidente Prudente",
-      "CNJ",
-      "ANS"
-    ],
-    "entidades": [
-      "Presidente Prudente",
-      "Conselho Nacional de Justiça (CNJ)",
-      "Agência Nacional de Saúde Suplementar (ANS)"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/06/07/processos-na-justica-contra-planos-de-saude-sobem-mais-de-160percent-em-presidente-prudente.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-familia-bebe-acre",
-    "data": "2026-06-07",
-    "titulo": "Família de bebê com crises convulsivas luta por diagnóstico no Acre",
-    "resumo": "A família de um bebê de 1 ano com crises convulsivas busca um diagnóstico preciso no Acre. O bebê tem enfrentado uma rotina de internações e exames. A situação tem gerado grande angústia para os pais. A luta pela saúde da criança continua.",
-    "categoria": "saude",
-    "tags": [
-      "crises convulsivas",
-      "bebê",
-      "diagnóstico",
-      "saúde",
-      "Acre",
-      "luta"
-    ],
-    "entidades": [
-      "Acre",
-      "Neemias da Silva Oliveira"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ac/acre/noticia/2026/06/07/familia-de-bebe-de-1-ano-com-crises-convulsivas-luta-por-diagnostico-no-acre-morrendo-a-cada-dia.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-homem-mata-amiga-filha-sp",
-    "data": "2026-06-07",
-    "titulo": "Homem alega que matou amiga da filha após ser chamado de 'velho safado' em SP",
-    "resumo": "Um homem de 53 anos confessou ter matado a amiga da filha, de 20 anos, em Pontal (SP). Ele alega que o crime foi motivado por vingança após ter sido chamado de 'velho safado' pela jovem. O caso ocorreu em abril e o réu está sendo processado.",
-    "categoria": "seguranca",
-    "tags": [
-      "homicídio",
-      "motivo",
-      "vingança",
-      "confissão",
-      "São Paulo"
-    ],
-    "entidades": [
-      "Pontal",
-      "São Paulo",
-      "Cleomar Borges Gomes",
-      "Geniane Pereira"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/06/07/homem-diz-que-matou-amiga-da-filha-no-interior-de-sp-apos-ser-chamado-de-velho-safado.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-luzes-misteriosas-ceu",
-    "data": "2026-06-07",
-    "titulo": "Casal grava luzes misteriosas no céu entre SP e PR",
-    "resumo": "Um casal gravou luzes misteriosas no céu durante uma viagem próxima à divisa entre São Paulo e Paraná. O vídeo viralizou nas redes sociais. O registro foi feito na noite de 28 de maio entre as cidades de Ourinhos e Ipaussu.",
-    "categoria": "ciencia",
-    "tags": [
-      "fenômeno",
-      "luzes misteriosas",
-      "céu",
-      "vídeo",
-      "São Paulo",
-      "Paraná"
-    ],
-    "entidades": [
-      "São Paulo",
-      "Paraná",
-      "Ourinhos",
-      "Ipaussu"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/06/07/casal-grava-luzes-misteriosas-no-ceu-durante-viagem-proximo-a-divisa-entre-sp-e-pr-video.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-receita-cocada-rapadura",
-    "data": "2026-06-07",
-    "titulo": "Aprenda a fazer cocada de rapadura para as festas juninas",
-    "resumo": "Uma receita de cocada de rapadura foi ensinada no quadro 'Bom Que Só' da Inter TV Rural. A iguaria é tradicional das festas juninas e nordestinas, combinando simplicidade e sabor. O preparo utiliza poucos ingredientes.",
-    "categoria": "cultura",
-    "tags": [
-      "receita",
-      "culinária",
-      "festas juninas",
-      "cocada",
-      "rapadura",
-      "Nordeste"
-    ],
-    "entidades": [
-      "Inter TV Rural"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rn/rio-grande-do-norte/bom-que-so/noticia/2026/06/07/receita-junina-veja-como-fazer-cocada-de-rapadura.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-videos-globo-comunidade-df",
-    "data": "2026-06-07",
-    "titulo": "VÍDEOS: Globo Comunidade DF de domingo, 7 de junho de 2026",
-    "resumo": "O Globo Comunidade DF deste domingo, 7 de junho, apresentou uma compilação de reportagens com as notícias mais relevantes do Distrito Federal. Os vídeos estão disponíveis para acesso. O telejornal cobre os acontecimentos locais.",
-    "categoria": "noticias",
-    "tags": [
-      "vídeos",
-      "Globo Comunidade DF",
-      "notícias",
-      "Distrito Federal"
-    ],
-    "entidades": [
-      "Distrito Federal"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/df/distrito-federal/globo-comunidade-df/playlist/videos-globo-comunidade-df-de-domingo-7-de-junho-de-2026.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-videos-jornal-campo-to",
-    "data": "2026-06-07",
-    "titulo": "VÍDEOS: Jornal do Campo - TO de domingo, 7 de junho de 2026",
-    "resumo": "Confira todos os vídeos do Jornal do Campo do Tocantins deste domingo, 7 de junho. O programa apresentou reportagens com foco no agronegócio e em questões rurais do estado. As reportagens estão disponíveis online.",
-    "categoria": "noticias",
-    "tags": [
-      "vídeos",
-      "Jornal do Campo",
-      "Tocantins",
-      "agronegócio",
-      "rural"
-    ],
-    "entidades": [
-      "Tocantins"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/to/tocantins/edicao/2026/06/07/videos-jornal-do-campo-to-de-domingo-7-de-junho-de-2026.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-videos-g1-bahia",
-    "data": "2026-06-07",
-    "titulo": "Vídeos do g1 Bahia e TV Bahia – domingo, 7 de junho de 2026",
-    "resumo": "Veja os vídeos com as principais notícias do estado da Bahia exibidos no g1 Bahia e na TV Bahia neste domingo, 7 de junho. O conteúdo aborda os acontecimentos mais importantes da região e está disponível para acesso.",
-    "categoria": "noticias",
-    "tags": [
-      "vídeos",
-      "g1 Bahia",
-      "TV Bahia",
-      "notícias",
-      "Bahia"
-    ],
-    "entidades": [
-      "Bahia"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ba/bahia/edicao/2026/06/07/videos-do-g1-bahia-e-tv-bahia-domingo-7-de-junho-de-2026.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-videos-jornal-campo-go",
-    "data": "2026-06-07",
-    "titulo": "VÍDEOS: Jornal do Campo GO de domingo, 07 de junho de 2026",
-    "resumo": "Assista aos vídeos do Jornal do Campo GO deste domingo, 07 de junho. O programa apresentou reportagens sobre o setor rural e o agronegócio de Goiás. Os vídeos estão disponíveis para visualização.",
-    "categoria": "noticias",
-    "tags": [
-      "vídeos",
-      "Jornal do Campo GO",
-      "Goiás",
-      "agronegócio",
-      "rural"
-    ],
-    "entidades": [
-      "Goiás"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/go/goias/edicao/2026/06/07/videos-jornal-do-campo-go-de-domingo-07-de-junho-de-2026.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-07-mudanca-cidade",
-    "data": "2026-06-07",
-    "titulo": "Organização é essencial para uma mudança de cidade sem transtornos",
-    "resumo": "A mudança de cidade requer organização desde o orçamento até a escolha do novo imóvel. Planejar com antecedência é fundamental para garantir uma transição mais segura e tranquila. A matéria oferece dicas para se organizar.",
-    "categoria": "economia",
-    "tags": [
-      "mudança",
-      "cidade",
-      "organização",
-      "imóvel",
-      "planejamento"
+      "armênia",
+      "europa",
+      "rússia"
     ],
     "entidades": [],
+    "pessoas": [
+      "Nikol Pashinyan"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Armênia",
+      "Rússia"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/jun/08/armenia-europe-party-wins-election-russia-nikol-pashinyan"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-08-kenya-calor-extremo",
+    "data": "2026-06-08",
+    "titulo": "Milhões de iemenitas enfrentam calor extremo e apagões",
+    "resumo": "Milhões de iemenitas estão sofrendo com uma onda de calor intensa, agravada por cortes de energia constantes. A situação de crise humanitária no país devastado pela guerra é exacerbada pelas altas temperaturas. As residências se tornaram 'fornos' para muitos.",
+    "categoria": "internacional",
+    "tags": [
+      "calor",
+      "crise humanitária",
+      "iemen",
+      "apagões"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Iêmen"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/6/8/homes-turned-into-ovens-millions-of-yemenis-swelter-amid-heat-blackouts?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-08-nba-finais-trump",
+    "data": "2026-06-08",
+    "titulo": "Segurança reforçada para Finais da NBA com presença de Donald Trump",
+    "resumo": "As Finais da NBA terão um esquema de segurança de nível do Serviço Secreto devido à presença confirmada do ex-presidente Donald Trump no Jogo 3. Medidas como proibição de festas e fechamento de ruas foram implementadas na área. A expectativa é de grande movimentação e atenção redobrada.",
+    "categoria": "esportes",
+    "tags": [
+      "nba",
+      "segurança",
+      "donald trump",
+      "esportes"
+    ],
+    "entidades": [
+      "NBA"
+    ],
+    "pessoas": [
+      "Donald Trump"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/8/secret-service-level-security-for-nba-finals-with-trump-attending-game-3?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-08-copa-2026-horarios",
+    "data": "2026-06-08",
+    "titulo": "Confira os horários dos jogos da Copa do Mundo FIFA 2026 por fuso horário",
+    "resumo": "Um guia foi divulgado para ajudar torcedores a encontrar os horários das partidas da Copa do Mundo FIFA 2026 em suas respectivas regiões. O torneio contará com 104 jogos distribuídos pela América do Norte. Os horários foram ajustados para facilitar o acompanhamento global.",
+    "categoria": "esportes",
+    "tags": [
+      "copa do mundo",
+      "futebol",
+      "horários",
+      "américa do norte"
+    ],
+    "entidades": [
+      "FIFA"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos",
+      "Canadá",
+      "México"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/6/8/what-time-are-world-cup-2026-matches-in-my-time-zone?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-08-mobilidade-eletrica-cmu",
+    "data": "2026-06-08",
+    "titulo": "CMU planeja expandir para mobilidade elétrica com 100 eletropostos até 2027",
+    "resumo": "O grupo CMU anunciou sua entrada no setor de mobilidade elétrica, com planos de instalar cerca de 100 eletropostos até 2027. A subsidiária Watton liderará a iniciativa, que também visa a eletrificação de frotas de logística e entregas. A estratégia reforça o compromisso com a sustentabilidade.",
+    "categoria": "economia",
+    "tags": [
+      "mobilidade elétrica",
+      "eletropostos",
+      "sustentabilidade",
+      "frota"
+    ],
+    "entidades": [
+      "CMU",
+      "Watton"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/infra/cmu-entra-no-setor-de-mobilidade-eletrica-e-preve-100-eletropostos-ate-2027/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-08-keir-starmer-ia",
+    "data": "2026-06-08",
+    "titulo": "Keir Starmer discursa sobre regulação da inteligência artificial no Reino Unido",
+    "resumo": "Keir Starmer fará um discurso sobre a política de tecnologia do governo, enfatizando que a revolução tecnológica deve beneficiar a todos. O foco será a regulação da inteligência artificial e os impactos sociais e econômicos da IA no Reino Unido. O debate visa a garantir um desenvolvimento inclusivo e seguro.",
+    "categoria": "politica",
+    "tags": [
+      "inteligência artificial",
+      "tecnologia",
+      "política",
+      "reinado unido"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Keir Starmer",
+      "Andy Burnham",
+      "Kemi Badenoch"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/08/keir-starmer-technology-ai-online-harms-labour-andy-burnham-makerfield-kemi-badenoch-uk-politics-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-08-delação-vorcaro",
+    "data": "2026-06-08",
+    "titulo": "PF e PGR analisam continuidade da delação de dono do Banco Master",
+    "resumo": "A Polícia Federal (PF) e a Procuradoria-Geral da República (PGR) decidirão nesta semana se darão seguimento à proposta de delação premiada do dono do Banco Master, Olavo Fontes. A análise envolve a cobrança de provas, informações inéditas e a devolução de recursos.",
+    "categoria": "justica",
+    "tags": [
+      "delação premiada",
+      "banco master",
+      "investigação",
+      "polícia federal",
+      "pgr"
+    ],
+    "entidades": [
+      "PF",
+      "PGR"
+    ],
+    "pessoas": [
+      "Olavo Fontes"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/pf-e-pgr-devem-decidir-nesta-semana-se-dao-seguimento-a-delacao-de-vorcaro/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-08-tarifaço-eua-brasil",
+    "data": "2026-06-08",
+    "titulo": "Mercado financeiro avalia impacto limitado de novo 'tarifação' dos EUA ao Brasil",
+    "resumo": "O mercado financeiro está avaliando o impacto de uma nova proposta de taxação de 25% dos Estados Unidos sobre o Brasil. O governo americano tem até 15 de julho para decidir sobre a aplicação da medida. Especialistas sugerem que o impacto pode ser mais limitado do que o esperado.",
+    "categoria": "economia",
+    "tags": [
+      "tarifação",
+      "eua",
+      "brasil",
+      "mercado financeiro",
+      "comércio"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos",
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/mercado/mercado-financeiro-avalia-impacto-mais-limitado-com-novo-tarifaco/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-08-australia-politica",
+    "data": "2026-06-08",
+    "titulo": "Políticos australianos debatem temas como 'Maga first' e crise imobiliária",
+    "resumo": "Debates políticos na Austrália incluem críticas sobre alinhamentos com movimentos estrangeiros, como o 'Maga first'. Questões como a crise imobiliária e a política habitacional também estão em pauta, com partidos apresentando suas propostas para enfrentar os desafios do país.",
+    "categoria": "politica",
+    "tags": [
+      "política",
+      "austrália",
+      "crise imobiliária",
+      "movimentos políticos"
+    ],
+    "entidades": [
+      "One Nation"
+    ],
+    "pessoas": [
+      "Andrew Hastie",
+      "Pauline Hanson",
+      "Anthony Albanese",
+      "Angus Taylor"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Austrália"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/science/live/2026/jun/08/australia-news-live-anthony-albanese-labor-one-nation-coalition-housing-crisis-angus-taylor-ntwnfb"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-08-regulação-bailiffs-reino-unido",
+    "data": "2026-06-08",
+    "titulo": "Regulamentação de oficiais de justiça no Reino Unido é considerada lenta",
+    "resumo": "Um órgão supervisor criticou a lentidão do governo do Reino Unido em regulamentar os oficiais de justiça (bailiffs). Um ano após o compromisso do governo, há 'falta de progresso visível' e 'nenhum plano claro'. A demora levanta preocupações sobre práticas prejudiciais na cobrança de dívidas.",
+    "categoria": "justica",
+    "tags": [
+      "regulamentação",
+      "oficiais de justiça",
+      "reino unido",
+      "cobrança de dívidas"
+    ],
+    "entidades": [
+      "ECB"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/jun/08/regulation-bailiffs-uk-consumer-rights"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-08-polvos-costa-uk",
+    "data": "2026-06-08",
+    "titulo": "Aumento de polvos na costa do Reino Unido se espalha até a Escócia",
+    "resumo": "Um estudo revelou que o aumento expressivo de polvos na costa sudoeste da Inglaterra se espalhou para a Escócia e País de Gales. Os números recordes, associados ao aquecimento das águas, estão transformando a indústria pesqueira, com capturas de polvo em alta e de mariscos em queda.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "polvos",
+      "vida marinha",
+      "reino unido",
+      "pesca",
+      "aquecimento global"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Escócia",
+      "País de Gales"
+    ],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2026/jun/08/octopus-invasion-spreads-up-uk-coast-as-far-scotland-study"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-08-taxa-fecundidade-latam",
+    "data": "2026-06-08",
+    "titulo": "Taxa de fecundidade na América Latina cai mais rápido que na Europa, aponta IBGE",
+    "resumo": "Segundo dados do IBGE, a taxa de fecundidade na América Latina teve uma queda mais acentuada do que na Europa. Fatores como urbanização e o aumento da presença feminina no mercado de trabalho explicam essa desaceleração no crescimento populacional da região.",
+    "categoria": "saude",
+    "tags": [
+      "fecundidade",
+      "américa latina",
+      "europa",
+      "ibge",
+      "população"
+    ],
+    "entidades": [
+      "IBGE"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
     "importancia": 2,
     "fontes": [
       {
         "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/economia/negocios/mudanca-de-cidade-como-se-organizar-sem-dor-de-cabeca/"
+        "url": "https://www.cnnbrasil.com.br/saude/ibge-taxa-de-fecundidade-na-america-latina-caiu-mais-rapido-que-na-europa/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-08-ritalee-teatro",
+    "data": "2026-06-08",
+    "titulo": "Mel Lisboa interpreta Rita Lee no teatro: 'Responsabilidade diária'",
+    "resumo": "A atriz Mel Lisboa está interpretando a cantora Rita Lee na peça teatral 'Rita Lee - Uma Autobiografia Musical'. Ela descreveu o papel como uma 'responsabilidade diária', demonstrando o cuidado e a dedicação em dar vida à icônica artista brasileira. A peça celebra a vida e obra de Rita Lee.",
+    "categoria": "cultura",
+    "tags": [
+      "teatro",
+      "música",
+      "rita lee",
+      "mel lisboa",
+      "biografia"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Mel Lisboa",
+      "Rita Lee"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/pop/celebridades/mel-lisboa-sobre-rita-lee/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-08-congresso-temas-semana",
+    "data": "2026-06-08",
+    "titulo": "Congresso Nacional debaterá maioridade penal, PEC do BC e nomeação ao CNJ",
+    "resumo": "O Congresso Nacional terá uma semana de discussões intensas sobre temas relevantes. Entre eles, estão a maioridade penal, a Proposta de Emenda à Constituição (PEC) do Banco Central e a nomeação de Benedito Gonçalves para o Conselho Nacional de Justiça (CNJ). O Senado focará na indicação ao CNJ.",
+    "categoria": "politica",
+    "tags": [
+      "congresso nacional",
+      "maioridade penal",
+      "pec do bc",
+      "cnj",
+      "legislação"
+    ],
+    "entidades": [
+      "CNJ",
+      "PEC"
+    ],
+    "pessoas": [
+      "Benedito Gonçalves"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/congresso-debatera-maioridade-penal-pec-do-bc-e-nome-ao-cnj-nesta-semana/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-08-decreto-big-techs",
+    "data": "2026-06-08",
+    "titulo": "Decreto sobre Big Techs fortalece órgãos do governo e gera críticas",
+    "resumo": "Um novo decreto publicado pelo Planalto visa reforçar regras e punições para Big Techs, empoderando órgãos como a Advocacia-Geral da União (AGU) e a Agência Nacional de Proteção de Dados (ANPD). A medida tem gerado críticas e debates sobre seu alcance e efetividade.",
+    "categoria": "politica",
+    "tags": [
+      "big techs",
+      "regulamentação",
+      "governo",
+      "críticas",
+      "AGU",
+      "ANPD"
+    ],
+    "entidades": [
+      "AGU",
+      "ANPD"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/decreto-sobre-big-techs-empodera-orgaos-do-governo-e-gera-criticas-entenda/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-08-venda-glp",
+    "data": "2026-06-08",
+    "titulo": "Especialistas alertam que mudança na venda de GLP pode favorecer o crime",
+    "resumo": "Especialistas expressam preocupação com uma possível mudança na venda de gás liquefeito de petróleo (GLP). O debate na Agência Nacional do Petróleo (ANP) sobre a ampliação do mercado para a distribuição e venda do botijão de gás de cozinha pode, segundo eles, favorecer atividades criminosas.",
+    "categoria": "economia",
+    "tags": [
+      "glp",
+      "gás de cozinha",
+      "segurança",
+      "crime",
+      "regulamentação",
+      "ANP"
+    ],
+    "entidades": [
+      "ANP"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/infra/possivel-mudanca-na-venda-de-glp-favorece-o-crime-dizem-especialistas/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-08-fiat-pulse-fastback",
+    "data": "2026-06-08",
+    "titulo": "Fiat revela nova geração do Pulse e Fastback para 2028",
+    "resumo": "A Fiat apresentou a nova geração dos modelos Pulse e Fastback, com previsão de lançamento para 2028. Inicialmente, os SUVs serão lançados na Europa, Oriente Médio e África ainda em 2026, chegando ao mercado brasileiro no ano seguinte. As novidades buscam modernizar o portfólio da marca.",
+    "categoria": "economia",
+    "tags": [
+      "automóveis",
+      "fiat",
+      "suvs",
+      "lançamento",
+      "mercado"
+    ],
+    "entidades": [
+      "Fiat"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil",
+      "Europa",
+      "Oriente Médio",
+      "África"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/auto/fiat-revela-nova-geracao-do-pulse-2028-e-fastback-2028/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-08-viracopos-concessao",
+    "data": "2026-06-08",
+    "titulo": "Acordo sobre concessão do Aeroporto de Viracopos está próximo do fim",
+    "resumo": "A novela sobre a concessão do Aeroporto de Viracopos caminha para o capítulo final com a apresentação de um acordo por uma comissão de autocomposição. A diretoria da Agência Nacional de Aviação Civil (Anac) definirá os pontos em aberto. O aeroporto teve histórico de conflitos e ações judiciais desde 2014.",
+    "categoria": "economia",
+    "tags": [
+      "aeroporto",
+      "viracopos",
+      "concessão",
+      "acordo",
+      "anac"
+    ],
+    "entidades": [
+      "Anac"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Campinas"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/infra/novela-da-concessao-do-aeroporto-de-viracopos-esta-perto-do-capitulo-final/"
+      },
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/infra/anac-e-viracopos-vivem-historico-de-conflitos-e-acoes-judiciais-desde-2014/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-08-amistoso-holanda-uzbequistao",
+    "data": "2026-06-08",
+    "titulo": "Holanda e Uzbequistão se enfrentam em amistoso pré-Copa do Mundo",
+    "resumo": "A Holanda e o Uzbequistão se preparam para a Copa do Mundo com um amistoso. A partida é um dos últimos testes para as seleções antes do início do torneio, que começa na próxima quinta-feira. O jogo servirá para ajustar as estratégias e o entrosamento das equipes.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "amistoso",
+      "copa do mundo",
+      "holanda",
+      "uzbequistão"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Holanda",
+      "Uzbequistão"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/holanda-x-uzbequistao-horario-e-onde-assistir-ao-amistoso-pre-copa/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-08-consumo-suco-laranja",
+    "data": "2026-06-08",
+    "titulo": "Consumo mundial de suco de laranja cai 46,5% desde 2010",
+    "resumo": "O consumo global de suco de laranja em forma de caixa caiu 46,5% entre 2010 e 2026, segundo levantamento. Nesse mesmo período, a produção mundial da fruta recuou apenas 18%. A queda no consumo representa a perda de 2 bilhões de caixas de suco.",
+    "categoria": "economia",
+    "tags": [
+      "agropecuária",
+      "suco de laranja",
+      "consumo",
+      "produção",
+      "mercado"
+    ],
+    "entidades": [
+      "CitrusBR",
+      "USDA"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/agro/mundo-deixa-de-consumir-2-bilhoes-de-caixas-de-laranja-em-forma-de-suco/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-08-adversarios-brasil-copa",
+    "data": "2026-06-08",
+    "titulo": "Análise dos adversários do Brasil na Copa do Mundo após amistosos",
+    "resumo": "Após a realização de amistosos, a seleção brasileira avalia o desempenho e a preparação de seus adversários na Copa do Mundo. O Brasil inicia sua campanha no torneio no próximo sábado, enfrentando Marrocos em sua estreia. A análise visa identificar os pontos fortes e fracos das equipes.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "copa do mundo",
+      "seleção brasileira",
+      "amistosos",
+      "marrocos"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil",
+      "Marrocos"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/apos-amistosos-veja-como-chegam-os-adversarios-do-brasil-na-copa-do-mundo/"
       }
     ]
   }

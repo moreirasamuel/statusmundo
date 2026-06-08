@@ -14,6 +14,9 @@ resumidos de forma neutra, e pode filtrar por tema.
 
 ## Estrutura de pastas
 - `/site`  → app React (Vite + Tailwind). É o que vai pro ar no Cloudflare Pages.
+- `/site/src/data/paises.json` → base de dados de pessoas/estados/cidades por país.
+  Gerada pelo script robo/gerar-base-paises.js. Cada país tem:
+  pessoas (famosos locais), estados/regiões, cidades principais.
 - `/robo`  → script Node.js que coleta e processa as notícias.
 - O robô salva o resultado final em `/site/public/ultimo.json`.
   O site lê esse arquivo com fetch('/ultimo.json').

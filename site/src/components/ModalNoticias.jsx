@@ -1,14 +1,6 @@
 import { useState, useMemo } from 'react'
 import SelectAutocomplete from './SelectAutocomplete'
-
-const ESTADOS_BR = [
-  'Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Ceará',
-  'Distrito Federal', 'Espírito Santo', 'Goiás', 'Maranhão',
-  'Mato Grosso', 'Mato Grosso do Sul', 'Minas Gerais', 'Pará',
-  'Paraíba', 'Paraná', 'Pernambuco', 'Piauí', 'Rio de Janeiro',
-  'Rio Grande do Norte', 'Rio Grande do Sul', 'Rondônia', 'Roraima',
-  'Santa Catarina', 'São Paulo', 'Sergipe', 'Tocantins'
-]
+import paisesData from '../data/paises.json'
 
 const RISCOS = [
   { valor: 1, rotulo: 'Baixo (1)' },
@@ -26,32 +18,65 @@ export default function ModalNoticias({ noticias, aberto, aoFechar, paisSelecion
   const [riscoFiltro, setRiscoFiltro] = useState(null)
   const [noticiaSelecionada, setNoticiaSelecionada] = useState(null)
 
+  const dadosPais = paisSelecionado ? paisesData[paisSelecionado] : null
+  const nomePtPais = dadosPais?.nomePt || ''
+
   const categorias = useMemo(() => {
     const set = new Set(noticias.map(n => n.categoria).filter(Boolean))
     return [...set].sort()
   }, [noticias])
 
-  const pessoas = useMemo(() => {
-    const set = new Set(noticias.flatMap(n => n.pessoas || n.entidades || []))
+  const opcoesPessoas = useMemo(() => {
+    const set = new Set()
+    if (dadosPais?.pessoas) {
+      dadosPais.pessoas.forEach(p => set.add(p))
+    }
+    noticias.forEach(n => {
+      if (paisSelecionado) {
+        const paises = n.paises || n.entidades || []
+        if (!paises.some(p => p === paisSelecionado || p === nomePtPais)) return
+      }
+      ;(n.pessoas || []).forEach(p => set.add(p))
+    })
     return [...set].sort()
-  }, [noticias])
+  }, [dadosPais, noticias, paisSelecionado, nomePtPais])
 
-  const estados = useMemo(() => {
-    const set = new Set(noticias.flatMap(n => {
-      if (n.estados && n.estados.length > 0) return n.estados
-      const candidatos = [...(n.entidades || []), ...(n.tags || [])]
-      return candidatos.filter(c => ESTADOS_BR.includes(c))
-    }))
+  const opcoesEstados = useMemo(() => {
+    const set = new Set()
+    if (dadosPais?.estados) {
+      dadosPais.estados.forEach(e => set.add(e))
+    }
+    noticias.forEach(n => {
+      if (paisSelecionado) {
+        const paises = n.paises || n.entidades || []
+        if (!paises.some(p => p === paisSelecionado || p === nomePtPais)) return
+      }
+      ;(n.estados || []).forEach(e => set.add(e))
+    })
     return [...set].sort()
-  }, [noticias])
+  }, [dadosPais, noticias, paisSelecionado, nomePtPais])
 
-  const cidades = useMemo(() => {
-    const set = new Set(noticias.flatMap(n => n.cidades || []))
+  const opcoesCidades = useMemo(() => {
+    const set = new Set()
+    if (dadosPais?.cidades) {
+      dadosPais.cidades.forEach(c => set.add(c))
+    }
+    noticias.forEach(n => {
+      if (paisSelecionado) {
+        const paises = n.paises || n.entidades || []
+        if (!paises.some(p => p === paisSelecionado || p === nomePtPais)) return
+      }
+      ;(n.cidades || []).forEach(c => set.add(c))
+    })
     return [...set].sort()
-  }, [noticias])
+  }, [dadosPais, noticias, paisSelecionado, nomePtPais])
 
   const noticiasFiltradas = useMemo(() => {
     return noticias.filter(n => {
+      if (paisSelecionado) {
+        const paises = n.paises || n.entidades || []
+        if (!paises.some(p => p === paisSelecionado || p === nomePtPais)) return false
+      }
       if (categoriaFiltro && n.categoria !== categoriaFiltro) return false
       if (pessoaFiltro) {
         const lista = n.pessoas || n.entidades || []
@@ -66,18 +91,17 @@ export default function ModalNoticias({ noticias, aberto, aoFechar, paisSelecion
       }
       if (cidadeFiltro) {
         const lista = n.cidades || []
-        if (!lista.includes(cidadeFiltro)) return false
+        if (!lista.includes(cidadeFiltro)) {
+          const candidatos = [...(n.entidades || []), ...(n.tags || [])]
+          if (!candidatos.includes(cidadeFiltro)) return false
+        }
       }
       if (riscoFiltro && n.importancia !== riscoFiltro) return false
-      if (paisSelecionado) {
-        const lista = n.paises || n.entidades || []
-        if (!lista.includes(paisSelecionado)) return false
-      }
       return true
     })
-  }, [noticias, categoriaFiltro, pessoaFiltro, estadoFiltro, cidadeFiltro, riscoFiltro, paisSelecionado])
+  }, [noticias, paisSelecionado, nomePtPais, categoriaFiltro, pessoaFiltro, estadoFiltro, cidadeFiltro, riscoFiltro])
 
-  const temFiltro = categoriaFiltro || pessoaFiltro || estadoFiltro || cidadeFiltro || riscoFiltro || paisSelecionado
+  const mostrarLista = paisSelecionado || categoriaFiltro || pessoaFiltro || estadoFiltro || cidadeFiltro || riscoFiltro
 
   if (!aberto) return null
 
@@ -108,10 +132,10 @@ export default function ModalNoticias({ noticias, aberto, aoFechar, paisSelecion
           <div className="flex items-center justify-between px-6 py-4 border-b border-gray-700 shrink-0">
             <div>
               <h2 className="text-xl font-bold text-white">
-                {paisSelecionado || 'Mundo'}
+                {nomePtPais || paisSelecionado || 'Mundo'}
               </h2>
               <p className="text-gray-500 text-sm">
-                {temFiltro
+                {mostrarLista
                   ? `${noticiasFiltradas.length} de ${noticias.length} acontecimentos`
                   : `${noticias.length} acontecimentos`}
               </p>
@@ -137,31 +161,27 @@ export default function ModalNoticias({ noticias, aberto, aoFechar, paisSelecion
 
               <SelectAutocomplete
                 label="Pessoa"
-                opcoes={pessoas}
+                opcoes={opcoesPessoas}
                 valor={pessoaFiltro}
                 aoSelecionar={setPessoaFiltro}
                 placeholder="Buscar pessoa..."
               />
 
-              {estados.length > 0 && (
-                <SelectAutocomplete
-                  label="Estado"
-                  opcoes={estados}
-                  valor={estadoFiltro}
-                  aoSelecionar={setEstadoFiltro}
-                  placeholder="Buscar estado..."
-                />
-              )}
+              <SelectAutocomplete
+                label="Estado"
+                opcoes={opcoesEstados}
+                valor={estadoFiltro}
+                aoSelecionar={setEstadoFiltro}
+                placeholder="Buscar estado..."
+              />
 
-              {cidades.length > 0 && (
-                <SelectAutocomplete
-                  label="Cidade"
-                  opcoes={cidades}
-                  valor={cidadeFiltro}
-                  aoSelecionar={setCidadeFiltro}
-                  placeholder="Buscar cidade..."
-                />
-              )}
+              <SelectAutocomplete
+                label="Cidade"
+                opcoes={opcoesCidades}
+                valor={cidadeFiltro}
+                aoSelecionar={setCidadeFiltro}
+                placeholder="Buscar cidade..."
+              />
 
               <SelectAutocomplete
                 label="Risco"
@@ -174,7 +194,7 @@ export default function ModalNoticias({ noticias, aberto, aoFechar, paisSelecion
                 placeholder="Selecionar risco..."
               />
 
-              {temFiltro && (
+              {mostrarLista && (
                 <button
                   onClick={limparFiltros}
                   className="text-xs text-gray-500 hover:text-gray-300"
@@ -186,9 +206,9 @@ export default function ModalNoticias({ noticias, aberto, aoFechar, paisSelecion
 
             {/* COLUNA 2 — Lista de notícias */}
             <section className="flex-1 overflow-y-auto p-4">
-              {!temFiltro ? (
+              {!mostrarLista ? (
                 <p className="text-gray-600 text-sm text-center mt-16">
-                  Selecione um filtro ao lado para ver as notícias
+                  Selecione um país no mapa ou um filtro ao lado para ver as notícias
                 </p>
               ) : noticiasFiltradas.length === 0 ? (
                 <p className="text-gray-600 text-sm text-center mt-16">

@@ -6,6 +6,7 @@
   "scripts": {
     "coletar": "node coletor.js",
     "processar": "node cerebro.js",
+    "gerar-base": "node gerar-base-paises.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

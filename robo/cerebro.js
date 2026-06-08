@@ -51,20 +51,19 @@ function montarPrompt(noticias) {
   ).join('\n')
 
   return `
-Você é um analista de notícias brasileiro. Abaixo estão manchetes do dia.
+Você é um analista de notícias global. Abaixo estão manchetes do dia (em português e inglês).
 
 AGRUPE as notícias nos PRINCIPAIS ACONTECIMENTOS do dia (junte o mesmo fato que aparece em veículos diferentes).
 Para cada acontecimento, escreva um resumo NEUTRO e factual de 2 a 4 frases, em português simples, sem opinião.
-Classifique cada um com:
-- categoria (ex: "politica", "economia", "saude", "esportes", "cultura", "meio-ambiente", "internacional", "seguranca", "educacao", "ciencia", "justica")
-- tags (lista de palavras-chave)
-- entidades (pessoas, órgãos, lugares mencionados — lista geral)
-- importancia (1 a 5, sendo 5 o mais importante)
-- fontes (lista com nome e url de cada veículo que noticiou)
-- pessoas (lista de nomes de pessoas mencionadas, ex: "Donald Trump", "Lula")
-- estados (lista de estados brasileiros mencionados, ex: "Minas Gerais", "São Paulo", "Acre")
-- cidades (lista de cidades mencionadas, ex: "Salvador", "Manaus", "São Bernardo do Campo")
-- paises (lista de países mencionados, ex: "Brasil", "Estados Unidos", "Israel")
+
+REGRAS IMPORTANTES:
+1. O campo "pessoas" deve conter APENAS nomes de pessoas (políticos, artistas, esportistas). NÃO coloque lugares, empresas ou órgãos aqui.
+2. O campo "estados" é IMPORTANTE. Preencha com estados, províncias ou regiões mencionados (ex: "São Paulo", "California", "Bavaria", "Île-de-France", "Andaluzia", "Ontario"). Se a notícia mencionar um local que é um estado/província/região, COLOQUE AQUI.
+3. O campo "cidades" deve conter cidades (ex: "São Paulo", "New York", "Paris", "Tóquio").
+4. O campo "paises" deve conter os países envolvidos (ex: "Brasil", "Estados Unidos", "França").
+5. Use nomes em português para países (ex: "Estados Unidos" não "United States").
+6. PREENCHA TODOS os campos sempre que possível. Se um campo não tiver dados, deixe a lista vazia [].
+7. Classifique com uma das categorias: "politica", "economia", "saude", "esportes", "cultura", "meio-ambiente", "internacional", "seguranca", "educacao", "ciencia", "justica"
 
 RESPONDA APENAS EM JSON PURO, sem texto antes ou depois, sem \`\`\` markdown.
 
@@ -85,7 +84,7 @@ Formato esperado (um array de objetos):
     "importancia": 4,
     "fontes": [
       { "nome": "G1", "url": "https://..." },
-      { "nome": "CNN", "url": "https://..." }
+      { "nome": "BBC", "url": "https://..." }
     ]
   }
 ]
@@ -192,5 +191,3 @@ main().catch(erro => {
   console.error('❌ Erro ao processar com Gemini:', erro.message)
   process.exit(1)
 })
-
-main()
