@@ -1,7 +1,29 @@
 import { useState, useMemo } from 'react'
+import SelectAutocomplete from './SelectAutocomplete'
 
-export default function ModalNoticias({ noticias, aberto, aoFechar }) {
-  const [filtros, setFiltros] = useState([])
+const ESTADOS_BR = [
+  'Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Ceará',
+  'Distrito Federal', 'Espírito Santo', 'Goiás', 'Maranhão',
+  'Mato Grosso', 'Mato Grosso do Sul', 'Minas Gerais', 'Pará',
+  'Paraíba', 'Paraná', 'Pernambuco', 'Piauí', 'Rio de Janeiro',
+  'Rio Grande do Norte', 'Rio Grande do Sul', 'Rondônia', 'Roraima',
+  'Santa Catarina', 'São Paulo', 'Sergipe', 'Tocantins'
+]
+
+const RISCOS = [
+  { valor: 1, rotulo: 'Baixo (1)' },
+  { valor: 2, rotulo: 'Moderado (2)' },
+  { valor: 3, rotulo: 'Importante (3)' },
+  { valor: 4, rotulo: 'Crucial (4)' },
+  { valor: 5, rotulo: 'Risco Máximo (5)' },
+]
+
+export default function ModalNoticias({ noticias, aberto, aoFechar, paisSelecionado }) {
+  const [categoriaFiltro, setCategoriaFiltro] = useState(null)
+  const [pessoaFiltro, setPessoaFiltro] = useState(null)
+  const [estadoFiltro, setEstadoFiltro] = useState(null)
+  const [cidadeFiltro, setCidadeFiltro] = useState(null)
+  const [riscoFiltro, setRiscoFiltro] = useState(null)
   const [noticiaSelecionada, setNoticiaSelecionada] = useState(null)
 
   const categorias = useMemo(() => {
@@ -9,34 +31,62 @@ export default function ModalNoticias({ noticias, aberto, aoFechar }) {
     return [...set].sort()
   }, [noticias])
 
-  const todasTags = useMemo(() => {
-    const set = new Set(noticias.flatMap(n => n.tags || []))
+  const pessoas = useMemo(() => {
+    const set = new Set(noticias.flatMap(n => n.pessoas || n.entidades || []))
+    return [...set].sort()
+  }, [noticias])
+
+  const estados = useMemo(() => {
+    const set = new Set(noticias.flatMap(n => {
+      if (n.estados && n.estados.length > 0) return n.estados
+      const candidatos = [...(n.entidades || []), ...(n.tags || [])]
+      return candidatos.filter(c => ESTADOS_BR.includes(c))
+    }))
+    return [...set].sort()
+  }, [noticias])
+
+  const cidades = useMemo(() => {
+    const set = new Set(noticias.flatMap(n => n.cidades || []))
     return [...set].sort()
   }, [noticias])
 
   const noticiasFiltradas = useMemo(() => {
-    if (filtros.length === 0) return []
     return noticias.filter(n => {
-      const categoria = n.categoria || ''
-      const tags = n.tags || []
-      return filtros.some(f =>
-        categoria === f || tags.includes(f)
-      )
+      if (categoriaFiltro && n.categoria !== categoriaFiltro) return false
+      if (pessoaFiltro) {
+        const lista = n.pessoas || n.entidades || []
+        if (!lista.includes(pessoaFiltro)) return false
+      }
+      if (estadoFiltro) {
+        const lista = n.estados || []
+        if (!lista.includes(estadoFiltro)) {
+          const candidatos = [...(n.entidades || []), ...(n.tags || [])]
+          if (!candidatos.includes(estadoFiltro)) return false
+        }
+      }
+      if (cidadeFiltro) {
+        const lista = n.cidades || []
+        if (!lista.includes(cidadeFiltro)) return false
+      }
+      if (riscoFiltro && n.importancia !== riscoFiltro) return false
+      if (paisSelecionado) {
+        const lista = n.paises || n.entidades || []
+        if (!lista.includes(paisSelecionado)) return false
+      }
+      return true
     })
-  }, [noticias, filtros])
+  }, [noticias, categoriaFiltro, pessoaFiltro, estadoFiltro, cidadeFiltro, riscoFiltro, paisSelecionado])
+
+  const temFiltro = categoriaFiltro || pessoaFiltro || estadoFiltro || cidadeFiltro || riscoFiltro || paisSelecionado
 
   if (!aberto) return null
 
-  function toggleFiltro(valor) {
-    const novos = filtros.includes(valor)
-      ? filtros.filter(f => f !== valor)
-      : [...filtros, valor]
-    setFiltros(novos)
-    if (novos.length === 0) setNoticiaSelecionada(null)
-  }
-
   function limparFiltros() {
-    setFiltros([])
+    setCategoriaFiltro(null)
+    setPessoaFiltro(null)
+    setEstadoFiltro(null)
+    setCidadeFiltro(null)
+    setRiscoFiltro(null)
     setNoticiaSelecionada(null)
   }
 
@@ -57,9 +107,11 @@ export default function ModalNoticias({ noticias, aberto, aoFechar }) {
           {/* Cabeçalho */}
           <div className="flex items-center justify-between px-6 py-4 border-b border-gray-700 shrink-0">
             <div>
-              <h2 className="text-xl font-bold text-white">🇧🇷 Brasil</h2>
+              <h2 className="text-xl font-bold text-white">
+                {paisSelecionado || 'Mundo'}
+              </h2>
               <p className="text-gray-500 text-sm">
-                {filtros.length > 0
+                {temFiltro
                   ? `${noticiasFiltradas.length} de ${noticias.length} acontecimentos`
                   : `${noticias.length} acontecimentos`}
               </p>
@@ -74,49 +126,55 @@ export default function ModalNoticias({ noticias, aberto, aoFechar }) {
 
             {/* COLUNA 1 — Filtros */}
             <aside className="w-[220px] shrink-0 overflow-y-auto border-r border-gray-700 p-4 space-y-4">
-              {categorias.length > 0 && (
-                <div>
-                  <p className="text-gray-400 text-xs font-semibold uppercase tracking-wide mb-2">Categorias</p>
-                  <div className="space-y-1">
-                    {categorias.map(cat => (
-                      <button
-                        key={cat}
-                        onClick={() => toggleFiltro(cat)}
-                        className={`block w-full text-left text-xs px-3 py-1.5 rounded-lg transition-colors ${
-                          filtros.includes(cat)
-                            ? 'bg-green-800 text-green-200'
-                            : 'bg-gray-800 text-gray-400 hover:bg-gray-700'
-                        }`}
-                      >
-                        {cat}
-                      </button>
-                    ))}
-                  </div>
-                </div>
+
+              <SelectAutocomplete
+                label="Categoria"
+                opcoes={categorias}
+                valor={categoriaFiltro}
+                aoSelecionar={setCategoriaFiltro}
+                placeholder="Buscar categoria..."
+              />
+
+              <SelectAutocomplete
+                label="Pessoa"
+                opcoes={pessoas}
+                valor={pessoaFiltro}
+                aoSelecionar={setPessoaFiltro}
+                placeholder="Buscar pessoa..."
+              />
+
+              {estados.length > 0 && (
+                <SelectAutocomplete
+                  label="Estado"
+                  opcoes={estados}
+                  valor={estadoFiltro}
+                  aoSelecionar={setEstadoFiltro}
+                  placeholder="Buscar estado..."
+                />
               )}
 
-              {todasTags.length > 0 && (
-                <div>
-                  <p className="text-gray-400 text-xs font-semibold uppercase tracking-wide mb-2">Tags</p>
-                  <div className="space-y-1">
-                    {todasTags.map(tag => (
-                      <button
-                        key={tag}
-                        onClick={() => toggleFiltro(tag)}
-                        className={`block w-full text-left text-xs px-3 py-1.5 rounded-lg transition-colors ${
-                          filtros.includes(tag)
-                            ? 'bg-blue-800 text-blue-200'
-                            : 'bg-gray-800 text-gray-400 hover:bg-gray-700'
-                        }`}
-                      >
-                        #{tag}
-                      </button>
-                    ))}
-                  </div>
-                </div>
+              {cidades.length > 0 && (
+                <SelectAutocomplete
+                  label="Cidade"
+                  opcoes={cidades}
+                  valor={cidadeFiltro}
+                  aoSelecionar={setCidadeFiltro}
+                  placeholder="Buscar cidade..."
+                />
               )}
 
-              {filtros.length > 0 && (
+              <SelectAutocomplete
+                label="Risco"
+                opcoes={RISCOS.map(r => r.rotulo)}
+                valor={riscoFiltro ? RISCOS.find(r => r.valor === riscoFiltro)?.rotulo : null}
+                aoSelecionar={val => {
+                  const found = RISCOS.find(r => r.rotulo === val)
+                  setRiscoFiltro(found ? found.valor : null)
+                }}
+                placeholder="Selecionar risco..."
+              />
+
+              {temFiltro && (
                 <button
                   onClick={limparFiltros}
                   className="text-xs text-gray-500 hover:text-gray-300"
@@ -128,9 +186,9 @@ export default function ModalNoticias({ noticias, aberto, aoFechar }) {
 
             {/* COLUNA 2 — Lista de notícias */}
             <section className="flex-1 overflow-y-auto p-4">
-              {filtros.length === 0 ? (
+              {!temFiltro ? (
                 <p className="text-gray-600 text-sm text-center mt-16">
-                  Selecione categorias ou tags ao lado para ver as notícias
+                  Selecione um filtro ao lado para ver as notícias
                 </p>
               ) : noticiasFiltradas.length === 0 ? (
                 <p className="text-gray-600 text-sm text-center mt-16">

@@ -7,6 +7,7 @@ function App() {
   const [carregando, setCarregando] = useState(true)
   const [erro, setErro] = useState(null)
   const [modalAberto, setModalAberto] = useState(false)
+  const [paisSelecionado, setPaisSelecionado] = useState(null)
 
   useEffect(() => {
     fetch('/ultimo.json')
@@ -53,7 +54,10 @@ function App() {
 
       {/* Mapa */}
       <section className="flex-1 flex items-center justify-center px-4">
-        <MapaMundi aoClicarBrasil={() => setModalAberto(true)} />
+        <MapaMundi aoClicarPais={(nome) => {
+          setPaisSelecionado(nome)
+          setModalAberto(true)
+        }} />
       </section>
 
       {/* Rodapé */}
@@ -65,7 +69,11 @@ function App() {
       <ModalNoticias
         noticias={noticias}
         aberto={modalAberto}
-        aoFechar={() => setModalAberto(false)}
+        aoFechar={() => {
+          setModalAberto(false)
+          setPaisSelecionado(null)
+        }}
+        paisSelecionado={paisSelecionado}
       />
     </div>
   )

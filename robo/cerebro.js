@@ -58,9 +58,13 @@ Para cada acontecimento, escreva um resumo NEUTRO e factual de 2 a 4 frases, em 
 Classifique cada um com:
 - categoria (ex: "politica", "economia", "saude", "esportes", "cultura", "meio-ambiente", "internacional", "seguranca", "educacao", "ciencia", "justica")
 - tags (lista de palavras-chave)
-- entidades (pessoas, órgãos, lugares mencionados)
+- entidades (pessoas, órgãos, lugares mencionados — lista geral)
 - importancia (1 a 5, sendo 5 o mais importante)
 - fontes (lista com nome e url de cada veículo que noticiou)
+- pessoas (lista de nomes de pessoas mencionadas, ex: "Donald Trump", "Lula")
+- estados (lista de estados brasileiros mencionados, ex: "Minas Gerais", "São Paulo", "Acre")
+- cidades (lista de cidades mencionadas, ex: "Salvador", "Manaus", "São Bernardo do Campo")
+- paises (lista de países mencionados, ex: "Brasil", "Estados Unidos", "Israel")
 
 RESPONDA APENAS EM JSON PURO, sem texto antes ou depois, sem \`\`\` markdown.
 
@@ -74,6 +78,10 @@ Formato esperado (um array de objetos):
     "categoria": "politica",
     "tags": ["tag1", "tag2"],
     "entidades": ["Entidade 1", "Entidade 2"],
+    "pessoas": ["Nome da Pessoa"],
+    "estados": ["Nome do Estado"],
+    "cidades": ["Nome da Cidade"],
+    "paises": ["Nome do País"],
     "importancia": 4,
     "fontes": [
       { "nome": "G1", "url": "https://..." },

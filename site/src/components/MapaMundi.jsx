@@ -4,7 +4,7 @@ import { feature } from 'topojson-client'
 
 const URL_TOPOJSON = 'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json'
 
-export default function MapaMundi({ aoClicarBrasil }) {
+export default function MapaMundi({ aoClicarPais }) {
   const containerRef = useRef(null)
   const [paises, setPaises] = useState([])
   const [erroMapa, setErroMapa] = useState(false)
@@ -47,19 +47,9 @@ export default function MapaMundi({ aoClicarBrasil }) {
     return (
       <div className="text-center text-gray-500 py-8">
         <p className="text-lg mb-2">🌍 Não foi possível carregar o mapa</p>
-        <button
-          onClick={aoClicarBrasil}
-          className="bg-green-700 hover:bg-green-600 text-white px-6 py-2 rounded-lg transition-colors"
-        >
-          Ver notícias do Brasil →
-        </button>
+        <p className="text-sm text-gray-600">Tente recarregar a página</p>
       </div>
     )
-  }
-
-  // Identifica o Brasil pelo nome (mais confiável que código numérico)
-  function ehBrasil(pais) {
-    return pais.nome === 'Brazil'
   }
 
   const projecao = geoMercator()
@@ -81,7 +71,6 @@ export default function MapaMundi({ aoClicarBrasil }) {
           className="w-full h-auto"
         >
           {paises.map((p, i) => {
-            const brasil = ehBrasil(p)
             const caminho = gerarCaminho(p.geometria)
             if (!caminho) return null
 
@@ -89,16 +78,18 @@ export default function MapaMundi({ aoClicarBrasil }) {
               <path
                 key={i}
                 d={caminho}
-                onClick={brasil ? aoClicarBrasil : undefined}
-                className={brasil ? 'cursor-pointer' : ''}
-                fill={brasil ? '#16a34a' : '#1f2937'}
-                stroke={brasil ? '#22c55e' : '#374151'}
-                strokeWidth={brasil ? 0.8 : 0.3}
+                onClick={() => aoClicarPais(p.nome)}
+                className="cursor-pointer transition-all duration-150"
+                fill={p.nome === 'Brazil' ? '#16a34a' : '#1f2937'}
+                stroke={p.nome === 'Brazil' ? '#22c55e' : '#4b5563'}
+                strokeWidth={0.5}
                 onMouseEnter={e => {
-                  if (brasil) e.target.style.fill = '#22c55e'
+                  e.target.style.fill = '#374151'
+                  e.target.style.stroke = '#6b7280'
                 }}
                 onMouseLeave={e => {
-                  if (brasil) e.target.style.fill = '#16a34a'
+                  e.target.style.fill = p.nome === 'Brazil' ? '#16a34a' : '#1f2937'
+                  e.target.style.stroke = p.nome === 'Brazil' ? '#22c55e' : '#4b5563'
                 }}
               />
             )
@@ -107,7 +98,7 @@ export default function MapaMundi({ aoClicarBrasil }) {
       )}
 
       <p className="text-center text-gray-500 text-sm mt-4">
-        Clique no Brasil para ver os acontecimentos do dia
+        Clique em um país para ver os acontecimentos do dia
       </p>
     </div>
   )

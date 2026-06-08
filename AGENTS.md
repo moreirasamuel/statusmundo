@@ -21,6 +21,7 @@ resumidos de forma neutra, e pode filtrar por tema.
 ## Formato dos dados (cada acontecimento)
 { "id", "data", "titulo", "resumo", "categoria",
   "tags": [], "entidades": [], "importancia": 1-5,
+  "pessoas": [], "estados": [], "cidades": [], "paises": [],
   "fontes": [ { "nome", "url" } ] }
 
 ## Segurança
