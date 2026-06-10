@@ -1,54 +1,16 @@
 [
   {
-    "id": "ataque-belfast",
-    "data": "2026-06-09",
-    "titulo": "Homem gravemente ferido em ataque com faca em Belfast",
-    "resumo": "Um homem foi gravemente ferido em um ataque com faca em Belfast, Irlanda do Norte. Um suspeito foi preso sob suspeita de tentativa de homicídio. As autoridades declararam o incidente como crítico e pediram calma à população. Políticos como Keir Starmer e Kemi Badenoch condenaram o ato.",
-    "categoria": "seguranca",
-    "tags": [
-      "ataque",
-      "facada",
-      "Belfast",
-      "violência"
-    ],
-    "entidades": [
-      "Polícia da Irlanda do Norte"
-    ],
-    "pessoas": [
-      "Keir Starmer",
-      "Kemi Badenoch"
-    ],
-    "estados": [],
-    "cidades": [
-      "Belfast"
-    ],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 5,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/09/man-seriously-injured-in-belfast-stabbing-starmer-describes-as-sickening"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/09/labour-badenoch-equality-duty-nowak-starmer-burnham-healey-lammy-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "incidente-navio-petroleiro",
-    "data": "2026-06-09",
-    "titulo": "Navio petroleiro atingido por míssil dos EUA perto de Omã",
-    "resumo": "Um navio petroleiro com tripulação indiana emitiu um pedido de socorro após ser atingido por um míssil dos Estados Unidos na costa de Omã. A embarcação pegou fogo e estava afundando. Autoridades foram acionadas para prestar ajuda. A notícia relata um incidente que envolve navios e mísseis na região.",
+    "id": "2026-06-10-tensao-iran-eua",
+    "data": "2026-06-10",
+    "titulo": "Tensões entre EUA e Irã aumentam com trocas de ameaças e ataques",
+    "resumo": "Os Estados Unidos emitiram novas ameaças ao Irã, indicando que o país 'terá que pagar o preço' por atrasos em negociações. Em resposta, o Irã prometeu retaliação a quaisquer ataques. A escalada envolveu ataques aéreos americanos contra o Irã, com o Irã retaliando países da região.",
     "categoria": "internacional",
     "tags": [
-      "navio",
-      "míssil",
       "EUA",
-      "Omã",
-      "incidente naval"
+      "Irã",
+      "ataques",
+      "ameaças",
+      "conflito"
     ],
     "entidades": [],
     "pessoas": [],
@@ -56,114 +18,40 @@
     "cidades": [],
     "paises": [
       "Estados Unidos",
-      "Omã",
-      "Índia"
+      "Irã"
     ],
-    "importancia": 4,
+    "importancia": 5,
     "fontes": [
       {
         "nome": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/ce371kw2ex2o"
       },
       {
-        "nome": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss"
+        "nome": "France24",
+        "url": "https://www.france24.com/en/video/20260610-us-strikes-iran-after-blaming-tehran-for-helicopter-crash"
       }
     ]
   },
   {
-    "id": "violencia-domestica-amazonas",
-    "data": "2026-06-09",
-    "titulo": "Homem preso por agredir enteada no interior do Amazonas",
-    "resumo": "Um homem de 63 anos foi preso em flagrante em Manacapuru, Amazonas, suspeito de agredir a enteada de 34 anos. A prisão ocorreu durante uma discussão familiar. A ação faz parte da Operação Mulher Segura. As polícias Civil e Militar do estado participaram da prisão.",
-    "categoria": "justica",
+    "id": "2026-06-10-pesquisa-politica-brasil",
+    "data": "2026-06-10",
+    "titulo": "Pesquisa eleitoral no Brasil indica liderança de Lula sobre Flávio Bolsonaro",
+    "resumo": "Uma nova pesquisa Quaest aponta que Luiz Inácio Lula da Silva lidera o segundo turno eleitoral com 44% das intenções de voto, contra 38% de Flávio Bolsonaro. A campanha de Flávio Bolsonaro demonstrou preocupação com os resultados. A estratégia governista de associar Bolsonaro a outras figuras também foi destacada.",
+    "categoria": "politica",
     "tags": [
-      "violência doméstica",
-      "prisão",
-      "Amazonas",
-      "agressão"
-    ],
-    "entidades": [
-      "Polícia Civil do Amazonas",
-      "Polícia Militar do Amazonas"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Amazonas"
-    ],
-    "cidades": [
-      "Manacapuru"
-    ],
-    "paises": [
+      "eleições",
+      "pesquisa",
+      "Lula",
+      "Flávio Bolsonaro",
       "Brasil"
     ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/09/homem-e-preso-suspeito-por-agredir-enteada-durante-discussao-familiar-no-interior-do-amazonas.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "sao-joao-extremoz",
-    "data": "2026-06-09",
-    "titulo": "Programação do São João de Extremoz divulgada",
-    "resumo": "A prefeitura de Extremoz, Rio Grande do Norte, divulgou a programação do São João Gruda em Nós 2026. O evento contará com shows de artistas como Filho do Piseiro, Eric Land e Márcia Fellipe. A festa acontecerá nos dias 18, 19 e 20 de junho. A entrada é gratuita.",
-    "categoria": "cultura",
-    "tags": [
-      "festas juninas",
-      "música",
-      "Extremoz",
-      "atrações"
-    ],
-    "entidades": [
-      "Prefeitura de Extremoz"
-    ],
+    "entidades": [],
     "pessoas": [
-      "Filho do Piseiro",
-      "Eric Land",
-      "Márcia Fellipe"
+      "Luiz Inácio Lula da Silva",
+      "Flávio Bolsonaro"
     ],
-    "estados": [
-      "Rio Grande do Norte"
-    ],
-    "cidades": [
-      "Extremoz"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rn/rio-grande-do-norte/sao-joao-no-rn/noticia/2026/06/09/programacao-sao-joao-de-extremoz.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "homicidio-teresina",
-    "data": "2026-06-09",
-    "titulo": "Homem morto a facadas em praça pública de Teresina",
-    "resumo": "Um homem identificado como Ramon Araújo Rodrigues foi morto a facadas em uma praça pública na Zona Norte de Teresina, Piauí. O crime ocorreu na madrugada desta terça-feira. A vítima estava acompanhada da companheira no momento do ataque. A polícia investiga o caso.",
-    "categoria": "seguranca",
-    "tags": [
-      "homicídio",
-      "facada",
-      "Teresina",
-      "crime"
-    ],
-    "entidades": [
-      "1º Batalhão da Polícia Militar"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Piauí"
-    ],
-    "cidades": [
-      "Teresina"
-    ],
+    "estados": [],
+    "cidades": [],
     "paises": [
       "Brasil"
     ],
@@ -171,317 +59,525 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/09/homem-morto-facadas-em-praca-publica-de-teresina.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "desvio-voo-fortaleza",
-    "data": "2026-06-09",
-    "titulo": "Jovem viaja de carro para velório após voo ser desviado para Fortaleza",
-    "resumo": "Um jovem teve seu voo desviado para Fortaleza, Ceará, após a interdição do aeroporto em Teresina, Piauí. Ele precisou viajar de carro até a capital piauiense para o velório de sua mãe. A interdição do aeroporto causou transtornos para os passageiros. A situação gerou comoção.",
-    "categoria": "internacional",
-    "tags": [
-      "voo",
-      "aeroporto",
-      "Teresina",
-      "Fortaleza",
-      "transtorno"
-    ],
-    "entidades": [
-      "Aeroporto Senador Petrônio Portella"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Piauí",
-      "Ceará"
-    ],
-    "cidades": [
-      "Teresina",
-      "Fortaleza"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
+        "url": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/06/10/pesquisa-quaest-acende-sinal-amarelo-na-campanha-de-flavio-bolsonaro.ghtml"
+      },
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/09/jovem-voo-desviado-interdicao-aeroporto-teresina.ghtml"
+        "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/06/10/pesquisa-quaest-mostra-acerto-do-governo-lula-em-associar-flavio-bolsonaro-a-vorcaro-e-ameacas-de-novo-tarifaco-dos-eua.ghtml"
       }
     ]
   },
   {
-    "id": "apreensao-drogas-arcoverde",
-    "data": "2026-06-09",
-    "titulo": "PRF apreende 4kg de skunk após seguir rastro de sangue em Arcoverde",
-    "resumo": "A Polícia Rodoviária Federal (PRF) apreendeu quatro quilos de uma droga semelhante ao skunk na BR-424, em Arcoverde, Pernambuco. A apreensão ocorreu após uma colisão na rodovia, onde um rastro de sangue levou os policiais à droga. O material foi encontrado na noite de segunda-feira.",
+    "id": "2026-06-10-violencia-belfast",
+    "data": "2026-06-10",
+    "titulo": "Distúrbios em Belfast após esfaqueamento levam a protestos anti-imigração",
+    "resumo": "Protestos anti-imigração eclodiram em Belfast após um esfaqueamento, com manifestantes incendiando edifícios e veículos e bloqueando estradas. A polícia prendeu um suspeito por tentativa de assassinato. A família da vítima fez um apelo por calma, ressaltando a contribuição dos migrantes.",
+    "categoria": "seguranca",
+    "tags": [
+      "Belfast",
+      "protestos",
+      "violência",
+      "imigração",
+      "esfaqueamento"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Belfast"
+    ],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/10/belfast-riots-knife-attack-northern-ireland-sdlp-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates"
+      },
+      {
+        "nome": "France24",
+        "url": "https://www.france24.com/en/video/20260610-anti-immigration-protesters-torch-buildings-and-vehicles-block-roads-over-belfast-stabbing"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-10-combate-drogas-brasil",
+    "data": "2026-06-10",
+    "titulo": "Ações policiais no Brasil resultam na apreensão de drogas e prisões",
+    "resumo": "Em operações distintas no Rio Grande do Norte e na Região dos Lagos do Rio de Janeiro, a Polícia Rodoviária Federal e outras forças de segurança apreenderam mais de R$ 1,5 milhão em drogas e cerca de R$ 150 mil em dinheiro. Três homens foram presos em cada uma das ocorrências.",
     "categoria": "seguranca",
     "tags": [
       "drogas",
-      "PRF",
       "apreensão",
-      "Arcoverde",
-      "skunk"
+      "prisões",
+      "polícia",
+      "Brasil"
     ],
-    "entidades": [
-      "Polícia Rodoviária Federal"
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Cabo Frio",
+      "São Pedro da Aldeia"
     ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/06/10/prf-apreende-mais-de-r-15-milhao-em-drogas-e-prende-tres-homens-por-trafico-no-rn.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/06/10/operacao-prende-tres-suspeitos-e-apreende-mais-de-45-kg-de-drogas-na-regiao-dos-lagos.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-10-saude-dengue-pernambuco",
+    "data": "2026-06-10",
+    "titulo": "Pernambuco suspende vacinação contra dengue para profissionais de saúde",
+    "resumo": "O governo de Pernambuco decidiu suspender temporariamente a vacinação contra a dengue voltada para profissionais de saúde. A medida atende a uma recomendação do Ministério da Saúde, que descontinuou a estratégia de aplicação do imunizante. O motivo específico da descontinuação não foi detalhado.",
+    "categoria": "saude",
+    "tags": [
+      "dengue",
+      "vacina",
+      "saúde",
+      "Pernambuco",
+      "suspensão"
+    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [
       "Pernambuco"
     ],
-    "cidades": [
-      "Arcoverde"
-    ],
+    "cidades": [],
     "paises": [
       "Brasil"
     ],
-    "importancia": 4,
+    "importancia": 3,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/06/09/super-maconha-prf-apreende-4-quilos-de-skunk-apos-seguir-rastro-de-sangue-na-br-424-em-arcoverde.ghtml"
+        "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/06/10/pernambuco-suspende-vacinacao-de-profissionais-de-saude-contra-a-dengue.ghtml"
       }
     ]
   },
   {
-    "id": "acidente-br070-mt",
-    "data": "2026-06-09",
-    "titulo": "Passageiro de carro funerário morre em acidente na BR-070 em MT",
-    "resumo": "Um passageiro morreu e outros veículos ficaram destruídos após um acidente envolvendo um carro funerário, uma carreta e uma caminhonete na BR-070, em Mato Grosso. A vítima fatal foi identificada como Luiz Carlos Florian, de 62 anos. O acidente ocorreu entre Várzea Grande e Nossa Senhora do Livramento.",
-    "categoria": "seguranca",
+    "id": "2026-06-10-esportes-copa-do-mundo",
+    "data": "2026-06-10",
+    "titulo": "Bolões da Copa do Mundo mobilizam torcedores e rival do Brasil relata grave lesão",
+    "resumo": "A proximidade da Copa do Mundo está impulsionando a organização de bolões entre amigos, famílias e colegas de trabalho no Brasil. Em outra notícia esportiva, um jogador rival do Brasil na Copa revelou ter sofrido uma grave lesão no pescoço no início do ano que quase o deixou paralítico.",
+    "categoria": "esportes",
     "tags": [
-      "acidente de trânsito",
-      "morte",
-      "BR-070",
-      "Mato Grosso"
+      "Copa do Mundo",
+      "bolões",
+      "futebol",
+      "lesão"
     ],
+    "entidades": [],
     "pessoas": [],
-    "estados": [
-      "Mato Grosso"
-    ],
-    "cidades": [
-      "Várzea Grande",
-      "Nossa Senhora do Livramento"
-    ],
+    "estados": [],
+    "cidades": [],
     "paises": [
       "Brasil"
     ],
-    "importancia": 4,
+    "importancia": 3,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/06/09/passageiro-de-carro-funerario-morre-apos-tentativa-de-ultrapassagem-na-br-070-em-mt.ghtml"
+        "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/06/10/boloes-da-copa-mobilizam-amigos-familias-e-colegas-de-trabalho-e-esquentam-torcida-antes-do-mundial.ghtml"
+      },
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/rival-do-brasil-na-copa-revela-que-quase-ficou-paralitico-no-comeco-de-2026/"
       }
     ]
   },
   {
-    "id": "prisao-motociclista-uberlandia",
-    "data": "2026-06-09",
-    "titulo": "Motociclista preso com placa artesanal em Uberlândia",
-    "resumo": "Um motociclista foi preso em Uberlândia, Minas Gerais, após ser flagrado pilotando com uma placa artesanal feita de PVC e fita adesiva. A prisão ocorreu durante uma operação da Polícia Militar no bairro Morumbi. O suspeito freou bruscamente ao avistar a viatura. A moto e os capacetes foram apreendidos.",
-    "categoria": "seguranca",
+    "id": "2026-06-10-tecnologia-youtube-ia-brasil",
+    "data": "2026-06-10",
+    "titulo": "YouTube lança ferramenta de inteligência artificial para criadores no Brasil",
+    "resumo": "O YouTube anunciou o lançamento do 'Pergunte ao Studio' no Brasil, uma nova ferramenta baseada em inteligência artificial. A plataforma visa auxiliar criadores de conteúdo a aprimorar seus vídeos e impulsionar o crescimento de seus canais. A ferramenta funciona como um chat com IA.",
+    "categoria": "ciencia",
     "tags": [
+      "YouTube",
+      "inteligência artificial",
+      "criadores de conteúdo",
+      "tecnologia",
+      "Brasil"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/tecnologia/noticia/2026/06/10/youtube-lanca-no-brasil-assistente-de-ia-para-ajudar-criadores-a-melhorar-videos-e-crescer-canais.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-10-crime-violencia-domestica-uberlandia",
+    "data": "2026-06-10",
+    "titulo": "Homem é preso em Uberlândia após ameaçar companheira e cachorro",
+    "resumo": "Um homem de 36 anos foi preso em Uberlândia após ser denunciado por sua companheira por ameaça de morte contra ela e o cachorro do casal. Policiais encontraram armas e munições com o suspeito. A prisão ocorreu horas após a denúncia.",
+    "categoria": "justica",
+    "tags": [
+      "violência doméstica",
+      "ameaça",
       "prisão",
-      "motocicleta",
-      "placa artesanal",
-      "Uberlândia",
-      "polícia"
+      "Uberlândia"
     ],
-    "entidades": [
-      "Polícia Militar"
-    ],
+    "entidades": [],
     "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
+    "estados": [],
     "cidades": [
       "Uberlândia"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/09/motociclista-freia-bruscamente-ao-ver-viatura-e-e-preso-com-placa-artesanal-de-pvc-e-fita-adesiva-em-uberlandia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "open-xadrez-rondonia",
-    "data": "2026-06-09",
-    "titulo": "1º Open Favoo de Xadrez reúne estudantes e comunidade em Vilhena",
-    "resumo": "O 1º Open Favoo de Xadrez foi realizado em Vilhena, Rondônia, reunindo estudantes e a comunidade local. O evento contou com partidas simultâneas e foi promovido pela Favoo no Hubee. A competição buscou integrar alunos de diferentes instituições de ensino. As atividades ocorreram no sábado, 30 de maio.",
-    "categoria": "educacao",
-    "tags": [
-      "xadrez",
-      "competição",
-      "Vilhena",
-      "educação"
-    ],
-    "entidades": [
-      "Favoo",
-      "Hubee"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Rondônia"
-    ],
-    "cidades": [
-      "Vilhena"
-    ],
-    "paises": [
-      "Brasil"
-    ],
     "importancia": 2,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/ro/rondonia/especial-publicitario/cooperativa-educacional-de-vilhena-favoo-divulga-novidades-e-programacao-de-2026/noticia/2026/06/09/1o-open-favoo-de-xadrez-reune-estudantes-e-comunidade-no-hubee.ghtml"
+        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/10/mulher-denuncia-companheiro-por-ameaca-de-morte-contra-ela-e-o-cachorro-homem-e-preso-no-mesmo-dia-em-uberlandia.ghtml"
       }
     ]
   },
   {
-    "id": "campanha-brasil-terrenos",
-    "data": "2026-06-09",
-    "titulo": "Brasil Terrenos oferece 30% de desconto na entrada de terrenos",
-    "resumo": "A Brasil Terrenos lançou a campanha 'Terreno Show de Bola', oferecendo 30% de desconto na entrada para a aquisição de terrenos. A promoção visa facilitar a conquista da casa própria ou investimento. A ação é válida até 30 de junho e abrange todos os empreendimentos da empresa. As condições são especiais e facilitadas.",
-    "categoria": "economia",
-    "tags": [
-      "imóveis",
-      "desconto",
-      "terrenos",
-      "campanha"
-    ],
-    "entidades": [
-      "Brasil Terrenos"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Goiás"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/go/goias/especial-publicitario/brasil-terrenos/noticia/2026/06/09/campanha-da-brasil-terrenos-oferece-30percent-de-desconto-na-entrada-dos-terrenos.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "atrasos-sistema-fronteira-ue",
-    "data": "2026-06-09",
-    "titulo": "Novo sistema de fronteira da UE pode levar dois anos para estabilizar",
-    "resumo": "Um novo sistema de controle de fronteira da União Europeia, que exige informações pessoais e biometria, pode levar até dois anos para se estabilizar. Especialistas alertam para possíveis caos nas viagens durante o verão. O sistema tem causado longos atrasos em grandes aeroportos europeus. A preocupação é com a eficiência e o tempo de processamento.",
-    "categoria": "internacional",
-    "tags": [
-      "fronteira",
-      "União Europeia",
-      "aeroporto",
-      "atrasos",
-      "viagem"
-    ],
-    "entidades": [
-      "União Europeia"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "União Europeia"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/business/2026/jun/09/early-summer-holiday-bookings-down-uk-travel-industry"
-      }
-    ]
-  },
-  {
-    "id": "captura-urso-japao",
-    "data": "2026-06-09",
-    "titulo": "Urso negro capturado após dias de caçada em cidade japonesa",
-    "resumo": "Um urso negro foi capturado em uma cidade japonesa após permanecer solto por quatro dias, causando o fechamento de escolas e uma grande operação de busca. A caçada envolveu helicópteros, dezenas de caçadores e policiais. O Japão registrou um número recorde de mortes por ataques de ursos no ano passado. As autoridades monitoram a fauna local.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "urso",
-      "captura",
-      "Japão",
-      "animal selvagem",
-      "segurança pública"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Japão"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "DW",
-        "url": "https://www.dw.com/en/japanese-city-captures-black-bear-after-multi-day-hunt/a-77474620?maca=en-rss-en-all-1573-rdf"
-      }
-    ]
-  },
-  {
-    "id": "ataque-facao-piracicaba",
-    "data": "2026-06-09",
-    "titulo": "Homem atacado com facão em Piracicaba e fica inconsciente",
-    "resumo": "Um homem foi atacado com um facão após uma discussão na cidade de Piracicaba, São Paulo, e ficou inconsciente. A vítima sofreu ferimentos graves na testa, antebraço e mão. O incidente ocorreu na tarde de segunda-feira no bairro Cidade Alta. A Polícia Militar registrou o caso e investiga as circunstâncias.",
+    "id": "2026-06-10-crime-assalto-sao-paulo",
+    "data": "2026-06-10",
+    "titulo": "Casal é baleado durante assalto na Zona Norte de São Paulo",
+    "resumo": "Um casal foi baleado após ser perseguido por um assaltante de moto na Brasilândia, Zona Norte de São Paulo. A mulher, de 29 anos, foi atingida no abdômen e o homem, de 35 anos, também sofreu ferimentos. As vítimas estavam voltando para casa no momento do ataque.",
     "categoria": "seguranca",
     "tags": [
-      "agressão",
-      "facão",
-      "Piracicaba",
+      "assalto",
+      "tiroteio",
       "violência",
-      "inconsciente"
+      "São Paulo"
     ],
-    "entidades": [
-      "Polícia Militar"
-    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [
       "São Paulo"
     ],
     "cidades": [
-      "Piracicaba"
+      "São Paulo"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 4,
+    "importancia": 2,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/06/09/homem-e-atacado-com-facao-apos-discussao-e-fica-inconsciente-em-piracicaba.ghtml"
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/10/video-casal-e-baleado-apos-ser-perseguido-por-assaltante-em-moto-na-zona-norte-de-sp.ghtml"
       }
     ]
   },
   {
-    "id": "prisao-drogas-santarem",
-    "data": "2026-06-09",
-    "titulo": "Homem preso com mochila de drogas em Santarém",
-    "resumo": "Um homem foi preso em Santarém, Pará, com uma mochila contendo drogas. A abordagem ocorreu na área central da cidade, próximo aos cemitérios. A Polícia Militar realizou a prisão na noite de segunda-feira. O material apreendido estava em posse do suspeito. A polícia investiga a origem e o destino da droga.",
+    "id": "2026-06-10-politica-justica-franca",
+    "data": "2026-06-10",
+    "titulo": "Governo francês busca conter crise após assassinato de menina expor falhas judiciais",
+    "resumo": "O governo francês está tentando amenizar uma crise política decorrente do assassinato de uma menina de 11 anos, cujos detalhes de desaparecimento e morte expuseram falhas no sistema judicial. A atenção se voltou para o sistema de justiça após a revelação de informações sobre o caso. As autoridades buscam evitar que a situação escale.",
+    "categoria": "politica",
+    "tags": [
+      "França",
+      "justiça",
+      "crise política",
+      "assassinato",
+      "sistema judicial"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Fleurance"
+    ],
+    "paises": [
+      "França"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "France24",
+        "url": "https://www.france24.com/en/video/20260610-french-government-seeks-to-defuse-crisis-after-girl-s-killing-exposes-judicial-failings"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-10-economia-turismo-cidade-do-cabo",
+    "data": "2026-06-10",
+    "titulo": "Cidade do Cabo enfrenta desafios com o turismo e aluguéis de curta duração",
+    "resumo": "A Cidade do Cabo está lidando com os efeitos do 'overtourism' (excesso de turismo), com um número crescente de moradias sendo destinadas a aluguéis de curta duração. Uma nova regulamentação municipal poderá permitir a cobrança de taxas diferenciadas para proprietários que alugam suas casas para turistas, em uma tentativa de gerenciar o impacto.",
+    "categoria": "economia",
+    "tags": [
+      "turismo",
+      "economia",
+      "aluguel de curta duração",
+      "Cidade do Cabo"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Cidade do Cabo"
+    ],
+    "paises": [
+      "África do Sul"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "France24",
+        "url": "https://www.france24.com/en/video/20260610-short-term-rentals-under-fire-as-cape-town-grapples-with-overtourism"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-10-saude-tratamento-leucemia",
+    "data": "2026-06-10",
+    "titulo": "Personal trainer relata recuperação rápida de leucemia com tratamento CAR-T Cell",
+    "resumo": "Um personal trainer diagnosticado com leucemia afirma ter se recuperado em apenas um mês após um tratamento com células CAR-T. Ele descreve o método como rápido e sem efeitos debilitantes, permitindo o retorno às atividades físicas. O tratamento foi realizado em 2021.",
+    "categoria": "saude",
+    "tags": [
+      "leucemia",
+      "tratamento médico",
+      "CAR-T Cell",
+      "recuperação"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Ribeirão Preto"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/06/10/personal-trainer-diagnosticado-com-leucemia-diz-que-se-recuperou-em-um-mes-apos-tratamento-com-car-t-cell-rapido-e-sem-efeitos-debilitantes.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-10-crime-violencia-idoso-rio-preto",
+    "data": "2026-06-10",
+    "titulo": "Polícia investiga pessoas que riram em vídeo de idoso com cabelo tingido",
+    "resumo": "A Polícia Civil está investigando as pessoas que aparecem rindo em um vídeo onde um idoso de 83 anos teve o cabelo e a barba tingidos de vermelho por um empresário em São José do Rio Preto. A investigação busca determinar se os espectadores do ato também podem responder por crime. O idoso é uma pessoa em situação de rua.",
+    "categoria": "justica",
+    "tags": [
+      "crime",
+      "idoso",
+      "vandalismo",
+      "investigação",
+      "São José do Rio Preto"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "São José do Rio Preto"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/06/10/pessoas-que-riem-em-video-de-idoso-que-teve-os-cabelos-e-barba-tingidos-de-vermelho-podem-responder-por-crime-diz-policia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-10-politica-eleicao-maine",
+    "data": "2026-06-10",
+    "titulo": "Graham Platner vence primária democrata em Maine para corrida ao Senado",
+    "resumo": "Graham Platner, um veterano dos Fuzileiros Navais, garantiu a nomeação democrata para a corrida ao Senado em Maine. Ele obteve 72% dos votos, apesar de alegações de infidelidade e abuso que surgiram durante a campanha. Platner superou os escândalos e conquistou a vitória na primária.",
+    "categoria": "politica",
+    "tags": [
+      "eleições",
+      "primária",
+      "Senado",
+      "Maine",
+      "democratas"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Graham Platner"
+    ],
+    "estados": [
+      "Maine"
+    ],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/live/2026/jun/10/graham-platner-maine-democrats-senate-primary-donald-trump-us-politics-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-10-seguranca-acidente-transito-minas-gerais",
+    "data": "2026-06-10",
+    "titulo": "Idoso fica ferido após ser atropelado em Pouso Alegre, MG",
+    "resumo": "Um idoso de 86 anos ficou ferido após ser atropelado na tarde de terça-feira (9) em Pouso Alegre, Minas Gerais. O acidente ocorreu no bairro Jardim Filomena. As circunstâncias exatas do atropelamento não foram detalhadas, mas a vítima precisou de atendimento médico.",
     "categoria": "seguranca",
     "tags": [
-      "drogas",
-      "prisão",
+      "acidente de trânsito",
+      "atropelamento",
+      "idoso",
+      "Pouso Alegre"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Pouso Alegre"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/06/10/acidentes-de-transito-sul-de-minas.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-10-politica-militar-sp",
+    "data": "2026-06-10",
+    "titulo": "Tenente-coronel acusado de matar esposa é aposentado oficialmente pela PM-SP",
+    "resumo": "A Polícia Militar de São Paulo publicou um decreto que confirma a aposentadoria oficial do tenente-coronel Geraldo Leite Costa Neto. Ele é réu preso sob acusação de ter matado a esposa, a policial militar Gisele Alves Santana. A publicação oficializa a saída do oficial da corporação.",
+    "categoria": "justica",
+    "tags": [
+      "polícia militar",
+      "aposentadoria",
+      "homicídio",
+      "São Paulo"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Geraldo Leite Costa Neto",
+      "Gisele Alves Santana"
+    ],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/10/pm-publica-decreto-que-aposenta-oficialmente-o-tenente-coronel-acusado-de-matar-a-esposa-em-sp.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-10-internacional-conflito-territorio-palestino",
+    "data": "2026-06-10",
+    "titulo": "Nova filmagem sugere que bebê palestino foi morto por tropas israelenses",
+    "resumo": "Novas imagens parecem contradizer a versão militar israelense sobre a morte de um bebê de sete meses em seus braços. O vídeo mostra o carro da família diminuindo a velocidade, o que sugere que o incidente ocorreu em circunstâncias diferentes do relatado. A morte do bebê gerou condenações internacionais.",
+    "categoria": "internacional",
+    "tags": [
+      "Israel",
+      "Palestina",
+      "conflito",
+      "bebê",
+      "direitos humanos"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Israel",
+      "Territórios palestinos"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/jun/10/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank-new-footage"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-10-cultura-musica-sao-joao-caruaru",
+    "data": "2026-06-10",
+    "titulo": "DJ Alok terá cachê de R$ 850 mil para show no São João de Caruaru",
+    "resumo": "O DJ Alok receberá um cachê de R$ 850 mil para se apresentar no São João de Caruaru, em Pernambuco. O artista é uma das atrações confirmadas para o evento, que começa no dia 13 de junho. Novos valores de cachês para outros artistas também foram divulgados.",
+    "categoria": "cultura",
+    "tags": [
+      "música",
+      "DJ",
+      "São João",
+      "Caruaru",
+      "cachê"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Alok"
+    ],
+    "estados": [
+      "Pernambuco"
+    ],
+    "cidades": [
+      "Caruaru"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/caruaru-regiao/sao-joao-de-caruaru/2026/noticia/2026/06/10/sao-joao-de-caruaru-2026-alok-tera-cache-de-r-850-mil-para-show-no-patio-do-forro-veja-novos-valores-divulgados.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-10-seguranca-acidente-transito-santarem",
+    "data": "2026-06-10",
+    "titulo": "Motorista invade loja após bater em caminhonete em Santarém, Pará",
+    "resumo": "Um motorista perdeu o controle do carro após colidir com uma caminhonete em Santarém, no Pará, e acabou invadindo uma loja. O acidente ocorreu na manhã desta quarta-feira (10) no cruzamento de vias centrais da cidade. Não há informações sobre feridos.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente de trânsito",
+      "colisão",
       "Santarém",
-      "polícia",
-      "apreensão"
+      "invasão de loja"
     ],
-    "entidades": [
-      "Polícia Militar"
-    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [
       "Pará"
@@ -492,470 +588,133 @@
     "paises": [
       "Brasil"
     ],
-    "importancia": 4,
+    "importancia": 1,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/09/homem-e-preso-com-mochila-recheada-de-drogas-proximos-aos-cemiterios-da-area-central-de-santarem.ghtml"
+        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/10/motorista-de-carro-perde-controle-e-invade-loja-apos-bater-em-caminhonete-em-santarem.html"
       }
     ]
   },
   {
-    "id": "tentativa-assalto-zona-sul-sp",
-    "data": "2026-06-09",
-    "titulo": "Motorista é baleado em tentativa de assalto na Zona Sul de SP",
-    "resumo": "Um motorista foi baleado na Avenida Doutor Chucri Zaidan, na Zona Sul de São Paulo, durante uma tentativa de assalto. O suspeito, que se passou por entregador, abordou a vítima no trânsito. A Polícia Militar registrou o ocorrido. A vítima foi socorrida e o estado de saúde não foi detalhado.",
+    "id": "2026-06-10-seguranca-morte-policial-ceara",
+    "data": "2026-06-10",
+    "titulo": "Policial morre após passar mal em curso de operações táticas no Ceará",
+    "resumo": "Um policial militar faleceu nesta quarta-feira (10) após passar mal durante o Curso de Operações Táticas Rurais (Cotar), promovido pela Academia Estadual de Segurança Pública do Ceará. O curso estava sendo realizado em São Gonçalo do Amarante. As causas do mal-estar ainda não foram divulgadas.",
     "categoria": "seguranca",
     "tags": [
-      "assalto",
-      "tiroteio",
-      "São Paulo",
-      "violência",
-      "motorista"
+      "policial",
+      "morte",
+      "curso de treinamento",
+      "Ceará"
     ],
-    "entidades": [
-      "Polícia Militar"
-    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [
-      "São Paulo"
+      "Ceará"
     ],
     "cidades": [
-      "São Paulo"
+      "São Gonçalo do Amarante"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 5,
+    "importancia": 1,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/09/motorista-sofre-tentativa-de-assalto-e-e-baleado-por-falso-entregador-na-avenida-chucri-zaidan-na-zona-sul-de-sp.ghtml"
+        "url": "https://g1.globo.com/ce/ceara/noticia/2026/06/10/policial-morre-apos-passar-mal-em-curso-de-operacoes-taticas-da-policia-no-ceara.html"
       }
     ]
   },
   {
-    "id": "cursos-gratuitos-feira-de-santana",
-    "data": "2026-06-09",
-    "titulo": "Casa do Trabalhador oferece cursos gratuitos em Feira de Santana",
-    "resumo": "A Casa do Trabalhador em Feira de Santana, Bahia, abrirá 40 vagas para cursos gratuitos presenciais. As oportunidades são voltadas para diversas áreas de qualificação profissional. O objetivo é oferecer formação para a comunidade local. As inscrições e detalhes de participação devem ser consultados nos canais da Casa do Trabalhador.",
-    "categoria": "educacao",
-    "tags": [
-      "cursos gratuitos",
-      "qualificação",
-      "Feira de Santana",
-      "trabalho"
-    ],
-    "entidades": [
-      "Casa do Trabalhador"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Bahia"
-    ],
-    "cidades": [
-      "Feira de Santana"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/06/09/vagas-bahia.html"
-      }
-    ]
-  },
-  {
-    "id": "operacao-timon",
-    "data": "2026-06-09",
-    "titulo": "Cinco presos em Timon por tentativa de latrocínio e golpes contra idosa",
-    "resumo": "Cinco pessoas foram presas em Timon, Maranhão, durante a Operação Cerco Fechado. Os detidos são suspeitos de crimes como tentativa de latrocínio, receptação e golpes aplicados contra uma idosa. A ação foi realizada pela Polícia Civil do estado. As investigações buscam desarticular grupos criminosos na região.",
+    "id": "2026-06-10-justica-crime-alto-alegre",
+    "data": "2026-06-10",
+    "titulo": "Homem é encontrado morto e enterrado em fazenda em Alto Alegre, Roraima",
+    "resumo": "Um homem, ainda não identificado, foi encontrado morto e enterrado em uma fazenda na zona rural de Alto Alegre, Roraima. O corpo foi localizado por policiais civis, militares e peritos. A suspeita é de que a vítima tenha sido assassinada. As investigações estão em andamento.",
     "categoria": "justica",
     "tags": [
-      "prisão",
-      "operação policial",
-      "Timon",
-      "latrocínio",
-      "golpe"
+      "homicídio",
+      "corpo encontrado",
+      "investigação",
+      "Alto Alegre"
     ],
-    "entidades": [
-      "Polícia Civil do Maranhão"
-    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [
-      "Maranhão"
+      "Roraima"
     ],
     "cidades": [
-      "Timon"
+      "Alto Alegre"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 4,
+    "importancia": 1,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/09/operacao-prende-5-pessoas-por-tentativa-de-latrocinio-receptacao-e-golpes-contra-idosa-em-timon.ghtml"
+        "url": "https://g1.globo.com/rr/roraima/noticia/2026/06/10/homem-e-encontrado-morto-e-enterrado-em-fazenda-na-zona-rural-de-alto-alegre.html"
       }
     ]
   },
   {
-    "id": "acidente-dutra-queluz",
-    "data": "2026-06-09",
-    "titulo": "Passageiro morre e motorista fica ferido em colisão de caminhões na Dutra",
-    "resumo": "Um passageiro morreu e o motorista de um caminhão ficou ferido após uma colisão entre dois veículos de carga na Rodovia Presidente Dutra (BR-116), em Queluz, São Paulo. O acidente ocorreu na noite de segunda-feira. A Polícia Civil registrou a ocorrência e investiga as causas da colisão.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente de trânsito",
-      "morte",
-      "caminhão",
-      "Dutra",
-      "São Paulo"
-    ],
-    "entidades": [
-      "Polícia Civil"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Queluz"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/09/passageiro-morre-e-motorista-fica-ferido-apos-colisao-entre-caminhoes-na-dutra-em-queluz.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "ataque-caes-cabras-bahia",
-    "data": "2026-06-09",
-    "titulo": "Seis cabras prenhas morrem após ataque de cães na Bahia",
-    "resumo": "Seis cabras prenhas morreram após serem atacadas por cães em uma propriedade rural em Serrinha, Bahia. O incidente ocorreu na segunda-feira. A Polícia Civil registrou o caso. O ataque causou prejuízos ao criador dos animais. As autoridades apuram a responsabilidade pelos cães.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "animais",
-      "ataque",
-      "cães",
-      "cabras",
-      "Bahia"
-    ],
-    "entidades": [
-      "Polícia Civil"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Bahia"
-    ],
-    "cidades": [
-      "Serrinha"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/09/ataque-caes-bahia.html"
-      }
-    ]
-  },
-  {
-    "id": "acidente-br367-mg",
-    "data": "2026-06-09",
-    "titulo": "Três mulheres morrem em acidente na BR-367 no Vale do Jequitinhonha",
-    "resumo": "Três servidoras da área da saúde morreram em um acidente envolvendo um carro e uma caminhonete na BR-367, no Vale do Jequitinhonha, Minas Gerais. O acidente ocorreu na noite de segunda-feira, no trecho entre Jacinto e Santa Maria do Salto. As vítimas trabalhavam em Santa Maria do Salto. A polícia investiga as causas.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente de trânsito",
-      "morte",
-      "saúde",
-      "BR-367",
-      "Minas Gerais"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Jacinto",
-      "Santa Maria do Salto"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 5,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/06/09/acidente-entre-carro-e-caminhonete-mata-tres-mulheres-na-br-367-no-vale-do-jequitinhonha.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "mae-presa-rj",
-    "data": "2026-06-09",
-    "titulo": "Mãe presa após agredir bebê de 5 meses no Rio de Janeiro",
-    "resumo": "Uma mulher foi presa em flagrante em São João da Barra, no Rio de Janeiro, após agredir o próprio filho de 5 meses. Ela enviou um vídeo onde aparece dando tapas no rosto do bebê e fazendo ameaças de morte. O caso ocorreu na madrugada de domingo. A mulher foi detida pela polícia. A criança recebeu os cuidados necessários.",
-    "categoria": "justica",
-    "tags": [
-      "violência infantil",
-      "prisão",
-      "bebê",
-      "Rio de Janeiro",
-      "agressão"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "São João da Barra"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 5,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/06/09/vou-matar-essas-criancas-diz-mae-presa-apos-video-enviado-batendo-no-rosto-de-bebe-de-5-meses-no-rj.html"
-      }
-    ]
-  },
-  {
-    "id": "depoimento-assistente-epstein",
-    "data": "2026-06-09",
-    "titulo": "Ex-assistente de Jeffrey Epstein prestará depoimento no Congresso dos EUA",
-    "resumo": "Lesley Groff, ex-assistente de Jeffrey Epstein, testemunhará perante um comitê do Congresso dos Estados Unidos. Ela trabalhou para Epstein por quase 20 anos, a partir de 2001. Os parlamentares buscam informações sobre as atividades do financista. Groff era responsável por organizar a vida de Epstein.",
-    "categoria": "politica",
-    "tags": [
-      "Congresso",
-      "EUA",
-      "depoimento",
-      "Jeffrey Epstein",
-      "investigação"
-    ],
-    "entidades": [
-      "House oversight and reform committee"
-    ],
-    "pessoas": [
-      "Lesley Groff",
-      "Jeffrey Epstein"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/2026/jun/09/jeffrey-epstein-assistant-lesley-groff-testifies"
-      }
-    ]
-  },
-  {
-    "id": "resgate-helicoptero-mar-hormuz",
-    "data": "2026-06-09",
-    "titulo": "Drone marítimo resgata tripulação de helicóptero do exército dos EUA perto do Estreito de Hormuz",
-    "resumo": "Um drone marítimo não tripulado resgatou dois tripulantes de um helicóptero do exército dos Estados Unidos que caiu perto do Estreito de Hormuz. O incidente ocorreu na segunda-feira. As autoridades americanas confirmaram a operação de resgate. O drone foi fundamental para a rápida recuperação da tripulação.",
-    "categoria": "internacional",
-    "tags": [
-      "resgate",
-      "helicóptero",
-      "EUA",
-      "Estreito de Hormuz",
-      "drone"
-    ],
-    "entidades": [
-      "US Army"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss"
-      }
-    ]
-  },
-  {
-    "id": "atrasos-reembolsos-financiamento-automotivo",
-    "data": "2026-06-09",
-    "titulo": "Reembolsos de financiamento automotivo podem demorar anos devido a desafios legais",
-    "resumo": "A Autoridade de Conduta Financeira (FCA) do Reino Unido alertou que os reembolsos do escândalo de financiamento automotivo podem ser atrasados em até três anos. Desafios legais e um grande volume de reclamações podem sobrecarregar as financeiras. O montante extra de custos para as empresas pode chegar a 6 bilhões de libras. A situação afeta os consumidores que aguardam compensação.",
+    "id": "2026-06-10-economia-dia-namorados-shoppings",
+    "data": "2026-06-10",
+    "titulo": "Shoppings projetam R$ 4,5 bilhões em vendas para o Dia dos Namorados",
+    "resumo": "Os shoppings brasileiros projetam um faturamento de R$ 4,5 bilhões durante o período do Dia dos Namorados. A Associação Brasileira de Shopping Centers (Abrasce) divulgou a expectativa. A coincidência com a Copa do Mundo pode impulsionar ainda mais o fluxo de vendas.",
     "categoria": "economia",
     "tags": [
-      "financiamento automotivo",
-      "reembolso",
-      "esquema",
-      "Reino Unido",
-      "atraso"
+      "Dia dos Namorados",
+      "vendas",
+      "shoppings",
+      "economia"
     ],
     "entidades": [
-      "Financial Conduct Authority (FCA)"
+      "Abrasce"
     ],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/business/2026/jun/09/car-finance-payouts-delayed-legal-challenges-fca-complaints"
-      }
-    ]
-  },
-  {
-    "id": "alerta-chuvas-amapa",
-    "data": "2026-06-09",
-    "titulo": "Amapá recebe alerta de perigo para chuvas intensas e ventos fortes",
-    "resumo": "O Instituto Nacional de Meteorologia (Inmet) emitiu um alerta de perigo para todo o estado do Amapá, com previsão de chuvas intensas e ventos fortes. O aviso é válido até o final desta terça-feira (9). A população deve ter atenção às condições climáticas. A região pode enfrentar transtornos devido ao mau tempo.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "chuvas",
-      "ventos fortes",
-      "alerta",
-      "Amapá",
-      "meteorologia"
-    ],
-    "entidades": [
-      "Instituto Nacional de Meteorologia (Inmet)"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Amapá"
-    ],
-    "cidades": [],
-    "paises": [
       "Brasil"
     ],
-    "importancia": 3,
+    "importancia": 1,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ap/amapa/noticia/2026/06/09/amapa-recebe-alerta-de-perigo-para-chuvas-intensas-e-ventos-fortes-nesta-terca-9.html"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/dia-dos-namorados-shoppings-projetam-r-45-bi-no-periodo-diz-abrasce/"
       }
     ]
   },
   {
-    "id": "vagas-concurso-bayeux",
-    "data": "2026-06-09",
-    "titulo": "Prefeitura de Bayeux convoca 32 aprovados em concurso público",
-    "resumo": "A Prefeitura de Bayeux, na Paraíba, convocou 32 candidatos aprovados em um concurso público municipal. A lista com os nomes dos convocados foi publicada no Diário Oficial do Município. Os novos servidores serão incorporados ao quadro da prefeitura. A medida visa suprir demandas de pessoal em diversas áreas.",
-    "categoria": "politica",
-    "tags": [
-      "concurso público",
-      "aprovação",
-      "Bayeux",
-      "vagas"
-    ],
-    "entidades": [
-      "Prefeitura Municipal de Bayeux",
-      "Ministério Público da Paraíba"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Paraíba"
-    ],
-    "cidades": [
-      "Bayeux"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/06/09/prefeitura-de-bayeux-convoca-mais-de-30-aprovados-em-concurso-publico.html"
-      }
-    ]
-  },
-  {
-    "id": "lentidao-br135-ma",
-    "data": "2026-06-09",
-    "titulo": "Motoristas enfrentam lentidão na BR-135 no Maranhão",
-    "resumo": "Motoristas que utilizam a BR-135 para entrar ou sair de São Luís, Maranhão, enfrentam lentidão devido a um monitoramento preventivo na ponte do Estreito dos Mosquitos. O Departamento Nacional de Infraestrutura de Transportes (DNIT) iniciou a ação. O trânsito intenso é atribuído ao retorno do feriado prolongado. Recomenda-se atenção e paciência.",
-    "categoria": "infraestrutura",
-    "tags": [
-      "trânsito",
-      "lentidão",
-      "BR-135",
-      "Maranhão",
-      "monitoramento"
-    ],
-    "entidades": [
-      "Departamento Nacional de Infraestrutura de Transportes (DNIT)"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Maranhão"
-    ],
-    "cidades": [
-      "São Luís"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/09/motoristas-enfrentam-lentidao-na-br-135-durante-monitoramento-na-ponte-do-estreito-dos-mosquitos.html"
-      }
-    ]
-  },
-  {
-    "id": "prisao-assalto-faculdade-belem",
-    "data": "2026-06-09",
-    "titulo": "Homem suspeito de assaltar faculdade é preso em Belém",
-    "resumo": "Um homem foi preso em flagrante em Belém, Pará, suspeito de assaltar alunos e funcionários de uma faculdade particular no bairro de São Brás. A prisão ocorreu nas proximidades da Praça Magalhães Barata. A Polícia Militar cumpriu o mandado. O suspeito foi detido após cometer o crime. As investigações seguem para identificar possíveis comparsas.",
+    "id": "2026-06-10-seguranca-acidente-transito-brasilia",
+    "data": "2026-06-10",
+    "titulo": "Homem sofre queda em escada do Itamaraty, em Brasília",
+    "resumo": "Um homem se acidentou na escada da entrada principal do Palácio do Itamaraty, sede do Ministério das Relações Exteriores, em Brasília. Brigadistas do local prestaram os primeiros atendimentos após o acidente, que ocorreu na manhã desta quarta-feira (10). As circunstâncias da queda não foram detalhadas.",
     "categoria": "seguranca",
     "tags": [
-      "prisão",
-      "assalto",
-      "faculdade",
-      "Belém",
-      "polícia"
+      "acidente",
+      "queda",
+      "Itamaraty",
+      "Brasília"
     ],
-    "entidades": [
-      "Polícia Militar"
-    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [
-      "Pará"
+      "Distrito Federal"
     ],
     "cidades": [
-      "Belém"
+      "Brasília"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 4,
+    "importancia": 1,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/pa/para/noticia/2026/06/09/homem-suspeito-de-assaltar-faculdade-particular-e-preso-em-belem.html"
+        "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/10/homem-sofre-queda-em-escada-do-itamaraty-em-brasilia.html"
       }
     ]
   }
