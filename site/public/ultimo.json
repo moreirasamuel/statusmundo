@@ -1,125 +1,20 @@
 [
   {
-    "id": "2026-06-10-tensao-iran-eua",
-    "data": "2026-06-10",
-    "titulo": "Tensões entre EUA e Irã aumentam com trocas de ameaças e ataques",
-    "resumo": "Os Estados Unidos emitiram novas ameaças ao Irã, indicando que o país 'terá que pagar o preço' por atrasos em negociações. Em resposta, o Irã prometeu retaliação a quaisquer ataques. A escalada envolveu ataques aéreos americanos contra o Irã, com o Irã retaliando países da região.",
-    "categoria": "internacional",
-    "tags": [
-      "EUA",
-      "Irã",
-      "ataques",
-      "ameaças",
-      "conflito"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos",
-      "Irã"
-    ],
-    "importancia": 5,
-    "fontes": [
-      {
-        "nome": "BBC News",
-        "url": "https://www.bbc.com/news/articles/ce371kw2ex2o"
-      },
-      {
-        "nome": "France24",
-        "url": "https://www.france24.com/en/video/20260610-us-strikes-iran-after-blaming-tehran-for-helicopter-crash"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-10-pesquisa-politica-brasil",
-    "data": "2026-06-10",
-    "titulo": "Pesquisa eleitoral no Brasil indica liderança de Lula sobre Flávio Bolsonaro",
-    "resumo": "Uma nova pesquisa Quaest aponta que Luiz Inácio Lula da Silva lidera o segundo turno eleitoral com 44% das intenções de voto, contra 38% de Flávio Bolsonaro. A campanha de Flávio Bolsonaro demonstrou preocupação com os resultados. A estratégia governista de associar Bolsonaro a outras figuras também foi destacada.",
-    "categoria": "politica",
-    "tags": [
-      "eleições",
-      "pesquisa",
-      "Lula",
-      "Flávio Bolsonaro",
-      "Brasil"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Luiz Inácio Lula da Silva",
-      "Flávio Bolsonaro"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/06/10/pesquisa-quaest-acende-sinal-amarelo-na-campanha-de-flavio-bolsonaro.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/06/10/pesquisa-quaest-mostra-acerto-do-governo-lula-em-associar-flavio-bolsonaro-a-vorcaro-e-ameacas-de-novo-tarifaco-dos-eua.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-10-violencia-belfast",
-    "data": "2026-06-10",
-    "titulo": "Distúrbios em Belfast após esfaqueamento levam a protestos anti-imigração",
-    "resumo": "Protestos anti-imigração eclodiram em Belfast após um esfaqueamento, com manifestantes incendiando edifícios e veículos e bloqueando estradas. A polícia prendeu um suspeito por tentativa de assassinato. A família da vítima fez um apelo por calma, ressaltando a contribuição dos migrantes.",
+    "id": "2026-06-11-prisao-armas-joao-pessoa",
+    "data": "2026-06-11",
+    "titulo": "Homens são presos com armas em carro de luxo em João Pessoa",
+    "resumo": "Dois homens foram detidos em um carro de luxo na praia do Cabo Branco, em João Pessoa. Com eles foram encontradas duas armas e quatro carregadores. A prisão ocorreu na manhã desta quinta-feira (11).",
     "categoria": "seguranca",
     "tags": [
-      "Belfast",
-      "protestos",
-      "violência",
-      "imigração",
-      "esfaqueamento"
+      "prisão",
+      "armas",
+      "veículo de luxo"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [
-      "Belfast"
-    ],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/10/belfast-riots-knife-attack-northern-ireland-sdlp-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates"
-      },
-      {
-        "nome": "France24",
-        "url": "https://www.france24.com/en/video/20260610-anti-immigration-protesters-torch-buildings-and-vehicles-block-roads-over-belfast-stabbing"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-10-combate-drogas-brasil",
-    "data": "2026-06-10",
-    "titulo": "Ações policiais no Brasil resultam na apreensão de drogas e prisões",
-    "resumo": "Em operações distintas no Rio Grande do Norte e na Região dos Lagos do Rio de Janeiro, a Polícia Rodoviária Federal e outras forças de segurança apreenderam mais de R$ 1,5 milhão em drogas e cerca de R$ 150 mil em dinheiro. Três homens foram presos em cada uma das ocorrências.",
-    "categoria": "seguranca",
-    "tags": [
-      "drogas",
-      "apreensão",
-      "prisões",
-      "polícia",
-      "Brasil"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Cabo Frio",
-      "São Pedro da Aldeia"
+      "João Pessoa"
     ],
     "paises": [
       "Brasil"
@@ -128,182 +23,25 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/06/10/prf-apreende-mais-de-r-15-milhao-em-drogas-e-prende-tres-homens-por-trafico-no-rn.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/06/10/operacao-prende-tres-suspeitos-e-apreende-mais-de-45-kg-de-drogas-na-regiao-dos-lagos.ghtml"
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/06/11/dois-homens-em-um-carro-de-luxo-sao-presos-com-armas-em-joao-pessoa.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-10-saude-dengue-pernambuco",
-    "data": "2026-06-10",
-    "titulo": "Pernambuco suspende vacinação contra dengue para profissionais de saúde",
-    "resumo": "O governo de Pernambuco decidiu suspender temporariamente a vacinação contra a dengue voltada para profissionais de saúde. A medida atende a uma recomendação do Ministério da Saúde, que descontinuou a estratégia de aplicação do imunizante. O motivo específico da descontinuação não foi detalhado.",
-    "categoria": "saude",
-    "tags": [
-      "dengue",
-      "vacina",
-      "saúde",
-      "Pernambuco",
-      "suspensão"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Pernambuco"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/06/10/pernambuco-suspende-vacinacao-de-profissionais-de-saude-contra-a-dengue.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-10-esportes-copa-do-mundo",
-    "data": "2026-06-10",
-    "titulo": "Bolões da Copa do Mundo mobilizam torcedores e rival do Brasil relata grave lesão",
-    "resumo": "A proximidade da Copa do Mundo está impulsionando a organização de bolões entre amigos, famílias e colegas de trabalho no Brasil. Em outra notícia esportiva, um jogador rival do Brasil na Copa revelou ter sofrido uma grave lesão no pescoço no início do ano que quase o deixou paralítico.",
+    "id": "2026-06-11-debate-nome-esporte",
+    "data": "2026-06-11",
+    "titulo": "Debate sobre o nome do esporte: 'football' ou 'soccer'?",
+    "resumo": "A proximidade da Copa do Mundo levanta o debate sobre como o esporte mais popular do mundo é chamado: football ou soccer. A reportagem explora as origens dos termos. Na França, o esporte é conhecido como 'le foot'.",
     "categoria": "esportes",
     "tags": [
       "Copa do Mundo",
-      "bolões",
-      "futebol",
-      "lesão"
+      "linguagem",
+      "esporte"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/06/10/boloes-da-copa-mobilizam-amigos-familias-e-colegas-de-trabalho-e-esquentam-torcida-antes-do-mundial.ghtml"
-      },
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/rival-do-brasil-na-copa-revela-que-quase-ficou-paralitico-no-comeco-de-2026/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-10-tecnologia-youtube-ia-brasil",
-    "data": "2026-06-10",
-    "titulo": "YouTube lança ferramenta de inteligência artificial para criadores no Brasil",
-    "resumo": "O YouTube anunciou o lançamento do 'Pergunte ao Studio' no Brasil, uma nova ferramenta baseada em inteligência artificial. A plataforma visa auxiliar criadores de conteúdo a aprimorar seus vídeos e impulsionar o crescimento de seus canais. A ferramenta funciona como um chat com IA.",
-    "categoria": "ciencia",
-    "tags": [
-      "YouTube",
-      "inteligência artificial",
-      "criadores de conteúdo",
-      "tecnologia",
-      "Brasil"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/tecnologia/noticia/2026/06/10/youtube-lanca-no-brasil-assistente-de-ia-para-ajudar-criadores-a-melhorar-videos-e-crescer-canais.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-10-crime-violencia-domestica-uberlandia",
-    "data": "2026-06-10",
-    "titulo": "Homem é preso em Uberlândia após ameaçar companheira e cachorro",
-    "resumo": "Um homem de 36 anos foi preso em Uberlândia após ser denunciado por sua companheira por ameaça de morte contra ela e o cachorro do casal. Policiais encontraram armas e munições com o suspeito. A prisão ocorreu horas após a denúncia.",
-    "categoria": "justica",
-    "tags": [
-      "violência doméstica",
-      "ameaça",
-      "prisão",
-      "Uberlândia"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Uberlândia"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/10/mulher-denuncia-companheiro-por-ameaca-de-morte-contra-ela-e-o-cachorro-homem-e-preso-no-mesmo-dia-em-uberlandia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-10-crime-assalto-sao-paulo",
-    "data": "2026-06-10",
-    "titulo": "Casal é baleado durante assalto na Zona Norte de São Paulo",
-    "resumo": "Um casal foi baleado após ser perseguido por um assaltante de moto na Brasilândia, Zona Norte de São Paulo. A mulher, de 29 anos, foi atingida no abdômen e o homem, de 35 anos, também sofreu ferimentos. As vítimas estavam voltando para casa no momento do ataque.",
-    "categoria": "seguranca",
-    "tags": [
-      "assalto",
-      "tiroteio",
-      "violência",
-      "São Paulo"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "São Paulo"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/10/video-casal-e-baleado-apos-ser-perseguido-por-assaltante-em-moto-na-zona-norte-de-sp.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-10-politica-justica-franca",
-    "data": "2026-06-10",
-    "titulo": "Governo francês busca conter crise após assassinato de menina expor falhas judiciais",
-    "resumo": "O governo francês está tentando amenizar uma crise política decorrente do assassinato de uma menina de 11 anos, cujos detalhes de desaparecimento e morte expuseram falhas no sistema judicial. A atenção se voltou para o sistema de justiça após a revelação de informações sobre o caso. As autoridades buscam evitar que a situação escale.",
-    "categoria": "politica",
-    "tags": [
-      "França",
-      "justiça",
-      "crise política",
-      "assassinato",
-      "sistema judicial"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Fleurance"
-    ],
     "paises": [
       "França"
     ],
@@ -311,50 +49,544 @@
     "fontes": [
       {
         "nome": "France24",
-        "url": "https://www.france24.com/en/video/20260610-french-government-seeks-to-defuse-crisis-after-girl-s-killing-exposes-judicial-failings"
+        "url": "https://www.france24.com/en/tv-shows/entre-nous/20260611-is-it-football-is-it-soccer-c-est-le-pied"
       }
     ]
   },
   {
-    "id": "2026-06-10-economia-turismo-cidade-do-cabo",
-    "data": "2026-06-10",
-    "titulo": "Cidade do Cabo enfrenta desafios com o turismo e aluguéis de curta duração",
-    "resumo": "A Cidade do Cabo está lidando com os efeitos do 'overtourism' (excesso de turismo), com um número crescente de moradias sendo destinadas a aluguéis de curta duração. Uma nova regulamentação municipal poderá permitir a cobrança de taxas diferenciadas para proprietários que alugam suas casas para turistas, em uma tentativa de gerenciar o impacto.",
-    "categoria": "economia",
+    "id": "2026-06-11-telejornais-vanguarda",
+    "data": "2026-06-11",
+    "titulo": "Acompanhe os telejornais da TV Vanguarda no g1",
+    "resumo": "Os telejornais da TV Vanguarda estão disponíveis para serem assistidos no g1. Os programas Bom Dia Vanguarda, Link Vanguarda e Jornal Vanguarda são exibidos de segunda a sexta-feira. Aos sábados, o Link Vanguarda e o Jornal Vanguarda completam a programação.",
+    "categoria": "cultura",
     "tags": [
-      "turismo",
-      "economia",
-      "aluguel de curta duração",
-      "Cidade do Cabo"
+      "telejornal",
+      "TV",
+      "notícias"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/ao-vivo/assista-ao-link-vanguarda-no-g1.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-telejornais-amazonia",
+    "data": "2026-06-11",
+    "titulo": "Vídeos do Bom Dia Amazônia desta quinta-feira",
+    "resumo": "Vídeos do telejornal Bom Dia Amazônia referente à quinta-feira, 11 de junho de 2026, foram disponibilizados. O conteúdo exato dos vídeos não foi detalhado na manchete.",
+    "categoria": "cultura",
+    "tags": [
+      "telejornal",
+      "TV",
+      "notícias"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Amazonas"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/am/amazonas/playlist/videos-bom-dia-amazonia-desta-quinta-feira-11-de-junho-de-2026.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-justica-sao-luis",
+    "data": "2026-06-11",
+    "titulo": "Justiça determina desocupação de rua bloqueada por construções irregulares em São Luís",
+    "resumo": "A Justiça determinou que a Prefeitura de São Luís desocupe e demolha construções irregulares que bloqueiam totalmente o trânsito em uma rua. A decisão visa liberar o fluxo na via afetada.",
+    "categoria": "justica",
+    "tags": [
+      "construções irregulares",
+      "ordem judicial",
+      "trânsito"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [
-      "Cidade do Cabo"
+      "São Luís"
     ],
     "paises": [
-      "África do Sul"
+      "Brasil"
     ],
-    "importancia": 2,
+    "importancia": 3,
     "fontes": [
       {
-        "nome": "France24",
-        "url": "https://www.france24.com/en/video/20260610-short-term-rentals-under-fire-as-cape-town-grapples-with-overtourism"
+        "nome": "G1",
+        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/11/justica-determina-que-prefeitura-de-sao-luis-desocupe-rua-bloqueada-por-construcoes-irregulares-no-turu.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-10-saude-tratamento-leucemia",
-    "data": "2026-06-10",
-    "titulo": "Personal trainer relata recuperação rápida de leucemia com tratamento CAR-T Cell",
-    "resumo": "Um personal trainer diagnosticado com leucemia afirma ter se recuperado em apenas um mês após um tratamento com células CAR-T. Ele descreve o método como rápido e sem efeitos debilitantes, permitindo o retorno às atividades físicas. O tratamento foi realizado em 2021.",
+    "id": "2026-06-11-tortura-rio-grande",
+    "data": "2026-06-11",
+    "titulo": "Polícia investiga homem amarrado a poste como tortura no Rio Grande do Sul",
+    "resumo": "A Polícia Civil investiga um caso de possível tortura, onde um homem de 47 anos foi encontrado amarrado a um poste com uma placa de 'ladrão'. O incidente ocorreu na região da Hidráulica, em Rio Grande. Um inquérito foi aberto para apurar os fatos.",
+    "categoria": "justica",
+    "tags": [
+      "tortura",
+      "investigação policial",
+      "crime"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio Grande do Sul"
+    ],
+    "cidades": [
+      "Rio Grande"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/11/policia-investiga-homem-amarrado-poste-rio-grande.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-telejornais-integracao-divinopolis",
+    "data": "2026-06-11",
+    "titulo": "Assista aos telejornais da TV Integração de Divinópolis",
+    "resumo": "Os telejornais transmitidos pela TV Integração de Divinópolis estão disponíveis para serem assistidos ao vivo. A programação oferece cobertura noticiosa local.",
+    "categoria": "cultura",
+    "tags": [
+      "telejornal",
+      "TV",
+      "notícias"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Divinópolis"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-telejornais-integracao-juiz-de-fora",
+    "data": "2026-06-11",
+    "titulo": "Assista aos telejornais da TV Integração de Juiz de Fora",
+    "resumo": "Os telejornais da TV Integração de Juiz de Fora podem ser acompanhados ao vivo. A transmissão fornece notícias e reportagens da região. Os espectadores podem acessar a programação pelo g1.",
+    "categoria": "cultura",
+    "tags": [
+      "telejornal",
+      "TV",
+      "notícias"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Juiz de Fora"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-pescados-ue",
+    "data": "2026-06-11",
+    "titulo": "UE avalia reabrir mercado para pescados brasileiros",
+    "resumo": "Auditores da União Europeia estão no Brasil para avaliar as condições de produção do setor pesqueiro nacional. O objetivo é decidir sobre a reabertura do mercado da UE para os pescados brasileiros, que estão barrados desde 2017. Um aval positivo pode impulsionar as exportações.",
+    "categoria": "economia",
+    "tags": [
+      "exportação",
+      "pescado",
+      "União Europeia"
+    ],
+    "entidades": [
+      "União Europeia"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/11/ue-avalia-reabrir-seu-mercado-para-pescados-brasileiros.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-telejornais-integracao-uberaba",
+    "data": "2026-06-11",
+    "titulo": "Assista aos telejornais da TV Integração de Uberaba",
+    "resumo": "Os telejornais da TV Integração de Uberaba estão disponíveis para serem acompanhados ao vivo. Os espectadores podem acessar a programação noticiosa da região através do portal g1.",
+    "categoria": "cultura",
+    "tags": [
+      "telejornal",
+      "TV",
+      "notícias"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Uberaba"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-telejornais-integracao-uberlandia",
+    "data": "2026-06-11",
+    "titulo": "Assista aos telejornais da TV Integração de Uberlândia",
+    "resumo": "A programação ao vivo dos telejornais da TV Integração de Uberlândia está acessível para os telespectadores. As notícias e reportagens da região podem ser acompanhadas pelo portal g1.",
+    "categoria": "cultura",
+    "tags": [
+      "telejornal",
+      "TV",
+      "notícias"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Uberlândia"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-eleicoes-peru",
+    "data": "2026-06-11",
+    "titulo": "Recontagem de votos no Peru pode definir resultado eleitoral",
+    "resumo": "A apuração das eleições presidenciais no Peru está em andamento e o resultado ainda é incerto. Uma recontagem de votos paralela pode influenciar a definição do pleito. O processo eleitoral tem sido descrito como uma 'apuração interminável'.",
+    "categoria": "politica",
+    "tags": [
+      "eleições",
+      "Peru",
+      "recontagem de votos"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Peru"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mundo/noticia/2026/06/11/eleicoes-no-peru-recontagem-de-votos-pode-definir-resultado-entenda.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-fuga-forum-ceara",
+    "data": "2026-06-11",
+    "titulo": "Homem condenado por feminicídio foge de fórum no Ceará",
+    "resumo": "Um homem condenado por matar a ex-companheira fugiu de um fórum em Canindé, no Ceará, antes do término do julgamento. Ele deixou o Salão do Tribunal Popular do Júri e está foragido. O crime ocorreu nesta quarta-feira (10).",
+    "categoria": "justica",
+    "tags": [
+      "fuga",
+      "feminicídio",
+      "julgamento"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Ceará"
+    ],
+    "cidades": [
+      "Canindé"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ce/ceara/noticia/2026/06/11/condenado-por-matar-a-ex-foge-de-forum-enquanto-era-julgado-e-esta-foragido.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-greve-taubate",
+    "data": "2026-06-11",
+    "titulo": "Servidores de Taubaté rejeitam proposta e mantêm greve",
+    "resumo": "Os servidores municipais de Taubaté decidiram manter a greve após rejeitarem a proposta de reajuste salarial apresentada pela Prefeitura. A decisão foi tomada na manhã desta quinta-feira (11).",
+    "categoria": "politica",
+    "tags": [
+      "greve",
+      "servidores públicos",
+      "reivindicação salarial"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Taubaté"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/11/servidores-rejeitam-proposta-da-prefeitura-e-mantem-greve-em-taubate.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-cursos-pit-piaui",
+    "data": "2026-06-11",
+    "titulo": "PIT oferece 290 vagas em cursos gratuitos de Tecnologia da Informação no Piauí",
+    "resumo": "O Piauí Instituto de Tecnologia (PIT) abriu inscrições para 290 vagas em cursos gratuitos de Tecnologia em Ciência de Dados e Introdução à Inteligência Artificial. A iniciativa visa ampliar oportunidades educacionais na área de TI para a população do estado.",
+    "categoria": "educacao",
+    "tags": [
+      "cursos gratuitos",
+      "Tecnologia da Informação",
+      "oportunidades"
+    ],
+    "entidades": [
+      "Piauí Instituto de Tecnologia"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Piauí"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/11/pit-vagas-cursos-gratuitos-tecnologia-informacao.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-telejornal-gr1-petrolina",
+    "data": "2026-06-11",
+    "titulo": "Assista ao GR1 ao vivo em Petrolina",
+    "resumo": "O telejornal GR1, apresentado por Vanda Torres, está sendo transmitido ao vivo nesta quinta-feira (11). Os espectadores podem acompanhar as notícias da região de Petrolina.",
+    "categoria": "cultura",
+    "tags": [
+      "telejornal",
+      "TV",
+      "notícias"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Vanda Torres"
+    ],
+    "estados": [
+      "Pernambuco"
+    ],
+    "cidades": [
+      "Petrolina"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/petrolina-regiao/ao-vivo/ao-vivo-assista-ao-gr1.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-estagio-unicamp",
+    "data": "2026-06-11",
+    "titulo": "HC da Unicamp abre vagas de estágio com bolsas de até R$ 1.250",
+    "resumo": "O Hospital de Clínicas da Unicamp está oferecendo vagas de estágio para estudantes, com bolsas que chegam a R$ 1.250. Os interessados podem se candidatar pelo site até o dia 23 de junho. Há oportunidades em diversas áreas.",
+    "categoria": "educacao",
+    "tags": [
+      "estágio",
+      "bolsas de estudo",
+      "saúde"
+    ],
+    "entidades": [
+      "Unicamp"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Campinas"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/campinas-regiao/concursos-e-emprego/noticia/2026/06/11/hc-da-unicamp-abre-vagas-de-estagio-com-bolsas-ate-r-1250-veja-areas.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-pautas-bomba-orcamento",
+    "data": "2026-06-11",
+    "titulo": "Entenda o que são 'pautas-bomba' que pressionam o orçamento do governo",
+    "resumo": "O termo 'pauta-bomba' refere-se a projetos de lei que, ao serem aprovados, geram grande impacto financeiro no orçamento público. Essas propostas têm aparecido com frequência em votações no Congresso, especialmente em ano eleitoral, aumentando a pressão sobre as contas do governo.",
+    "categoria": "politica",
+    "tags": [
+      "orçamento público",
+      "Congresso Nacional",
+      "política econômica"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/economia/noticia/2026/06/11/entenda-o-que-sao-pautas-bomba-que-pressionam-orcamento-do-governo-em-ano-eleitoral.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-atendimento-nhs",
+    "data": "2026-06-11",
+    "titulo": "Quase 3.000 pacientes do NHS recebem atendimento em corredores diariamente na Inglaterra",
+    "resumo": "Dados oficiais revelam que aproximadamente 3.000 pacientes do National Health Service (NHS) na Inglaterra recebem atendimento em corredores de hospitais diariamente. O número inclui 2.241 casos registrados em prontos-socorros e outros 699 em locais inadequados.",
     "categoria": "saude",
     "tags": [
-      "leucemia",
-      "tratamento médico",
-      "CAR-T Cell",
-      "recuperação"
+      "NHS",
+      "corredores de hospital",
+      "atendimento médico"
+    ],
+    "entidades": [
+      "NHS"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/society/2026/jun/11/nhs-patients-receiving-corridor-care-england-official-figures"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-suprema-corte-eua",
+    "data": "2026-06-11",
+    "titulo": "Suprema Corte dos EUA libera opiniões com casos importantes ainda pendentes",
+    "resumo": "A Suprema Corte dos Estados Unidos liberou um novo conjunto de opiniões nesta quinta-feira (11). No entanto, alguns dos casos mais aguardados para o final do mandato da corte ainda não tiveram suas decisões divulgadas. A divulgação ocorreu às 10h (ET).",
+    "categoria": "justica",
+    "tags": [
+      "Suprema Corte",
+      "decisões judiciais",
+      "EUA"
+    ],
+    "entidades": [
+      "Suprema Corte dos Estados Unidos"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/live/2026/jun/11/democrats-republicans-midterms-tech-laws-scotus-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-acidente-ribeirao-preto",
+    "data": "2026-06-11",
+    "titulo": "Motociclista tem perna amputada após cair em rodovia em Ribeirão Preto (SP)",
+    "resumo": "Um motociclista de 47 anos teve uma perna amputada após sofrer um acidente na alça de acesso do Anel Viário Sul, em Ribeirão Preto, São Paulo. O acidente ocorreu na manhã desta quinta-feira (11), por volta das 6h. A queda aconteceu após o condutor derrapar na pista.",
+    "categoria": "saude",
+    "tags": [
+      "acidente de trânsito",
+      "motociclista",
+      "amputação"
     ],
     "entidades": [],
     "pessoas": [],
@@ -367,311 +599,248 @@
     "paises": [
       "Brasil"
     ],
-    "importancia": 2,
+    "importancia": 4,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/06/10/personal-trainer-diagnosticado-com-leucemia-diz-que-se-recuperou-em-um-mes-apos-tratamento-com-car-t-cell-rapido-e-sem-efeitos-debilitantes.ghtml"
+        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/06/11/motociclista-fica-gravemente-ferido-apos-cair-na-alca-de-acesso-do-anel-viario-sul-em-ribeirao-preto-sp.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-10-crime-violencia-idoso-rio-preto",
-    "data": "2026-06-10",
-    "titulo": "Polícia investiga pessoas que riram em vídeo de idoso com cabelo tingido",
-    "resumo": "A Polícia Civil está investigando as pessoas que aparecem rindo em um vídeo onde um idoso de 83 anos teve o cabelo e a barba tingidos de vermelho por um empresário em São José do Rio Preto. A investigação busca determinar se os espectadores do ato também podem responder por crime. O idoso é uma pessoa em situação de rua.",
-    "categoria": "justica",
+    "id": "2026-06-11-morte-explosao-goias",
+    "data": "2026-06-11",
+    "titulo": "Mãe morre em Goiás após explosão em panificadora que atingiu família",
+    "resumo": "Uma mulher de 29 anos, Jaqueline Alves da Costa, morreu em Catalão, Goiás, após sofrer queimaduras graves em uma explosão ocorrida em uma panificadora. Ela estava com o bebê, o marido e o avô no momento do incidente. A mãe teve queimaduras de 1º e 2º graus.",
+    "categoria": "saude",
     "tags": [
-      "crime",
-      "idoso",
-      "vandalismo",
-      "investigação",
-      "São José do Rio Preto"
+      "explosão",
+      "queimaduras",
+      "fatalidade"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [
-      "São Paulo"
+      "Goiás"
     ],
     "cidades": [
-      "São José do Rio Preto"
+      "Catalão"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 2,
+    "importancia": 4,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/06/10/pessoas-que-riem-em-video-de-idoso-que-teve-os-cabelos-e-barba-tingidos-de-vermelho-podem-responder-por-crime-diz-policia.ghtml"
+        "url": "https://g1.globo.com/go/goias/noticia/2026/06/11/mae-que-foi-queimada-junto-com-a-filha-e-o-marido-durante-explosao-em-panificadora-morre-em-goias.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-10-politica-eleicao-maine",
-    "data": "2026-06-10",
-    "titulo": "Graham Platner vence primária democrata em Maine para corrida ao Senado",
-    "resumo": "Graham Platner, um veterano dos Fuzileiros Navais, garantiu a nomeação democrata para a corrida ao Senado em Maine. Ele obteve 72% dos votos, apesar de alegações de infidelidade e abuso que surgiram durante a campanha. Platner superou os escândalos e conquistou a vitória na primária.",
-    "categoria": "politica",
+    "id": "2026-06-11-crise-oriente-medio-trump",
+    "data": "2026-06-11",
+    "titulo": "Trump ameaça ataque 'muito duro' ao Irã e diz que EUA tomarão ilha de Kharg",
+    "resumo": "O presidente dos Estados Unidos, Donald Trump, ameaçou um ataque 'muito duro' ao Irã nesta quinta-feira (11) e declarou que os EUA assumirão o controle de infraestruturas de petróleo e gás iranianas. Ele também afirmou que a ilha de Kharg será tomada em breve. A tensão na região segue elevada.",
+    "categoria": "internacional",
     "tags": [
-      "eleições",
-      "primária",
-      "Senado",
-      "Maine",
-      "democratas"
+      "Irã",
+      "EUA",
+      "tensão militar",
+      "petróleo"
     ],
     "entidades": [],
     "pessoas": [
-      "Graham Platner"
+      "Donald Trump"
     ],
-    "estados": [
-      "Maine"
-    ],
+    "estados": [],
     "cidades": [],
+    "paises": [
+      "Estados Unidos",
+      "Irã",
+      "Índia"
+    ],
+    "importancia": 5,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-copa-mundo-afasta-torcedores",
+    "data": "2026-06-11",
+    "titulo": "Alto custo da Copa do Mundo nos EUA afasta torcedores e impacta setor de viagens",
+    "resumo": "O alto custo dos ingressos e da estadia para a Copa do Mundo nos Estados Unidos está afastando torcedores, afetando negativamente hotéis e companhias aéreas. O impulso esperado para o setor de turismo ainda não se materializou antes do início do evento.",
+    "categoria": "esportes",
+    "tags": [
+      "Copa do Mundo",
+      "custo",
+      "turismo",
+      "economia"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Nova Jersey"
+    ],
+    "cidades": [
+      "East Rutherford"
+    ],
     "paises": [
       "Estados Unidos"
     ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/live/2026/jun/10/graham-platner-maine-democrats-senate-primary-donald-trump-us-politics-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-10-seguranca-acidente-transito-minas-gerais",
-    "data": "2026-06-10",
-    "titulo": "Idoso fica ferido após ser atropelado em Pouso Alegre, MG",
-    "resumo": "Um idoso de 86 anos ficou ferido após ser atropelado na tarde de terça-feira (9) em Pouso Alegre, Minas Gerais. O acidente ocorreu no bairro Jardim Filomena. As circunstâncias exatas do atropelamento não foram detalhadas, mas a vítima precisou de atendimento médico.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente de trânsito",
-      "atropelamento",
-      "idoso",
-      "Pouso Alegre"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Pouso Alegre"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
+    "importancia": 3,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/06/10/acidentes-de-transito-sul-de-minas.html"
+        "url": "https://g1.globo.com/mundo/noticia/2026/06/11/copa-do-mundo-cara-afasta-torcedores-e-afeta-hoteis-e-companhias-aereas-dos-eua.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-10-politica-militar-sp",
-    "data": "2026-06-10",
-    "titulo": "Tenente-coronel acusado de matar esposa é aposentado oficialmente pela PM-SP",
-    "resumo": "A Polícia Militar de São Paulo publicou um decreto que confirma a aposentadoria oficial do tenente-coronel Geraldo Leite Costa Neto. Ele é réu preso sob acusação de ter matado a esposa, a policial militar Gisele Alves Santana. A publicação oficializa a saída do oficial da corporação.",
-    "categoria": "justica",
+    "id": "2026-06-11-desmatamento-lula",
+    "data": "2026-06-11",
+    "titulo": "Lula divulga dados de redução do desmatamento em meio a questionamentos dos EUA",
+    "resumo": "O presidente Luiz Inácio Lula da Silva divulgou dados sobre a redução do desmatamento na Amazônia, afirmando que a ação visa provar a eficácia das políticas ambientais do Brasil. A divulgação ocorre em um momento de questionamentos dos Estados Unidos sobre o enfrentamento do desmatamento pelo país.",
+    "categoria": "politica",
     "tags": [
-      "polícia militar",
-      "aposentadoria",
-      "homicídio",
-      "São Paulo"
+      "desmatamento",
+      "Amazônia",
+      "política ambiental"
     ],
     "entidades": [],
     "pessoas": [
-      "Geraldo Leite Costa Neto",
-      "Gisele Alves Santana"
+      "Luiz Inácio Lula da Silva"
     ],
     "estados": [
-      "São Paulo"
+      "Amazonas"
     ],
     "cidades": [],
     "paises": [
-      "Brasil"
+      "Brasil",
+      "Estados Unidos"
     ],
-    "importancia": 1,
+    "importancia": 4,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/10/pm-publica-decreto-que-aposenta-oficialmente-o-tenente-coronel-acusado-de-matar-a-esposa-em-sp.ghtml"
+        "url": "https://g1.globo.com/politica/noticia/2026/06/11/na-mira-dos-eua-lula-divulga-dados-de-reducao-do-desmatamento-provar-que-estamos-certos.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-10-internacional-conflito-territorio-palestino",
-    "data": "2026-06-10",
-    "titulo": "Nova filmagem sugere que bebê palestino foi morto por tropas israelenses",
-    "resumo": "Novas imagens parecem contradizer a versão militar israelense sobre a morte de um bebê de sete meses em seus braços. O vídeo mostra o carro da família diminuindo a velocidade, o que sugere que o incidente ocorreu em circunstâncias diferentes do relatado. A morte do bebê gerou condenações internacionais.",
-    "categoria": "internacional",
+    "id": "2026-06-11-bebe-maus-tratos-sorocaba",
+    "data": "2026-06-11",
+    "titulo": "Morte de bebê em Sorocaba levanta discussão sobre atendimento a vítimas de maus-tratos",
+    "resumo": "A morte de um bebê em Sorocaba (SP), que deu entrada em um hospital com sinais de violência e abuso sexual, gerou um debate sobre o atendimento oferecido a crianças vítimas de maus-tratos. A Secretaria da Cidadania apura o atendimento do Conselho Tutelar no caso.",
+    "categoria": "saude",
     "tags": [
-      "Israel",
-      "Palestina",
-      "conflito",
-      "bebê",
-      "direitos humanos"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Israel",
-      "Territórios palestinos"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jun/10/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank-new-footage"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-10-cultura-musica-sao-joao-caruaru",
-    "data": "2026-06-10",
-    "titulo": "DJ Alok terá cachê de R$ 850 mil para show no São João de Caruaru",
-    "resumo": "O DJ Alok receberá um cachê de R$ 850 mil para se apresentar no São João de Caruaru, em Pernambuco. O artista é uma das atrações confirmadas para o evento, que começa no dia 13 de junho. Novos valores de cachês para outros artistas também foram divulgados.",
-    "categoria": "cultura",
-    "tags": [
-      "música",
-      "DJ",
-      "São João",
-      "Caruaru",
-      "cachê"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Alok"
-    ],
-    "estados": [
-      "Pernambuco"
-    ],
-    "cidades": [
-      "Caruaru"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pe/caruaru-regiao/sao-joao-de-caruaru/2026/noticia/2026/06/10/sao-joao-de-caruaru-2026-alok-tera-cache-de-r-850-mil-para-show-no-patio-do-forro-veja-novos-valores-divulgados.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-10-seguranca-acidente-transito-santarem",
-    "data": "2026-06-10",
-    "titulo": "Motorista invade loja após bater em caminhonete em Santarém, Pará",
-    "resumo": "Um motorista perdeu o controle do carro após colidir com uma caminhonete em Santarém, no Pará, e acabou invadindo uma loja. O acidente ocorreu na manhã desta quarta-feira (10) no cruzamento de vias centrais da cidade. Não há informações sobre feridos.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente de trânsito",
-      "colisão",
-      "Santarém",
-      "invasão de loja"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Pará"
-    ],
-    "cidades": [
-      "Santarém"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/10/motorista-de-carro-perde-controle-e-invade-loja-apos-bater-em-caminhonete-em-santarem.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-10-seguranca-morte-policial-ceara",
-    "data": "2026-06-10",
-    "titulo": "Policial morre após passar mal em curso de operações táticas no Ceará",
-    "resumo": "Um policial militar faleceu nesta quarta-feira (10) após passar mal durante o Curso de Operações Táticas Rurais (Cotar), promovido pela Academia Estadual de Segurança Pública do Ceará. O curso estava sendo realizado em São Gonçalo do Amarante. As causas do mal-estar ainda não foram divulgadas.",
-    "categoria": "seguranca",
-    "tags": [
-      "policial",
-      "morte",
-      "curso de treinamento",
-      "Ceará"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Ceará"
-    ],
-    "cidades": [
-      "São Gonçalo do Amarante"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ce/ceara/noticia/2026/06/10/policial-morre-apos-passar-mal-em-curso-de-operacoes-taticas-da-policia-no-ceara.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-10-justica-crime-alto-alegre",
-    "data": "2026-06-10",
-    "titulo": "Homem é encontrado morto e enterrado em fazenda em Alto Alegre, Roraima",
-    "resumo": "Um homem, ainda não identificado, foi encontrado morto e enterrado em uma fazenda na zona rural de Alto Alegre, Roraima. O corpo foi localizado por policiais civis, militares e peritos. A suspeita é de que a vítima tenha sido assassinada. As investigações estão em andamento.",
-    "categoria": "justica",
-    "tags": [
-      "homicídio",
-      "corpo encontrado",
-      "investigação",
-      "Alto Alegre"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Roraima"
-    ],
-    "cidades": [
-      "Alto Alegre"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rr/roraima/noticia/2026/06/10/homem-e-encontrado-morto-e-enterrado-em-fazenda-na-zona-rural-de-alto-alegre.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-10-economia-dia-namorados-shoppings",
-    "data": "2026-06-10",
-    "titulo": "Shoppings projetam R$ 4,5 bilhões em vendas para o Dia dos Namorados",
-    "resumo": "Os shoppings brasileiros projetam um faturamento de R$ 4,5 bilhões durante o período do Dia dos Namorados. A Associação Brasileira de Shopping Centers (Abrasce) divulgou a expectativa. A coincidência com a Copa do Mundo pode impulsionar ainda mais o fluxo de vendas.",
-    "categoria": "economia",
-    "tags": [
-      "Dia dos Namorados",
-      "vendas",
-      "shoppings",
-      "economia"
+      "maus-tratos",
+      "abuso infantil",
+      "atendimento médico"
     ],
     "entidades": [
-      "Abrasce"
+      "Conselho Tutelar"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Sorocaba"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/11/morte-de-bebe-levanta-discussao-sobre-atendimento-para-criancas-vitimas-de-maus-tratos-em-sorocaba-entenda.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-concurso-pm-rn",
+    "data": "2026-06-11",
+    "titulo": "Justiça suspende provas do concurso da PM no RN por problemas no edital",
+    "resumo": "A Justiça determinou a suspensão imediata das provas objetivas do concurso público da Polícia Militar do Rio Grande do Norte. A decisão da 2ª Vara da Fazenda Pública de Natal atende a alegações de problemas no edital do certame.",
+    "categoria": "justica",
+    "tags": [
+      "concurso público",
+      "Polícia Militar",
+      "suspensão de provas"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio Grande do Norte"
+    ],
+    "cidades": [
+      "Natal"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/06/11/justica-suspensao-provas-concurso-policia-militar.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-morre-edima-mattos",
+    "data": "2026-06-11",
+    "titulo": "Morre Édima de Souza Mattos, pioneira no combate ao racismo em Presidente Prudente",
+    "resumo": "A professora doutora Édima de Souza Mattos, pioneira na luta contra o racismo e pela valorização da população negra em Presidente Prudente, faleceu nesta quinta-feira (11) aos 83 anos. Ela era uma referência na área.",
+    "categoria": "cultura",
+    "tags": [
+      "combate ao racismo",
+      "luto",
+      "educadora"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Édima de Souza Mattos"
+    ],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Presidente Prudente"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/06/11/morre-aos-83-anos-edima-de-souza-mattos-pioneira-no-combate-ao-racismo-em-presidente-prudente.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-11-riscos-tadala",
+    "data": "2026-06-11",
+    "titulo": "Riscos associados ao uso de 'tadala' em destaque para o Dia dos Namorados",
+    "resumo": "O medicamento para disfunção erétil, conhecido como 'tadala', ganhou popularidade nas redes sociais e foi o quinto genérico mais vendido no Brasil em 2024. A Anvisa e médicos alertam para os possíveis efeitos graves no coração e na visão associados ao seu uso, especialmente com o aumento da procura no Dia dos Namorados.",
+    "categoria": "saude",
+    "tags": [
+      "medicamento",
+      "saúde sexual",
+      "alertas"
+    ],
+    "entidades": [
+      "Anvisa"
     ],
     "pessoas": [],
     "estados": [],
@@ -679,42 +848,11 @@
     "paises": [
       "Brasil"
     ],
-    "importancia": 1,
+    "importancia": 3,
     "fontes": [
       {
         "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/dia-dos-namorados-shoppings-projetam-r-45-bi-no-periodo-diz-abrasce/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-10-seguranca-acidente-transito-brasilia",
-    "data": "2026-06-10",
-    "titulo": "Homem sofre queda em escada do Itamaraty, em Brasília",
-    "resumo": "Um homem se acidentou na escada da entrada principal do Palácio do Itamaraty, sede do Ministério das Relações Exteriores, em Brasília. Brigadistas do local prestaram os primeiros atendimentos após o acidente, que ocorreu na manhã desta quarta-feira (10). As circunstâncias da queda não foram detalhadas.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente",
-      "queda",
-      "Itamaraty",
-      "Brasília"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Distrito Federal"
-    ],
-    "cidades": [
-      "Brasília"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/10/homem-sofre-queda-em-escada-do-itamaraty-em-brasilia.html"
+        "url": "https://www.cnnbrasil.com.br/saude/dia-dos-namorados-veja-possiveis-riscos-associados-a-overdose-de-tadala/"
       }
     ]
   }
