@@ -1,653 +1,15 @@
 [
   {
-    "id": "2026-06-11-prisao-armas-joao-pessoa",
-    "data": "2026-06-11",
-    "titulo": "Homens são presos com armas em carro de luxo em João Pessoa",
-    "resumo": "Dois homens foram detidos em um carro de luxo na praia do Cabo Branco, em João Pessoa. Com eles foram encontradas duas armas e quatro carregadores. A prisão ocorreu na manhã desta quinta-feira (11).",
-    "categoria": "seguranca",
-    "tags": [
-      "prisão",
-      "armas",
-      "veículo de luxo"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "João Pessoa"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/06/11/dois-homens-em-um-carro-de-luxo-sao-presos-com-armas-em-joao-pessoa.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-debate-nome-esporte",
-    "data": "2026-06-11",
-    "titulo": "Debate sobre o nome do esporte: 'football' ou 'soccer'?",
-    "resumo": "A proximidade da Copa do Mundo levanta o debate sobre como o esporte mais popular do mundo é chamado: football ou soccer. A reportagem explora as origens dos termos. Na França, o esporte é conhecido como 'le foot'.",
-    "categoria": "esportes",
-    "tags": [
-      "Copa do Mundo",
-      "linguagem",
-      "esporte"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "França"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "France24",
-        "url": "https://www.france24.com/en/tv-shows/entre-nous/20260611-is-it-football-is-it-soccer-c-est-le-pied"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-telejornais-vanguarda",
-    "data": "2026-06-11",
-    "titulo": "Acompanhe os telejornais da TV Vanguarda no g1",
-    "resumo": "Os telejornais da TV Vanguarda estão disponíveis para serem assistidos no g1. Os programas Bom Dia Vanguarda, Link Vanguarda e Jornal Vanguarda são exibidos de segunda a sexta-feira. Aos sábados, o Link Vanguarda e o Jornal Vanguarda completam a programação.",
-    "categoria": "cultura",
-    "tags": [
-      "telejornal",
-      "TV",
-      "notícias"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/ao-vivo/assista-ao-link-vanguarda-no-g1.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-telejornais-amazonia",
-    "data": "2026-06-11",
-    "titulo": "Vídeos do Bom Dia Amazônia desta quinta-feira",
-    "resumo": "Vídeos do telejornal Bom Dia Amazônia referente à quinta-feira, 11 de junho de 2026, foram disponibilizados. O conteúdo exato dos vídeos não foi detalhado na manchete.",
-    "categoria": "cultura",
-    "tags": [
-      "telejornal",
-      "TV",
-      "notícias"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Amazonas"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/am/amazonas/playlist/videos-bom-dia-amazonia-desta-quinta-feira-11-de-junho-de-2026.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-justica-sao-luis",
-    "data": "2026-06-11",
-    "titulo": "Justiça determina desocupação de rua bloqueada por construções irregulares em São Luís",
-    "resumo": "A Justiça determinou que a Prefeitura de São Luís desocupe e demolha construções irregulares que bloqueiam totalmente o trânsito em uma rua. A decisão visa liberar o fluxo na via afetada.",
-    "categoria": "justica",
-    "tags": [
-      "construções irregulares",
-      "ordem judicial",
-      "trânsito"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "São Luís"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/11/justica-determina-que-prefeitura-de-sao-luis-desocupe-rua-bloqueada-por-construcoes-irregulares-no-turu.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-tortura-rio-grande",
-    "data": "2026-06-11",
-    "titulo": "Polícia investiga homem amarrado a poste como tortura no Rio Grande do Sul",
-    "resumo": "A Polícia Civil investiga um caso de possível tortura, onde um homem de 47 anos foi encontrado amarrado a um poste com uma placa de 'ladrão'. O incidente ocorreu na região da Hidráulica, em Rio Grande. Um inquérito foi aberto para apurar os fatos.",
-    "categoria": "justica",
-    "tags": [
-      "tortura",
-      "investigação policial",
-      "crime"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio Grande do Sul"
-    ],
-    "cidades": [
-      "Rio Grande"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/11/policia-investiga-homem-amarrado-poste-rio-grande.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-telejornais-integracao-divinopolis",
-    "data": "2026-06-11",
-    "titulo": "Assista aos telejornais da TV Integração de Divinópolis",
-    "resumo": "Os telejornais transmitidos pela TV Integração de Divinópolis estão disponíveis para serem assistidos ao vivo. A programação oferece cobertura noticiosa local.",
-    "categoria": "cultura",
-    "tags": [
-      "telejornal",
-      "TV",
-      "notícias"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Divinópolis"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-telejornais-integracao-juiz-de-fora",
-    "data": "2026-06-11",
-    "titulo": "Assista aos telejornais da TV Integração de Juiz de Fora",
-    "resumo": "Os telejornais da TV Integração de Juiz de Fora podem ser acompanhados ao vivo. A transmissão fornece notícias e reportagens da região. Os espectadores podem acessar a programação pelo g1.",
-    "categoria": "cultura",
-    "tags": [
-      "telejornal",
-      "TV",
-      "notícias"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Juiz de Fora"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-pescados-ue",
-    "data": "2026-06-11",
-    "titulo": "UE avalia reabrir mercado para pescados brasileiros",
-    "resumo": "Auditores da União Europeia estão no Brasil para avaliar as condições de produção do setor pesqueiro nacional. O objetivo é decidir sobre a reabertura do mercado da UE para os pescados brasileiros, que estão barrados desde 2017. Um aval positivo pode impulsionar as exportações.",
-    "categoria": "economia",
-    "tags": [
-      "exportação",
-      "pescado",
-      "União Europeia"
-    ],
-    "entidades": [
-      "União Europeia"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/11/ue-avalia-reabrir-seu-mercado-para-pescados-brasileiros.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-telejornais-integracao-uberaba",
-    "data": "2026-06-11",
-    "titulo": "Assista aos telejornais da TV Integração de Uberaba",
-    "resumo": "Os telejornais da TV Integração de Uberaba estão disponíveis para serem acompanhados ao vivo. Os espectadores podem acessar a programação noticiosa da região através do portal g1.",
-    "categoria": "cultura",
-    "tags": [
-      "telejornal",
-      "TV",
-      "notícias"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Uberaba"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-telejornais-integracao-uberlandia",
-    "data": "2026-06-11",
-    "titulo": "Assista aos telejornais da TV Integração de Uberlândia",
-    "resumo": "A programação ao vivo dos telejornais da TV Integração de Uberlândia está acessível para os telespectadores. As notícias e reportagens da região podem ser acompanhadas pelo portal g1.",
-    "categoria": "cultura",
-    "tags": [
-      "telejornal",
-      "TV",
-      "notícias"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Uberlândia"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-eleicoes-peru",
-    "data": "2026-06-11",
-    "titulo": "Recontagem de votos no Peru pode definir resultado eleitoral",
-    "resumo": "A apuração das eleições presidenciais no Peru está em andamento e o resultado ainda é incerto. Uma recontagem de votos paralela pode influenciar a definição do pleito. O processo eleitoral tem sido descrito como uma 'apuração interminável'.",
-    "categoria": "politica",
-    "tags": [
-      "eleições",
-      "Peru",
-      "recontagem de votos"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Peru"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/06/11/eleicoes-no-peru-recontagem-de-votos-pode-definir-resultado-entenda.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-fuga-forum-ceara",
-    "data": "2026-06-11",
-    "titulo": "Homem condenado por feminicídio foge de fórum no Ceará",
-    "resumo": "Um homem condenado por matar a ex-companheira fugiu de um fórum em Canindé, no Ceará, antes do término do julgamento. Ele deixou o Salão do Tribunal Popular do Júri e está foragido. O crime ocorreu nesta quarta-feira (10).",
-    "categoria": "justica",
-    "tags": [
-      "fuga",
-      "feminicídio",
-      "julgamento"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Ceará"
-    ],
-    "cidades": [
-      "Canindé"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ce/ceara/noticia/2026/06/11/condenado-por-matar-a-ex-foge-de-forum-enquanto-era-julgado-e-esta-foragido.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-greve-taubate",
-    "data": "2026-06-11",
-    "titulo": "Servidores de Taubaté rejeitam proposta e mantêm greve",
-    "resumo": "Os servidores municipais de Taubaté decidiram manter a greve após rejeitarem a proposta de reajuste salarial apresentada pela Prefeitura. A decisão foi tomada na manhã desta quinta-feira (11).",
-    "categoria": "politica",
-    "tags": [
-      "greve",
-      "servidores públicos",
-      "reivindicação salarial"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Taubaté"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/11/servidores-rejeitam-proposta-da-prefeitura-e-mantem-greve-em-taubate.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-cursos-pit-piaui",
-    "data": "2026-06-11",
-    "titulo": "PIT oferece 290 vagas em cursos gratuitos de Tecnologia da Informação no Piauí",
-    "resumo": "O Piauí Instituto de Tecnologia (PIT) abriu inscrições para 290 vagas em cursos gratuitos de Tecnologia em Ciência de Dados e Introdução à Inteligência Artificial. A iniciativa visa ampliar oportunidades educacionais na área de TI para a população do estado.",
-    "categoria": "educacao",
-    "tags": [
-      "cursos gratuitos",
-      "Tecnologia da Informação",
-      "oportunidades"
-    ],
-    "entidades": [
-      "Piauí Instituto de Tecnologia"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Piauí"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/11/pit-vagas-cursos-gratuitos-tecnologia-informacao.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-telejornal-gr1-petrolina",
-    "data": "2026-06-11",
-    "titulo": "Assista ao GR1 ao vivo em Petrolina",
-    "resumo": "O telejornal GR1, apresentado por Vanda Torres, está sendo transmitido ao vivo nesta quinta-feira (11). Os espectadores podem acompanhar as notícias da região de Petrolina.",
-    "categoria": "cultura",
-    "tags": [
-      "telejornal",
-      "TV",
-      "notícias"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Vanda Torres"
-    ],
-    "estados": [
-      "Pernambuco"
-    ],
-    "cidades": [
-      "Petrolina"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pe/petrolina-regiao/ao-vivo/ao-vivo-assista-ao-gr1.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-estagio-unicamp",
-    "data": "2026-06-11",
-    "titulo": "HC da Unicamp abre vagas de estágio com bolsas de até R$ 1.250",
-    "resumo": "O Hospital de Clínicas da Unicamp está oferecendo vagas de estágio para estudantes, com bolsas que chegam a R$ 1.250. Os interessados podem se candidatar pelo site até o dia 23 de junho. Há oportunidades em diversas áreas.",
-    "categoria": "educacao",
-    "tags": [
-      "estágio",
-      "bolsas de estudo",
-      "saúde"
-    ],
-    "entidades": [
-      "Unicamp"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Campinas"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/campinas-regiao/concursos-e-emprego/noticia/2026/06/11/hc-da-unicamp-abre-vagas-de-estagio-com-bolsas-ate-r-1250-veja-areas.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-pautas-bomba-orcamento",
-    "data": "2026-06-11",
-    "titulo": "Entenda o que são 'pautas-bomba' que pressionam o orçamento do governo",
-    "resumo": "O termo 'pauta-bomba' refere-se a projetos de lei que, ao serem aprovados, geram grande impacto financeiro no orçamento público. Essas propostas têm aparecido com frequência em votações no Congresso, especialmente em ano eleitoral, aumentando a pressão sobre as contas do governo.",
-    "categoria": "politica",
-    "tags": [
-      "orçamento público",
-      "Congresso Nacional",
-      "política econômica"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/economia/noticia/2026/06/11/entenda-o-que-sao-pautas-bomba-que-pressionam-orcamento-do-governo-em-ano-eleitoral.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-atendimento-nhs",
-    "data": "2026-06-11",
-    "titulo": "Quase 3.000 pacientes do NHS recebem atendimento em corredores diariamente na Inglaterra",
-    "resumo": "Dados oficiais revelam que aproximadamente 3.000 pacientes do National Health Service (NHS) na Inglaterra recebem atendimento em corredores de hospitais diariamente. O número inclui 2.241 casos registrados em prontos-socorros e outros 699 em locais inadequados.",
-    "categoria": "saude",
-    "tags": [
-      "NHS",
-      "corredores de hospital",
-      "atendimento médico"
-    ],
-    "entidades": [
-      "NHS"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/society/2026/jun/11/nhs-patients-receiving-corridor-care-england-official-figures"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-suprema-corte-eua",
-    "data": "2026-06-11",
-    "titulo": "Suprema Corte dos EUA libera opiniões com casos importantes ainda pendentes",
-    "resumo": "A Suprema Corte dos Estados Unidos liberou um novo conjunto de opiniões nesta quinta-feira (11). No entanto, alguns dos casos mais aguardados para o final do mandato da corte ainda não tiveram suas decisões divulgadas. A divulgação ocorreu às 10h (ET).",
-    "categoria": "justica",
-    "tags": [
-      "Suprema Corte",
-      "decisões judiciais",
-      "EUA"
-    ],
-    "entidades": [
-      "Suprema Corte dos Estados Unidos"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/live/2026/jun/11/democrats-republicans-midterms-tech-laws-scotus-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-acidente-ribeirao-preto",
-    "data": "2026-06-11",
-    "titulo": "Motociclista tem perna amputada após cair em rodovia em Ribeirão Preto (SP)",
-    "resumo": "Um motociclista de 47 anos teve uma perna amputada após sofrer um acidente na alça de acesso do Anel Viário Sul, em Ribeirão Preto, São Paulo. O acidente ocorreu na manhã desta quinta-feira (11), por volta das 6h. A queda aconteceu após o condutor derrapar na pista.",
-    "categoria": "saude",
-    "tags": [
-      "acidente de trânsito",
-      "motociclista",
-      "amputação"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Ribeirão Preto"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/06/11/motociclista-fica-gravemente-ferido-apos-cair-na-alca-de-acesso-do-anel-viario-sul-em-ribeirao-preto-sp.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-morte-explosao-goias",
-    "data": "2026-06-11",
-    "titulo": "Mãe morre em Goiás após explosão em panificadora que atingiu família",
-    "resumo": "Uma mulher de 29 anos, Jaqueline Alves da Costa, morreu em Catalão, Goiás, após sofrer queimaduras graves em uma explosão ocorrida em uma panificadora. Ela estava com o bebê, o marido e o avô no momento do incidente. A mãe teve queimaduras de 1º e 2º graus.",
-    "categoria": "saude",
-    "tags": [
-      "explosão",
-      "queimaduras",
-      "fatalidade"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Goiás"
-    ],
-    "cidades": [
-      "Catalão"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/go/goias/noticia/2026/06/11/mae-que-foi-queimada-junto-com-a-filha-e-o-marido-durante-explosao-em-panificadora-morre-em-goias.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-crise-oriente-medio-trump",
-    "data": "2026-06-11",
-    "titulo": "Trump ameaça ataque 'muito duro' ao Irã e diz que EUA tomarão ilha de Kharg",
-    "resumo": "O presidente dos Estados Unidos, Donald Trump, ameaçou um ataque 'muito duro' ao Irã nesta quinta-feira (11) e declarou que os EUA assumirão o controle de infraestruturas de petróleo e gás iranianas. Ele também afirmou que a ilha de Kharg será tomada em breve. A tensão na região segue elevada.",
+    "id": "2026-06-12-acordo-eua-ira",
+    "data": "2026-06-12",
+    "titulo": "EUA e Irã divergem sobre acordo; Trump fala em consenso, Teerã nega",
+    "resumo": "O Presidente dos Estados Unidos, Donald Trump, declarou que um acordo com o Irã foi alcançado e que um memorando de entendimento pode ser assinado na Europa. No entanto, o Irã negou consenso sobre o programa nuclear. Trump posteriormente chamou os dirigentes iranianos de \"desonrosos\".",
     "categoria": "internacional",
     "tags": [
-      "Irã",
+      "acordo",
       "EUA",
-      "tensão militar",
-      "petróleo"
+      "Irã",
+      "programa nuclear"
     ],
     "entidades": [],
     "pessoas": [
@@ -657,202 +19,701 @@
     "cidades": [],
     "paises": [
       "Estados Unidos",
-      "Irã",
-      "Índia"
+      "Irã"
     ],
     "importancia": 5,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mundo/noticia/2026/06/12/apos-falar-de-acordo-trump-chama-dirigentes-iranianos-de-desonrosos.ghtml"
       },
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-copa-mundo-afasta-torcedores",
-    "data": "2026-06-11",
-    "titulo": "Alto custo da Copa do Mundo nos EUA afasta torcedores e impacta setor de viagens",
-    "resumo": "O alto custo dos ingressos e da estadia para a Copa do Mundo nos Estados Unidos está afastando torcedores, afetando negativamente hotéis e companhias aéreas. O impulso esperado para o setor de turismo ainda não se materializou antes do início do evento.",
-    "categoria": "esportes",
-    "tags": [
-      "Copa do Mundo",
-      "custo",
-      "turismo",
-      "economia"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Nova Jersey"
-    ],
-    "cidades": [
-      "East Rutherford"
-    ],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 3,
-    "fontes": [
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml"
+      },
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/06/11/copa-do-mundo-cara-afasta-torcedores-e-afeta-hoteis-e-companhias-aereas-dos-eua.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-desmatamento-lula",
-    "data": "2026-06-11",
-    "titulo": "Lula divulga dados de redução do desmatamento em meio a questionamentos dos EUA",
-    "resumo": "O presidente Luiz Inácio Lula da Silva divulgou dados sobre a redução do desmatamento na Amazônia, afirmando que a ação visa provar a eficácia das políticas ambientais do Brasil. A divulgação ocorre em um momento de questionamentos dos Estados Unidos sobre o enfrentamento do desmatamento pelo país.",
-    "categoria": "politica",
-    "tags": [
-      "desmatamento",
-      "Amazônia",
-      "política ambiental"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Luiz Inácio Lula da Silva"
-    ],
-    "estados": [
-      "Amazonas"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil",
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
+        "nome": "dw.com",
+        "url": "https://www.dw.com/en/iran-us-deal-what-are-the-main-sticking-points/a-77526613?maca=en-rss-en-all-1573-rdf"
+      },
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/politica/noticia/2026/06/11/na-mira-dos-eua-lula-divulga-dados-de-reducao-do-desmatamento-provar-que-estamos-certos.ghtml"
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/world/live/2026/jun/12/middle-east-crisis-live-us-iran-israel-lebanon-trump-hormuz-oil-peace-deal-doubt-latest-news-updates"
       }
     ]
   },
   {
-    "id": "2026-06-11-bebe-maus-tratos-sorocaba",
-    "data": "2026-06-11",
-    "titulo": "Morte de bebê em Sorocaba levanta discussão sobre atendimento a vítimas de maus-tratos",
-    "resumo": "A morte de um bebê em Sorocaba (SP), que deu entrada em um hospital com sinais de violência e abuso sexual, gerou um debate sobre o atendimento oferecido a crianças vítimas de maus-tratos. A Secretaria da Cidadania apura o atendimento do Conselho Tutelar no caso.",
-    "categoria": "saude",
+    "id": "2026-06-12-reducao-forcas-otan",
+    "data": "2026-06-12",
+    "titulo": "EUA planejam reduzir contingente militar na Europa para OTAN",
+    "resumo": "Os Estados Unidos planejam diminuir a quantidade de caças e navios de guerra fornecidos à OTAN na Europa. Esta decisão surge em meio ao aumento das tensões globais e aos esforços de nações europeias para fortalecer suas defesas. A notícia foi divulgada pelo jornal New York Times.",
+    "categoria": "internacional",
     "tags": [
-      "maus-tratos",
-      "abuso infantil",
-      "atendimento médico"
+      "OTAN",
+      "defesa",
+      "Europa",
+      "militar"
     ],
     "entidades": [
-      "Conselho Tutelar"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Sorocaba"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/11/morte-de-bebe-levanta-discussao-sobre-atendimento-para-criancas-vitimas-de-maus-tratos-em-sorocaba-entenda.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-concurso-pm-rn",
-    "data": "2026-06-11",
-    "titulo": "Justiça suspende provas do concurso da PM no RN por problemas no edital",
-    "resumo": "A Justiça determinou a suspensão imediata das provas objetivas do concurso público da Polícia Militar do Rio Grande do Norte. A decisão da 2ª Vara da Fazenda Pública de Natal atende a alegações de problemas no edital do certame.",
-    "categoria": "justica",
-    "tags": [
-      "concurso público",
-      "Polícia Militar",
-      "suspensão de provas"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio Grande do Norte"
-    ],
-    "cidades": [
-      "Natal"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/06/11/justica-suspensao-provas-concurso-policia-militar.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-morre-edima-mattos",
-    "data": "2026-06-11",
-    "titulo": "Morre Édima de Souza Mattos, pioneira no combate ao racismo em Presidente Prudente",
-    "resumo": "A professora doutora Édima de Souza Mattos, pioneira na luta contra o racismo e pela valorização da população negra em Presidente Prudente, faleceu nesta quinta-feira (11) aos 83 anos. Ela era uma referência na área.",
-    "categoria": "cultura",
-    "tags": [
-      "combate ao racismo",
-      "luto",
-      "educadora"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Édima de Souza Mattos"
-    ],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Presidente Prudente"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/06/11/morre-aos-83-anos-edima-de-souza-mattos-pioneira-no-combate-ao-racismo-em-presidente-prudente.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11-riscos-tadala",
-    "data": "2026-06-11",
-    "titulo": "Riscos associados ao uso de 'tadala' em destaque para o Dia dos Namorados",
-    "resumo": "O medicamento para disfunção erétil, conhecido como 'tadala', ganhou popularidade nas redes sociais e foi o quinto genérico mais vendido no Brasil em 2024. A Anvisa e médicos alertam para os possíveis efeitos graves no coração e na visão associados ao seu uso, especialmente com o aumento da procura no Dia dos Namorados.",
-    "categoria": "saude",
-    "tags": [
-      "medicamento",
-      "saúde sexual",
-      "alertas"
-    ],
-    "entidades": [
-      "Anvisa"
+      "OTAN"
     ],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
+      "Estados Unidos",
+      "Europa"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/video/20260612-us-plans-to-slash-fighter-jets-warships-to-nato-in-europe-ny-times-reports"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-12-concursos-publicos",
+    "data": "2026-06-12",
+    "titulo": "Concursos públicos abertos com salários de até R$ 8,5 mil",
+    "resumo": "A Alagoas Previdência (ALPREV) abriu concurso com 50 vagas para analista previdenciário, com salário inicial de R$ 8,5 mil. O IBGE também oferece 95 vagas temporárias no Rio Grande do Norte, com remuneração de até R$ 4 mil.",
+    "categoria": "educacao",
+    "tags": [
+      "concurso",
+      "vagas",
+      "salário",
+      "analista previdenciário",
+      "censo agropecuário"
+    ],
+    "entidades": [
+      "ALPREV",
+      "IBGE"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Alagoas",
+      "Rio Grande do Norte"
+    ],
+    "cidades": [],
+    "paises": [
       "Brasil"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/saude/dia-dos-namorados-veja-possiveis-riscos-associados-a-overdose-de-tadala/"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/al/alagoas/noticia/2026/06/12/concurso-da-alagoas-previdencia-oferece-50-vagas-para-analista-com-salario-inicial-de-r-85-mil-veja-edital.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/06/12/ibge-vagas-temporarias-rn.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-12-clima-fenomenos- Chuvas",
+    "data": "2026-06-12",
+    "titulo": "Chuvas fortes causam alagamentos no Paraná e formação de nuvem em SP",
+    "resumo": "Chuvas intensas no Paraná resultaram em alagamentos de ruas e casas, com rompimento de tubulação em Curitiba. Em Ribeirão Preto, São Paulo, uma nuvem de rolo chamou a atenção dos moradores.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "chuva",
+      "alagamento",
+      "fenômeno meteorológico",
+      "nuvem de rolo"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Paraná",
+      "São Paulo"
+    ],
+    "cidades": [
+      "Curitiba",
+      "Ribeirão Preto"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/06/12/formacao-de-nuvem-de-rolo-chama-atencao-de-moradores-em-ribeirao-preto-sp.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/06/12/chuva-forte-ipora-adutora-curitiba.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-12-copa-do-mundo-celebracoes",
+    "data": "2026-06-12",
+    "titulo": "Copa do Mundo impulsiona celebrações e debates sobre consumo de álcool",
+    "resumo": "A Copa do Mundo de 2026 está gerando festividades e também debates. Em Campo Grande, MS, a Copa se une às festas juninas, enquanto o presidente do Equador incentiva o consumo de álcool pelos fãs. No Piauí, a decoração de rua para o evento já sofre com o sol.",
+    "categoria": "esportes",
+    "tags": [
+      "Copa do Mundo",
+      "celebrações",
+      "álcool",
+      "festas juninas"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Mato Grosso do Sul",
+      "Piauí"
+    ],
+    "cidades": [
+      "Campo Grande"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/12/copa-do-mundo-e-festas-juninas-movimentam-campo-grande-neste-fim-de-semana.ghtml"
+      },
+      {
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/video/20260612-as-alcohol-returns-to-world-cup-ecuador-president-tells-fans-to-drink-up"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/12/sol-desbota-pintura-de-rua-copa-antes-estreia-brasil.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-12-acidente-obra-justica",
+    "data": "2026-06-12",
+    "titulo": "Justiça bloqueia bens de construtora após desabamento de ponte",
+    "resumo": "A Justiça do Acre determinou o bloqueio de bens da Construtora Cidade, responsável pela Ponte Frei Paolino Baldassai. A ponte desabou há uma semana em Sena Madureira, deixando vítimas. A construtora é investigada pelo ocorrido.",
+    "categoria": "justica",
+    "tags": [
+      "justiça",
+      "bloqueio de bens",
+      "construtora",
+      "ponte"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Acre"
+    ],
+    "cidades": [
+      "Sena Madureira"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ac/acre/noticia/2026/06/12/ponte-frei-paolino-justica-manda-bloquear-bens-de-construtora-responsavel-por-obra.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-12-espionagem-eua",
+    "data": "2026-06-12",
+    "titulo": "Lei de vigilância nos EUA corre risco de expirar sem ação do Congresso",
+    "resumo": "Uma importante lei de vigilância dos Estados Unidos, a FISA, pode expirar à meia-noite. Isso ocorre devido à falta de ação do Congresso, mesmo com o descontentamento em relação a uma nomeação para o cargo de chefe de inteligência. A lei em questão permite certas práticas de espionagem.",
+    "categoria": "politica",
+    "tags": [
+      "vigilância",
+      "Congresso",
+      "FISA",
+      "espionagem"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Donald Trump"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/live/2026/jun/12/donald-trump-fisa-kennedy-center-iran-ufc-white-house-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-12-cultura-patrimonio",
+    "data": "2026-06-12",
+    "titulo": "Mês de junho destaca patrimônio histórico e cultural com exposições",
+    "resumo": "O mês de junho está sendo dedicado à valorização do patrimônio histórico e cultural, com diversas exposições em andamento. Em Araraquara, São Paulo, uma maquete da Estação Ferroviária homenageia a história local. A iniciativa visa promover a difusão da cultura.",
+    "categoria": "cultura",
+    "tags": [
+      "cultura",
+      "patrimônio",
+      "exposições",
+      "história"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Araraquara"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/sao-carlos-regiao/especial-publicitario/prefeitura-de-araraquara-araraquara-em-foco/noticia/2026/06/12/junho-cultura-destaca-o-patrimonio-historico-cultural-com-diversas-exposicoes.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-12-incidente-radioativo-sp",
+    "data": "2026-06-12",
+    "titulo": "Incidente com material radioativo no Ipen em SP é esclarecido",
+    "resumo": "O Instituto de Pesquisas Energéticas e Nucleares (Ipen), localizado na USP, em São Paulo, registrou um incidente com material radioativo. A instituição descartou riscos de contaminação para funcionários e vazamento externo. A Autoridade Nacional de Segurança Nuclear está investigando o ocorrido.",
+    "categoria": "ciencia",
+    "tags": [
+      "material radioativo",
+      "IPEN",
+      "USP",
+      "segurança nuclear"
+    ],
+    "entidades": [
+      "IPEN",
+      "USP"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "São Paulo"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/12/entenda-como-ocorreu-o-incidente-com-material-radioativo-no-ipen-em-sp.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-12-ataque-israelense-eleicoes",
+    "data": "2026-06-12",
+    "titulo": "França acusa empresa israelense de interferir em eleições escocesas",
+    "resumo": "A agência de cibersegurança francesa acusou a empresa israelense BlackCore de interferir nas eleições escocesas. A empresa também teria realizado ações contra eleições em Nova York e na França. As acusações envolvem o primeiro-ministro escocês, John Swinney.",
+    "categoria": "politica",
+    "tags": [
+      "cibersegurança",
+      "interferência eleitoral",
+      "Israel",
+      "França",
+      "Escócia"
+    ],
+    "entidades": [
+      "BlackCore"
+    ],
+    "pessoas": [
+      "John Swinney"
+    ],
+    "estados": [
+      "Escócia"
+    ],
+    "cidades": [
+      "Nova York"
+    ],
+    "paises": [
+      "França",
+      "Israel"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/12/france-accuses-israeli-firm-interfering-scottish-elections-john-swinney-snp"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-12-crime-morte-menino-rio",
+    "data": "2026-06-12",
+    "titulo": "Mãe e padrasto são presos pela morte de menino de 2 anos no Rio",
+    "resumo": "A Polícia Civil prendeu a mãe e o padrasto do menino Kaleb Gabriel da Cruz, de 2 anos. A criança morreu em julho de 2024, na Zona Norte do Rio de Janeiro. O casal estava foragido desde a época do ocorrido. A investigação aponta para o envolvimento dos dois na morte.",
+    "categoria": "justica",
+    "tags": [
+      "homicídio",
+      "prisão",
+      "menino",
+      "Rio de Janeiro"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/12/policia-prende-mae-e-padrasto-por-morte-de-menino.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-12-reducao-producao-industrial",
+    "data": "2026-06-12",
+    "titulo": "Produção de motos no Polo Industrial de Manaus cresce 10%",
+    "resumo": "A produção de motocicletas no Polo Industrial de Manaus (PIM) registrou um aumento de 10,1% entre janeiro e maio de 2026. Foram fabricadas 932.522 unidades no período. Os dados são da Associação Nacional dos Fabricantes de Veículos Automotores (Abraciclo).",
+    "categoria": "economia",
+    "tags": [
+      "produção industrial",
+      "motocicletas",
+      "Polo Industrial de Manaus",
+      "economia"
+    ],
+    "entidades": [
+      "PIM",
+      "Abraciclo"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Amazonas"
+    ],
+    "cidades": [
+      "Manaus"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/12/producao-de-motos-no-polo-industrial-de-manaus-cresce-10percent-em-2026.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-12-spaceX-bolsa",
+    "data": "2026-06-12",
+    "titulo": "SpaceX dobra de valor e atinge quase US$ 2 trilhões após estreia na bolsa",
+    "resumo": "A SpaceX, empresa espacial de Elon Musk, teve sua avaliação multiplicada e agora vale quase US$ 2 trilhões. A empresa estreou oficialmente na bolsa de valores de Nova York nesta sexta-feira (12). Apesar de prejuízos, a empresa alcançou esta valorização.",
+    "categoria": "economia",
+    "tags": [
+      "SpaceX",
+      "bolsa de valores",
+      "Elon Musk",
+      "avaliação de empresa"
+    ],
+    "entidades": [
+      "SpaceX"
+    ],
+    "pessoas": [
+      "Elon Musk"
+    ],
+    "estados": [],
+    "cidades": [
+      "Nova York"
+    ],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "cnnbrasil.com.br",
+        "url": "https://www.cnnbrasil.com.br/economia/mercado/mesmo-com-prejuizos-spacex-passa-a-valer-quase-us-2-trilhoes-por-que/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-12-gastronomia-drinks",
+    "data": "2026-06-12",
+    "titulo": "Dia dos Namorados: Criatividade em drinks e comemorações",
+    "resumo": "No Dia dos Namorados, estabelecimentos buscam inovar. Em Santos, SP, uma cervejaria oferece um fondue de cachaça e um drink psicodélico para solteiros. A iniciativa busca atrair diferentes públicos na data.",
+    "categoria": "cultura",
+    "tags": [
+      "Dia dos Namorados",
+      "drinks",
+      "gastronomia",
+      "cervejaria"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Santos"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/santos-regiao/culinaria-013/noticia/2026/06/12/cervejaria-cria-dia-dos-solteiros-com-drink-psicodelico-fondue-de-cachaca-e-correio-elegante.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-12-mobilidade-acidente",
+    "data": "2026-06-12",
+    "titulo": "Caminhão-tanque invade canteiro de obras e causa engarrafamento",
+    "resumo": "Um caminhão-tanque invadiu o canteiro de obras do viaduto do Coqueiro, na BR-316, em Ananindeua, Pará. O incidente causou um grande engarrafamento no sentido Belém. Não há informações sobre feridos.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente",
+      "trânsito",
+      "engarrafamento",
+      "caminhão"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Pará"
+    ],
+    "cidades": [
+      "Ananindeua"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pa/para/noticia/2026/06/12/caminhao-tanque-invade-canteiro-do-viaduto-do-coqueiro-e-causa-engarrafamento-em-ananindeua.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-12-saude-dengue",
+    "data": "2026-06-12",
+    "titulo": "Prefeitura intensifica ações de combate à dengue em Araraquara",
+    "resumo": "A Prefeitura de Araraquara, São Paulo, está intensificando as ações de combate à dengue. As equipes de combate a endemias realizaram trabalhos em diversas regiões do município, especialmente onde casos positivos foram confirmados. A iniciativa visa controlar a proliferação do mosquito.",
+    "categoria": "saude",
+    "tags": [
+      "dengue",
+      "combate a endemias",
+      "saúde pública"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Araraquara"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/sao-carlos-regiao/especial-publicitario/prefeitura-de-araraquara-araraquara-em-foco/noticia/2026/06/12/prefeitura-intensifica-acoes-de-combate-a-dengue-em-araraquara.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-12-saude-vacina",
+    "data": "2026-06-12",
+    "titulo": "Vacinação contra influenza é ampliada para toda a população em Volta Redonda",
+    "resumo": "A cidade de Volta Redonda, Rio de Janeiro, ampliou a vacinação contra a influenza (gripe) para toda a população a partir dos 6 meses de idade. A informação foi divulgada pela prefeitura, que disponibilizou o imunizante.",
+    "categoria": "saude",
+    "tags": [
+      "vacinação",
+      "influenza",
+      "gripe",
+      "saúde pública"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Volta Redonda"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/06/12/vacinacao-contra-influenza-e-ampliada-para-toda-a-populacao-em-volta-redonda.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-12-tecnologia-instagram",
+    "data": "2026-06-12",
+    "titulo": "Instagram apresenta instabilidade nesta sexta-feira",
+    "resumo": "O Instagram está apresentando instabilidade na manhã desta sexta-feira (12). Usuários relatam dificuldades para acessar a rede social, principalmente pela versão web. A causa da falha ainda não foi divulgada.",
+    "categoria": "tecnologia",
+    "tags": [
+      "Instagram",
+      "instabilidade",
+      "rede social",
+      "tecnologia"
+    ],
+    "entidades": [
+      "Instagram"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/tecnologia/noticia/2026/06/12/instagram-apresenta-instabilidade-nesta-sexta.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-12-cultura-adocao-pets",
+    "data": "2026-06-12",
+    "titulo": "Araraquara lança site oficial para adoção de pets",
+    "resumo": "A Prefeitura de Araraquara, São Paulo, lançou o primeiro site oficial para adoção de animais do município. A iniciativa, criada pela Secretaria Municipal de Comunicação, tem como objetivo ampliar o acesso da população a animais para adoção.",
+    "categoria": "cultura",
+    "tags": [
+      "adoção de animais",
+      "pets",
+      "site oficial",
+      "Araraquara"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Araraquara"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/sao-carlos-regiao/especial-publicitario/prefeitura-de-araraquara-araraquara-em-foco/noticia/2026/06/12/prefeitura-de-araraquara-lanca-primeiro-site-de-adocao-de-pets-da-cidade.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-12-acidente-motorhome",
+    "data": "2026-06-12",
+    "titulo": "Motorhome que pegou fogo em Cuiabá pertencia a piloto da Fórmula Truck",
+    "resumo": "Um motorhome que pegou fogo na Rodovia Emanuel Pinheiro, em Cuiabá, Mato Grosso, pertencia ao piloto de Fórmula Truck Jaidson Zini. O incêndio ocorreu nesta quarta-feira (10). As circunstâncias do ocorrido estão sendo apuradas pelos bombeiros.",
+    "categoria": "seguranca",
+    "tags": [
+      "incêndio",
+      "motorhome",
+      "piloto",
+      "acidente"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Jaidson Zini"
+    ],
+    "estados": [
+      "Mato Grosso"
+    ],
+    "cidades": [
+      "Cuiabá"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/06/12/motorhome-que-pegou-fogo-em-cuiaba-pertence-a-piloto-da-formula-truck.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-12-migracao-religiao",
+    "data": "2026-06-12",
+    "titulo": "Papa Francisco visita Ilhas Canárias e fala sobre migração",
+    "resumo": "Em sua visita às Ilhas Canárias, na Espanha, o Papa Francisco afirmou que \"todos somos migrantes\". Ele fez essa declaração em um centro de recepção para migrantes no último dia de sua viagem, que focou na situação dos imigrantes irregulares.",
+    "categoria": "internacional",
+    "tags": [
+      "Papa Francisco",
+      "migração",
+      "Ilhas Canárias",
+      "Espanha"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Papa Francisco"
+    ],
+    "estados": [
+      "Ilhas Canárias"
+    ],
+    "cidades": [],
+    "paises": [
+      "Espanha"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/video/20260612-all-of-us-of-are-migrants-pope-says-in-canary-islands-as-spain-trip-wraps-up"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-12-investigacao-acidente-aereo",
+    "data": "2026-06-12",
+    "titulo": "Investigação de acidente aéreo da Air India avança com poucos detalhes",
+    "resumo": "A investigação sobre o acidente aéreo da Air India, que resultou na morte de 260 pessoas há um ano, está progredindo. Um comunicado oficial informou \"progresso significativo\" nos trabalhos, mas poucos detalhes foram divulgados sobre as causas ou conclusões.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente aéreo",
+      "Air India",
+      "investigação"
+    ],
+    "entidades": [
+      "Air India"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Índia"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "bbc.com",
+        "url": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
