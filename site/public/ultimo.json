@@ -1,462 +1,389 @@
 [
   {
-    "id": "2026-06-12-acordo-eua-ira",
-    "data": "2026-06-12",
-    "titulo": "EUA e Irã divergem sobre acordo; Trump fala em consenso, Teerã nega",
-    "resumo": "O Presidente dos Estados Unidos, Donald Trump, declarou que um acordo com o Irã foi alcançado e que um memorando de entendimento pode ser assinado na Europa. No entanto, o Irã negou consenso sobre o programa nuclear. Trump posteriormente chamou os dirigentes iranianos de \"desonrosos\".",
+    "id": "2026-06-13-acordo-eua-ira",
+    "data": "2026-06-13",
+    "titulo": "Acordo de paz entre EUA e Irã prestes a ser assinado, segundo Paquistão",
+    "resumo": "O Paquistão anunciou que os Estados Unidos e o Irã concordaram com os termos de um acordo de paz que visa encerrar o conflito no Oriente Médio. A assinatura do documento está prevista para ocorrer nas próximas 24 horas. Ambos os países teriam definido um esboço do acordo.",
     "categoria": "internacional",
     "tags": [
+      "paz",
       "acordo",
       "EUA",
       "Irã",
-      "programa nuclear"
+      "Oriente Médio"
     ],
     "entidades": [],
-    "pessoas": [
-      "Donald Trump"
-    ],
+    "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
       "Estados Unidos",
-      "Irã"
+      "Irã",
+      "Paquistão"
     ],
     "importancia": 5,
     "fontes": [
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/mundo/noticia/2026/06/12/apos-falar-de-acordo-trump-chama-dirigentes-iranianos-de-desonrosos.ghtml"
+        "url": "https://g1.globo.com/mundo/noticia/2026/06/13/eua-e-ira-devem-assinar-acordo-de-paz-dentro-de-24-horas-afirma-o-paquistao.ghtml"
       },
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml"
-      },
-      {
-        "nome": "dw.com",
-        "url": "https://www.dw.com/en/iran-us-deal-what-are-the-main-sticking-points/a-77526613?maca=en-rss-en-all-1573-rdf"
-      },
-      {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/world/live/2026/jun/12/middle-east-crisis-live-us-iran-israel-lebanon-trump-hormuz-oil-peace-deal-doubt-latest-news-updates"
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/acordo-entre-eua-e-ira-pode-ser-assinado-em-24-horas-diz-paquistao/"
       }
     ]
   },
   {
-    "id": "2026-06-12-reducao-forcas-otan",
-    "data": "2026-06-12",
-    "titulo": "EUA planejam reduzir contingente militar na Europa para OTAN",
-    "resumo": "Os Estados Unidos planejam diminuir a quantidade de caças e navios de guerra fornecidos à OTAN na Europa. Esta decisão surge em meio ao aumento das tensões globais e aos esforços de nações europeias para fortalecer suas defesas. A notícia foi divulgada pelo jornal New York Times.",
-    "categoria": "internacional",
+    "id": "2026-06-13-copa-mundo-decoracao",
+    "data": "2026-06-13",
+    "titulo": "Decoração da Copa do Mundo é danificada em Fortaleza e celebrações ocorrem no Rio e em Noronha",
+    "resumo": "A decoração destinada à Copa do Mundo foi destruída por um caminhão em Fortaleza, gerando revolta em moradores. Enquanto isso, no Rio de Janeiro, ruas decoradas reforçam o vínculo comunitário em celebração ao evento. Fernando de Noronha também preparou uma programação especial para a torcida brasileira.",
+    "categoria": "esportes",
     "tags": [
-      "OTAN",
-      "defesa",
-      "Europa",
-      "militar"
+      "Copa do Mundo",
+      "decoração",
+      "Fortaleza",
+      "Rio de Janeiro",
+      "Fernando de Noronha"
     ],
-    "entidades": [
-      "OTAN"
-    ],
+    "entidades": [],
     "pessoas": [],
-    "estados": [],
-    "cidades": [],
+    "estados": [
+      "Ceará",
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Fortaleza",
+      "Rio de Janeiro",
+      "Fernando de Noronha"
+    ],
     "paises": [
-      "Estados Unidos",
-      "Europa"
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ce/ceara/noticia/2026/06/13/decoracao-da-copa-destruida-por-caminhao-em-rua-de-fortaleza-custou-r-2-mil-triste-e-decepcionada.ghtml"
+      },
+      {
+        "nome": "agenciabrasil.ebc",
+        "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/ruas-decoradas-para-copa-do-mundo-reforcam-vinculo-comunitario-no-rio"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/06/13/fernando-de-noronha-tera-programacao-especial-para-jogos-do-brasil-na-copa.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-13-morte-lider-ira",
+    "data": "2026-06-13",
+    "titulo": "Irã anuncia datas para funeral e sepultamento do líder supremo Khamenei",
+    "resumo": "O Irã divulgou as datas para as cerimônias fúnebres e o sepultamento do líder supremo Ali Khamenei. As celebrações ocorrerão em Teerã e Qom, com o sepultamento previsto para sua cidade natal, Mashhad. O anúncio marca o fim de uma era política para o país.",
+    "categoria": "politica",
+    "tags": [
+      "Irã",
+      "líder supremo",
+      "funeral",
+      "Ali Khamenei"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Ali Khamenei"
+    ],
+    "estados": [],
+    "cidades": [
+      "Teerã",
+      "Qom",
+      "Mashhad"
+    ],
+    "paises": [
+      "Irã"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/en/video/20260612-us-plans-to-slash-fighter-jets-warships-to-nato-in-europe-ny-times-reports"
+        "nome": "aljazeera.com",
+        "url": "https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei?traffic_source=rss"
       }
     ]
   },
   {
-    "id": "2026-06-12-concursos-publicos",
-    "data": "2026-06-12",
-    "titulo": "Concursos públicos abertos com salários de até R$ 8,5 mil",
-    "resumo": "A Alagoas Previdência (ALPREV) abriu concurso com 50 vagas para analista previdenciário, com salário inicial de R$ 8,5 mil. O IBGE também oferece 95 vagas temporárias no Rio Grande do Norte, com remuneração de até R$ 4 mil.",
-    "categoria": "educacao",
+    "id": "2026-06-13-acidentes-transporte",
+    "data": "2026-06-13",
+    "titulo": "Avião militar cai na Índia e dois acidentes com veículos em São Paulo e Paraíba",
+    "resumo": "Um avião militar de transporte caiu na região de Assam, na Índia, resultando na morte de cinco tripulantes da Força Aérea Indiana. No Brasil, ocorreram acidentes envolvendo veículos: um entregador foi preso com carro furtado em Limeira, outro entregador ficou ferido após colisão em João Pessoa, e um policial militar se feriu em perseguição em São Paulo.",
+    "categoria": "seguranca",
     "tags": [
-      "concurso",
-      "vagas",
-      "salário",
-      "analista previdenciário",
-      "censo agropecuário"
+      "acidente aéreo",
+      "acidente de trânsito",
+      "Índia",
+      "São Paulo",
+      "Paraíba",
+      "polícia"
     ],
     "entidades": [
-      "ALPREV",
-      "IBGE"
+      "Força Aérea Indiana"
     ],
     "pessoas": [],
     "estados": [
-      "Alagoas",
-      "Rio Grande do Norte"
+      "Assam",
+      "São Paulo",
+      "Paraíba"
     ],
-    "cidades": [],
+    "cidades": [
+      "Limeira",
+      "João Pessoa"
+    ],
     "paises": [
+      "Índia",
       "Brasil"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/al/alagoas/noticia/2026/06/12/concurso-da-alagoas-previdencia-oferece-50-vagas-para-analista-com-salario-inicial-de-r-85-mil-veja-edital.ghtml"
+        "nome": "aljazeera.com",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/deadly-military-plane-crash-in-indias-assam?traffic_source=rss"
+      },
+      {
+        "nome": "aljazeera.com",
+        "url": "https://www.aljazeera.com/news/2026/6/13/five-indian-air-force-staff-killed-as-transport-plane-crashes-in-assam?traffic_source=rss"
       },
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/06/12/ibge-vagas-temporarias-rn.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-12-clima-fenomenos- Chuvas",
-    "data": "2026-06-12",
-    "titulo": "Chuvas fortes causam alagamentos no Paraná e formação de nuvem em SP",
-    "resumo": "Chuvas intensas no Paraná resultaram em alagamentos de ruas e casas, com rompimento de tubulação em Curitiba. Em Ribeirão Preto, São Paulo, uma nuvem de rolo chamou a atenção dos moradores.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "chuva",
-      "alagamento",
-      "fenômeno meteorológico",
-      "nuvem de rolo"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Paraná",
-      "São Paulo"
-    ],
-    "cidades": [
-      "Curitiba",
-      "Ribeirão Preto"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
+        "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/06/13/entregador-de-e-commerce-tem-carro-furtado-durante-servico-mas-veiculo-e-carga-sao-recuperados-em-limeira.ghtml"
+      },
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/06/12/formacao-de-nuvem-de-rolo-chama-atencao-de-moradores-em-ribeirao-preto-sp.ghtml"
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-pm-bate-em-carro-e-voa-de-moto-durante-perseguicao-em-sp/"
       },
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/06/12/chuva-forte-ipora-adutora-curitiba.ghtml"
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/06/13/carro-capota-apos-colisao-e-entregador-fica-ferido-na-br-230-em-joao-pessoa.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-12-copa-do-mundo-celebracoes",
-    "data": "2026-06-12",
-    "titulo": "Copa do Mundo impulsiona celebrações e debates sobre consumo de álcool",
-    "resumo": "A Copa do Mundo de 2026 está gerando festividades e também debates. Em Campo Grande, MS, a Copa se une às festas juninas, enquanto o presidente do Equador incentiva o consumo de álcool pelos fãs. No Piauí, a decoração de rua para o evento já sofre com o sol.",
-    "categoria": "esportes",
-    "tags": [
-      "Copa do Mundo",
-      "celebrações",
-      "álcool",
-      "festas juninas"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Mato Grosso do Sul",
-      "Piauí"
-    ],
-    "cidades": [
-      "Campo Grande"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/12/copa-do-mundo-e-festas-juninas-movimentam-campo-grande-neste-fim-de-semana.ghtml"
-      },
-      {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/en/video/20260612-as-alcohol-returns-to-world-cup-ecuador-president-tells-fans-to-drink-up"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/12/sol-desbota-pintura-de-rua-copa-antes-estreia-brasil.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-12-acidente-obra-justica",
-    "data": "2026-06-12",
-    "titulo": "Justiça bloqueia bens de construtora após desabamento de ponte",
-    "resumo": "A Justiça do Acre determinou o bloqueio de bens da Construtora Cidade, responsável pela Ponte Frei Paolino Baldassai. A ponte desabou há uma semana em Sena Madureira, deixando vítimas. A construtora é investigada pelo ocorrido.",
-    "categoria": "justica",
-    "tags": [
-      "justiça",
-      "bloqueio de bens",
-      "construtora",
-      "ponte"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Acre"
-    ],
-    "cidades": [
-      "Sena Madureira"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/ac/acre/noticia/2026/06/12/ponte-frei-paolino-justica-manda-bloquear-bens-de-construtora-responsavel-por-obra.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-12-espionagem-eua",
-    "data": "2026-06-12",
-    "titulo": "Lei de vigilância nos EUA corre risco de expirar sem ação do Congresso",
-    "resumo": "Uma importante lei de vigilância dos Estados Unidos, a FISA, pode expirar à meia-noite. Isso ocorre devido à falta de ação do Congresso, mesmo com o descontentamento em relação a uma nomeação para o cargo de chefe de inteligência. A lei em questão permite certas práticas de espionagem.",
-    "categoria": "politica",
-    "tags": [
-      "vigilância",
-      "Congresso",
-      "FISA",
-      "espionagem"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Donald Trump"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/live/2026/jun/12/donald-trump-fisa-kennedy-center-iran-ufc-white-house-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-12-cultura-patrimonio",
-    "data": "2026-06-12",
-    "titulo": "Mês de junho destaca patrimônio histórico e cultural com exposições",
-    "resumo": "O mês de junho está sendo dedicado à valorização do patrimônio histórico e cultural, com diversas exposições em andamento. Em Araraquara, São Paulo, uma maquete da Estação Ferroviária homenageia a história local. A iniciativa visa promover a difusão da cultura.",
-    "categoria": "cultura",
-    "tags": [
-      "cultura",
-      "patrimônio",
-      "exposições",
-      "história"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Araraquara"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/sao-carlos-regiao/especial-publicitario/prefeitura-de-araraquara-araraquara-em-foco/noticia/2026/06/12/junho-cultura-destaca-o-patrimonio-historico-cultural-com-diversas-exposicoes.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-12-incidente-radioativo-sp",
-    "data": "2026-06-12",
-    "titulo": "Incidente com material radioativo no Ipen em SP é esclarecido",
-    "resumo": "O Instituto de Pesquisas Energéticas e Nucleares (Ipen), localizado na USP, em São Paulo, registrou um incidente com material radioativo. A instituição descartou riscos de contaminação para funcionários e vazamento externo. A Autoridade Nacional de Segurança Nuclear está investigando o ocorrido.",
-    "categoria": "ciencia",
-    "tags": [
-      "material radioativo",
-      "IPEN",
-      "USP",
-      "segurança nuclear"
-    ],
-    "entidades": [
-      "IPEN",
-      "USP"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "São Paulo"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/12/entenda-como-ocorreu-o-incidente-com-material-radioativo-no-ipen-em-sp.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-12-ataque-israelense-eleicoes",
-    "data": "2026-06-12",
-    "titulo": "França acusa empresa israelense de interferir em eleições escocesas",
-    "resumo": "A agência de cibersegurança francesa acusou a empresa israelense BlackCore de interferir nas eleições escocesas. A empresa também teria realizado ações contra eleições em Nova York e na França. As acusações envolvem o primeiro-ministro escocês, John Swinney.",
-    "categoria": "politica",
-    "tags": [
-      "cibersegurança",
-      "interferência eleitoral",
-      "Israel",
-      "França",
-      "Escócia"
-    ],
-    "entidades": [
-      "BlackCore"
-    ],
-    "pessoas": [
-      "John Swinney"
-    ],
-    "estados": [
-      "Escócia"
-    ],
-    "cidades": [
-      "Nova York"
-    ],
-    "paises": [
-      "França",
-      "Israel"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/12/france-accuses-israeli-firm-interfering-scottish-elections-john-swinney-snp"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-12-crime-morte-menino-rio",
-    "data": "2026-06-12",
-    "titulo": "Mãe e padrasto são presos pela morte de menino de 2 anos no Rio",
-    "resumo": "A Polícia Civil prendeu a mãe e o padrasto do menino Kaleb Gabriel da Cruz, de 2 anos. A criança morreu em julho de 2024, na Zona Norte do Rio de Janeiro. O casal estava foragido desde a época do ocorrido. A investigação aponta para o envolvimento dos dois na morte.",
-    "categoria": "justica",
+    "id": "2026-06-13-crime-violencia",
+    "data": "2026-06-13",
+    "titulo": "Comerciante morto em Taubaté e suspeito de tráfico preso em Macapá",
+    "resumo": "Um comerciante foi morto a tiros dentro de uma adega em Taubaté, na véspera da inauguração do estabelecimento. Em Macapá, uma mulher foi presa suspeita de tráfico de drogas, portando maconha, cocaína e uma quantia em dinheiro. Em Imperatriz, um terceiro suspeito de assassinato de empresário foi detido.",
+    "categoria": "seguranca",
     "tags": [
       "homicídio",
+      "tráfico de drogas",
       "prisão",
-      "menino",
-      "Rio de Janeiro"
+      "Taubaté",
+      "Macapá",
+      "Imperatriz"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/12/policia-prende-mae-e-padrasto-por-morte-de-menino.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-12-reducao-producao-industrial",
-    "data": "2026-06-12",
-    "titulo": "Produção de motos no Polo Industrial de Manaus cresce 10%",
-    "resumo": "A produção de motocicletas no Polo Industrial de Manaus (PIM) registrou um aumento de 10,1% entre janeiro e maio de 2026. Foram fabricadas 932.522 unidades no período. Os dados são da Associação Nacional dos Fabricantes de Veículos Automotores (Abraciclo).",
-    "categoria": "economia",
-    "tags": [
-      "produção industrial",
-      "motocicletas",
-      "Polo Industrial de Manaus",
-      "economia"
-    ],
-    "entidades": [
-      "PIM",
-      "Abraciclo"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Amazonas"
+      "São Paulo",
+      "Amapá",
+      "Maranhão"
     ],
     "cidades": [
-      "Manaus"
+      "Taubaté",
+      "Macapá",
+      "Imperatriz"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 2,
+    "importancia": 3,
     "fontes": [
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/12/producao-de-motos-no-polo-industrial-de-manaus-cresce-10percent-em-2026.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-12-spaceX-bolsa",
-    "data": "2026-06-12",
-    "titulo": "SpaceX dobra de valor e atinge quase US$ 2 trilhões após estreia na bolsa",
-    "resumo": "A SpaceX, empresa espacial de Elon Musk, teve sua avaliação multiplicada e agora vale quase US$ 2 trilhões. A empresa estreou oficialmente na bolsa de valores de Nova York nesta sexta-feira (12). Apesar de prejuízos, a empresa alcançou esta valorização.",
-    "categoria": "economia",
-    "tags": [
-      "SpaceX",
-      "bolsa de valores",
-      "Elon Musk",
-      "avaliação de empresa"
-    ],
-    "entidades": [
-      "SpaceX"
-    ],
-    "pessoas": [
-      "Elon Musk"
-    ],
-    "estados": [],
-    "cidades": [
-      "Nova York"
-    ],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 2,
-    "fontes": [
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/13/comerciante-e-morto-a-tiros-dentro-de-adega-na-vespera-da-inauguracao-do-estabelecimento-em-taubate.ghtml"
+      },
       {
-        "nome": "cnnbrasil.com.br",
-        "url": "https://www.cnnbrasil.com.br/economia/mercado/mesmo-com-prejuizos-spacex-passa-a-valer-quase-us-2-trilhoes-por-que/"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ap/amapa/noticia/2026/06/13/suspeita-de-trafico-e-presa-com-maconha-cocaina-em-macapa.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/13/terceiro-suspeito-de-envolvimento-na-morte-de-empresario-e-preso-em-imperatriz.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-12-gastronomia-drinks",
-    "data": "2026-06-12",
-    "titulo": "Dia dos Namorados: Criatividade em drinks e comemorações",
-    "resumo": "No Dia dos Namorados, estabelecimentos buscam inovar. Em Santos, SP, uma cervejaria oferece um fondue de cachaça e um drink psicodélico para solteiros. A iniciativa busca atrair diferentes públicos na data.",
+    "id": "2026-06-13-cultura-religiao-esporte",
+    "data": "2026-06-13",
+    "titulo": "Eventos religiosos e culturais marcam o dia: beatificações, shows e arte",
+    "resumo": "O município de Jauru, no Mato Grosso, se prepara para a beatificação do padre Nazareno Lanciotti, que deve atrair peregrinos. Em Tambaú, São Paulo, a igreja de Santa Intacta é reinaugurada nos 100 anos do beato Donizetti. Natal recebe shows de Fagner, Zezo e Zezé di Camargo e Luciano, enquanto espetáculos inspirados em literatura de cordel ocorrem em São Pedro da Aldeia e um documentário sobre a conservação da anta é lançado.",
     "categoria": "cultura",
     "tags": [
-      "Dia dos Namorados",
-      "drinks",
-      "gastronomia",
-      "cervejaria"
+      "beatificação",
+      "shows",
+      "literatura de cordel",
+      "conservação",
+      "documentário",
+      "religião"
     ],
     "entidades": [],
+    "pessoas": [
+      "Donizetti",
+      "Nazareno Lanciotti",
+      "Fagner",
+      "Zezo",
+      "Zezé di Camargo e Luciano",
+      "Patrícia Medici"
+    ],
+    "estados": [
+      "Mato Grosso",
+      "São Paulo",
+      "Rio Grande do Norte",
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Jauru",
+      "Tambaú",
+      "Natal",
+      "São Pedro da Aldeia"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/06/13/beatificacao-de-padre-italiano-deve-transformar-municipio-de-mt-em-destino-de-peregrinacao.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/06/13/igreja-de-santa-intacta-em-incendio-e-reinaugurada-nos-100-anos-do-beato-donizetti-em-tambau.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/rn/rio-grande-do-norte/sao-joao-no-rn/noticia/2026/06/13/programacao-sao-de-joao-de-natal-sabado.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/06/13/espetaculo-inspirado-na-literatura-de-cordel-tera-apresentacoes-no-rj.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/06/13/anta-o-filme-documentario-retrata-30-anos-de-luta-pela-conservacao-de-especie-ameacada.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-13-protestos-r-congo",
+    "data": "2026-06-13",
+    "titulo": "Protestos anti-governo em R. Congo resultam em violência",
+    "resumo": "Violência eclodiu durante protestos contra o governo na República Democrática do Congo. Centenas de manifestantes se reuniram em Kinshasa para demonstrar contra mudanças constitucionais. Os confrontos marcaram o dia de manifestações na capital.",
+    "categoria": "politica",
+    "tags": [
+      "protesto",
+      "violência",
+      "governo",
+      "República Democrática do Congo"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Kinshasa"
+    ],
+    "paises": [
+      "República Democrática do Congo"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "aljazeera.com",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/violence-erupts-at-anti-government-protest-in-dr-congo?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-13-discussao-populacao-suica",
+    "data": "2026-06-13",
+    "titulo": "Suíça prepara votação sobre plano para limitar população a 10 milhões",
+    "resumo": "A Suíça se prepara para uma votação sobre um plano que visa limitar a população do país a 10 milhões de habitantes. O Partido Popular Suíço defende a medida como uma iniciativa de sustentabilidade. Oponentes, no entanto, argumentam que o plano pode levar ao caos.",
+    "categoria": "politica",
+    "tags": [
+      "população",
+      "limitação",
+      "Suíça",
+      "votação",
+      "sustentabilidade"
+    ],
+    "entidades": [
+      "Partido Popular Suíço"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Suíça"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "feeds.bbci.co.uk",
+        "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-13-futebol-india-copa",
+    "data": "2026-06-13",
+    "titulo": "Índia enfrenta desafios no futebol, enquanto EUA vencem e Canadá empata na Copa",
+    "resumo": "Uma análise explora os motivos pelos quais a Índia enfrenta dificuldades em competir no futebol, o esporte mais popular do mundo. Na Copa do Mundo de 2026, os Estados Unidos obtiveram uma vitória expressiva sobre o Paraguai, e o Canadá conquistou seu primeiro ponto ao empatar.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "Copa do Mundo",
+      "Índia",
+      "Estados Unidos",
+      "Canadá",
+      "Paraguai"
+    ],
+    "entidades": [
+      "FIFA"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Índia",
+      "Estados Unidos",
+      "Canadá",
+      "Paraguai"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "aljazeera.com",
+        "url": "https://www.aljazeera.com/video/101-east/2026/6/13/football-why-is-india-struggling-to-play-the-worlds-most-popular-sport?traffic_source=rss"
+      },
+      {
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/tv-shows/sports/20260613-world-cup-debrief-day-2-team-usa-dominate-paraguay-canada-earn-one-point"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-13-justica-sabesp",
+    "data": "2026-06-13",
+    "titulo": "Justiça condena Sabesp a indenizar condomínio por falta de água em SP",
+    "resumo": "A Justiça de Santos determinou que a Sabesp deverá indenizar um condomínio no litoral de São Paulo por conta da falta de água ocorrida no fim do ano passado. O valor da indenização foi fixado em R$ 9.221,44. A decisão judicial foi proferida pela 1ª Vara Cível de Santos.",
+    "categoria": "justica",
+    "tags": [
+      "indenização",
+      "Sabesp",
+      "falta de água",
+      "Justiça",
+      "São Paulo"
+    ],
+    "entidades": [
+      "Sabesp"
+    ],
     "pessoas": [],
     "estados": [
       "São Paulo"
@@ -467,34 +394,35 @@
     "paises": [
       "Brasil"
     ],
-    "importancia": 1,
+    "importancia": 2,
     "fontes": [
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/santos-regiao/culinaria-013/noticia/2026/06/12/cervejaria-cria-dia-dos-solteiros-com-drink-psicodelico-fondue-de-cachaca-e-correio-elegante.ghtml"
+        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/13/sabesp-tera-que-indenizar-condominio-do-litoral-de-sp-apos-falta-de-agua-no-fim-de-ano.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-12-mobilidade-acidente",
-    "data": "2026-06-12",
-    "titulo": "Caminhão-tanque invade canteiro de obras e causa engarrafamento",
-    "resumo": "Um caminhão-tanque invadiu o canteiro de obras do viaduto do Coqueiro, na BR-316, em Ananindeua, Pará. O incidente causou um grande engarrafamento no sentido Belém. Não há informações sobre feridos.",
+    "id": "2026-06-13-falecimento-ex-comandante-pmpi",
+    "data": "2026-06-13",
+    "titulo": "Morre ex-comandante da Polícia Militar do Piauí aos 93 anos",
+    "resumo": "O coronel José Rodrigues Alves, ex-comandante da Polícia Militar do Piauí, faleceu aos 93 anos. A família confirmou a morte nas redes sociais, mas a causa não foi divulgada. Alves teve uma longa carreira na corporação.",
     "categoria": "seguranca",
     "tags": [
-      "acidente",
-      "trânsito",
-      "engarrafamento",
-      "caminhão"
+      "falecimento",
+      "polícia militar",
+      "Piauí"
     ],
-    "entidades": [],
-    "pessoas": [],
+    "entidades": [
+      "Polícia Militar do Piauí"
+    ],
+    "pessoas": [
+      "José Rodrigues Alves"
+    ],
     "estados": [
-      "Pará"
+      "Piauí"
     ],
-    "cidades": [
-      "Ananindeua"
-    ],
+    "cidades": [],
     "paises": [
       "Brasil"
     ],
@@ -502,20 +430,109 @@
     "fontes": [
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/pa/para/noticia/2026/06/12/caminhao-tanque-invade-canteiro-do-viaduto-do-coqueiro-e-causa-engarrafamento-em-ananindeua.ghtml"
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/13/morre-ex-comandante-pmpi.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-12-saude-dengue",
-    "data": "2026-06-12",
-    "titulo": "Prefeitura intensifica ações de combate à dengue em Araraquara",
-    "resumo": "A Prefeitura de Araraquara, São Paulo, está intensificando as ações de combate à dengue. As equipes de combate a endemias realizaram trabalhos em diversas regiões do município, especialmente onde casos positivos foram confirmados. A iniciativa visa controlar a proliferação do mosquito.",
-    "categoria": "saude",
+    "id": "2026-06-13-moda-identidade",
+    "data": "2026-06-13",
+    "titulo": "Matéria explora relação entre moda e identidade pessoal",
+    "resumo": "Uma reportagem discute a expressão \"tem a minha cara\" no contexto da moda, destacando como a escolha de peças de vestuário pode refletir a personalidade e a identidade de uma pessoa. A matéria sugere que vestir-se vai além de seguir tendências.",
+    "categoria": "cultura",
     "tags": [
-      "dengue",
-      "combate a endemias",
-      "saúde pública"
+      "moda",
+      "identidade",
+      "comportamento",
+      "personalidade"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Paraná"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pr/parana/especial-publicitario/recco-guia-de-moda-e-bem-estar/noticia/2026/06/13/brasileira-demais-para-vestir-qualquer-coisa.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-13-futebol-estatisticas-brasil",
+    "data": "2026-06-13",
+    "titulo": "Histórico de prêmios Bola de Ouro da FIFA em Copas vencidas pelo Brasil",
+    "resumo": "Uma análise detalha as ocasiões em que o Brasil conquistou a Copa do Mundo e teve um jogador eleito com a Bola de Ouro da FIFA. O texto aponta que a maioria desses prêmios foi resultado de um reconhecimento tardio. O levantamento abrange os feitos históricos do país no torneio.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "Copa do Mundo",
+      "Bola de Ouro",
+      "FIFA",
+      "Brasil"
+    ],
+    "entidades": [
+      "FIFA"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/todas-as-vezes-que-o-brasil-foi-campeao-e-teve-o-bola-de-ouro-da-fifa/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-13-futebol-convocacao-brasil",
+    "data": "2026-06-13",
+    "titulo": "Histórico de surpresas na convocação da Seleção Brasileira para Copas",
+    "resumo": "A matéria examina os casos de jogadores que, mesmo com poucas oportunidades ou sem serem chamados à seleção brasileira perto de uma Copa, acabaram sendo convocados. Oito dos 26 jogadores chamados para o Mundial de 2026 se encaixam nesse perfil, demonstrando que o sonho de disputar o torneio não é impossível.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "Copa do Mundo",
+      "convocação",
+      "Seleção Brasileira"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Carlo Ancelotti"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "agenciabrasil.ebc",
+        "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/surpresas-em-reta-final-de-ciclo-estao-na-historia-do-brasil-em-copas"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-13-relembrando-copa-mogi",
+    "data": "2026-06-13",
+    "titulo": "Relembre Mogi das Cruzes durante o pentacampeonato do Brasil na Copa do Mundo",
+    "resumo": "Com o início da Copa do Mundo de 2026, a notícia traz uma retrospectiva de como era Mogi das Cruzes no ano em que o Brasil conquistou seu pentacampeonato mundial. A matéria relembra os costumes e as celebrações da cidade naquela época.",
+    "categoria": "esportes",
+    "tags": [
+      "Copa do Mundo",
+      "história",
+      "Mogi das Cruzes",
+      "pentacampeonato"
     ],
     "entidades": [],
     "pessoas": [],
@@ -523,7 +540,7 @@
       "São Paulo"
     ],
     "cidades": [
-      "Araraquara"
+      "Mogi das Cruzes"
     ],
     "paises": [
       "Brasil"
@@ -532,188 +549,35 @@
     "fontes": [
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/sao-carlos-regiao/especial-publicitario/prefeitura-de-araraquara-araraquara-em-foco/noticia/2026/06/12/prefeitura-intensifica-acoes-de-combate-a-dengue-em-araraquara.ghtml"
+        "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/06/13/como-era-mogi-das-cruzes-quando-o-brasil-conquistou-o-pentacampeonato-da-copa-do-mundo.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-12-saude-vacina",
-    "data": "2026-06-12",
-    "titulo": "Vacinação contra influenza é ampliada para toda a população em Volta Redonda",
-    "resumo": "A cidade de Volta Redonda, Rio de Janeiro, ampliou a vacinação contra a influenza (gripe) para toda a população a partir dos 6 meses de idade. A informação foi divulgada pela prefeitura, que disponibilizou o imunizante.",
+    "id": "2026-06-13-saude-lesao-ligamento",
+    "data": "2026-06-13",
+    "titulo": "Especialista explica retorno ao esporte após ruptura de ligamento",
+    "resumo": "Um ortopedista esclarece as possibilidades de retorno ao esporte após a ruptura de ligamentos. A decisão não depende apenas do tempo de recuperação, mas também de sinais físicos que indicam que o joelho está totalmente apto para as atividades esportivas.",
     "categoria": "saude",
     "tags": [
-      "vacinação",
-      "influenza",
-      "gripe",
-      "saúde pública"
+      "saúde",
+      "esporte",
+      "lesão",
+      "ligamento",
+      "recuperação"
     ],
     "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
+    "pessoas": [
+      "Leonardo Addeo"
     ],
-    "cidades": [
-      "Volta Redonda"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/06/12/vacinacao-contra-influenza-e-ampliada-para-toda-a-populacao-em-volta-redonda.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-12-tecnologia-instagram",
-    "data": "2026-06-12",
-    "titulo": "Instagram apresenta instabilidade nesta sexta-feira",
-    "resumo": "O Instagram está apresentando instabilidade na manhã desta sexta-feira (12). Usuários relatam dificuldades para acessar a rede social, principalmente pela versão web. A causa da falha ainda não foi divulgada.",
-    "categoria": "tecnologia",
-    "tags": [
-      "Instagram",
-      "instabilidade",
-      "rede social",
-      "tecnologia"
-    ],
-    "entidades": [
-      "Instagram"
-    ],
-    "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [],
     "importancia": 1,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/tecnologia/noticia/2026/06/12/instagram-apresenta-instabilidade-nesta-sexta.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-12-cultura-adocao-pets",
-    "data": "2026-06-12",
-    "titulo": "Araraquara lança site oficial para adoção de pets",
-    "resumo": "A Prefeitura de Araraquara, São Paulo, lançou o primeiro site oficial para adoção de animais do município. A iniciativa, criada pela Secretaria Municipal de Comunicação, tem como objetivo ampliar o acesso da população a animais para adoção.",
-    "categoria": "cultura",
-    "tags": [
-      "adoção de animais",
-      "pets",
-      "site oficial",
-      "Araraquara"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Araraquara"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/sao-carlos-regiao/especial-publicitario/prefeitura-de-araraquara-araraquara-em-foco/noticia/2026/06/12/prefeitura-de-araraquara-lanca-primeiro-site-de-adocao-de-pets-da-cidade.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-12-acidente-motorhome",
-    "data": "2026-06-12",
-    "titulo": "Motorhome que pegou fogo em Cuiabá pertencia a piloto da Fórmula Truck",
-    "resumo": "Um motorhome que pegou fogo na Rodovia Emanuel Pinheiro, em Cuiabá, Mato Grosso, pertencia ao piloto de Fórmula Truck Jaidson Zini. O incêndio ocorreu nesta quarta-feira (10). As circunstâncias do ocorrido estão sendo apuradas pelos bombeiros.",
-    "categoria": "seguranca",
-    "tags": [
-      "incêndio",
-      "motorhome",
-      "piloto",
-      "acidente"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Jaidson Zini"
-    ],
-    "estados": [
-      "Mato Grosso"
-    ],
-    "cidades": [
-      "Cuiabá"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/06/12/motorhome-que-pegou-fogo-em-cuiaba-pertence-a-piloto-da-formula-truck.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-12-migracao-religiao",
-    "data": "2026-06-12",
-    "titulo": "Papa Francisco visita Ilhas Canárias e fala sobre migração",
-    "resumo": "Em sua visita às Ilhas Canárias, na Espanha, o Papa Francisco afirmou que \"todos somos migrantes\". Ele fez essa declaração em um centro de recepção para migrantes no último dia de sua viagem, que focou na situação dos imigrantes irregulares.",
-    "categoria": "internacional",
-    "tags": [
-      "Papa Francisco",
-      "migração",
-      "Ilhas Canárias",
-      "Espanha"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Papa Francisco"
-    ],
-    "estados": [
-      "Ilhas Canárias"
-    ],
-    "cidades": [],
-    "paises": [
-      "Espanha"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/en/video/20260612-all-of-us-of-are-migrants-pope-says-in-canary-islands-as-spain-trip-wraps-up"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-12-investigacao-acidente-aereo",
-    "data": "2026-06-12",
-    "titulo": "Investigação de acidente aéreo da Air India avança com poucos detalhes",
-    "resumo": "A investigação sobre o acidente aéreo da Air India, que resultou na morte de 260 pessoas há um ano, está progredindo. Um comunicado oficial informou \"progresso significativo\" nos trabalhos, mas poucos detalhes foram divulgados sobre as causas ou conclusões.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente aéreo",
-      "Air India",
-      "investigação"
-    ],
-    "entidades": [
-      "Air India"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Índia"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "bbc.com",
-        "url": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss"
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/saude/e-possivel-jogar-bola-de-novo-depois-de-romper-o-ligamento-entenda/"
       }
     ]
   }
