@@ -1,276 +1,174 @@
 [
   {
-    "id": "2026-06-14-crise-no-oriente-medio",
-    "data": "2026-06-14",
-    "titulo": "Tensão no Oriente Médio: Ataques israelenses em Beirute e expectativa de acordo de paz EUA-Irã",
-    "resumo": "O exército de Israel informou ter lançado ataques contra subúrbios de Beirute, no Líbano. A ação ocorre em meio a expectativas de um acordo de paz entre Estados Unidos e Irã, com Donald Trump afirmando que o acordo seria assinado em breve. O Irã, no entanto, levantou dúvidas sobre o cronograma.",
+    "id": "2026-06-15-acordo-ira-estreito-ormuz",
+    "data": "2026-06-15",
+    "titulo": "Trump discute acordo com Irã e Estreito de Ormuz na França",
+    "resumo": "O vice-presidente dos EUA, JD Vance, mencionou um acordo com o Irã e a abertura do Estreito de Ormuz. Segundo a Reuters, Trump, Vance e o presidente do Parlamento iraniano assinaram um documento. Os EUA e o Irã chegaram a um acordo para encerrar tensões.",
     "categoria": "internacional",
     "tags": [
-      "Israel",
-      "Líbano",
+      "acordo",
       "Irã",
       "EUA",
-      "acordo de paz",
-      "Oriente Médio"
+      "Estreito de Ormuz"
     ],
     "entidades": [],
     "pessoas": [
+      "JD Vance",
       "Donald Trump"
     ],
     "estados": [],
-    "cidades": [
-      "Beirute"
-    ],
+    "cidades": [],
     "paises": [
-      "Israel",
-      "Líbano",
+      "Estados Unidos",
       "Irã",
-      "Estados Unidos"
-    ],
-    "importancia": 5,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/06/14/exercito-de-israel-ataca-suburbios-de-beirute-em-meio-a-expectativa-de-acordo-de-paz-entre-eua-e-ira.html"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jun/14/iran-us-middle-east-crisis-donald-trump-peace-deal-strait-hormuz-open-pakistan-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-14-ufc-e-trump",
-    "data": "2026-06-14",
-    "titulo": "Trump celebra 80 anos com evento de UFC na Casa Branca com pagamentos em criptomoeda",
-    "resumo": "O presidente Donald Trump celebrou seu 80º aniversário com um evento de lutas de UFC no gramado da Casa Branca. Parte dos bônus dos lutadores será paga em criptomoedas emitidas por uma empresa da família Trump. A iniciativa gerou discussões sobre a natureza do evento e o uso de moedas digitais.",
-    "categoria": "cultura",
-    "tags": [
-      "UFC",
-      "Trump",
-      "criptomoeda",
-      "Casa Branca",
-      "aniversário"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Donald Trump"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
+      "França"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/06/14/trump-celebra-80-anos-com-lutas-de-ufc-no-gramado-da-casa-branca-e-em-meio-ao-desgaste-da-guerra-no-ira.html"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml"
       },
       {
         "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/2026/jun/14/white-house-ufc-fighters-crypto"
+        "url": "https://www.theguardian.com/us-news/live/2026/jun/15/donald-trump-ufc-white-house-michelle-obama-g7-iran-peace-deal-us-politics-latest-news-updates"
       }
     ]
   },
   {
-    "id": "2026-06-14-esportes-copa-2026",
-    "data": "2026-06-14",
-    "titulo": "Seleção de Curaçao e desempenho da Holanda em destaque na Copa do Mundo",
-    "resumo": "A seleção de Curaçao, participante da Copa do Mundo de 2026, chamou atenção pelo fato de apenas um jogador ter nascido na ilha caribenha, com a maioria sendo nascida na Holanda. Em outra notícia relacionada à Copa, a Holanda mantém um longo retrospecto de invencibilidade em jogos de Copa do Mundo.",
-    "categoria": "esportes",
-    "tags": [
-      "Copa do Mundo 2026",
-      "futebol",
-      "Curaçao",
-      "Holanda"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Curaçao",
-      "Holanda"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/06/14/holanda-b-apenas-um-jogador-de-curacao-estreante-da-copa-nao-nasceu-no-pais-europeu-entenda.html"
-      },
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/holanda-nao-perde-em-copas-do-mundo-ha-20-anos-entenda/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-14-seguranca-transito-acidentes",
-    "data": "2026-06-14",
-    "titulo": "Acidentes de trânsito causam mortes e feridos em diferentes estados brasileiros",
-    "resumo": "Um grave acidente na PR-538, no Norte do Paraná, resultou na morte de dois jovens. No Ceará, um motociclista morreu após ser atingido por uma caminhonete que fugiu do local. Em Nova Russas, o motorista fugiu sem prestar socorro. Na Espanha, um trem turístico tombou em Cártama, ferindo 17 pessoas.",
+    "id": "2026-06-15-violencia-buzios",
+    "data": "2026-06-15",
+    "titulo": "Mulher reage a assalto e tenta impedir fuga de criminosos em Búzios",
+    "resumo": "Uma mulher tentou impedir a fuga de dois assaltantes após ter o celular roubado na Orla Bardot, em Armação dos Búzios, no Rio de Janeiro. Imagens de câmeras de segurança registraram a ação. A polícia investiga o caso.",
     "categoria": "seguranca",
     "tags": [
-      "acidente",
-      "trânsito",
-      "morte",
-      "feridos"
+      "assalto",
+      "roubo",
+      "Búzios",
+      "violência"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [
-      "Paraná",
-      "Ceará"
+      "Rio de Janeiro"
     ],
     "cidades": [
-      "Guaravera",
-      "Nova Russas"
+      "Armação dos Búzios"
     ],
-    "paises": [
-      "Brasil",
-      "Espanha"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/06/14/acidente-morte-guaravera-londrina.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ce/ceara/noticia/2026/06/14/motociclista-morre-apos-ser-atingido-por-caminhonete-que-fugiu-sem-prestar-socorro-em-nova-russas.html"
-      },
-      {
-        "nome": "BBC",
-        "url": "https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-14-justica-trabalho-infantil",
-    "data": "2026-06-14",
-    "titulo": "Justiça determina custeio de tratamento para adolescente ferido em trabalho proibido em RO",
-    "resumo": "A Justiça do Trabalho em Rondônia determinou que uma fazenda custeie o tratamento médico completo de um adolescente de 15 anos que sofreu um acidente enquanto trabalhava. O adolescente desenvolveu uma infecção após o incidente. O caso levanta questões sobre trabalho infantil e responsabilidade legal.",
-    "categoria": "justica",
-    "tags": [
-      "trabalho infantil",
-      "justiça",
-      "acidente",
-      "Rondônia"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rondônia"
-    ],
-    "cidades": [],
     "paises": [
       "Brasil"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ro/rondonia/noticia/2026/06/14/justica-obriga-fazenda-a-custear-tratamento-de-adolescente-ferido-em-trabalho-proibido-em-ro.html"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/06/15/mulher-reage-a-assalto-e-tenta-impedir-fuga-de-criminosos-na-orla-bardot-em-buzios-video.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-14-politica-ue-defesa",
-    "data": "2026-06-14",
-    "titulo": "Bulgária proíbe fornecimento estatal de armas para a Ucrânia",
-    "resumo": "O novo governo da Bulgária decidiu proibir o fornecimento estatal de armas para a Ucrânia. A medida, no entanto, não afeta as exportações comerciais. A decisão levanta questionamentos sobre os motivos por trás da proibição e seu impacto na guerra.",
-    "categoria": "politica",
-    "tags": [
-      "Bulgária",
-      "Ucrânia",
-      "armas",
-      "guerra"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Bulgária",
-      "Ucrânia"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "DW",
-        "url": "https://www.dw.com/en/why-is-bulgaria-banning-arms-supplies-to-ukraine/a-77523515?maca=en-rss-en-all-1573-rdf"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-14-economia-veiculos-eletricos-reino-unido",
-    "data": "2026-06-14",
-    "titulo": "Governo do Reino Unido pode flexibilizar metas de vendas de veículos elétricos",
-    "resumo": "O governo do Reino Unido está considerando reduzir as metas de vendas de veículos elétricos para 2030. A possibilidade surge após pressão da indústria automobilística e de sindicatos, que alertaram sobre riscos para a fabricação e empregos. A proposta prevê consulta pública sobre as mudanças.",
-    "categoria": "economia",
-    "tags": [
-      "veículos elétricos",
-      "Reino Unido",
-      "metas",
-      "indústria automobilística"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/business/2026/jun/14/uk-poised-water-down-2030-ev-sales-targets-industry-union-pressure"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-14-cultura-musica-sertanejo-brega",
-    "data": "2026-06-14",
-    "titulo": "Natanzinho Lima defende o brega e sonha em se apresentar no Rock in Rio",
-    "resumo": "O cantor Natanzinho Lima expressou que o gênero musical brega tem rompido barreiras no Brasil e manifestou o desejo de se apresentar em grandes festivais. Ele revelou que sonha em tocar no Rock in Rio, buscando expandir seu alcance e o reconhecimento do brega.",
+    "id": "2026-06-15-luan-santana-cha-revelacao",
+    "data": "2026-06-15",
+    "titulo": "Luan Santana realiza chá revelação de fã durante show no Paraná",
+    "resumo": "O cantor Luan Santana atendeu o pedido de uma fã e realizou o chá revelação do bebê dela no palco de um show em Londrina, no Paraná. A fã, Laís Amante, de 28 anos, teve seu pedido atendido pelo artista. O momento foi compartilhado nas redes sociais.",
     "categoria": "cultura",
     "tags": [
-      "música",
-      "brega",
-      "sertanejo",
-      "Rock in Rio"
+      "show",
+      "Luan Santana",
+      "chá revelação",
+      "Paraná"
     ],
     "entidades": [],
     "pessoas": [
-      "Natanzinho Lima"
+      "Luan Santana",
+      "Laís Amante"
     ],
+    "estados": [
+      "Paraná"
+    ],
+    "cidades": [
+      "Londrina"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/06/15/luan-cha-revelacao-fa-show-parana.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-15-morte-gestante-mg",
+    "data": "2026-06-15",
+    "titulo": "Grávida morre à espera de atendimento obstétrico em Minas Gerais",
+    "resumo": "Bárbara Luana Fernandes Aleixo, de 29 anos e grávida de 30 semanas, morreu em Minas Gerais à espera de atendimento obstétrico. A família relata as últimas horas da gestante. O caso levanta preocupações sobre o acesso à saúde materna.",
+    "categoria": "saude",
+    "tags": [
+      "morte",
+      "grávida",
+      "atendimento obstétrico",
+      "Minas Gerais"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Bárbara Luana Fernandes Aleixo"
+    ],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/15/quem-era-barbara-luana-gravida-que-morreu-a-espera-de-atendimento-obstetrico-em-mg.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-15-atropelamento-gari-df",
+    "data": "2026-06-15",
+    "titulo": "Motorista embriagado atropela gari no Distrito Federal",
+    "resumo": "Um motorista embriagado foi preso após atropelar um gari de 27 anos no Distrito Federal. O incidente ocorreu no último sábado (13) enquanto a vítima trabalhava em uma via. O caso está sob investigação da Polícia Civil.",
+    "categoria": "seguranca",
+    "tags": [
+      "atropelamento",
+      "embriaguez ao volante",
+      "gari",
+      "Distrito Federal"
+    ],
+    "entidades": [],
+    "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
       "Brasil"
     ],
-    "importancia": 2,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/campinas-regiao/festa-do-peao-de-americana/noticia/2026/06/14/natanzinho-lima-diz-que-brega-rompeu-barreira-e-sonha-em-cantar-no-rock-in-rio.html"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/15/motorista-embriagado-e-preso-apos-atropelar-gari-que-trabalhava-no-df.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-14-cultura-festas-juninas-minas-gerais",
-    "data": "2026-06-14",
-    "titulo": "Tradição centenária de fogueira em homenagem a Santo Antônio em Minas Gerais",
-    "resumo": "Em Várzea de Santo Antônio, distrito de Bias Fortes, na Zona da Mata mineira, a tradição de erguer uma grande fogueira em homenagem a Santo Antônio se mantém há quase 100 anos. A fogueira, com quase 20 metros de altura, é um marco cultural da região e celebra o dia do santo.",
-    "categoria": "cultura",
+    "id": "2026-06-15-feminicidio-mg",
+    "data": "2026-06-15",
+    "titulo": "Homem é indiciado por feminicídio em Minas Gerais",
+    "resumo": "A Polícia Civil indiciou um homem de 38 anos pelo feminicídio de uma jovem em Santa Efigênia de Minas, no Vale do Rio Doce. A vítima foi morta a tiros após ser perseguida e buscar refúgio em uma oficina. A arma do crime foi localizada.",
+    "categoria": "justica",
     "tags": [
-      "festa junina",
-      "tradição",
+      "feminicídio",
+      "violência contra mulher",
       "Minas Gerais",
-      "Santo Antônio"
+      "indiciamento"
     ],
     "entidades": [],
     "pessoas": [],
@@ -278,236 +176,127 @@
       "Minas Gerais"
     ],
     "cidades": [
-      "Bias Fortes"
+      "Santa Efigênia de Minas"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 2,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/06/14/fogueira-de-quase-20-metros-mantem-tradicao-centenaria-no-dia-de-santo-antonio-em-mg-video.html"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/06/15/policia-civil-indicia-homem-que-perseguiu-e-matou-ex-companheira-dentro-de-oficina-em-mg.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-14-cultura-radio-nacional-documentario",
-    "data": "2026-06-14",
-    "titulo": "Rádio Nacional estreia documentário de 90 episódios sobre seus 90 anos",
-    "resumo": "A Rádio Nacional, veículo da EBC, lança um documentário especial com 90 episódios intitulado \"90 anos em 90 histórias\". A iniciativa exibirá episódios diários, contando a trajetória da emissora até seu aniversário de nove décadas em 12 de setembro. O projeto visa resgatar a história da rádio.",
-    "categoria": "cultura",
-    "tags": [
-      "rádio",
-      "documentário",
-      "história",
-      "Rádio Nacional"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "Agência Brasil",
-        "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/radio-nacional-estreia-documentario-de-90-episodios-sobre-os-90-anos"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-14-meio-ambiente-contaminacao-dna-uva",
-    "data": "2026-06-14",
-    "titulo": "DNA de sementes de uva antigas revela origens da viticultura moderna",
-    "resumo": "Cientistas analisaram DNA de sementes de uva com 2.000 anos encontradas na Toscana, Itália. A pesquisa permitiu mapear a história genética de videiras em uma escala sem precedentes. Os achados incluem a descoberta de que videiras antigas de Chianti produziam frutas brancas.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "DNA",
-      "uva",
-      "viticultura",
-      "história",
-      "ciência"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Itália"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jun/14/dna-from-2000-year-old-grape-seeds-points-to-origins-of-modern-winemaking"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-14-justica-crime-salvador",
-    "data": "2026-06-14",
-    "titulo": "Jogador de futsal tem prisão convertida em preventiva após suspeita de crime em Salvador",
-    "resumo": "Um jogador de futsal teve a prisão em flagrante convertida em preventiva após ser detido sob suspeita de ejacular em uma mulher no metrô de Salvador. O incidente ocorreu na quinta-feira e a conversão da prisão ocorreu durante audiência de custódia. O caso segue sob investigação.",
-    "categoria": "justica",
-    "tags": [
-      "crime",
-      "Salvador",
-      "futsal",
-      "prisão"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Bahia"
-    ],
-    "cidades": [
-      "Salvador"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/14/suspeito-de-ejacular-em-mulher-no-metro-tem-prisao-convertida.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-14-economia-agro-gado-eua",
-    "data": "2026-06-14",
-    "titulo": "Crise na oferta de gado afeta indústrias frigoríficas nos EUA",
-    "resumo": "A escassez na oferta de gado está impactando as indústrias frigoríficas dos Estados Unidos. O custo da matéria-prima subiu mais de 26% nos últimos dois anos, levando frigoríficos a reavaliarem suas operações. A situação reflete desafios no setor agropecuário do país.",
-    "categoria": "economia",
-    "tags": [
-      "agropecuária",
-      "gado",
-      "indústria",
-      "EUA",
-      "crise"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/agro/crise-na-oferta-de-gado-ja-impacta-as-industrias-frigorificas-dos-eua/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-14-politica-governo-reforma-lgbtq",
-    "data": "2026-06-14",
-    "titulo": "Comunidade LGBTQ+ luta por espaço após proibição de bandeiras na biblioteca em Essex",
-    "resumo": "Membros da comunidade LGBTQ+ em Rochford, Essex, estão lutando por visibilidade após o conselho local proibir o uso de bandeiras do orgulho e a realização de eventos. A comunidade sente que a decisão indica que eles não são bem-vindos na área. A situação gerou debates sobre direitos e inclusão.",
-    "categoria": "politica",
-    "tags": [
-      "LGBTQ+",
-      "Essex",
-      "direitos",
-      "protesto"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Essex"
-    ],
-    "cidades": [
-      "Rochford"
-    ],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jun/14/lgbtq-pride-rochford-essex-council-library-ban-reform-uk"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-14-seguranca-acidente-aereo-rio-janeiro",
-    "data": "2026-06-14",
-    "titulo": "Aeronave de pequeno porte cai no Recreio dos Bandeirantes, Rio de Janeiro",
-    "resumo": "Uma aeronave de pequeno porte caiu no Recreio dos Bandeirantes, Zona Sudoeste do Rio de Janeiro, na manhã deste domingo. Moradores relataram explosões em série e muito fogo no local do acidente. Há relatos sobre a queda de helicópteros, mas a extensão total do incidente está sob apuração.",
+    "id": "2026-06-15-morte-rope-jump-sp",
+    "data": "2026-06-15",
+    "titulo": "Jovem morre em salto de rope jump em Limeira e câmera some",
+    "resumo": "Uma jovem morreu em Limeira (SP) após saltar de uma ponte sem a corda de segurança durante uma prática de rope jump. Testemunhas relatam que funcionários da empresa teriam retirado a câmera que filmava a queda. A polícia investiga o ocorrido.",
     "categoria": "seguranca",
     "tags": [
-      "acidente aéreo",
-      "Rio de Janeiro",
-      "explosão"
+      "acidente",
+      "rope jump",
+      "Limeira",
+      "morte"
     ],
     "entidades": [],
-    "pessoas": [],
+    "pessoas": [
+      "Maria Eduarda Rodrigues de Freitas"
+    ],
     "estados": [
-      "Rio de Janeiro"
+      "São Paulo"
     ],
     "cidades": [
-      "Rio de Janeiro"
+      "Limeira"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 1,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/14/explosao-no-recreio-dos-bandeirantes.html"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/06/15/esconder-provas-testemunha-diz-que-funcionarios-tiraram-camera-de-jovem-morta-apos-salto-sem-corda-em-sp.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-14-saude-quimicos-leite-materno",
-    "data": "2026-06-14",
-    "titulo": "Estudo encontra químicos perigosos em amostras de leite materno nos EUA",
-    "resumo": "Uma nova pesquisa encontrou níveis alarmantes de químicos perigosos, como BPA e triclosan, em amostras de leite materno de mães em Seattle. Os especialistas apontam para um \"problema sistêmico generalizado\" de contaminação química. Os resultados destacam a preocupação com a exposição a essas substâncias.",
-    "categoria": "saude",
+    "id": "2026-06-15-medicamento-distrofia-pi",
+    "data": "2026-06-15",
+    "titulo": "Justiça determina fornecimento de remédio de R$ 3,5 milhões para menino com distrofia muscular no PI",
+    "resumo": "Um menino de sete anos com Distrofia Muscular de Duchenne receberá um medicamento de alto custo avaliado em R$ 3,5 milhões. A decisão judicial determina que a União forneça o tratamento para Luís Henrique dos Santos. A doença é rara e degenerativa.",
+    "categoria": "justica",
     "tags": [
-      "saúde",
-      "químicos",
-      "leite materno",
-      "contaminação"
+      "justiça",
+      "remédio",
+      "distrofia muscular",
+      "Piauí"
     ],
     "entidades": [],
-    "pessoas": [],
+    "pessoas": [
+      "Luís Henrique dos Santos"
+    ],
     "estados": [
-      "Washington"
+      "Piauí"
     ],
-    "cidades": [
-      "Seattle"
+    "cidades": [],
+    "paises": [
+      "Brasil"
     ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/15/justica-uniao-remedio-milionario-menino.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-15-openai-xai",
+    "data": "2026-06-15",
+    "titulo": "OpenAI vence ação contra xAI sobre suposto roubo de segredos comerciais",
+    "resumo": "Uma juíza federal dos Estados Unidos rejeitou uma ação movida pela xAI, empresa de Elon Musk, contra a OpenAI, de Sam Altman. A xAI acusava a OpenAI de apropriação de segredos comerciais. A decisão favorece a OpenAI no processo.",
+    "categoria": "justica",
+    "tags": [
+      "processo",
+      "inteligência artificial",
+      "OpenAI",
+      "xAI"
+    ],
+    "entidades": [
+      "OpenAI",
+      "xAI"
+    ],
+    "pessoas": [
+      "Elon Musk",
+      "Sam Altman"
+    ],
+    "estados": [],
+    "cidades": [],
     "paises": [
       "Estados Unidos"
     ],
-    "importancia": 1,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/2026/jun/14/breast-milk-research-chemicals"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/tecnologia/noticia/2026/06/15/openai-derrota-acao-da-xai-sobre-suposto-roubo-de-segredos-comerciais.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-14-educacao-unicamp-protesto",
-    "data": "2026-06-14",
-    "titulo": "Alunos de dança e artes cênicas da Unicamp denunciam sucateamento e falta de professores",
-    "resumo": "Estudantes dos cursos de dança e artes cênicas da Universidade Estadual de Campinas (Unicamp) estão denunciando a precariedade da estrutura, a falta de professores e o orçamento insuficiente. Os alunos cobram contratações, reajustes salariais e melhores benefícios para garantir a qualidade do ensino.",
-    "categoria": "educacao",
+    "id": "2026-06-15-furto-creche-botucatu",
+    "data": "2026-06-15",
+    "titulo": "Homem é preso por furtar torneiras de creche em Botucatu",
+    "resumo": "Um homem de 23 anos foi preso em flagrante em Botucatu (SP) após furtar quatro torneiras de uma creche municipal. O furto ocorreu no último sábado (13) na creche Centro de Educação Infantil (CEI) Rafaela Cristina Francisco Benato. O suspeito foi detido pela polícia.",
+    "categoria": "seguranca",
     "tags": [
-      "educação",
-      "Unicamp",
-      "protesto",
-      "professores"
+      "furto",
+      "creche",
+      "Botucatu",
+      "prisão"
     ],
     "entidades": [],
     "pessoas": [],
@@ -515,260 +304,353 @@
       "São Paulo"
     ],
     "cidades": [
-      "Campinas"
+      "Botucatu"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 1,
+    "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/06/14/alunos-de-danca-e-artes-cenicas-da-unicamp-denunciam-sucateamento-e-falta-de-professores-na-unicamp.html"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/06/15/video-homem-e-preso-em-flagrante-apos-furtar-torneiras-em-creche-municipal-em-botucatu.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-14-justica-desastre-ambiental-ro",
-    "data": "2026-06-14",
-    "titulo": "MPF processa responsáveis por desastre ambiental em Rondônia que isolou famílias",
-    "resumo": "O Ministério Público Federal (MPF) entrou com uma ação judicial para responsabilizar os envolvidos em um desastre ambiental em Rondônia. O incidente deixou cerca de 100 famílias isoladas e causou danos à vegetação e aos rios da região. A ação busca reparação pelos danos causados.",
-    "categoria": "justica",
+    "id": "2026-06-15-morte-gravacao-serie-rj",
+    "data": "2026-06-15",
+    "titulo": "Funcionário morre durante gravação de série na UFRJ; polícia investiga",
+    "resumo": "Um homem de 55 anos morreu após sofrer uma queda durante as gravações da série 'Delegacia de Homicídios' na Universidade Federal do Rio de Janeiro (UFRJ). A polícia abriu investigação para apurar as circunstâncias do acidente. O óbito foi confirmado no local.",
+    "categoria": "seguranca",
     "tags": [
-      "desastre ambiental",
-      "Rondônia",
-      "MPF",
-      "famílias isoladas"
+      "morte",
+      "gravação",
+      "série",
+      "UFRJ",
+      "acidente"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [
-      "Rondônia"
+      "Rio de Janeiro"
     ],
-    "cidades": [],
+    "cidades": [
+      "Rio de Janeiro"
+    ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 1,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ro/rondonia/noticia/2026/06/14/mpf-processa-responsaveis-por-desastre-que-deixou-100-familias-isoladas-em-ro.html"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/15/homem-morre-durante-gravacao-de-serie.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-14-cultura-musica-roberto-carlos-sao-joao",
-    "data": "2026-06-14",
-    "titulo": "Roberto Carlos estreia no São João de Campina Grande",
-    "resumo": "O cantor Roberto Carlos fará sua estreia no palco do evento \"O Maior São João do Mundo\", em Campina Grande, Paraíba. Esta será a primeira participação do artista na tradicional festa junina paraibana. O show marca um momento especial para os fãs e para a celebração junina.",
-    "categoria": "cultura",
+    "id": "2026-06-15-investigacao-nepotismo-manaus",
+    "data": "2026-06-15",
+    "titulo": "Vereador de Manaus é investigado por suspeita de nepotismo",
+    "resumo": "O Ministério Público do Amazonas (MPAM) abriu uma investigação para apurar suspeita de nepotismo contra o vereador Kennedy Marques (MDB) em Manaus. O parlamentar é acusado de nomear ex-companheiras para cargos na Câmara Municipal. O caso segue em apuração.",
+    "categoria": "politica",
     "tags": [
-      "música",
-      "Roberto Carlos",
-      "São João",
-      "Campina Grande"
+      "nepotismo",
+      "investigação",
+      "Manaus",
+      "vereador"
     ],
     "entidades": [],
     "pessoas": [
-      "Roberto Carlos"
+      "Kennedy Marques"
     ],
+    "estados": [
+      "Amazonas"
+    ],
+    "cidades": [
+      "Manaus"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/15/vereador-de-manaus-e-investigado-por-suspeita-de-nepotismo-apos-nomear-ex-companheiras.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-15-belgica-egito-copa-2026",
+    "data": "2026-06-15",
+    "titulo": "Bélgica enfrenta Egito em jogo da Copa do Mundo de 2026",
+    "resumo": "A seleção da Bélgica enfrentará o Egito em uma partida da Copa do Mundo de 2026. As equipes se preparam para o confronto, com cobertura de notícias ao vivo e informações sobre as escalações. O jogo promete ser um destaque no torneio.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "Copa do Mundo",
+      "Bélgica",
+      "Egito"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Bélgica",
+      "Egito"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/6/15/belgium-v-egypt-live-world-cup-2026?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-15-unesco-patrimonio-humanidade",
+    "data": "2026-06-15",
+    "titulo": "Desafios de lugares para sair da Lista de Patrimônio da Humanidade da Unesco",
+    "resumo": "Alguns locais enfrentam dificuldades para serem removidos da Lista de Patrimônio da Humanidade da Unesco. A reportagem explora os motivos e os desafios envolvidos nesse processo. Um exemplo citado é a vila medieval de Vlkolínec, na Eslováquia.",
+    "categoria": "cultura",
+    "tags": [
+      "Unesco",
+      "Patrimônio da Humanidade",
+      "cultura",
+      "patrimônio"
+    ],
+    "entidades": [
+      "Unesco"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Eslováquia"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/06/15/por-que-alguns-lugares-lutam-para-sair-da-lista-de-patrimonio-da-humanidade-da-unesco.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-15-tax-cuts-uk-politics",
+    "data": "2026-06-15",
+    "titulo": "Propostas de cortes de impostos no Reino Unido para eleição local",
+    "resumo": "O partido de Nigel Farage propôs cortes de impostos no valor de £40 bilhões para influenciar a eleição complementar em Makerfield, no Reino Unido. Críticos conservadores apontam que as propostas não foram detalhadas em seus custos. Keir Starmer também aborda restrições para menores.",
+    "categoria": "politica",
+    "tags": [
+      "eleição",
+      "Reino Unido",
+      "cortes de impostos",
+      "política"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Nigel Farage",
+      "Keir Starmer"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/15/keir-starmer-social-media-ban-under-16s-tik-tok-instagram-snapchat-twitter-x-meta-uk-politics-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-15-ev-sales-targets-uk",
+    "data": "2026-06-15",
+    "titulo": "Críticas às planos do Reino Unido para enfraquecer metas de vendas de carros elétricos",
+    "resumo": "Planos do governo do Reino Unido para enfraquecer as metas de vendas de carros elétricos geraram forte reação. A indústria de carregamento e fabricantes de veículos elétricos alertam sobre perda de empregos e danos ao setor automotivo britânico. A medida pode afetar empresas como a Polestar.",
+    "categoria": "economia",
+    "tags": [
+      "carros elétricos",
+      "metas de vendas",
+      "Reino Unido",
+      "indústria automotiva"
+    ],
+    "entidades": [
+      "Polestar"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2026/jun/15/backlash-uk-plans-weaken-ev-sales-targets-electric-vehicle-manufacturers-automotive-sector"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-15-haddad-chapa-eleitoral",
+    "data": "2026-06-15",
+    "titulo": "Haddad expressa conforto com nomes de Marina, França e Tebet em chapa",
+    "resumo": "O ex-ministro Fernando Haddad declarou-se confortável com as possibilidades de Marina Silva, Geraldo Alckmin e Simone Tebet comporem uma chapa eleitoral. Apesar da indefinição sobre o vice, o presidente Lula orientou que a vaga seria destinada ao PSB. Haddad demonstrou entusiasmo com as opções.",
+    "categoria": "politica",
+    "tags": [
+      "eleições",
+      "chapa",
+      "política",
+      "Brasil"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Fernando Haddad",
+      "Marina Silva",
+      "Geraldo Alckmin",
+      "Simone Tebet",
+      "Lula"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/haddad-diz-estar-confortavel-com-nomes-de-marina-franca-e-tebet-em-chapa/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-15-gol-curacao-copa",
+    "data": "2026-06-15",
+    "titulo": "Autor de primeiro gol de Curaçao em Copas celebra feito histórico",
+    "resumo": "Liviano Comenencia, lateral-direito de 22 anos, marcou o primeiro gol de Curaçao em Copas do Mundo, um momento histórico para a pequena ilha. Apesar da derrota por 7 a 1, o jogador destacou a emoção de viver este feito. O gol entrou para a história do país no Mundial.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "Copa do Mundo",
+      "Curaçao",
+      "gol"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Liviano Comenencia"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Curaçao"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/bonito-que-sonho-se-tornou-real-diz-autor-de-1o-gol-de-curacao-em-copas/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-15-morte-tiros-costa-marques",
+    "data": "2026-06-15",
+    "titulo": "Homem é morto a tiros em distribuidora em Costa Marques, Rondônia",
+    "resumo": "Um homem identificado como Diego de Araújo Rodrigues, de 28 anos, foi morto a tiros em uma distribuidora em Costa Marques, Rondônia. O crime ocorreu na madrugada de sábado (13) e foi registrado por câmeras de segurança. A polícia investiga o caso.",
+    "categoria": "seguranca",
+    "tags": [
+      "homicídio",
+      "tiros",
+      "Rondônia",
+      "Costa Marques"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Diego de Araújo Rodrigues"
+    ],
+    "estados": [
+      "Rondônia"
+    ],
+    "cidades": [
+      "Costa Marques"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ro/rondonia/noticia/2026/06/15/camera-registra-momento-em-que-homem-e-morto-a-tiros-em-distribuidora-de-costa-marques-ro.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-15-filho-princesa-noruega-condenado",
+    "data": "2026-06-15",
+    "titulo": "Filho da Princesa da Noruega é condenado por estupro",
+    "resumo": "Marius Borg Høiby, 29 anos, filho da Princesa Mette Marit da Noruega, foi condenado a quatro anos de prisão por dois crimes de estupro. A sentença foi proferida após julgamento que apurou os fatos. A notícia gerou repercussão no país.",
+    "categoria": "justica",
+    "tags": [
+      "estupro",
+      "condenação",
+      "Noruega",
+      "realeza"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Marius Borg Høiby",
+      "Mette Marit"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Noruega"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "BBC",
+        "url": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-15-ponto-facultativo-joao-pessoa",
+    "data": "2026-06-15",
+    "titulo": "João Pessoa decreta ponto facultativo nos dias 22 e 23 de junho",
+    "resumo": "A Prefeitura de João Pessoa declarou ponto facultativo para os servidores municipais nos dias 22 e 23 de junho. A medida foi divulgada nesta segunda-feira (15). Os expedientes serão suspensos nessas datas. A informação foi comunicada pela administração municipal.",
+    "categoria": "politica",
+    "tags": [
+      "ponto facultativo",
+      "João Pessoa",
+      "servidores públicos",
+      "prefeitura"
+    ],
+    "entidades": [],
+    "pessoas": [],
     "estados": [
       "Paraíba"
     ],
     "cidades": [
-      "Campina Grande"
+      "João Pessoa"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 1,
+    "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pb/paraiba/sao-joao/noticia/2026/06/14/roberto-carlos-estreia-no-sao-joao-de-campina-grande-neste-domingo-14.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-14-cultura-amazonia-inga-acu",
-    "data": "2026-06-14",
-    "titulo": "Fruta amazônica 'algodão-doce' (ingá-açu) ganha destaque por sabor e tamanho",
-    "resumo": "O ingá-açu, fruta típica da Amazônia, tem chamado a atenção nas redes sociais pelo seu sabor adocicado e polpa que lembra algodão-doce. As vagens da fruta podem ultrapassar 30 centímetros, agregando curiosidade ao seu consumo. A fruta possui benefícios para a saúde.",
-    "categoria": "cultura",
-    "tags": [
-      "Amazônia",
-      "fruta",
-      "ingá-açu",
-      "natureza"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ro/rondonia/noticia/2026/06/14/algodao-doce-da-amazonia-conheca-a-origem-do-inga-acu-e-seus-beneficios-para-a-saude.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-14-seguranca-violencia-rio-janeiro",
-    "data": "2026-06-14",
-    "titulo": "Mulher morre baleada dentro de van na zona oeste do Rio de Janeiro",
-    "resumo": "Uma mulher, passageira de uma van, morreu após ser atingida por disparos de arma de fogo na Avenida Antares, zona oeste do Rio de Janeiro. O incidente ocorreu enquanto o veículo trafegava pela via. A polícia investiga as circunstâncias do crime. ",
-    "categoria": "seguranca",
-    "tags": [
-      "violência",
-      "Rio de Janeiro",
-      "homicídio",
-      "tiroteio"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Rio de Janeiro"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/mulher-morre-baleada-dentro-de-van-na-zona-oeste-do-rio/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-14-esportes-futebol-copa-2026-australia-turquia",
-    "data": "2026-06-14",
-    "titulo": "Austrália vence Turquia e assume liderança do grupo na Copa de 2026",
-    "resumo": "A seleção da Austrália venceu a Turquia por 2 a 0 em partida válida pela Copa do Mundo de 2026. Com o resultado, a Austrália assume a liderança do Grupo D, empatada em pontos com os Estados Unidos. A partida contou com lances importantes e definiu a posição das equipes na tabela.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "Copa do Mundo 2026",
-      "Austrália",
-      "Turquia"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Austrália",
-      "Turquia",
-      "Estados Unidos"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/australia-2-x-0-turquia-os-melhores-momentos-do-duelo-pela-copa-2026/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-14-saude-consultas-faltas-divinopolis",
-    "data": "2026-06-14",
-    "titulo": "Milhares de faltas em consultas médicas causam prejuízo de R$ 2,2 milhões em Divinópolis",
-    "resumo": "Em Divinópolis, Minas Gerais, mais de 11 mil consultas médicas não foram comparecidas nos primeiros quatro meses de 2026. O levantamento da Secretaria Municipal de Saúde aponta um prejuízo de R$ 2,2 milhões aos cofres públicos. O alto número de faltas sobrecarrega o sistema de saúde.",
-    "categoria": "saude",
-    "tags": [
-      "saúde",
-      "consultas",
-      "faltas",
-      "Divinópolis",
-      "prejuízo"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Divinópolis"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/06/14/pacientes-faltam-em-mais-de-11-mil-consultas-e-prejuizo-aos-cofres-publicos-e-de-r-22-milhoes-em-divinopolis.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-14-politica-reino-unido-frota-russa",
-    "data": "2026-06-14",
-    "titulo": "Forças britânicas interceptam petroleiro russo no Canal da Mancha",
-    "resumo": "As forças armadas do Reino Unido interceptaram um petroleiro da frota fantasma russa no Canal da Mancha. O presidente ucraniano, Volodymyr Zelenskyy, agradeceu ao Reino Unido pela ação. O incidente ocorreu nas primeiras horas da manhã de domingo e envolveu militares britânicos a bordo da embarcação.",
-    "categoria": "politica",
-    "tags": [
-      "Reino Unido",
-      "Rússia",
-      "frota fantasma",
-      "interceptação",
-      "Canal da Mancha"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Volodymyr Zelenskyy"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido",
-      "Rússia",
-      "Ucrânia"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/14/russian-shadow-fleet-oil-tanker-channel-army-marines-keir-starmer-dan-jarvis-makerfield-labour-uk-politics-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-14-internacional-anitta-copa",
-    "data": "2026-06-14",
-    "titulo": "Anitta curte jogo da Seleção na Copa ao lado de celebridades e bilionário",
-    "resumo": "A cantora Anitta foi vista em um jogo da Seleção Brasileira na Copa do Mundo, posando abraçada com um bilionário. Ela assistiu à partida ao lado de outras celebridades, como Marina Ruy Barbosa e Zoey Deutch. O momento gerou interesse na mídia de celebridades e no contexto esportivo.",
-    "categoria": "cultura",
-    "tags": [
-      "Anitta",
-      "Copa do Mundo",
-      "celebridades",
-      "futebol"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Anitta",
-      "Marina Ruy Barbosa",
-      "Zoey Deutch"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/pop/celebridades/anitta-posa-abracada-com-bilionario-em-jogo-da-selecao-na-copa-saiba-quem/"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/06/15/joao-pessoa-decreta-ponto-facultativo-nos-dias-22-e-23-de-junho.ghtml"
       }
     ]
   }
