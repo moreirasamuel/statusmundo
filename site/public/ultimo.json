@@ -1,150 +1,149 @@
 [
   {
-    "id": "2026-06-15-acordo-ira-estreito-ormuz",
-    "data": "2026-06-15",
-    "titulo": "Trump discute acordo com Irã e Estreito de Ormuz na França",
-    "resumo": "O vice-presidente dos EUA, JD Vance, mencionou um acordo com o Irã e a abertura do Estreito de Ormuz. Segundo a Reuters, Trump, Vance e o presidente do Parlamento iraniano assinaram um documento. Os EUA e o Irã chegaram a um acordo para encerrar tensões.",
+    "id": "2026-06-16-acordo-eua-ira-g7",
+    "data": "2026-06-16",
+    "titulo": "Acordo EUA-Irã em discussão no G7 e declarações de Trump",
+    "resumo": "Líderes do G7 tiveram conversas sobre um acordo entre Estados Unidos e Irã, com questões sobre a rapidez de reabertura do Estreito de Ormuz. Donald Trump afirmou que o Irã \"nunca terá uma arma nuclear\" sob um novo acordo e alertou Israel sobre o Líbano. Ele também declarou que o acordo foi assinado.",
     "categoria": "internacional",
     "tags": [
-      "acordo",
-      "Irã",
-      "EUA",
-      "Estreito de Ormuz"
+      "acordo nuclear",
+      "G7",
+      "Oriente Médio"
     ],
-    "entidades": [],
+    "entidades": [
+      "G7",
+      "Estados Unidos",
+      "Irã"
+    ],
     "pessoas": [
-      "JD Vance",
-      "Donald Trump"
+      "Donald Trump",
+      "Netanyahu"
     ],
     "estados": [],
     "cidades": [],
     "paises": [
       "Estados Unidos",
       "Irã",
-      "França"
+      "Israel",
+      "Líbano"
+    ],
+    "importancia": 5,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/jun/16/iran-us-deal-trump-vance-strait-hormuz-israel-lebanon-middle-east-latest-news-updates"
+      },
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/acordo-eua-ira-lideres-do-g7-tiveram-conversas-francas-sobre-documento/"
+      },
+      {
+        "nome": "BBC",
+        "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-16-acidentes-rodoviarios-brasil",
+    "data": "2026-06-16",
+    "titulo": "Acidentes fatais e investigações em rodovias brasileiras",
+    "resumo": "Vários acidentes rodoviários foram registrados no Brasil, resultando em mortes. Em Santa Catarina, um empresário morreu após colidir com um caminhão. No Mato Grosso do Sul, um homem foi executado a tiros. Um motociclista morreu em Pernambuco após cair na pista e ser atropelado por um caminhão. Em Sergipe, um acidente entre carro e caminhão causou mortes.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente de trânsito",
+      "morte",
+      "rodovia"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Santa Catarina",
+      "Mato Grosso do Sul",
+      "Pernambuco",
+      "Sergipe"
+    ],
+    "cidades": [
+      "Içara",
+      "Nova Andradina",
+      "Abreu e Lima",
+      "Poço Redondo"
+    ],
+    "paises": [
+      "Brasil"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/16/empresario-automotivo-morre-batida-traseira-caminhao-icara.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/16/homem-e-executado-a-tiros-em-nova-andradina-e-policia-investiga-possivel-acerto-de-contas.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/06/16/motociclista-morre-atropelado-por-caminhao-apos-cair-na-pista-da-br-101-video.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/16/acidente-carro-caminhao-rodovia-sergipe.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-16-incidente-navio-russo-iate",
+    "data": "2026-06-16",
+    "titulo": "Navio de guerra russo dispara tiros de advertência contra iate no Canal da Mancha",
+    "resumo": "Um navio de guerra russo disparou tiros de advertência contra um iate registrado sob bandeira britânica no Canal da Mancha, próximo a águas territoriais do Reino Unido. O incidente está sendo investigado pelo Ministério da Defesa britânico. Os disparos ocorreram a cerca de 500 metros da embarcação.",
+    "categoria": "internacional",
+    "tags": [
+      "incidente naval",
+      "Canal da Mancha",
+      "Rússia",
+      "Reino Unido"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Rússia",
+      "Reino Unido"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mundo/noticia/2026/06/16/navio-de-guerra-russo-dispara-contra-iate-canal-da-mancha.ghtml"
       },
       {
         "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/live/2026/jun/15/donald-trump-ufc-white-house-michelle-obama-g7-iran-peace-deal-us-politics-latest-news-updates"
+        "url": "https://www.theguardian.com/uk-news/2026/06/16/russian-frigate-fires-warning-shots-at-british-yacht-in-channel-reports"
       }
     ]
   },
   {
-    "id": "2026-06-15-violencia-buzios",
-    "data": "2026-06-15",
-    "titulo": "Mulher reage a assalto e tenta impedir fuga de criminosos em Búzios",
-    "resumo": "Uma mulher tentou impedir a fuga de dois assaltantes após ter o celular roubado na Orla Bardot, em Armação dos Búzios, no Rio de Janeiro. Imagens de câmeras de segurança registraram a ação. A polícia investiga o caso.",
-    "categoria": "seguranca",
+    "id": "2026-06-16-investigacao-pf-daniel-vorcaro",
+    "data": "2026-06-16",
+    "titulo": "Relatório da PF aponta suposto tratamento privilegiado e ameaças envolvendo Daniel Vorcaro",
+    "resumo": "Um relatório da Polícia Federal indica que Daniel Vorcaro teria dado 'tratamento privilegiado' a Ciro Nogueira. Documentos da PF também mostram que a irmã de Felipe Mourão, conhecido como 'Sicário', ameaçou revelar arquivos que poderiam prejudicar a família de Vorcaro. Aliados do banqueiro teriam tentado comprar o silêncio dela.",
+    "categoria": "justica",
     "tags": [
-      "assalto",
-      "roubo",
-      "Búzios",
-      "violência"
+      "polícia federal",
+      "investigação",
+      "corrupção"
     ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
+    "entidades": [
+      "Polícia Federal",
+      "Master"
     ],
-    "cidades": [
-      "Armação dos Búzios"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/06/15/mulher-reage-a-assalto-e-tenta-impedir-fuga-de-criminosos-na-orla-bardot-em-buzios-video.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-15-luan-santana-cha-revelacao",
-    "data": "2026-06-15",
-    "titulo": "Luan Santana realiza chá revelação de fã durante show no Paraná",
-    "resumo": "O cantor Luan Santana atendeu o pedido de uma fã e realizou o chá revelação do bebê dela no palco de um show em Londrina, no Paraná. A fã, Laís Amante, de 28 anos, teve seu pedido atendido pelo artista. O momento foi compartilhado nas redes sociais.",
-    "categoria": "cultura",
-    "tags": [
-      "show",
-      "Luan Santana",
-      "chá revelação",
-      "Paraná"
-    ],
-    "entidades": [],
     "pessoas": [
-      "Luan Santana",
-      "Laís Amante"
+      "Daniel Vorcaro",
+      "Ciro Nogueira",
+      "Felipe Mourão",
+      "Joana Mourão"
     ],
-    "estados": [
-      "Paraná"
-    ],
-    "cidades": [
-      "Londrina"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/06/15/luan-cha-revelacao-fa-show-parana.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-15-morte-gestante-mg",
-    "data": "2026-06-15",
-    "titulo": "Grávida morre à espera de atendimento obstétrico em Minas Gerais",
-    "resumo": "Bárbara Luana Fernandes Aleixo, de 29 anos e grávida de 30 semanas, morreu em Minas Gerais à espera de atendimento obstétrico. A família relata as últimas horas da gestante. O caso levanta preocupações sobre o acesso à saúde materna.",
-    "categoria": "saude",
-    "tags": [
-      "morte",
-      "grávida",
-      "atendimento obstétrico",
-      "Minas Gerais"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Bárbara Luana Fernandes Aleixo"
-    ],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/15/quem-era-barbara-luana-gravida-que-morreu-a-espera-de-atendimento-obstetrico-em-mg.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-15-atropelamento-gari-df",
-    "data": "2026-06-15",
-    "titulo": "Motorista embriagado atropela gari no Distrito Federal",
-    "resumo": "Um motorista embriagado foi preso após atropelar um gari de 27 anos no Distrito Federal. O incidente ocorreu no último sábado (13) enquanto a vítima trabalhava em uma via. O caso está sob investigação da Polícia Civil.",
-    "categoria": "seguranca",
-    "tags": [
-      "atropelamento",
-      "embriaguez ao volante",
-      "gari",
-      "Distrito Federal"
-    ],
-    "entidades": [],
-    "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
@@ -153,22 +152,147 @@
     "importancia": 4,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/15/motorista-embriagado-e-preso-apos-atropelar-gari-que-trabalhava-no-df.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/politica/noticia/2026/06/16/relatorio-da-pf-sobre-relacao-de-ciro-nogueira-e-daniel-vorcaro.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/06/16/master-irma-sicario-ameacou-revelar-documentos-mostra-pf.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-15-feminicidio-mg",
-    "data": "2026-06-15",
-    "titulo": "Homem é indiciado por feminicídio em Minas Gerais",
-    "resumo": "A Polícia Civil indiciou um homem de 38 anos pelo feminicídio de uma jovem em Santa Efigênia de Minas, no Vale do Rio Doce. A vítima foi morta a tiros após ser perseguida e buscar refúgio em uma oficina. A arma do crime foi localizada.",
-    "categoria": "justica",
+    "id": "2026-06-16-casos-de-violencia-e-acidentes-brasil",
+    "data": "2026-06-16",
+    "titulo": "Casos de violência, acidentes e descoberta de partes humanas em cidades brasileiras",
+    "resumo": "Em Campina Grande, na Paraíba, um inquérito apontou falha de projeto como causa de rompimento de reservatório que matou uma idosa e destruiu casas. Em Vila Velha, no Espírito Santo, duas pernas humanas foram encontradas em um valão durante limpeza. Em São Paulo, uma jornalista presa por ataques homofóbicos terá que indenizar vítimas e fazer cursos de conscientização. Um motorista bêbada atropelou uma grávida no Recife e tentou fugir.",
+    "categoria": "seguranca",
     "tags": [
-      "feminicídio",
-      "violência contra mulher",
+      "violência",
+      "acidente",
+      "investigação criminal"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Adriana Catarina Ramos de Oliveira"
+    ],
+    "estados": [
+      "Paraíba",
+      "Espírito Santo",
+      "São Paulo",
+      "Pernambuco"
+    ],
+    "cidades": [
+      "Campina Grande",
+      "Vila Velha",
+      "Recife"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/06/16/inquerito-aponta-falha-de-projeto-como-causa-de-rompimento-de-reservatorio-que-destruiu-casas-e-matou-idosa-em-campina-grande.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/06/16/duas-pernas-sao-encontradas-dentro-de-sacola-em-valao-de-vila-velha-durante-limpeza.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/16/jornalista-presa-por-ataques-homofobicos-em-sp-tera-de-indenizar-vitimas-em-r-60-mil-e-fazer-cursos-de-conscientizacao.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/06/16/motorista-bebada-atropela-gravida-foge-e-e-perseguida-por-moradores-ate-ser-presa-no-recife-video.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-16-defesa-reino-unido-g7",
+    "data": "2026-06-16",
+    "titulo": "Críticas ao plano de gastos com defesa do Reino Unido e debates no G7",
+    "resumo": "O plano de gastos com defesa do Reino Unido foi considerado insuficiente por John Healey. No âmbito do G7, Keir Starmer defendeu o plano de investimento em defesa, que levou à renúncia de Healey. As discussões no G7 também abordaram o acordo entre EUA e Irã.",
+    "categoria": "politica",
+    "tags": [
+      "defesa",
+      "G7",
+      "Reino Unido",
+      "política"
+    ],
+    "entidades": [
+      "G7"
+    ],
+    "pessoas": [
+      "John Healey",
+      "Keir Starmer",
+      "Al Carns"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido",
+      "Estados Unidos",
+      "Irã"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/16/andy-burnham-makerfield-labour-reform-keir-starmer-uk-politics-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-16-saude-minas-gerais-amapa",
+    "data": "2026-06-16",
+    "titulo": "Casos de raiva em morcego e perda de área de água no Brasil",
+    "resumo": "A Zoonoses de Uberlândia confirmou o oitavo caso de raiva em morcego no município em 2026. Um estudo apontou que municípios do Amapá perderam 15 mil hectares de água em 40 anos, com destaque para Amapá e Tartarugalzinho.",
+    "categoria": "saude",
+    "tags": [
+      "raiva",
+      "doenças",
+      "meio ambiente",
+      "água"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
       "Minas Gerais",
-      "indiciamento"
+      "Amapá"
+    ],
+    "cidades": [
+      "Uberlândia",
+      "Amapá",
+      "Tartarugalzinho"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/16/zoonoses-confirma-raiva-em-morcego-encontrado-morto-dentro-de-apartamento-em-uberlandia.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ap/amapa/noticia/2026/06/16/municipios-do-amapa-perdem-15-mil-hectares-de-agua-em-40-anos-aponta-estudo.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-16-politica-minas-gerais",
+    "data": "2026-06-16",
+    "titulo": "Governador Valadares será a nova capital simbólica de Minas Gerais",
+    "resumo": "Governador Valadares, no Vale do Rio Doce, se tornará a nova capital simbólica de Minas Gerais nesta semana. Haverá a transferência simbólica da sede do governo estadual para o município nesta quinta (18) e sexta-feira (19).",
+    "categoria": "politica",
+    "tags": [
+      "capital",
+      "Minas Gerais",
+      "governo estadual"
     ],
     "entidades": [],
     "pessoas": [],
@@ -176,34 +300,268 @@
       "Minas Gerais"
     ],
     "cidades": [
-      "Santa Efigênia de Minas"
+      "Governador Valadares"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 4,
+    "importancia": 2,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/06/15/policia-civil-indicia-homem-que-perseguiu-e-matou-ex-companheira-dentro-de-oficina-em-mg.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/06/16/governador-valadares-sera-a-nova-capital-de-minas-gerais-nesta-semana.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-15-morte-rope-jump-sp",
-    "data": "2026-06-15",
-    "titulo": "Jovem morre em salto de rope jump em Limeira e câmera some",
-    "resumo": "Uma jovem morreu em Limeira (SP) após saltar de uma ponte sem a corda de segurança durante uma prática de rope jump. Testemunhas relatam que funcionários da empresa teriam retirado a câmera que filmava a queda. A polícia investiga o ocorrido.",
-    "categoria": "seguranca",
+    "id": "2026-06-16-cultura-gastronomia-junina",
+    "data": "2026-06-16",
+    "titulo": "Concurso de culinária junina ensina receita de cuscuz",
+    "resumo": "O Concurso de Culinária Junina está divulgando receitas tradicionais. Uma das receitas apresentadas é um cuscuz de macaxeira com queijo coalho e carne de sol, chamado \"Abraço Nordestino\". O público poderá conhecer outras receitas durante o evento.",
+    "categoria": "cultura",
     "tags": [
-      "acidente",
-      "rope jump",
-      "Limeira",
-      "morte"
+      "culinária",
+      "junina",
+      "receita"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Petrolina"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/petrolina-regiao/arraianosertao/noticia/2026/06/16/concurso-de-culinaria-junina-aprenda-a-fazer-um-cuscuz-de-macaxeira-com-queijo-coalho-e-carne-de-sol.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-16-eventos-locais-pernambuco",
+    "data": "2026-06-16",
+    "titulo": "NE1 de terça-feira, 16 de junho de 2026, em Pernambuco",
+    "resumo": "O telejornal NE1 de terça-feira, 16 de junho de 2026, apresentou notícias do estado de Pernambuco. O conteúdo inclui vídeos com os destaques do dia na região.",
+    "categoria": "politica",
+    "tags": [
+      "notícias locais",
+      "Pernambuco",
+      "telejornal"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Pernambuco"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/pernambuco/videos-ne1/playlist/videos-ne1-de-terca-feira-16-de-junho-de-2026.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-16-eventos-regionais-espirito-santo",
+    "data": "2026-06-16",
+    "titulo": "Edição regional do Gazeta Meio Dia em Espírito Santo",
+    "resumo": "O telejornal Gazeta Meio Dia, edição regional do Espírito Santo, transmitiu informações e notícias do estado. O jornal é apresentado na hora do almoço.",
+    "categoria": "politica",
+    "tags": [
+      "notícias locais",
+      "Espírito Santo",
+      "telejornal"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Espírito Santo"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-gazeta-meio-dia-edicao-regional.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-16-eventos-espirito-santo",
+    "data": "2026-06-16",
+    "titulo": "Gazeta Meio Dia no Espírito Santo",
+    "resumo": "O telejornal Gazeta Meio Dia foi transmitido no Espírito Santo, com o objetivo de informar os telespectadores sobre as notícias locais. A edição é focada no jornal da hora do almoço.",
+    "categoria": "politica",
+    "tags": [
+      "notícias locais",
+      "Espírito Santo",
+      "telejornal"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Espírito Santo"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-gazeta-meio-dia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-16-esportes-neymar-bruna-biancardi",
+    "data": "2026-06-16",
+    "titulo": "Chás revelação das filhas de Neymar e Bruna Biancardi",
+    "resumo": "Neymar Jr. e Bruna Biancardi realizaram três chás revelação para anunciar a chegada de sua terceira filha. O casal divulgou o anúncio da gravidez em vídeo nas redes sociais. A notícia ocorreu em meio à Copa do Mundo.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "gravidez",
+      "família"
     ],
     "entidades": [],
     "pessoas": [
-      "Maria Eduarda Rodrigues de Freitas"
+      "Neymar Jr.",
+      "Bruna Biancardi"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/16/fogos-fumaca-e-tinta-veja-como-foram-os-tres-chas-revelacao-das-filhas-de-neymar-e-bruna-biancardi.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-16-esportes-basquete-ceara",
+    "data": "2026-06-16",
+    "titulo": "Morte de jogador de basquete em acidente de ônibus no Ceará",
+    "resumo": "Um jogador de basquete de 17 anos, Henrique Ferreira Bezerra, morreu em um acidente com o ônibus de sua equipe em Tauá, no Ceará. O padrasto do atleta descreveu o basquete como uma 'libertação' para o jovem.",
+    "categoria": "esportes",
+    "tags": [
+      "basquete",
+      "acidente",
+      "morte",
+      "atleta"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Henrique Ferreira Bezerra"
+    ],
+    "estados": [
+      "Ceará"
+    ],
+    "cidades": [
+      "Juazeiro do Norte",
+      "Tauá"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/06/16/ele-vivia-o-melhor-momento-da-vida-dele-diz-padrasto-sobre-jogador-de-17-anos-que-morreu-em-acidente-com-onibus-de-time-de-basquete.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-16-seguranca-manaus",
+    "data": "2026-06-16",
+    "titulo": "Carro capota em ladeira em Manaus",
+    "resumo": "Um carro capotou ao subir uma ladeira na Zona Centro-Sul de Manaus. O acidente ocorreu na manhã desta terça-feira (16). A causa exata do capotamento ainda está sendo apurada.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente de trânsito",
+      "Manaus"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Amazonas"
+    ],
+    "cidades": [
+      "Manaus"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/16/motorista-perde-o-controle-de-carro-e-capota-em-ladeira-na-zona-centro-sul-de-manaus.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-16-saude-amazonas",
+    "data": "2026-06-16",
+    "titulo": "Entenda o processo do 'caminho do sangue' desde a doação no Amazonas",
+    "resumo": "A reportagem detalha o processo do 'caminho do sangue', desde a doação voluntária no Amazonas até a sua distribuição. O sangue doado é fracionado em hemácias, plaquetas e plasmas, e transportado para atender pacientes em Manaus e outras localidades do estado.",
+    "categoria": "saude",
+    "tags": [
+      "doação de sangue",
+      "saúde",
+      "Amazonas"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Amazonas"
+    ],
+    "cidades": [
+      "Manaus"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/16/caminho-do-sangue-entenda-o-processo-desde-a-doacao-no-amazonas.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-16-seguranca-sp-rope-jump",
+    "data": "2026-06-16",
+    "titulo": "Depoimento de enfermeira que filmou morte em salto de rope jump em SP",
+    "resumo": "Uma enfermeira prestou depoimento sobre a morte de uma jovem durante um salto de rope jump em Limeira, São Paulo. A testemunha descreveu o momento da queda e as tentativas de socorro à vítima, Maria Eduarda Rodrigues.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente",
+      "morte",
+      "esporte radical",
+      "depoimento"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Maria Eduarda Rodrigues"
     ],
     "estados": [
       "São Paulo"
@@ -214,443 +572,81 @@
     "paises": [
       "Brasil"
     ],
-    "importancia": 4,
+    "importancia": 2,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/06/15/esconder-provas-testemunha-diz-que-funcionarios-tiraram-camera-de-jovem-morta-apos-salto-sem-corda-em-sp.ghtml"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/veja-depoimento-de-enfermeira-que-filmou-morte-em-salto-de-rope-jump-em-sp/"
       }
     ]
   },
   {
-    "id": "2026-06-15-medicamento-distrofia-pi",
-    "data": "2026-06-15",
-    "titulo": "Justiça determina fornecimento de remédio de R$ 3,5 milhões para menino com distrofia muscular no PI",
-    "resumo": "Um menino de sete anos com Distrofia Muscular de Duchenne receberá um medicamento de alto custo avaliado em R$ 3,5 milhões. A decisão judicial determina que a União forneça o tratamento para Luís Henrique dos Santos. A doença é rara e degenerativa.",
-    "categoria": "justica",
+    "id": "2026-06-16-politica-eua",
+    "data": "2026-06-16",
+    "titulo": "Eleitores em Oklahoma, Geórgia e Washington DC vão às urnas nos EUA",
+    "resumo": "Eleitores em Oklahoma, Geórgia e Washington DC participam de eleições primárias. A primária em Oklahoma é vista como um teste para a influência de Donald Trump no Partido Republicano, enquanto uma disputa acirrada ocorre na Geórgia.",
+    "categoria": "politica",
     "tags": [
-      "justiça",
-      "remédio",
-      "distrofia muscular",
-      "Piauí"
+      "eleições",
+      "EUA",
+      "primárias",
+      "Donald Trump"
     ],
     "entidades": [],
     "pessoas": [
-      "Luís Henrique dos Santos"
+      "Donald Trump",
+      "J.D. Vance"
     ],
     "estados": [
-      "Piauí"
+      "Oklahoma",
+      "Geórgia",
+      "Washington D.C."
     ],
     "cidades": [],
     "paises": [
-      "Brasil"
+      "Estados Unidos"
     ],
-    "importancia": 4,
+    "importancia": 3,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/15/justica-uniao-remedio-milionario-menino.ghtml"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/live/2026/jun/16/donald-trump-oklahoma-senator-governor-primary-g7-iran-us-politics-latest-news-updates"
       }
     ]
   },
   {
-    "id": "2026-06-15-openai-xai",
-    "data": "2026-06-15",
-    "titulo": "OpenAI vence ação contra xAI sobre suposto roubo de segredos comerciais",
-    "resumo": "Uma juíza federal dos Estados Unidos rejeitou uma ação movida pela xAI, empresa de Elon Musk, contra a OpenAI, de Sam Altman. A xAI acusava a OpenAI de apropriação de segredos comerciais. A decisão favorece a OpenAI no processo.",
-    "categoria": "justica",
+    "id": "2026-06-16-seguranca-fbi-white-house",
+    "data": "2026-06-16",
+    "titulo": "FBI frustra plano de ataque mirando evento na Casa Branca",
+    "resumo": "O FBI frustrou um plano de ataque que visava um evento relacionado à UFC na Casa Branca. Documentos judiciais revelam que o plano envolveria o uso de drones. Vários suspeitos foram detidos, segundo o diretor do FBI.",
+    "categoria": "seguranca",
     "tags": [
-      "processo",
-      "inteligência artificial",
-      "OpenAI",
-      "xAI"
+      "FBI",
+      "segurança",
+      "ataque",
+      "Casa Branca"
     ],
     "entidades": [
-      "OpenAI",
-      "xAI"
+      "FBI",
+      "UFC"
     ],
     "pessoas": [
-      "Elon Musk",
-      "Sam Altman"
+      "Patel"
     ],
-    "estados": [],
-    "cidades": [],
+    "estados": [
+      "Washington D.C."
+    ],
+    "cidades": [
+      "Washington"
+    ],
     "paises": [
       "Estados Unidos"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/tecnologia/noticia/2026/06/15/openai-derrota-acao-da-xai-sobre-suposto-roubo-de-segredos-comerciais.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-15-furto-creche-botucatu",
-    "data": "2026-06-15",
-    "titulo": "Homem é preso por furtar torneiras de creche em Botucatu",
-    "resumo": "Um homem de 23 anos foi preso em flagrante em Botucatu (SP) após furtar quatro torneiras de uma creche municipal. O furto ocorreu no último sábado (13) na creche Centro de Educação Infantil (CEI) Rafaela Cristina Francisco Benato. O suspeito foi detido pela polícia.",
-    "categoria": "seguranca",
-    "tags": [
-      "furto",
-      "creche",
-      "Botucatu",
-      "prisão"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Botucatu"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/06/15/video-homem-e-preso-em-flagrante-apos-furtar-torneiras-em-creche-municipal-em-botucatu.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-15-morte-gravacao-serie-rj",
-    "data": "2026-06-15",
-    "titulo": "Funcionário morre durante gravação de série na UFRJ; polícia investiga",
-    "resumo": "Um homem de 55 anos morreu após sofrer uma queda durante as gravações da série 'Delegacia de Homicídios' na Universidade Federal do Rio de Janeiro (UFRJ). A polícia abriu investigação para apurar as circunstâncias do acidente. O óbito foi confirmado no local.",
-    "categoria": "seguranca",
-    "tags": [
-      "morte",
-      "gravação",
-      "série",
-      "UFRJ",
-      "acidente"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Rio de Janeiro"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/15/homem-morre-durante-gravacao-de-serie.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-15-investigacao-nepotismo-manaus",
-    "data": "2026-06-15",
-    "titulo": "Vereador de Manaus é investigado por suspeita de nepotismo",
-    "resumo": "O Ministério Público do Amazonas (MPAM) abriu uma investigação para apurar suspeita de nepotismo contra o vereador Kennedy Marques (MDB) em Manaus. O parlamentar é acusado de nomear ex-companheiras para cargos na Câmara Municipal. O caso segue em apuração.",
-    "categoria": "politica",
-    "tags": [
-      "nepotismo",
-      "investigação",
-      "Manaus",
-      "vereador"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Kennedy Marques"
-    ],
-    "estados": [
-      "Amazonas"
-    ],
-    "cidades": [
-      "Manaus"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/15/vereador-de-manaus-e-investigado-por-suspeita-de-nepotismo-apos-nomear-ex-companheiras.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-15-belgica-egito-copa-2026",
-    "data": "2026-06-15",
-    "titulo": "Bélgica enfrenta Egito em jogo da Copa do Mundo de 2026",
-    "resumo": "A seleção da Bélgica enfrentará o Egito em uma partida da Copa do Mundo de 2026. As equipes se preparam para o confronto, com cobertura de notícias ao vivo e informações sobre as escalações. O jogo promete ser um destaque no torneio.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "Copa do Mundo",
-      "Bélgica",
-      "Egito"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Bélgica",
-      "Egito"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/6/15/belgium-v-egypt-live-world-cup-2026?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-15-unesco-patrimonio-humanidade",
-    "data": "2026-06-15",
-    "titulo": "Desafios de lugares para sair da Lista de Patrimônio da Humanidade da Unesco",
-    "resumo": "Alguns locais enfrentam dificuldades para serem removidos da Lista de Patrimônio da Humanidade da Unesco. A reportagem explora os motivos e os desafios envolvidos nesse processo. Um exemplo citado é a vila medieval de Vlkolínec, na Eslováquia.",
-    "categoria": "cultura",
-    "tags": [
-      "Unesco",
-      "Patrimônio da Humanidade",
-      "cultura",
-      "patrimônio"
-    ],
-    "entidades": [
-      "Unesco"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Eslováquia"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/06/15/por-que-alguns-lugares-lutam-para-sair-da-lista-de-patrimonio-da-humanidade-da-unesco.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-15-tax-cuts-uk-politics",
-    "data": "2026-06-15",
-    "titulo": "Propostas de cortes de impostos no Reino Unido para eleição local",
-    "resumo": "O partido de Nigel Farage propôs cortes de impostos no valor de £40 bilhões para influenciar a eleição complementar em Makerfield, no Reino Unido. Críticos conservadores apontam que as propostas não foram detalhadas em seus custos. Keir Starmer também aborda restrições para menores.",
-    "categoria": "politica",
-    "tags": [
-      "eleição",
-      "Reino Unido",
-      "cortes de impostos",
-      "política"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Nigel Farage",
-      "Keir Starmer"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/15/keir-starmer-social-media-ban-under-16s-tik-tok-instagram-snapchat-twitter-x-meta-uk-politics-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-15-ev-sales-targets-uk",
-    "data": "2026-06-15",
-    "titulo": "Críticas às planos do Reino Unido para enfraquecer metas de vendas de carros elétricos",
-    "resumo": "Planos do governo do Reino Unido para enfraquecer as metas de vendas de carros elétricos geraram forte reação. A indústria de carregamento e fabricantes de veículos elétricos alertam sobre perda de empregos e danos ao setor automotivo britânico. A medida pode afetar empresas como a Polestar.",
-    "categoria": "economia",
-    "tags": [
-      "carros elétricos",
-      "metas de vendas",
-      "Reino Unido",
-      "indústria automotiva"
-    ],
-    "entidades": [
-      "Polestar"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/environment/2026/jun/15/backlash-uk-plans-weaken-ev-sales-targets-electric-vehicle-manufacturers-automotive-sector"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-15-haddad-chapa-eleitoral",
-    "data": "2026-06-15",
-    "titulo": "Haddad expressa conforto com nomes de Marina, França e Tebet em chapa",
-    "resumo": "O ex-ministro Fernando Haddad declarou-se confortável com as possibilidades de Marina Silva, Geraldo Alckmin e Simone Tebet comporem uma chapa eleitoral. Apesar da indefinição sobre o vice, o presidente Lula orientou que a vaga seria destinada ao PSB. Haddad demonstrou entusiasmo com as opções.",
-    "categoria": "politica",
-    "tags": [
-      "eleições",
-      "chapa",
-      "política",
-      "Brasil"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Fernando Haddad",
-      "Marina Silva",
-      "Geraldo Alckmin",
-      "Simone Tebet",
-      "Lula"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/eleicoes/haddad-diz-estar-confortavel-com-nomes-de-marina-franca-e-tebet-em-chapa/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-15-gol-curacao-copa",
-    "data": "2026-06-15",
-    "titulo": "Autor de primeiro gol de Curaçao em Copas celebra feito histórico",
-    "resumo": "Liviano Comenencia, lateral-direito de 22 anos, marcou o primeiro gol de Curaçao em Copas do Mundo, um momento histórico para a pequena ilha. Apesar da derrota por 7 a 1, o jogador destacou a emoção de viver este feito. O gol entrou para a história do país no Mundial.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "Copa do Mundo",
-      "Curaçao",
-      "gol"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Liviano Comenencia"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Curaçao"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/bonito-que-sonho-se-tornou-real-diz-autor-de-1o-gol-de-curacao-em-copas/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-15-morte-tiros-costa-marques",
-    "data": "2026-06-15",
-    "titulo": "Homem é morto a tiros em distribuidora em Costa Marques, Rondônia",
-    "resumo": "Um homem identificado como Diego de Araújo Rodrigues, de 28 anos, foi morto a tiros em uma distribuidora em Costa Marques, Rondônia. O crime ocorreu na madrugada de sábado (13) e foi registrado por câmeras de segurança. A polícia investiga o caso.",
-    "categoria": "seguranca",
-    "tags": [
-      "homicídio",
-      "tiros",
-      "Rondônia",
-      "Costa Marques"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Diego de Araújo Rodrigues"
-    ],
-    "estados": [
-      "Rondônia"
-    ],
-    "cidades": [
-      "Costa Marques"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/ro/rondonia/noticia/2026/06/15/camera-registra-momento-em-que-homem-e-morto-a-tiros-em-distribuidora-de-costa-marques-ro.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-15-filho-princesa-noruega-condenado",
-    "data": "2026-06-15",
-    "titulo": "Filho da Princesa da Noruega é condenado por estupro",
-    "resumo": "Marius Borg Høiby, 29 anos, filho da Princesa Mette Marit da Noruega, foi condenado a quatro anos de prisão por dois crimes de estupro. A sentença foi proferida após julgamento que apurou os fatos. A notícia gerou repercussão no país.",
-    "categoria": "justica",
-    "tags": [
-      "estupro",
-      "condenação",
-      "Noruega",
-      "realeza"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Marius Borg Høiby",
-      "Mette Marit"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Noruega"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
         "nome": "BBC",
-        "url": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-15-ponto-facultativo-joao-pessoa",
-    "data": "2026-06-15",
-    "titulo": "João Pessoa decreta ponto facultativo nos dias 22 e 23 de junho",
-    "resumo": "A Prefeitura de João Pessoa declarou ponto facultativo para os servidores municipais nos dias 22 e 23 de junho. A medida foi divulgada nesta segunda-feira (15). Os expedientes serão suspensos nessas datas. A informação foi comunicada pela administração municipal.",
-    "categoria": "politica",
-    "tags": [
-      "ponto facultativo",
-      "João Pessoa",
-      "servidores públicos",
-      "prefeitura"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Paraíba"
-    ],
-    "cidades": [
-      "João Pessoa"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/06/15/joao-pessoa-decreta-ponto-facultativo-nos-dias-22-e-23-de-junho.ghtml"
+        "url": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
