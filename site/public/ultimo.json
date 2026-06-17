@@ -1,652 +1,746 @@
 [
   {
-    "id": "2026-06-16-acordo-eua-ira-g7",
-    "data": "2026-06-16",
-    "titulo": "Acordo EUA-Irã em discussão no G7 e declarações de Trump",
-    "resumo": "Líderes do G7 tiveram conversas sobre um acordo entre Estados Unidos e Irã, com questões sobre a rapidez de reabertura do Estreito de Ormuz. Donald Trump afirmou que o Irã \"nunca terá uma arma nuclear\" sob um novo acordo e alertou Israel sobre o Líbano. Ele também declarou que o acordo foi assinado.",
-    "categoria": "internacional",
+    "id": "2026-06-17-reuniao-lula-zelensky",
+    "data": "2026-06-17",
+    "titulo": "Lula se reúne com Zelensky",
+    "resumo": "O Presidente Luiz Inácio Lula da Silva se encontrou com o Presidente ucraniano Volodymyr Zelensky. A reunião ocorreu em meio a discussões sobre a guerra na Ucrânia e possíveis acordos internacionais. Os detalhes específicos do encontro não foram amplamente divulgados.",
+    "categoria": "politica",
     "tags": [
-      "acordo nuclear",
-      "G7",
-      "Oriente Médio"
+      "reunião",
+      "diplomacia",
+      "guerra"
     ],
-    "entidades": [
-      "G7",
-      "Estados Unidos",
-      "Irã"
-    ],
+    "entidades": [],
     "pessoas": [
-      "Donald Trump",
-      "Netanyahu"
+      "Luiz Inácio Lula da Silva",
+      "Volodymyr Zelensky"
     ],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Estados Unidos",
-      "Irã",
-      "Israel",
-      "Líbano"
+      "Brasil",
+      "Ucrânia"
     ],
     "importancia": 5,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jun/16/iran-us-deal-trump-vance-strait-hormuz-israel-lebanon-middle-east-latest-news-updates"
-      },
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/acordo-eua-ira-lideres-do-g7-tiveram-conversas-francas-sobre-documento/"
-      },
-      {
-        "nome": "BBC",
-        "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss"
+        "nome": "G1",
+        "url": "https://g1.globo.com/politica/noticia/2026/06/17/lula-se-reune-com-zelensky.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-16-acidentes-rodoviarios-brasil",
-    "data": "2026-06-16",
-    "titulo": "Acidentes fatais e investigações em rodovias brasileiras",
-    "resumo": "Vários acidentes rodoviários foram registrados no Brasil, resultando em mortes. Em Santa Catarina, um empresário morreu após colidir com um caminhão. No Mato Grosso do Sul, um homem foi executado a tiros. Um motociclista morreu em Pernambuco após cair na pista e ser atropelado por um caminhão. Em Sergipe, um acidente entre carro e caminhão causou mortes.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente de trânsito",
-      "morte",
-      "rodovia"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Santa Catarina",
-      "Mato Grosso do Sul",
-      "Pernambuco",
-      "Sergipe"
-    ],
-    "cidades": [
-      "Içara",
-      "Nova Andradina",
-      "Abreu e Lima",
-      "Poço Redondo"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/16/empresario-automotivo-morre-batida-traseira-caminhao-icara.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/16/homem-e-executado-a-tiros-em-nova-andradina-e-policia-investiga-possivel-acerto-de-contas.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/06/16/motociclista-morre-atropelado-por-caminhao-apos-cair-na-pista-da-br-101-video.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/16/acidente-carro-caminhao-rodovia-sergipe.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-16-incidente-navio-russo-iate",
-    "data": "2026-06-16",
-    "titulo": "Navio de guerra russo dispara tiros de advertência contra iate no Canal da Mancha",
-    "resumo": "Um navio de guerra russo disparou tiros de advertência contra um iate registrado sob bandeira britânica no Canal da Mancha, próximo a águas territoriais do Reino Unido. O incidente está sendo investigado pelo Ministério da Defesa britânico. Os disparos ocorreram a cerca de 500 metros da embarcação.",
+    "id": "2026-06-17-g7-trump-ucrania-russia-ira",
+    "data": "2026-06-17",
+    "titulo": "G7 discute apoio à Ucrânia e pressão sobre a Rússia, com participação de Trump",
+    "resumo": "Durante a cúpula do G7, líderes discutiram novas medidas para pressionar a Rússia. O Presidente dos Estados Unidos, Donald Trump, indicou apoio à Ucrânia e abordou a questão de possíveis ataques ao Irã. As discussões também envolveram a redução da dependência do Estreito de Ormuz.",
     "categoria": "internacional",
     "tags": [
-      "incidente naval",
-      "Canal da Mancha",
-      "Rússia",
-      "Reino Unido"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Rússia",
-      "Reino Unido"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/06/16/navio-de-guerra-russo-dispara-contra-iate-canal-da-mancha.ghtml"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/uk-news/2026/06/16/russian-frigate-fires-warning-shots-at-british-yacht-in-channel-reports"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-16-investigacao-pf-daniel-vorcaro",
-    "data": "2026-06-16",
-    "titulo": "Relatório da PF aponta suposto tratamento privilegiado e ameaças envolvendo Daniel Vorcaro",
-    "resumo": "Um relatório da Polícia Federal indica que Daniel Vorcaro teria dado 'tratamento privilegiado' a Ciro Nogueira. Documentos da PF também mostram que a irmã de Felipe Mourão, conhecido como 'Sicário', ameaçou revelar arquivos que poderiam prejudicar a família de Vorcaro. Aliados do banqueiro teriam tentado comprar o silêncio dela.",
-    "categoria": "justica",
-    "tags": [
-      "polícia federal",
-      "investigação",
-      "corrupção"
-    ],
-    "entidades": [
-      "Polícia Federal",
-      "Master"
-    ],
-    "pessoas": [
-      "Daniel Vorcaro",
-      "Ciro Nogueira",
-      "Felipe Mourão",
-      "Joana Mourão"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/politica/noticia/2026/06/16/relatorio-da-pf-sobre-relacao-de-ciro-nogueira-e-daniel-vorcaro.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/06/16/master-irma-sicario-ameacou-revelar-documentos-mostra-pf.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-16-casos-de-violencia-e-acidentes-brasil",
-    "data": "2026-06-16",
-    "titulo": "Casos de violência, acidentes e descoberta de partes humanas em cidades brasileiras",
-    "resumo": "Em Campina Grande, na Paraíba, um inquérito apontou falha de projeto como causa de rompimento de reservatório que matou uma idosa e destruiu casas. Em Vila Velha, no Espírito Santo, duas pernas humanas foram encontradas em um valão durante limpeza. Em São Paulo, uma jornalista presa por ataques homofóbicos terá que indenizar vítimas e fazer cursos de conscientização. Um motorista bêbada atropelou uma grávida no Recife e tentou fugir.",
-    "categoria": "seguranca",
-    "tags": [
-      "violência",
-      "acidente",
-      "investigação criminal"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Adriana Catarina Ramos de Oliveira"
-    ],
-    "estados": [
-      "Paraíba",
-      "Espírito Santo",
-      "São Paulo",
-      "Pernambuco"
-    ],
-    "cidades": [
-      "Campina Grande",
-      "Vila Velha",
-      "Recife"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/06/16/inquerito-aponta-falha-de-projeto-como-causa-de-rompimento-de-reservatorio-que-destruiu-casas-e-matou-idosa-em-campina-grande.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/06/16/duas-pernas-sao-encontradas-dentro-de-sacola-em-valao-de-vila-velha-durante-limpeza.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/16/jornalista-presa-por-ataques-homofobicos-em-sp-tera-de-indenizar-vitimas-em-r-60-mil-e-fazer-cursos-de-conscientizacao.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/06/16/motorista-bebada-atropela-gravida-foge-e-e-perseguida-por-moradores-ate-ser-presa-no-recife-video.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-16-defesa-reino-unido-g7",
-    "data": "2026-06-16",
-    "titulo": "Críticas ao plano de gastos com defesa do Reino Unido e debates no G7",
-    "resumo": "O plano de gastos com defesa do Reino Unido foi considerado insuficiente por John Healey. No âmbito do G7, Keir Starmer defendeu o plano de investimento em defesa, que levou à renúncia de Healey. As discussões no G7 também abordaram o acordo entre EUA e Irã.",
-    "categoria": "politica",
-    "tags": [
-      "defesa",
       "G7",
-      "Reino Unido",
-      "política"
+      "guerra",
+      "diplomacia",
+      "Irã",
+      "Rússia"
     ],
     "entidades": [
       "G7"
     ],
     "pessoas": [
-      "John Healey",
-      "Keir Starmer",
-      "Al Carns"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido",
-      "Estados Unidos",
-      "Irã"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/16/andy-burnham-makerfield-labour-reform-keir-starmer-uk-politics-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-16-saude-minas-gerais-amapa",
-    "data": "2026-06-16",
-    "titulo": "Casos de raiva em morcego e perda de área de água no Brasil",
-    "resumo": "A Zoonoses de Uberlândia confirmou o oitavo caso de raiva em morcego no município em 2026. Um estudo apontou que municípios do Amapá perderam 15 mil hectares de água em 40 anos, com destaque para Amapá e Tartarugalzinho.",
-    "categoria": "saude",
-    "tags": [
-      "raiva",
-      "doenças",
-      "meio ambiente",
-      "água"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais",
-      "Amapá"
-    ],
-    "cidades": [
-      "Uberlândia",
-      "Amapá",
-      "Tartarugalzinho"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/16/zoonoses-confirma-raiva-em-morcego-encontrado-morto-dentro-de-apartamento-em-uberlandia.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ap/amapa/noticia/2026/06/16/municipios-do-amapa-perdem-15-mil-hectares-de-agua-em-40-anos-aponta-estudo.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-16-politica-minas-gerais",
-    "data": "2026-06-16",
-    "titulo": "Governador Valadares será a nova capital simbólica de Minas Gerais",
-    "resumo": "Governador Valadares, no Vale do Rio Doce, se tornará a nova capital simbólica de Minas Gerais nesta semana. Haverá a transferência simbólica da sede do governo estadual para o município nesta quinta (18) e sexta-feira (19).",
-    "categoria": "politica",
-    "tags": [
-      "capital",
-      "Minas Gerais",
-      "governo estadual"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Governador Valadares"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/06/16/governador-valadares-sera-a-nova-capital-de-minas-gerais-nesta-semana.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-16-cultura-gastronomia-junina",
-    "data": "2026-06-16",
-    "titulo": "Concurso de culinária junina ensina receita de cuscuz",
-    "resumo": "O Concurso de Culinária Junina está divulgando receitas tradicionais. Uma das receitas apresentadas é um cuscuz de macaxeira com queijo coalho e carne de sol, chamado \"Abraço Nordestino\". O público poderá conhecer outras receitas durante o evento.",
-    "categoria": "cultura",
-    "tags": [
-      "culinária",
-      "junina",
-      "receita"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Petrolina"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pe/petrolina-regiao/arraianosertao/noticia/2026/06/16/concurso-de-culinaria-junina-aprenda-a-fazer-um-cuscuz-de-macaxeira-com-queijo-coalho-e-carne-de-sol.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-16-eventos-locais-pernambuco",
-    "data": "2026-06-16",
-    "titulo": "NE1 de terça-feira, 16 de junho de 2026, em Pernambuco",
-    "resumo": "O telejornal NE1 de terça-feira, 16 de junho de 2026, apresentou notícias do estado de Pernambuco. O conteúdo inclui vídeos com os destaques do dia na região.",
-    "categoria": "politica",
-    "tags": [
-      "notícias locais",
-      "Pernambuco",
-      "telejornal"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Pernambuco"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pe/pernambuco/videos-ne1/playlist/videos-ne1-de-terca-feira-16-de-junho-de-2026.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-16-eventos-regionais-espirito-santo",
-    "data": "2026-06-16",
-    "titulo": "Edição regional do Gazeta Meio Dia em Espírito Santo",
-    "resumo": "O telejornal Gazeta Meio Dia, edição regional do Espírito Santo, transmitiu informações e notícias do estado. O jornal é apresentado na hora do almoço.",
-    "categoria": "politica",
-    "tags": [
-      "notícias locais",
-      "Espírito Santo",
-      "telejornal"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Espírito Santo"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-gazeta-meio-dia-edicao-regional.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-16-eventos-espirito-santo",
-    "data": "2026-06-16",
-    "titulo": "Gazeta Meio Dia no Espírito Santo",
-    "resumo": "O telejornal Gazeta Meio Dia foi transmitido no Espírito Santo, com o objetivo de informar os telespectadores sobre as notícias locais. A edição é focada no jornal da hora do almoço.",
-    "categoria": "politica",
-    "tags": [
-      "notícias locais",
-      "Espírito Santo",
-      "telejornal"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Espírito Santo"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-gazeta-meio-dia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-16-esportes-neymar-bruna-biancardi",
-    "data": "2026-06-16",
-    "titulo": "Chás revelação das filhas de Neymar e Bruna Biancardi",
-    "resumo": "Neymar Jr. e Bruna Biancardi realizaram três chás revelação para anunciar a chegada de sua terceira filha. O casal divulgou o anúncio da gravidez em vídeo nas redes sociais. A notícia ocorreu em meio à Copa do Mundo.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "gravidez",
-      "família"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Neymar Jr.",
-      "Bruna Biancardi"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/16/fogos-fumaca-e-tinta-veja-como-foram-os-tres-chas-revelacao-das-filhas-de-neymar-e-bruna-biancardi.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-16-esportes-basquete-ceara",
-    "data": "2026-06-16",
-    "titulo": "Morte de jogador de basquete em acidente de ônibus no Ceará",
-    "resumo": "Um jogador de basquete de 17 anos, Henrique Ferreira Bezerra, morreu em um acidente com o ônibus de sua equipe em Tauá, no Ceará. O padrasto do atleta descreveu o basquete como uma 'libertação' para o jovem.",
-    "categoria": "esportes",
-    "tags": [
-      "basquete",
-      "acidente",
-      "morte",
-      "atleta"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Henrique Ferreira Bezerra"
-    ],
-    "estados": [
-      "Ceará"
-    ],
-    "cidades": [
-      "Juazeiro do Norte",
-      "Tauá"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/06/16/ele-vivia-o-melhor-momento-da-vida-dele-diz-padrasto-sobre-jogador-de-17-anos-que-morreu-em-acidente-com-onibus-de-time-de-basquete.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-16-seguranca-manaus",
-    "data": "2026-06-16",
-    "titulo": "Carro capota em ladeira em Manaus",
-    "resumo": "Um carro capotou ao subir uma ladeira na Zona Centro-Sul de Manaus. O acidente ocorreu na manhã desta terça-feira (16). A causa exata do capotamento ainda está sendo apurada.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente de trânsito",
-      "Manaus"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Amazonas"
-    ],
-    "cidades": [
-      "Manaus"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/16/motorista-perde-o-controle-de-carro-e-capota-em-ladeira-na-zona-centro-sul-de-manaus.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-16-saude-amazonas",
-    "data": "2026-06-16",
-    "titulo": "Entenda o processo do 'caminho do sangue' desde a doação no Amazonas",
-    "resumo": "A reportagem detalha o processo do 'caminho do sangue', desde a doação voluntária no Amazonas até a sua distribuição. O sangue doado é fracionado em hemácias, plaquetas e plasmas, e transportado para atender pacientes em Manaus e outras localidades do estado.",
-    "categoria": "saude",
-    "tags": [
-      "doação de sangue",
-      "saúde",
-      "Amazonas"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Amazonas"
-    ],
-    "cidades": [
-      "Manaus"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/16/caminho-do-sangue-entenda-o-processo-desde-a-doacao-no-amazonas.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-16-seguranca-sp-rope-jump",
-    "data": "2026-06-16",
-    "titulo": "Depoimento de enfermeira que filmou morte em salto de rope jump em SP",
-    "resumo": "Uma enfermeira prestou depoimento sobre a morte de uma jovem durante um salto de rope jump em Limeira, São Paulo. A testemunha descreveu o momento da queda e as tentativas de socorro à vítima, Maria Eduarda Rodrigues.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente",
-      "morte",
-      "esporte radical",
-      "depoimento"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Maria Eduarda Rodrigues"
-    ],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Limeira"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/veja-depoimento-de-enfermeira-que-filmou-morte-em-salto-de-rope-jump-em-sp/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-16-politica-eua",
-    "data": "2026-06-16",
-    "titulo": "Eleitores em Oklahoma, Geórgia e Washington DC vão às urnas nos EUA",
-    "resumo": "Eleitores em Oklahoma, Geórgia e Washington DC participam de eleições primárias. A primária em Oklahoma é vista como um teste para a influência de Donald Trump no Partido Republicano, enquanto uma disputa acirrada ocorre na Geórgia.",
-    "categoria": "politica",
-    "tags": [
-      "eleições",
-      "EUA",
-      "primárias",
       "Donald Trump"
     ],
-    "entidades": [],
-    "pessoas": [
-      "Donald Trump",
-      "J.D. Vance"
-    ],
-    "estados": [
-      "Oklahoma",
-      "Geórgia",
-      "Washington D.C."
-    ],
+    "estados": [],
     "cidades": [],
     "paises": [
-      "Estados Unidos"
+      "Estados Unidos",
+      "Ucrânia",
+      "Rússia",
+      "Irã"
     ],
-    "importancia": 3,
+    "importancia": 5,
     "fontes": [
       {
+        "nome": "France24",
+        "url": "https://www.france24.com/en/video/20260617-trump-doesn-t-rule-out-strikes-on-iran-despite-agreement-looks-to-support-ukraine"
+      },
+      {
         "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/live/2026/jun/16/donald-trump-oklahoma-senator-governor-primary-g7-iran-us-politics-latest-news-updates"
+        "url": "https://www.theguardian.com/world/live/2026/jun/17/g7-leaders-evian-donald-trump-ukraine-russia-war-iran-latest-news-updates"
+      },
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/6/17/strait-of-hormuz-reopens-how-will-safe-passage-for-ships-be-ensured?traffic_source=rss"
       }
     ]
   },
   {
-    "id": "2026-06-16-seguranca-fbi-white-house",
-    "data": "2026-06-16",
-    "titulo": "FBI frustra plano de ataque mirando evento na Casa Branca",
-    "resumo": "O FBI frustrou um plano de ataque que visava um evento relacionado à UFC na Casa Branca. Documentos judiciais revelam que o plano envolveria o uso de drones. Vários suspeitos foram detidos, segundo o diretor do FBI.",
+    "id": "2026-06-17-operacao-crime-organizado-rn-ce-sc",
+    "data": "2026-06-17",
+    "titulo": "Operação combate organização criminosa em três estados",
+    "resumo": "Uma operação conjunta da Força Integrada de Combate ao Crime Organizado deflagrou mandados de prisão e busca em cidades do Rio Grande do Norte, Ceará e Santa Catarina. A ação visa desarticular uma organização criminosa com atuação nos três estados. Foram cumpridos 28 mandados de busca e apreensão e 7 de prisão preventiva.",
     "categoria": "seguranca",
     "tags": [
-      "FBI",
-      "segurança",
-      "ataque",
-      "Casa Branca"
+      "crime organizado",
+      "polícia",
+      "prisão"
     ],
-    "entidades": [
-      "FBI",
-      "UFC"
-    ],
-    "pessoas": [
-      "Patel"
-    ],
+    "entidades": [],
+    "pessoas": [],
     "estados": [
-      "Washington D.C."
+      "Rio Grande do Norte",
+      "Ceará",
+      "Santa Catarina"
     ],
-    "cidades": [
-      "Washington"
-    ],
+    "cidades": [],
     "paises": [
-      "Estados Unidos"
+      "Brasil"
     ],
     "importancia": 4,
     "fontes": [
       {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/06/17/operacao-mandados-prisao-apreensao-organizacao-criminosa.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-17-violencia-piaui",
+    "data": "2026-06-17",
+    "titulo": "Dois morrem em acidente e idosos são feitos reféns no Piauí",
+    "resumo": "No Piauí, dois homens morreram em um grave acidente na BR-020, próximo a Pio IX. Em outro incidente no estado, dois idosos foram mantidos reféns por cerca de quatro horas em Oeiras, após um suspeito invadir a residência. O caso foi denunciado pela filha de uma das vítimas.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente",
+      "sequestro",
+      "violência"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Piauí"
+    ],
+    "cidades": [
+      "Pio IX",
+      "Oeiras"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/17/homens-acidente-piaui.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/17/suspeito-invade-casa.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-17-justica-rj-petropolis",
+    "data": "2026-06-17",
+    "titulo": "Justiça multa Estado do Rio por atraso na Delegacia da Mulher em Petrópolis",
+    "resumo": "A Justiça determinou a multa de R$ 30 mil ao Estado do Rio de Janeiro. O motivo é o descumprimento de uma decisão judicial que exigia a apresentação de um plano para a instalação da Delegacia Especializada de Atendimento à Mulher (DEAM) em Petrópolis. O cartório eleitoral funciona no prédio do fórum da cidade.",
+    "categoria": "justica",
+    "tags": [
+      "justiça",
+      "multa",
+      "violência doméstica"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Petrópolis"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/06/17/justica-multa-estado-em-r-30-mil-por-atraso-na-implantacao-da-deam-em-petropolis.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-17-cultura-bbc",
+    "data": "2026-06-17",
+    "titulo": "BBC cancela programa de rádio histórico após mais de 50 anos",
+    "resumo": "A BBC anunciou o cancelamento do programa de rádio 'The World Tonight' da Radio 4, após mais de cinco décadas no ar. A medida faz parte de um plano de cortes de custos da emissora, que visa economizar 500 milhões de libras. Outros programas também serão afetados.",
+    "categoria": "cultura",
+    "tags": [
+      "mídia",
+      "rádio",
+      "BBC"
+    ],
+    "entidades": [
+      "BBC"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/media/2026/jun/17/bbc-boss-compulsory-redundancies-cuts"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-17-economia-ia-freelance",
+    "data": "2026-06-17",
+    "titulo": "Inteligência Artificial revoluciona contratação de freelancers, diz CEO",
+    "resumo": "O CEO da plataforma Malt, Vincent Huguet, afirmou que os chamados 'agentes de IA' estão provocando uma grande mudança no mercado de trabalho freelancer na Europa. A demanda por habilidades ligadas à IA tem crescido exponencialmente, impulsionando a contratação de talentos para além do setor de tecnologia.",
+    "categoria": "economia",
+    "tags": [
+      "inteligência artificial",
+      "freelancer",
+      "mercado de trabalho"
+    ],
+    "entidades": [
+      "Malt"
+    ],
+    "pessoas": [
+      "Vincent Huguet"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "France24",
+        "url": "https://www.france24.com/en/tv-shows/business/20260617-ai-agents-driving-major-shift-in-freelance-hiring-malt-ceo-says"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-17-meio-ambiente-aves-raras-sp",
+    "data": "2026-06-17",
+    "titulo": "Encontro raro de duas aves ameaçadas de extinção é registrado em São Paulo",
+    "resumo": "Um guia de turismo registrou o encontro de duas das aves mais raras do Brasil em um intervalo de seis minutos, em Campinas. O acontecimento é considerado um feito histórico para a observação de aves no país. O evento surpreendeu turistas e especialistas.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "aves",
+      "fauna",
+      "conservação"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Campinas"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/06/17/nunca-mais-vou-ver-isso-guia-registra-encontro-entre-duas-das-aves-mais-raras-do-brasil.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-17-seguranca-apreensao-homicidio-ap",
+    "data": "2026-06-17",
+    "titulo": "Homem condenado por duplo homicídio é preso no Amapá",
+    "resumo": "Um homem condenado a 20 anos de prisão por duplo homicídio foi preso no Amapá. A prisão ocorreu na zona rural de Porto Grande, após o indivíduo tentar fugir da polícia. De acordo com a Polícia Civil, ele foi encontrado em uma área remota.",
+    "categoria": "seguranca",
+    "tags": [
+      "homicídio",
+      "prisão",
+      "polícia"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Amapá"
+    ],
+    "cidades": [
+      "Porto Grande"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ap/amapa/noticia/2026/06/17/homem-condenado-por-duplo-homicidio-e-preso-ao-tentar-fugir-da-policia-em-porto-grande-no-ap.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-17-justica-df-corrupcao",
+    "data": "2026-06-17",
+    "titulo": "Servidor da Secretaria de Economia do DF é alvo de operação por crimes contra administração pública",
+    "resumo": "A Polícia Civil e o Ministério Público do Distrito Federal realizaram uma operação contra suspeitos de crimes contra a administração pública. Um servidor da Secretaria de Economia está entre os alvos da investigação. A identidade do servidor não foi divulgada.",
+    "categoria": "justica",
+    "tags": [
+      "corrupção",
+      "polícia",
+      "ministério público"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Distrito Federal"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/17/servidor-da-secretaria-de-economia-do-df-e-alvo-de-operacao-da-policia-civil-e-do-mp.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-17-justica-ms-homicidio",
+    "data": "2026-06-17",
+    "titulo": "Adolescente é suspeito de matar o ex-padrasto em Campo Grande",
+    "resumo": "Um adolescente de 15 anos foi identificado como suspeito de matar o ex-padrasto em Campo Grande, Mato Grosso do Sul. O crime ocorreu na madrugada de segunda-feira (15). A Polícia Civil investiga o caso, que teria ocorrido no Jardim das Macaúbas.",
+    "categoria": "justica",
+    "tags": [
+      "homicídio",
+      "adolescente",
+      "investigação"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Mato Grosso do Sul"
+    ],
+    "cidades": [
+      "Campo Grande"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/17/adolescente-de-15-anos-e-identificado-como-suspeito-de-matar-ex-padrasto-a-facadas-em-campo-grande.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-17-seguranca-ce-homicidio",
+    "data": "2026-06-17",
+    "titulo": "Suspeito de matar servidora pública no Ceará concorreu a vereador em 2024",
+    "resumo": "O suspeito de matar uma servidora pública em Camocim, Ceará, foi preso e identificado como Francisco Carlos de Sousa, conhecido como 'Beto Ferrari'. Ele concorreu a uma vaga de vereador no município nas eleições de 2024. A prisão ocorreu nesta terça-feira (16).",
+    "categoria": "justica",
+    "tags": [
+      "homicídio",
+      "prisão",
+      "política"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Ceará"
+    ],
+    "cidades": [
+      "Camocim"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ce/ceara/noticia/2026/06/17/suspeito-de-matar-servidora-publica-concorreu-a-vereador-em-2024-no-ceara.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-17-economia-multas-rs",
+    "data": "2026-06-17",
+    "titulo": "Quase 700 mil multas do free flow anuladas no Rio Grande do Sul",
+    "resumo": "O Departamento Autônomo de Estradas e Rodagens (Daer) anulou mais de 692 mil multas relacionadas ao sistema free flow no Rio Grande do Sul. As regularizações ocorrem após uma medida do Ministério dos Transportes suspender multas em pedágios free flow e conceder prazo para tarifas vencidas.",
+    "categoria": "economia",
+    "tags": [
+      "multas",
+      "trânsito",
+      "rodovias"
+    ],
+    "entidades": [
+      "Daer"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Rio Grande do Sul"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/17/quase-700-mil-multas-do-free-flow-ja-foram-anuladas-pelo-daer-no-rs-saiba-como-solicitar-regularizacao.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-17-internacional-artista-russia-polonia",
+    "data": "2026-06-17",
+    "titulo": "Artista russo crítico de Putin é morto a tiros na Polônia",
+    "resumo": "Um artista russo conhecido por suas críticas ao governo de Vladimir Putin foi morto a tiros na Polônia. O incidente ocorreu três dias após uma performance de protesto em Berlim, perto da embaixada russa. As circunstâncias da morte estão sendo investigadas.",
+    "categoria": "internacional",
+    "tags": [
+      "assassinato",
+      "crítica política",
+      "Rússia"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Vladimir Putin"
+    ],
+    "estados": [],
+    "cidades": [
+      "Berlim"
+    ],
+    "paises": [
+      "Rússia",
+      "Polônia",
+      "Alemanha"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/russian-artist-and-outspoken-putin-critic-shot-dead-days-after-protest?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-17-internacional-settlers-cisjordania",
+    "data": "2026-06-17",
+    "titulo": "Incêndio em mesquita e ataques de colonos na Cisjordânia",
+    "resumo": "Colonos israelenses incendiaram uma mesquita na vila palestina de Jaljulia, na Cisjordânia ocupada. Relatos descrevem um aumento nos ataques de colonos contra mesquitas e residências na região, gerando medo entre os palestinos. Um morador de 92 anos relatou um ataque.",
+    "categoria": "internacional",
+    "tags": [
+      "conflito",
+      "violência",
+      "colonos",
+      "Palestina"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Cisjordânia"
+    ],
+    "cidades": [
+      "Ramallah"
+    ],
+    "paises": [
+      "Israel",
+      "Palestina"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/israeli-settlers-set-fire-to-a-mosque-in-the-occupied-west-bank?traffic_source=rss"
+      },
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/6/17/he-wanted-to-burn-me-alive-92-year-old-recounts-west-bank-settler-attack?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-17-cultura-leonardo-homenagem-goias",
+    "data": "2026-06-17",
+    "titulo": "Cantor Leonardo homenageia a mãe nomeando fazenda em Goiás",
+    "resumo": "O cantor Leonardo fez uma homenagem à sua mãe, Dona Carmem, ao dar o nome dela a uma nova fazenda localizada perto de Formoso, no norte de Goiás. A informação foi compartilhada pela esposa do sertanejo, Poliana Rocha.",
+    "categoria": "cultura",
+    "tags": [
+      "música",
+      "homenagem",
+      "sertanejo"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Leonardo"
+    ],
+    "estados": [
+      "Goiás"
+    ],
+    "cidades": [
+      "Formoso"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/go/goias/noticia/2026/06/17/leonardo-faz-homenagem-a-mae-ao-dar-o-seu-nome-a-fazenda.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-17-seguranca-texas-acidente-aviao",
+    "data": "2026-06-17",
+    "titulo": "Avião de empresa de Warren Buffett cai em rodovia no Texas, um morto",
+    "resumo": "Um jato particular pertencente à Berkshire Hathaway, empresa de Warren Buffett, caiu em uma rodovia em Laredo, Texas, matando uma pessoa e ferindo cinco. A aeronave perdeu contato com o controle de tráfego aéreo antes da queda. As autoridades investigam as causas do acidente.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente aéreo",
+      "investigação",
+      "Texas"
+    ],
+    "entidades": [
+      "Berkshire Hathaway"
+    ],
+    "pessoas": [
+      "Warren Buffett"
+    ],
+    "estados": [
+      "Texas"
+    ],
+    "cidades": [
+      "Laredo"
+    ],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/jun/17/netjets-deadly-crash-laredo-texas"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-17-justica-nova-iorque-mangione",
+    "data": "2026-06-17",
+    "titulo": "Luigi Mangione comparece em tribunal de Nova Iorque após falha em audiência",
+    "resumo": "Luigi Mangione compareceu ao tribunal estadual de Manhattan, Nova Iorque, após ter perdido uma audiência anterior devido a um erro de documentação. Mangione enfrenta nove acusações, incluindo assassinato em segundo grau em um caso estadual.",
+    "categoria": "justica",
+    "tags": [
+      "crime",
+      "tribunal",
+      "Nova Iorque"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Luigi Mangione"
+    ],
+    "estados": [
+      "Nova Iorque"
+    ],
+    "cidades": [
+      "Manhattan"
+    ],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/jun/17/luigi-mangione-new-york-state-court-appearance"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-17-politica-trump-inteligencia-congresso",
+    "data": "2026-06-17",
+    "titulo": "Trump adia indicação para diretor de inteligência em busca de aprovação de lei",
+    "resumo": "O Presidente Donald Trump adiou a confirmação de Jay Clayton como diretor de inteligência dos EUA. A decisão foi tomada na tentativa de pressionar o Congresso a aprovar uma lei de identificação de eleitores. Trump afirmou que manterá Bill Pulte como diretor interino.",
+    "categoria": "politica",
+    "tags": [
+      "política",
+      "inteligência",
+      "Congresso"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Donald Trump",
+      "Jay Clayton",
+      "Bill Pulte"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/live/2026/jun/17/trump-georgia-primary-mike-collins-jon-ossoff-midterms-g7-us-politics-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-17-internacional-africa-sul",
+    "data": "2026-06-17",
+    "titulo": "Líder político sul-africano pede demissão de colega",
+    "resumo": "John Steenhuisen, um proeminente político sul-africano e líder do principal partido de oposição, solicitou a demissão de seu antecessor do cargo de ministro. Steenhuisen lidera o DA há sete anos. A notícia indica tensões políticas internas no país.",
+    "categoria": "politica",
+    "tags": [
+      "política",
+      "África do Sul",
+      "governo"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "John Steenhuisen"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "África do Sul"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
         "nome": "BBC",
-        "url": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/news/articles/ce8jg660r73o?at_medium=RSS&at_campaign=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-17-economia-google-transparencia-uk",
+    "data": "2026-06-17",
+    "titulo": "Reino Unido ordena que Google melhore transparência em serviços de busca",
+    "resumo": "O Reino Unido determinou que o Google aprimore a transparência em suas práticas de ranqueamento de resultados de busca. Empresas britânicas têm reclamado que os métodos atuais da gigante da tecnologia não são justos nem transparentes. A ordem visa garantir maior clareza para os negócios.",
+    "categoria": "economia",
+    "tags": [
+      "tecnologia",
+      "Google",
+      "regulamentação"
+    ],
+    "entidades": [
+      "Google"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/17/uk-orders-google-to-improve-transparency-for-search-services?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-17-internacional-franca-trump-versailles",
+    "data": "2026-06-17",
+    "titulo": "Macron recebe Trump para jantar em Versalhes após cúpula do G7",
+    "resumo": "Após a cúpula do G7 em Evian-les-Bains, o Presidente dos EUA, Donald Trump, foi recebido pelo Presidente francês Emmanuel Macron para um jantar no castelo de Versalhes. O encontro tem como objetivo reforçar as relações bilaterais entre os dois países.",
+    "categoria": "internacional",
+    "tags": [
+      "diplomacia",
+      "G7",
+      "relações bilaterais"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Donald Trump",
+      "Emmanuel Macron"
+    ],
+    "estados": [],
+    "cidades": [
+      "Evian-les-Bains",
+      "Versalhes"
+    ],
+    "paises": [
+      "França",
+      "Estados Unidos"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "France24",
+        "url": "https://www.france24.com/en/what-is-france-hoping-for-by-inviting-trump-to-have-dinner-in-versailles"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-17-seguranca-refens-fortaleza",
+    "data": "2026-06-17",
+    "titulo": "Buffet frustra aniversário infantil em Fortaleza por não entregar serviço",
+    "resumo": "Uma festa de aniversário infantil em Fortaleza terminou em frustração para a família devido ao não cumprimento do serviço contratado com um buffet. A mãe da aniversariante denunciou o descumprimento do acordo. O caso ocorreu no último dia 12 de junho.",
+    "categoria": "seguranca",
+    "tags": [
+      "consumidor",
+      "serviço",
+      "reclamação"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Ceará"
+    ],
+    "cidades": [
+      "Fortaleza"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ce/ceara/noticia/2026/06/17/buffet-nao-entrega-servico-a-tempo-e-frustra-aniversario-infantil-em-fortaleza.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-17-internacional-medical-notes-royal",
+    "data": "2026-06-17",
+    "titulo": "Ex-trabalhador de saúde é advertido por oferecer notas médicas de membro da realeza",
+    "resumo": "Um ex-trabalhador de saúde em um hospital privado de Londres foi formalmente advertido pela autoridade de proteção de dados do Reino Unido. Ele é acusado de ter oferecido notas médicas privadas de um membro da realeza para ganho financeiro. A investigação foi conduzida pela Information Commissioner's Office.",
+    "categoria": "justica",
+    "tags": [
+      "privacidade",
+      "saúde",
+      "investigação"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Londres"
+    ],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/17/ex-health-worker-cautioned-after-kate-medical-records-offered-financial-gain"
       }
     ]
   }
