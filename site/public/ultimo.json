@@ -1,164 +1,145 @@
 [
   {
-    "id": "eua-ira-acordo-paz",
-    "data": "2026-06-18",
-    "titulo": "EUA e Irã assinam acordo de paz e chegam a consenso em talks na Suíça",
-    "resumo": "Estados Unidos e Irã assinaram um acordo de paz e anunciaram avanços em negociações na Suíça. O acordo visa o fim dos combates e o alívio na crise energética global. No entanto, críticos apontam para um possível acordo precipitado por parte dos EUA. Há expectativa sobre os próximos passos e o cumprimento dos compromissos assumidos.",
+    "id": "2026-06-19-ceasefire-israel-hezbollah",
+    "data": "2026-06-19",
+    "titulo": "Israel e Hezbollah concordam com cessar-fogo no Líbano",
+    "resumo": "Fontes oficiais relatam que Israel e Hezbollah chegaram a um acordo para um cessar-fogo no Líbano. Um oficial dos Estados Unidos confirmou que o acordo entrou em vigor. As negociações para conversas entre os EUA e o Irã foram canceladas.",
     "categoria": "internacional",
     "tags": [
-      "paz",
-      "negociação",
-      "energia",
-      "crise"
+      "cessar-fogo",
+      "conflito",
+      "Oriente Médio"
     ],
     "entidades": [
+      "Israel",
+      "Hezbollah",
       "Estados Unidos",
-      "Irã",
-      "Suíça"
+      "Irã"
     ],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Estados Unidos",
-      "Irã"
+      "Líbano"
     ],
     "importancia": 5,
     "fontes": [
       {
-        "nome": "DW",
-        "url": "https://www.dw.com/en/us-iran-talks-hope-and-skepticism-in-the-swiss-alps/a-77610766?maca=en-rss-en-all-1573-rdf"
+        "nome": "France24",
+        "url": "https://www.france24.com/en/middle-east/20260619-middle-east-live-white-house-says-vance-will-not-travel-to-switzerland-thursday-for-iran-talks"
       },
       {
         "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jun/18/middle-east-crisis-live-us-iran-presidents-sign-peace-deal-mou-trump-tehran-strait-of-hormuz-toll-lebanon-israel"
+        "url": "https://www.theguardian.com/world/live/2026/jun/19/middle-east-crisis-live-israel-strikes-targets-in-lebanon-as-us-iran-talks-in-switzerland-called-off"
       }
     ]
   },
   {
-    "id": "eua-suprema-corte-decisoes",
-    "data": "2026-06-18",
-    "titulo": "Suprema Corte dos EUA anuncia decisões sobre cidadania por nascimento e TPS",
-    "resumo": "A Suprema Corte dos Estados Unidos começou a divulgar suas opiniões, com decisões importantes pendentes. Entre os casos em análise está a cidadania por nascimento e o Estatus de Proteção Temporária (TPS) para imigrantes haitianos e sírios. A agenda de imigração do ex-presidente Trump está no centro das atenções do tribunal.",
-    "categoria": "justica",
+    "id": "2026-06-19-piso-salarial-professores",
+    "data": "2026-06-19",
+    "titulo": "Lula sanciona piso salarial de R$ 5.130 para professores da educação básica",
+    "resumo": "O Presidente Luiz Inácio Lula da Silva sancionou a lei que estabelece o piso salarial nacional para professores da educação básica em R$ 5.130,63. A nova norma, publicada no Diário Oficial da União, representa um reajuste de 5,4% em relação ao valor anterior.",
+    "categoria": "educacao",
     "tags": [
-      "corte suprema",
-      "imigração",
-      "cidadania",
-      "tps"
+      "educação básica",
+      "piso salarial",
+      "professores"
     ],
-    "entidades": [
-      "Suprema Corte dos EUA"
-    ],
+    "entidades": [],
     "pessoas": [
-      "Trump"
+      "Luiz Inácio Lula da Silva"
     ],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/live/2026/jun/18/supreme-court-birthright-citizenship-ruling-tps-mangione-iran-latest-updates"
-      }
-    ]
-  },
-  {
-    "id": "uk-espiões-china-hong-kong",
-    "data": "2026-06-18",
-    "titulo": "Britânicos condenados por espionagem para China e Hong Kong",
-    "resumo": "Um tribunal do Reino Unido condenou dois homens por espionagem em favor da China e de Hong Kong. Os indivíduos, que possuíam dupla nacionalidade sino-britânica, são os primeiros a serem condenados por espionagem para a China no país. A condenação ocorre em um contexto de tensões geopolíticas.",
-    "categoria": "justica",
-    "tags": [
-      "espionagem",
-      "china",
-      "hong kong",
-      "reino unido"
-    ],
-    "entidades": [
-      "Reino Unido",
-      "China",
-      "Hong Kong"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido",
-      "China",
-      "Hong Kong"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/6/18/uk-court-convicts-two-men-for-spying-for-hong-kong-china?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "brasil-investigacao-jaques-wagner",
-    "data": "2026-06-18",
-    "titulo": "PF investiga senador Jaques Wagner por suposta vantagem indevida",
-    "resumo": "O senador Jaques Wagner é alvo de uma nova fase da Operação Compliance Zero, deflagrada pela Polícia Federal. A investigação cita um apartamento de alto padrão e ingressos para um show em Los Angeles como possíveis vantagens indevidas. A defesa do senador ainda não se pronunciou.",
-    "categoria": "justica",
-    "tags": [
-      "investigação",
-      "corrupção",
-      "política"
-    ],
-    "entidades": [
-      "Polícia Federal"
-    ],
-    "pessoas": [
-      "Jaques Wagner"
-    ],
-    "estados": [
-      "Bahia",
-      "São Paulo"
-    ],
-    "cidades": [
-      "Los Angeles"
-    ],
-    "paises": [
-      "Brasil",
-      "Estados Unidos"
+      "Brasil"
     ],
     "importancia": 4,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/18/pf-aponta-apartamento-como-vantagem-indevida-recebida-por-jaques-wagner-conheca-imovel.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/politica/noticia/2026/06/18/wagner-ganhou-ingressos-em-camarote-para-um-show-em-los-angeles-segundo-a-pf.ghtml"
+        "url": "https://g1.globo.com/educacao/noticia/2026/06/19/lula-sanciona-piso-salarial-de-r-5130-para-professores-da-educacao-basica.ghtml"
       }
     ]
   },
   {
-    "id": "brasil-jaguatirica-interior-sp",
-    "data": "2026-06-18",
-    "titulo": "Jaguatirica é resgatada após invadir residência em Nova Guataporanga (SP)",
-    "resumo": "Uma jaguatirica foi encontrada em uma residência na cidade de Nova Guataporanga, interior de São Paulo. O animal foi resgatado pela Polícia Militar Ambiental e solto em um parque estadual. Não há informações sobre ferimentos no animal ou em pessoas.",
-    "categoria": "meio-ambiente",
+    "id": "2026-06-19-eleicoes-colombia-tendencia-direita",
+    "data": "2026-06-19",
+    "titulo": "Colômbia se prepara para eleições em meio à tendência de 'direita' na América Latina",
+    "resumo": "A Colômbia se aproxima de suas eleições presidenciais, num contexto regional marcado por uma inclinação à direita na América Latina. Especialistas apontam que as opções eleitorais na Colômbia se diferenciam das eleições passadas.",
+    "categoria": "politica",
     "tags": [
-      "animal silvestre",
-      "resgate",
-      "polícia ambiental"
+      "eleições",
+      "América Latina",
+      "tendência política"
     ],
     "entidades": [
-      "Polícia Militar Ambiental"
+      "International Crisis Group"
     ],
+    "pessoas": [
+      "Renata Segura"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Colômbia"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "France24",
+        "url": "https://www.france24.com/en/tv-shows/spotlight/20260619-ahead-of-colombia-s-elections-latin-america-overall-is-going-to-the-right"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-justica-multa-casal-sc",
+    "data": "2026-06-19",
+    "titulo": "Justiça reduz multa de quase R$ 1 milhão para R$ 30 mil a casal que não vacinou filhos em SC",
+    "resumo": "A Justiça de Santa Catarina reduziu a multa de um casal que não vacinou os três filhos. O valor original, superior a R$ 1 milhão, foi diminuído para R$ 30 mil. A decisão foi proferida nesta quinta-feira (18).",
+    "categoria": "justica",
+    "tags": [
+      "multa",
+      "vacinação",
+      "decisão judicial"
+    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [
+      "Santa Catarina"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/19/justica-reduz-multa-de-1-milhao-casal-que-nao-vacinou-filhos-santa-catarina.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-disputa-elefante-sandro",
+    "data": "2026-06-19",
+    "titulo": "Justiça autoriza transferência do elefante Sandro para santuário em MT",
+    "resumo": "A Justiça autorizou a transferência do elefante Sandro, que vive há mais de 40 anos no zoológico de Sorocaba, para um santuário no Mato Grosso. A decisão judicial atende a uma disputa entre a prefeitura, defensores de animais e a justiça.",
+    "categoria": "justica",
+    "tags": [
+      "elefante",
+      "transferência de animal",
+      "zoológico",
+      "santuário"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Mato Grosso",
       "São Paulo"
     ],
     "cidades": [
-      "Nova Guataporanga"
+      "Sorocaba"
     ],
     "paises": [
       "Brasil"
@@ -167,305 +148,50 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/06/18/jaguatirica-invade-residencia-e-resgatada-e-solta-em-parque-estadual-no-interior-de-sp-video.ghtml"
+        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/19/elefante-sandro-entenda-a-disputa-judicial-pela-transferencia-do-animal-do-zoo-de-sorocaba.ghtml"
       }
     ]
   },
   {
-    "id": "brasil-trafico-drogas-df",
-    "data": "2026-06-18",
-    "titulo": "Grupo suspeito de movimentar 8 toneladas de drogas é alvo de operação no DF",
-    "resumo": "A Polícia Civil do Distrito Federal deflagrou uma operação contra um grupo criminoso suspeito de comercializar cerca de oito toneladas de drogas. A investigação aponta que os suspeitos ostentavam uma vida de luxo. A ação se estende a outros estados, como Goiás.",
-    "categoria": "seguranca",
+    "id": "2026-06-19-falso-medico-goias",
+    "data": "2026-06-19",
+    "titulo": "Falso médico é preso em Goiás suspeito de causar lesão grave e vender cursos estéticos",
+    "resumo": "A Polícia Civil de Goiás prendeu Sebastião Rodrigues Da Silva Júnior, suspeito de se passar por médico e realizar procedimentos estéticos invasivos. Ele é acusado de causar lesão grave a uma paciente e de vender cursos na área. A prisão ocorreu com base em investigação da polícia.",
+    "categoria": "justica",
     "tags": [
-      "tráfico de drogas",
-      "crime organizado",
-      "operação policial"
+      "falso médico",
+      "procedimentos estéticos",
+      "prisão"
     ],
-    "entidades": [
-      "Polícia Civil do Distrito Federal"
+    "entidades": [],
+    "pessoas": [
+      "Sebastião Rodrigues Da Silva Júnior"
     ],
-    "pessoas": [],
     "estados": [
-      "Distrito Federal",
       "Goiás"
     ],
     "cidades": [],
     "paises": [
       "Brasil"
     ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/18/grupo-do-df-suspeito-de-comercializar-pelo-menos-8-toneladas-de-drogas-ostentava-vida-de-luxo.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "uk-politica-byelection-makerfield",
-    "data": "2026-06-18",
-    "titulo": "Eleição suplementar em Makerfield pode definir futuro de Keir Starmer",
-    "resumo": "A eleição suplementar em Makerfield, no Reino Unido, abriu a votação e pode ter um impacto significativo no futuro de Keir Starmer. A disputa é vista como um teste para a liderança do Partido Trabalhista. Acompanhe as atualizações sobre este evento político.",
-    "categoria": "politica",
-    "tags": [
-      "eleição",
-      "política britânica",
-      "liderança"
-    ],
-    "entidades": [
-      "Partido Trabalhista"
-    ],
-    "pessoas": [
-      "Keir Starmer",
-      "Andy Burnham"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-polls-open-labour-leadership-andy-burnham-keir-starmer-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "brasil-apoio-marina-silva-senado",
-    "data": "2026-06-18",
-    "titulo": "PV de São Paulo apoia pré-candidatura de Marina Silva ao Senado",
-    "resumo": "O diretório municipal do Partido Verde (PV) em São Paulo anunciou apoio à pré-candidatura de Marina Silva (Rede) ao Senado Federal. A decisão foi oficializada nesta quinta-feira. Marina Silva é ex-ministra do Meio Ambiente.",
-    "categoria": "politica",
-    "tags": [
-      "eleições",
-      "senado",
-      "apoio político"
-    ],
-    "entidades": [
-      "Partido Verde",
-      "Rede"
-    ],
-    "pessoas": [
-      "Marina Silva"
-    ],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
     "importancia": 3,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/06/18/pv-anuncia-apoio-a-marina-silva-para-concorrer-ao-senado-por-sp.ghtml"
+        "url": "https://g1.globo.com/go/goias/noticia/2026/06/19/falso-medico-e-preso-suspeito-de-causar-lesao-grave-a-paciente-e-vender-cursos-esteticos-diz-policia.ghtml"
       }
     ]
   },
   {
-    "id": "apple-aumento-precos-chips",
-    "data": "2026-06-18",
-    "titulo": "Apple anuncia aumento de preços devido à alta dos custos de chips impulsionada pela IA",
-    "resumo": "A Apple informou que irá aumentar os preços de seus produtos devido à crescente demanda e custos de chips, impulsionados pelo avanço da inteligência artificial. O CEO Tim Cook não especificou quando os aumentos entrarão em vigor nem quais produtos serão afetados.",
-    "categoria": "economia",
-    "tags": [
-      "tecnologia",
-      "ia",
-      "custos",
-      "preços"
-    ],
-    "entidades": [
-      "Apple"
-    ],
-    "pessoas": [
-      "Tim Cook"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "BBC",
-        "url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&at_campaign=rss"
-      }
-    ]
-  },
-  {
-    "id": "brasil-acidentes-ceara",
-    "data": "2026-06-18",
-    "titulo": "Dois professores morrem em acidentes distintos no Ceará",
-    "resumo": "Dois professores do município de Aiuaba, no interior do Ceará, morreram em acidentes de trânsito separados no mesmo dia. As vítimas foram identificadas como Antônia Luciana Bezerra, de 44 anos, e outro professor. As circunstâncias dos acidentes estão sob investigação.",
+    "id": "2026-06-19-operacao-trafico-angra-dos-reis",
+    "data": "2026-06-19",
+    "titulo": "Dupla é presa por envolvimento com tráfico de drogas em Angra dos Reis",
+    "resumo": "Um homem de 31 anos e uma mulher de 36 foram presos em Angra dos Reis, no Rio de Janeiro, por suspeita de envolvimento com o tráfico de drogas. A prisão ocorreu na quinta-feira (18) no Morro da Fortaleza, como parte da Operação Sentinela. A Polícia Civil efetuou a prisão.",
     "categoria": "seguranca",
     "tags": [
-      "acidente de trânsito",
-      "morte",
-      "ceará"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Ceará"
-    ],
-    "cidades": [
-      "Aiuaba"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ce/ceara/noticia/2026/06/18/professores-do-mesmo-municipio-morrem-em-acidentes-diferentes-no-ceara.html"
-      }
-    ]
-  },
-  {
-    "id": "brasil-coleta-sangue-alagoas",
-    "data": "2026-06-18",
-    "titulo": "Hemoal realiza coleta itinerante de sangue em Palmeira dos Índios (AL)",
-    "resumo": "O Hemocentro de Alagoas (Hemoal) promove nesta quinta-feira (18) uma ação de coleta itinerante de sangue em Palmeira dos Índios, no Agreste alagoano. A iniciativa visa aumentar o estoque de bolsas no hemocentro. A coleta ocorre no Hospital Regional Santa Rita.",
-    "categoria": "saude",
-    "tags": [
-      "doação de sangue",
-      "saúde pública",
-      "alagoas"
-    ],
-    "entidades": [
-      "Hemoal"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Alagoas"
-    ],
-    "cidades": [
-      "Palmeira dos Índios"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/al/alagoas/noticia/2026/06/18/hemoal-realiza-coleta-itinerante-de-sangue-em-palmeira-dos-indios-no-interior-de-al.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "brasil-artista-marta-cinebiografia",
-    "data": "2026-06-18",
-    "titulo": "Alice Carvalho viverá jogadora Marta em cinebiografia",
-    "resumo": "A atriz Alice Carvalho foi caracterizada como a jogadora de futebol Marta Vieira da Silva para uma cinebiografia que retrata a trajetória da atleta. A produção é da Conspiração e a imagem divulgada mostra a semelhança entre a atriz e a Rainha do Futebol. A cinebiografia promete contar a história da maior jogadora da história do futebol feminino.",
-    "categoria": "cultura",
-    "tags": [
-      "cinema",
-      "biografia",
-      "esporte",
-      "futebol feminino"
-    ],
-    "entidades": [
-      "Conspiração"
-    ],
-    "pessoas": [
-      "Alice Carvalho",
-      "Marta"
-    ],
-    "estados": [
-      "Rio Grande do Norte"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/06/18/producao-divulga-imagem-da-atriz-alice-carvalho-caracterizada-como-a-jogadora-marta-veja.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "brasil-artes-marciais-preso-roraima",
-    "data": "2026-06-18",
-    "titulo": "Lutador de artes marciais é preso com revólver e drogas em Boa Vista",
-    "resumo": "Um lutador de artes marciais de 30 anos foi preso em flagrante em Boa Vista, Roraima, após resistir a uma abordagem policial. Com ele, foram encontrados um revólver e uma porção de skunk. O suspeito foi detido no bairro Equatorial, zona oeste da cidade.",
-    "categoria": "seguranca",
-    "tags": [
+      "tráfico de drogas",
       "prisão",
-      "drogas",
-      "polícia",
-      "artes marciais"
-    ],
-    "entidades": [
-      "Polícia Militar"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Roraima"
-    ],
-    "cidades": [
-      "Boa Vista"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rr/roraima/noticia/2026/06/18/lutador-de-artes-marciais-e-preso-com-revolver-e-skunk-apos-resistir-a-abordagem-da-pm.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "brasil-furto-pinheiro-ma",
-    "data": "2026-06-18",
-    "titulo": "Homem é preso após furtar farmácia ao lado de delegacia em Pinheiro (MA)",
-    "resumo": "Um homem foi preso em flagrante após furtar uma farmácia localizada ao lado de uma delegacia no município de Pinheiro, Maranhão. As câmeras de segurança registraram a ação do suspeito. A polícia agiu rapidamente para efetuar a prisão.",
-    "categoria": "seguranca",
-    "tags": [
-      "furto",
-      "prisão",
-      "polícia"
-    ],
-    "entidades": [
-      "Polícia Civil"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Maranhão"
-    ],
-    "cidades": [
-      "Pinheiro"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/18/homem-e-preso-apos-furtar-farmacia-ao-lado-de-uma-delegacia-em-pinheiro.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "brasil-roubo-cabo-frio-rj",
-    "data": "2026-06-18",
-    "titulo": "Homem investigado por roubos é preso em rodoviária de Cabo Frio (RJ)",
-    "resumo": "Um homem investigado por diversos roubos em Cabo Frio, Região dos Lagos do Rio de Janeiro, foi preso na rodoviária da cidade. Contra o suspeito, havia um mandado de prisão preventiva por roubo majorado. A Polícia Civil efetuou a prisão.",
-    "categoria": "seguranca",
-    "tags": [
-      "roubo",
-      "prisão",
-      "polícia"
+      "operação policial"
     ],
     "entidades": [
       "Polícia Civil"
@@ -475,7 +201,7 @@
       "Rio de Janeiro"
     ],
     "cidades": [
-      "Cabo Frio"
+      "Angra dos Reis"
     ],
     "paises": [
       "Brasil"
@@ -484,401 +210,29 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/06/18/homem-investigado-por-serie-de-roubos-e-preso-em-rodoviaria-de-cabo-frio.ghtml"
+        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/06/19/trafico-de-drogas-em-angra-dos-reis.ghtml"
       }
     ]
   },
   {
-    "id": "brasil-acidente-caminhao-sp",
-    "data": "2026-06-18",
-    "titulo": "Caminhão carregado de mármore capota na Dutra e deixa um ferido em São José dos Campos (SP)",
-    "resumo": "Um caminhão que transportava mármore capotou na Rodovia Presidente Dutra, em São José dos Campos, interior de São Paulo. O acidente resultou em uma pessoa ferida. A Polícia Rodoviária Federal atua no local para controlar o tráfego e apurar as causas.",
-    "categoria": "seguranca",
+    "id": "2026-06-19-ecco-truss-minas-gerais",
+    "data": "2026-06-19",
+    "titulo": "MG Dore celebra 11 anos como maior distribuidora da Truss em Minas Gerais",
+    "resumo": "A MG Dore comemora 11 anos de atuação como a maior distribuidora de produtos Truss em Minas Gerais. A empresa leva cosméticos para salões e lojas em 409 cidades do estado. O mercado de beleza brasileiro continua em expansão.",
+    "categoria": "economia",
     "tags": [
-      "acidente de trânsito",
-      "rodovia",
-      "transporte de carga"
+      "distribuição",
+      "cosméticos",
+      "mercado de beleza"
     ],
     "entidades": [
-      "Polícia Rodoviária Federal"
+      "Truss",
+      "MG Dore"
     ],
     "pessoas": [],
     "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "São José dos Campos"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/18/caminhao-tomba-e-uma-pessoa-fica-ferida-na-rodovia-presidente-dutra-em-sao-jose.html"
-      }
-    ]
-  },
-  {
-    "id": "brasil-concurso-bandas-joao-rock",
-    "data": "2026-06-18",
-    "titulo": "Três bandas finalistas do Concurso do João Rock 2026 são divulgadas",
-    "resumo": "As bandas A Graxa (SP), Lizium (RJ) e Vaine e Funkse (MG) foram anunciadas como as três finalistas do Concurso de Bandas do festival João Rock 2026. A etapa decisiva do concurso acontecerá no dia 18 de julho, em Ribeirão Preto (SP).",
-    "categoria": "cultura",
-    "tags": [
-      "música",
-      "festival",
-      "concurso de bandas"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo",
-      "Rio de Janeiro",
       "Minas Gerais"
     ],
-    "cidades": [
-      "Ribeirão Preto",
-      "Niterói",
-      "Uberlândia"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/joao-rock/noticia/2026/06/18/conheca-os-tres-finalistas-do-concurso-de-bandas-do-joao-rock-2026.html"
-      }
-    ]
-  },
-  {
-    "id": "eua-tempestade-tropical-arthur-texas",
-    "data": "2026-06-18",
-    "titulo": "Tempestade Tropical Arthur perde força ao atingir costa do Texas",
-    "resumo": "A Tempestade Tropical Arthur foi reclassificada para uma área de baixa pressão após atingir a costa do Texas, nos Estados Unidos. Apesar da perda de intensidade dos ventos, há expectativa de chuvas significativas e risco de inundações na região sudeste do estado. As autoridades alertam para os perigos associados à tempestade.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "tempestade tropical",
-      "clima",
-      "inundação",
-      "texas"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Texas"
-    ],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/2026/jun/18/tropical-storm-arthur-downgraded"
-      }
-    ]
-  },
-  {
-    "id": "brasil-zelenskyy-russia-ataques",
-    "data": "2026-06-18",
-    "titulo": "Zelenskyy alerta Rússia após ataques noturnos; país reage a ofensiva",
-    "resumo": "O presidente ucraniano, Volodymyr Zelenskyy, intensificou a retórica contra a Rússia após ataques noturnos com drones na capital russa. Ele declarou que 'se a Ucrânia queimar, sua Moscou queimará'. A Ucrânia responde a ofensivas russas, em meio a discussões sobre defesa e segurança na Europa.",
-    "categoria": "internacional",
-    "tags": [
-      "guerra",
-      "ucrânia",
-      "rússia",
-      "ataques"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Volodymyr Zelenskyy"
-    ],
-    "estados": [],
-    "cidades": [
-      "Moscou"
-    ],
-    "paises": [
-      "Ucrânia",
-      "Rússia"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jun/18/ukraine-russia-moscow-strikes-nato-defence-ministers-hegseth-rutte-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "brasil-acidente-aviao-jundiai",
-    "data": "2026-06-18",
-    "titulo": "Piloto perdeu visão em névoa antes de cair na Serra do Japi (SP), aponta investigação",
-    "resumo": "O Centro de Investigação e Prevenção de Acidentes Aeronáuticos (Cenipa) concluiu que o piloto Angelo Chaves Pucci perdeu a visão devido à névoa antes do avião cair na Serra do Japi, em Jundiaí (SP). O acidente resultou na morte do piloto. A investigação aponta as condições climáticas como fator determinante.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente aéreo",
-      "investigação",
-      "aviação"
-    ],
-    "entidades": [
-      "Cenipa"
-    ],
-    "pessoas": [
-      "Angelo Chaves Pucci"
-    ],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Jundiaí"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/18/relatorio-final-da-cenipa-sobre-acidente-na-serra-do-japi.html"
-      }
-    ]
-  },
-  {
-    "id": "uk-politica-zack-polanski",
-    "data": "2026-06-18",
-    "titulo": "Zack Polanski é inocentado em inquérito ético sobre pagamento de imposto",
-    "resumo": "Zack Polanski, líder do Partido Verde de Londres, foi inocentado por um inquérito ético sobre queixas de não pagamento de imposto residencial. A investigação foi aberta após alegações de que ele teria violado o código de ética da Assembleia de Londres ao não pagar o imposto enquanto morava em uma casa flutuante.",
-    "categoria": "politica",
-    "tags": [
-      "ética",
-      "imposto",
-      "política local"
-    ],
-    "entidades": [
-      "Partido Verde"
-    ],
-    "pessoas": [
-      "Zack Polanski"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/2026/jun/18/zack-polanski-cleared-ethics-inquiry-council-tax-houseboat"
-      }
-    ]
-  },
-  {
-    "id": "uk-russia-petroleiro-canal-mancha",
-    "data": "2026-06-18",
-    "titulo": "Petroleiro russo cruza Canal da Mancha pela primeira vez desde incidente",
-    "resumo": "Um navio petroleiro de bandeira russa, o Forwarder, entrou no Canal da Mancha, sendo o primeiro a fazê-lo desde um incidente anterior. O navio deixou o porto de Primorsk na semana passada. A passagem ocorre em meio a tensões marítimas.",
-    "categoria": "internacional",
-    "tags": [
-      "transporte marítimo",
-      "petroleiro",
-      "canal da mancha",
-      "rússia"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Rússia"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "BBC",
-        "url": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss"
-      }
-    ]
-  },
-  {
-    "id": "india-telegram-governo",
-    "data": "2026-06-18",
-    "titulo": "Governo indiano compara Telegram a 'Frankenstein'",
-    "resumo": "O governo da Índia descreveu o aplicativo de mensagens Telegram como um 'monstro' semelhante a 'Frankenstein'. A plataforma, que foi temporariamente proibida no país, é criticada por autoridades. O governo também está envolvido na segurança de retestes de exames educacionais e negociações comerciais com os EUA.",
-    "categoria": "tecnologia",
-    "tags": [
-      "aplicativo",
-      "comunicação",
-      "governo",
-      "índia"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Modi",
-      "Trump"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Índia",
-      "Estados Unidos"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "DW",
-        "url": "https://www.dw.com/en/india-news-telegram-is-like-frankenstein-government-says/live-77597035?maca=en-rss-en-all-1573-rdf"
-      }
-    ]
-  },
-  {
-    "id": "brasil-celebridades-reserva-acre",
-    "data": "2026-06-18",
-    "titulo": "Seu Jorge visita reserva no Acre e se reúne com líder ambientalista",
-    "resumo": "O cantor Seu Jorge visitou a Reserva Extrativista Chico Mendes, no interior do Acre. Durante a visita, ele se reuniu com o ativista ambiental e seringueiro Raimundo Mendes de Barros, conhecido como Raimundão, primo de Chico Mendes. A visita destaca a importância ambiental da região.",
-    "categoria": "cultura",
-    "tags": [
-      "música",
-      "meio ambiente",
-      "ativismo",
-      "acre"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Seu Jorge",
-      "Raimundo Mendes de Barros",
-      "Chico Mendes"
-    ],
-    "estados": [
-      "Acre"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ac/acre/noticia/2026/06/18/video-seu-jorge-visita-reserva-no-ac-e-se-reune-com-lider-ambientalista-e-primo-de-chico-mendes.html"
-      }
-    ]
-  },
-  {
-    "id": "brasil-ventania-para",
-    "data": "2026-06-18",
-    "titulo": "Forte ventania causa 'redemoinho' na BR-316 e assusta moradores no Pará",
-    "resumo": "Uma forte ventania formou um fenômeno parecido com um pequeno tornado na BR-316, próximo a Belém, no Pará. O evento assustou moradores e motoristas, levantando poeira e causando transtornos na rodovia. As imagens mostram a força do vento na região.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "vento forte",
-      "fenômeno meteorológico",
-      "rodovia",
-      "pará"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Pará"
-    ],
-    "cidades": [
-      "Belém"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pa/para/noticia/2026/06/18/forte-ventania-forma-redemoinho-na-br-316-e-assusta-moradores-e-motoristas-no-pa.html"
-      }
-    ]
-  },
-  {
-    "id": "cultura-aardman-exposicao-bristol",
-    "data": "2026-06-18",
-    "titulo": "Estúdio Aardman celebra 50 anos com exposição em Bristol",
-    "resumo": "O renomado estúdio de animação Aardman, criador de Wallace & Gromit e Shaun, the Sheep, comemora seus 50 anos com uma exposição em Bristol, no Reino Unido. A mostra celebra as raízes do estúdio na cidade e exibe personagens e cenários icônicos de suas produções.",
-    "categoria": "cultura",
-    "tags": [
-      "animação",
-      "exposição",
-      "artes visuais",
-      "aniversário"
-    ],
-    "entidades": [
-      "Aardman"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Bristol"
-    ],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/film/2026/jun/18/aardman-exhibition-animation-studio-bristol-wallace-gromit"
-      }
-    ]
-  },
-  {
-    "id": "esportes-mulheres-jogadores-celebracao",
-    "data": "2026-06-18",
-    "titulo": "Esposas de jogadores brasileiros se reúnem em celebração",
-    "resumo": "As esposas dos jogadores da Seleção Brasileira se reuniram para celebrar o aniversário de Gabrielle Figueiredo, companheira do jogador Gabriel Magalhães. O encontro de WAGs (esposas e namoradas de atletas) foi marcado por momentos de confraternização e alegria. A celebração ocorreu em meio aos compromissos da equipe.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "seleção brasileira",
-      "esposas de atletas",
-      "celebração"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Gabrielle Figueiredo",
-      "Gabriel Magalhães"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/pop/celebridades/encontro-de-wags-esposas-dos-jogadores-brasileiros-se-reunem-em-celebracao/"
-      }
-    ]
-  },
-  {
-    "id": "educacao-participacao-internacional-fortalece-estudos",
-    "data": "2026-06-18",
-    "titulo": "Participação em eventos internacionais impulsiona estudos nacionais",
-    "resumo": "A participação de profissionais brasileiros em eventos internacionais tem fortalecido a relevância dos estudos desenvolvidos no país. A fisioterapeuta Talita Jimeny Alves de Oliveira Kopke, por exemplo, ganhou destaque ao ministrar uma palestra no exterior. Iniciativas como essa promovem a troca de conhecimento e o avanço de pesquisas.",
-    "categoria": "educacao",
-    "tags": [
-      "pesquisa",
-      "intercâmbio",
-      "educação superior",
-      "fisioterapia"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Talita Jimeny Alves de Oliveira Kopke"
-    ],
-    "estados": [],
     "cidades": [],
     "paises": [
       "Brasil"
@@ -887,7 +241,691 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/pe/caruaru-regiao/especial-publicitario/faculdade-fic/noticia/2026/06/18/participacao-de-brasileiros-em-eventos-internacionais-fortalece-estudos-nacionais.html"
+        "url": "https://g1.globo.com/mg/sul-de-minas/especial-publicitario/truss-mg-dore/noticia/2026/06/19/mg-dore-completa-11-anos-como-maior-distribuidora-da-truss-em-minas.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-revocacao-ford",
+    "data": "2026-06-19",
+    "titulo": "Ford convoca recall para Bronco Sport e Maverick no Brasil por falha na suspensão",
+    "resumo": "A Ford do Brasil anunciou um recall para os modelos Bronco Sport e Maverick devido a um problema na fixação do braço inferior da suspensão dianteira. As unidades afetadas são dos anos de fabricação entre 2021 e 2025 para o Bronco Sport, e 2022 a 2025 para o Maverick. A empresa pede que os veículos afetados não sejam dirigidos.",
+    "categoria": "economia",
+    "tags": [
+      "recall",
+      "veículos",
+      "segurança automotiva"
+    ],
+    "entidades": [
+      "Ford"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/carros/noticia/2026/06/19/ford-do-brasil-faz-recall-de-bronco-sport-e-maverick-e-pede-que-veiculos-nao-sejam-conduzidos-por-falha-em-suspensao.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-festival-arte-urbana-vale-sao-francisco",
+    "data": "2026-06-19",
+    "titulo": "Festival de Arte Urbana do Vale de São Francisco abre inscrições para artistas",
+    "resumo": "A segunda edição do 'Beira: Festival de Arte Urbana do Vale de São Francisco' está com inscrições abertas para artistas de todo o país. O evento tem como objetivo promover a arte urbana na região. As inscrições buscam diversidade de talentos.",
+    "categoria": "cultura",
+    "tags": [
+      "arte urbana",
+      "festival",
+      "inscrições abertas"
+    ],
+    "entidades": [
+      "Secult-PE"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Pernambuco"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/06/19/festival-beira-de-arte-urbana-do-vale-de-sao-francisco-esta-com-inscricoes-abertas.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-jogo-brasil-copa-do-mundo",
+    "data": "2026-06-19",
+    "titulo": "Baixada Santista terá locais para assistir ao jogo do Brasil na Copa do Mundo",
+    "resumo": "Seis cidades da Baixada Santista, no litoral de São Paulo, vão oferecer espaços para a transmissão do segundo jogo da Seleção Brasileira na Copa do Mundo de 2026. O Brasil enfrenta o Haiti nesta sexta-feira (19). A iniciativa visa reunir fãs para torcer pela seleção.",
+    "categoria": "esportes",
+    "tags": [
+      "Copa do Mundo",
+      "transmissão de jogo",
+      "futebol"
+    ],
+    "entidades": [
+      "Seleção Brasileira"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil",
+      "Haiti"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/19/brasil-x-haiti-veja-onde-assistir-ao-jogo-da-copa-do-mundo-na-baixada-santista.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-uniforme-selecao-brasileira",
+    "data": "2026-06-19",
+    "titulo": "Criador do uniforme da seleção brasileira também desenvolveu modelos alternativos",
+    "resumo": "Além da icônica 'Amarelinha', o designer Aldyr Schlee, criador do uniforme principal da seleção brasileira, também desenvolveu outros modelos alternativos. O uniforme atual, criado em 1953, se tornou um símbolo respeitado no futebol mundial. A notícia destaca a versatilidade do designer.",
+    "categoria": "cultura",
+    "tags": [
+      "futebol",
+      "uniforme",
+      "história"
+    ],
+    "entidades": [
+      "Seleção Brasileira"
+    ],
+    "pessoas": [
+      "Aldyr Schlee"
+    ],
+    "estados": [
+      "Rio Grande do Sul"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/19/listrada-azul-ou-com-mapa-do-brasil-alem-da-amarelinha-criador-do-uniforme-da-selecao-tambem-fez-modelos-alternativos.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-celebração-ribeirao-preto",
+    "data": "2026-06-19",
+    "titulo": "Ribeirão Preto comemora 170 anos com bolo e programação especial",
+    "resumo": "A cidade de Ribeirão Preto completa 170 anos nesta sexta-feira (19) e celebra a data com uma programação especial. Inclui o tradicional corte do bolo de aniversário na Praça XV de Novembro, música e feira de artesanato. A festa visa celebrar a história da cidade.",
+    "categoria": "cultura",
+    "tags": [
+      "aniversário da cidade",
+      "celebração",
+      "eventos"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Ribeirão Preto"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/06/19/ribeirao-preto-comemora-170-anos-com-bolo-musica-e-feira-de-artesanato-na-praca-xv.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-parceria-ufg-casa-rosada",
+    "data": "2026-06-19",
+    "titulo": "UFG e Instituto Histórico Geográfico de Goiás celebram parceria em evento",
+    "resumo": "A Universidade Federal de Goiás (UFG) retorna à Casa Rosada, em Goiânia, para celebrar uma parceria com o Instituto Histórico Geográfico de Goiás. O evento simbólico ocorrerá em breve e remonta à época em que o espaço abrigava cursos da universidade. A iniciativa fortalece a relação acadêmica e histórica.",
+    "categoria": "educacao",
+    "tags": [
+      "parceria",
+      "universidade",
+      "história",
+      "instituto"
+    ],
+    "entidades": [
+      "UFG",
+      "Instituto Histórico Geográfico de Goiás"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Goiás"
+    ],
+    "cidades": [
+      "Goiânia"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/go/goias/noticia/2026/06/19/ufg-volta-a-casa-rosada-para-celebrar-parceria-entre-a-universidade-e-o-instituto-historico-geografico-de-goias.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-mulher-atropelada-transamazonica",
+    "data": "2026-06-19",
+    "titulo": "Mulher morre atropelada na Transamazônica, em Itaituba (PA)",
+    "resumo": "Uma mulher de 53 anos morreu após ser atropelada por um carro na BR-230, conhecida como Transamazônica, em Itaituba, no sudoeste do Pará. O acidente ocorreu nesta quinta-feira (18), e a vítima faleceu no local. As autoridades investigam as circunstâncias do ocorrido.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente de trânsito",
+      "atropelamento",
+      "morte"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Luísa Moreira de Amorim"
+    ],
+    "estados": [
+      "Pará"
+    ],
+    "cidades": [
+      "Itaituba"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pa/para/noticia/2026/06/19/mulher-morre-apos-ser-atropelada-na-transamazonica-em-itaituba-pa.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-debate-codec-santarem",
+    "data": "2026-06-19",
+    "titulo": "Codec e setor produtivo debatem regularização fundiária em Santarém",
+    "resumo": "A Companhia de Desenvolvimento Econômico do Pará (Codec) reuniu-se com representantes do setor produtivo de Santarém para discutir regularização fundiária e logística para o Distrito Industrial. O encontro buscou soluções para o desenvolvimento econômico da região. Participaram associações comerciais locais.",
+    "categoria": "economia",
+    "tags": [
+      "desenvolvimento econômico",
+      "regularização fundiária",
+      "logística",
+      "distrito industrial"
+    ],
+    "entidades": [
+      "Codec",
+      "Aces",
+      "Entidades Unidas pelo Desenvolvimento de Santarém"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Pará"
+    ],
+    "cidades": [
+      "Santarém"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/19/codec-e-setor-produtivo-debatem-regularizacao-fundiaria-e-logistica-para-o-distrito-industrial-de-santarem.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-soldador-morre-bahia",
+    "data": "2026-06-19",
+    "titulo": "Soldador morre após descarga elétrica na zona rural de Riachão do Jacuípe (BA)",
+    "resumo": "Um soldador de 45 anos morreu após sofrer uma descarga elétrica enquanto trabalhava na zona rural de Riachão do Jacuípe, na Bahia. O acidente ocorreu na manhã desta sexta-feira (19). As circunstâncias exatas da descarga elétrica estão sendo investigadas.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente de trabalho",
+      "descarga elétrica",
+      "morte"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Bahia"
+    ],
+    "cidades": [
+      "Riachão do Jacuípe"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/19/morte-descarga-eletrica-bahia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-casal-assassinado-piaui",
+    "data": "2026-06-19",
+    "titulo": "Casal de idosos assassinado no Piauí é velado; neto é preso",
+    "resumo": "O casal de idosos Maria Amélia Veríssimo, 75, e José Veríssimo Neto, 83, encontrados mortos em casa na quinta-feira (18), está sendo velado nesta sexta-feira (19) no Piauí. O neto das vítimas foi preso sob suspeita de envolvimento no crime. As investigações continuam.",
+    "categoria": "justica",
+    "tags": [
+      "homicídio",
+      "idosos",
+      "prisão",
+      "investigação policial"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Maria Amélia Veríssimo",
+      "José Veríssimo Neto"
+    ],
+    "estados": [
+      "Piauí"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/19/casal-de-idosos-assassinado-em-casa-velado.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-colisao-motos-ceara",
+    "data": "2026-06-19",
+    "titulo": "Colisão entre motos deixa quatro feridos no Ceará, incluindo crianças",
+    "resumo": "Quatro pessoas ficaram feridas após uma colisão entre duas motos na noite de quinta-feira (19) no Ceará. O acidente ocorreu na CE-266, em Tabuleiro do Norte. Entre as vítimas estão duas crianças. A Polícia Militar atendeu a ocorrência e investiga as causas.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente de trânsito",
+      "colisão",
+      "vítimas"
+    ],
+    "entidades": [
+      "Polícia Militar do Ceará"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Ceará"
+    ],
+    "cidades": [
+      "Tabuleiro do Norte"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ce/ceara/noticia/2026/06/19/quatro-pessoas-ficam-feridas-apos-colisao-entre-motos-no-ceara.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-cinema-maranhao",
+    "data": "2026-06-19",
+    "titulo": "Carreta de cinema leva sessões gratuitas a cidades do Maranhão",
+    "resumo": "O projeto Cine CAIXA CAP leva sessões gratuitas de cinema a Graça Aranha, Sítio Novo e Porto Franco, no interior do Maranhão, nos dias 19 e 20 de junho. A carreta de cinema oferece atrações culturais para as comunidades. O evento visa democratizar o acesso à cultura.",
+    "categoria": "cultura",
+    "tags": [
+      "cinema",
+      "sessões gratuitas",
+      "cultura"
+    ],
+    "entidades": [
+      "CAIXA"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Maranhão"
+    ],
+    "cidades": [
+      "Graça Aranha",
+      "Sítio Novo",
+      "Porto Franco"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/19/carreta-leva-sessoes-gratuitas-de-cinema-a-graca-aranha-sitio-novo-e-porto-franco-no-maranhao.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-ecco-truss-minas-gerais",
+    "data": "2026-06-19",
+    "titulo": "MG Dore celebra 11 anos como maior distribuidora da Truss em Minas Gerais",
+    "resumo": "A MG Dore comemora 11 anos de atuação como a maior distribuidora de produtos Truss em Minas Gerais. A empresa leva cosméticos para salões e lojas em 409 cidades do estado. O mercado de beleza brasileiro continua em expansão.",
+    "categoria": "economia",
+    "tags": [
+      "distribuição",
+      "cosméticos",
+      "mercado de beleza"
+    ],
+    "entidades": [
+      "Truss",
+      "MG Dore"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/sul-de-minas/especial-publicitario/truss-mg-dore/noticia/2026/06/19/mg-dore-completa-11-anos-como-maior-distribuidora-da-truss-em-minas.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-ciclista-atropelado-recife",
+    "data": "2026-06-19",
+    "titulo": "Ciclista morre após ser atropelado por carro e micro-ônibus no Recife",
+    "resumo": "Um ciclista morreu após ser atropelado por um carro e um micro-ônibus na BR-101, no Recife, na madrugada desta sexta-feira (19). A vítima caiu na pista após uma colisão inicial com uma moto. As autoridades de trânsito registraram o acidente.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente de trânsito",
+      "morte",
+      "ciclista"
+    ],
+    "entidades": [
+      "PRF"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Pernambuco"
+    ],
+    "cidades": [
+      "Recife"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/06/19/ciclista-morre-apos-ser-atropelado-por-carro-e-micro-onibus-na-br-101.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-creche-pets-mogi-das-cruzes",
+    "data": "2026-06-19",
+    "titulo": "Creche para pets em Mogi das Cruzes promove futebol para cães em clima de Copa",
+    "resumo": "Uma creche para pets em Mogi das Cruzes entrou no clima da Copa do Mundo, organizando atividades temáticas para os cachorros, incluindo partidas de futebol. As brincadeiras visam entreter e socializar os animais. A iniciativa reflete o entusiasmo pelo evento esportivo.",
+    "categoria": "cultura",
+    "tags": [
+      "pets",
+      "copa do mundo",
+      "atividades para animais"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Mogi das Cruzes"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/06/19/creche-para-pets-em-mogi-entra-no-clima-da-copa-com-futebol-para-caes.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-jornalista-sudanês-visto-reino-unido",
+    "data": "2026-06-19",
+    "titulo": "Jornalista sudanês tem visto negado para receber prêmio no Reino Unido",
+    "resumo": "Mohammed Amin, premiado como 'Jornalista do Ano', teve seu visto negado pelo Reino Unido e não poderá comparecer à cerimônia de entrega do prêmio. A decisão impede o jornalista de receber a distinção pessoalmente. As razões para a negativa do visto não foram detalhadas.",
+    "categoria": "cultura",
+    "tags": [
+      "jornalismo",
+      "prêmio",
+      "visto",
+      "Reino Unido"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Mohammed Amin"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido",
+      "Sudão"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/sudanese-journalist-denied-uk-visa-to-collect-prestigious-award?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-predador-sexual-reino-unido",
+    "data": "2026-06-19",
+    "titulo": "Predador sexual que chantageava homens online é condenado a 16 anos no Reino Unido",
+    "resumo": "Waleed Saeed, condenado por chantagear homens, a maioria muçulmanos, online, foi sentenciado a 16 anos de prisão no Reino Unido. A polícia suspeita que ele possa ter até 70 vítimas adicionais. A campanha de Saeed envolvia armadilhas, ameaças e extorsão.",
+    "categoria": "justica",
+    "tags": [
+      "chantagem",
+      "crime online",
+      "sentença",
+      "predador sexual"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Waleed Saeed"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/19/uk-sexual-predator-blackmailed-muslim-men-online-jailed-waleed-saeed"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-burnham-starmer-reino-unido",
+    "data": "2026-06-19",
+    "titulo": "Andy Burnham pede 'novo caminho para a Grã-Bretanha' enquanto Starmer enfrenta desafio à liderança",
+    "resumo": "Andy Burnham apelou por um 'novo caminho para a Grã-Bretanha' após uma vitória em eleição suplementar. Enquanto isso, Keir Starmer reafirmou sua intenção de combater qualquer desafio à sua liderança no Partido Trabalhista. David Blunkett sugeriu que Starmer deveria renunciar.",
+    "categoria": "politica",
+    "tags": [
+      "política britânica",
+      "liderança",
+      "eleição suplementar"
+    ],
+    "entidades": [
+      "Partido Trabalhista"
+    ],
+    "pessoas": [
+      "Andy Burnham",
+      "Keir Starmer",
+      "David Blunkett"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-keir-starmer-andy-burnham-robert-kenyon-labour-leadership-reform-aberdeen-arbroath-uk-politics-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-paciente-ebola-rdc",
+    "data": "2026-06-19",
+    "titulo": "Paciente de seis anos com Ebola encontrada e 'bem' na RDC",
+    "resumo": "Uma criança de seis anos com Ebola, que havia sido retirada de um hospital na República Democrática do Congo, foi encontrada e está em bom estado de saúde. Instalações de saúde têm sido alvos de ataques durante o surto, alimentados por desinformação e medo.",
+    "categoria": "saude",
+    "tags": [
+      "ebola",
+      "saúde pública",
+      "República Democrática do Congo"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "República Democrática do Congo"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "BBC",
+        "url": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-mega-sena-alagoas",
+    "data": "2026-06-19",
+    "titulo": "32 apostas de Alagoas acertam a quadra na Mega-Sena 3020",
+    "resumo": "Trinta e duas apostas de Alagoas foram premiadas com a quadra no concurso 3020 da Mega-Sena, realizado em São Paulo. Cada aposta premiada recebeu R$ 1.802,82. Nenhuma aposta acertou as seis dezenas do prêmio principal. A Caixa Econômica Federal realizou o sorteio.",
+    "categoria": "economia",
+    "tags": [
+      "loteria",
+      "Mega-Sena",
+      "prêmios"
+    ],
+    "entidades": [
+      "Caixa Econômica Federal"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Alagoas",
+      "São Paulo"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/al/alagoas/noticia/2026/06/19/mega-sena-3020-32-apostas-de-alagoas-acertam-a-quadra-veja-cidades.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-haddad-jaques-wagner",
+    "data": "2026-06-19",
+    "titulo": "Haddad defende investigação contra Jaques Wagner: 'A lei tem que ser aplicada'",
+    "resumo": "O pré-candidato do PT ao governo de São Paulo, Fernando Haddad, defendeu a investigação da Polícia Federal contra o senador Jaques Wagner, também do PT. Haddad afirmou que a lei deve ser aplicada independentemente de quem for o alvo. A investigação apura ações do senador.",
+    "categoria": "politica",
+    "tags": [
+      "investigação",
+      "senador",
+      "política"
+    ],
+    "entidades": [
+      "Polícia Federal",
+      "PT"
+    ],
+    "pessoas": [
+      "Fernando Haddad",
+      "Jaques Wagner"
+    ],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/06/19/a-lei-tem-que-ser-aplicada-independentemente-da-torcida-diz-haddad-sobre-operacao-contra-jaques-wagner.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-19-lazer-natureza-pesca-esportiva",
+    "data": "2026-06-19",
+    "titulo": "Complexo une lazer aquático e pesca esportiva como opção de lazer",
+    "resumo": "Um complexo que une lazer aquático e pesca esportiva se apresenta como uma alternativa para quem busca descanso e contato com a natureza. Os lagos são monitorados para a prática da pesca esportiva, oferecendo uma opção para fugir do estresse urbano. A iniciativa visa promover o bem-estar familiar.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "lazer",
+      "natureza",
+      "pesca esportiva",
+      "turismo"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/especial-publicitario/pesqueiro-adega-e-parque-aquatico/noticia/2026/06/19/conecte-sua-familia-a-natureza-complexo-une-lazer-aquatico-e-pesca-esportiva.ghtml"
       }
     ]
   }
