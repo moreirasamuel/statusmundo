@@ -1,108 +1,168 @@
 [
   {
-    "id": "2026-06-20-invasao-defesa-civil",
-    "data": "2026-06-20",
-    "titulo": "Suspeita de invasão ao sistema da Defesa Civil Nacional leva acionamento da Polícia Federal",
-    "resumo": "A Polícia Federal foi acionada pelo Ministério da Integração e do Desenvolvimento para investigar uma suspeita de invasão ao sistema da Defesa Civil Nacional. A invasão teria ocorrido após o envio de um alerta extremo de forma incorreta, que assustou moradores do Distrito Federal. A Defesa Civil de São Paulo desabilitou temporariamente sua ferramenta de alertas como medida de segurança, enquanto a investigação nacional avança.",
-    "categoria": "seguranca",
+    "id": "2026-06-21-negociacoes-eua-ira",
+    "data": "2026-06-21",
+    "titulo": "EUA e Irã iniciam negociações na Suíça com foco em acordo de paz e questões nucleares",
+    "resumo": "Representantes dos Estados Unidos e do Irã iniciaram conversas em Bürgenstock, na Suíça. O objetivo é discutir um acordo para o fim da guerra e questões nucleares entre os dois países. O vice-presidente dos EUA e o presidente do Parlamento iraniano participaram dos encontros, que ocorrem em meio a tensões na região do Oriente Médio e o fechamento do Estreito de Hormuz.",
+    "categoria": "internacional",
     "tags": [
-      "invasão",
-      "cibersegurança",
-      "defesa civil",
-      "polícia federal"
+      "negociações",
+      "guerra",
+      "paz",
+      "nuclear"
     ],
     "entidades": [
-      "Polícia Federal",
-      "Defesa Civil Nacional",
-      "Ministério da Integração e do Desenvolvimento",
-      "Defesa Civil de São Paulo"
+      "ONU",
+      "Parlamento Iraniano"
     ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
+    "pessoas": [
+      "Mohammed Ghalibaf",
+      "JD Vance"
     ],
-    "cidades": [],
+    "estados": [],
+    "cidades": [
+      "Bürgenstock",
+      "Zurique"
+    ],
     "paises": [
-      "Brasil"
+      "Estados Unidos",
+      "Irã",
+      "Suíça"
     ],
     "importancia": 5,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/tecnologia/noticia/2026/06/20/policia-federal-investigar-suspeita-invasao-defesa-civil-nacional-alerta-extremo.ghtml"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/negociacoes-entre-eua-e-ira-comecam-em-burgenstock-na-suica/"
       },
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/20/defesa-civil-de-sp-desabilita-ferramenta-de-alertas-climaticos-apos-ataque-hacker-investigado-em-sistema-nacional.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/mundo/noticia/2026/06/21/vemos-um-futuro-juntos-e-em-paz-diz-vice-de-trump-em-encontro-com-ira.ghtml"
       },
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/20/moradores-do-df-se-assustam-ao-receber-alerta-sonoro-com-palavra-misantropia.ghtml"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/jun/21/iran-us-israel-war-middle-east-lebanon-peace-talks-switzerland-vance-trump-strait-of-hormuz-latest-news-updates"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/jun/21/us-iran-talks-jd-vance-switzerland-strait-of-hormuz-lebanon"
+      },
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/chefe-da-agencia-nuclear-da-onu-se-reune-com-chanceler-da-suica/"
       }
     ]
   },
   {
-    "id": "2026-06-20-violencia-casos-isolados",
-    "data": "2026-06-20",
-    "titulo": "Casos de violência e mortes são registrados em diferentes cidades",
-    "resumo": "Em Anápolis, Goiás, um empresário foi morto a tiros enquanto se dirigia à delegacia para denunciar ameaças de um agiota. No Rio de Janeiro, um homem foi morto após uma briga que começou entre crianças em Campo Grande. Em Cuiabá, Mato Grosso, um mutirão de vacinação para cães foi realizado.",
-    "categoria": "seguranca",
+    "id": "2026-06-21-eleicao-colombia",
+    "data": "2026-06-21",
+    "titulo": "Colômbia realiza segundo turno da eleição presidencial neste domingo",
+    "resumo": "Os eleitores colombianos votam neste domingo no segundo turno da eleição presidencial. A disputa ocorre entre o candidato de direita Abelardo de la Espriella e o esquerdista Iván Cepeda. O resultado definirá o futuro líder do país.",
+    "categoria": "politica",
     "tags": [
-      "violência",
-      "homicídio",
-      "agiotagem",
-      "vacinação"
+      "eleição",
+      "presidencial",
+      "Colômbia"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Abelardo de la Espriella",
+      "Iván Cepeda"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Colômbia"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/urnas-abrem-na-colombia-para-segundo-turno-da-eleicao-presidencial/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-21-clima-extremo-reino-unido",
+    "data": "2026-06-21",
+    "titulo": "Reino Unido se prepara para ondas de calor recordes com previsão de temperaturas extremas",
+    "resumo": "O Escritório de Meteorologia do Reino Unido emitiu um alerta de calor extremo, prevendo temperaturas recordes de até 38°C para esta semana. Alertas de saúde foram acionados devido à alta umidade, que aumenta o risco de estresse térmico para populações vulneráveis. A onda de calor pode durar por vários dias.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "clima",
+      "calor",
+      "temperatura",
+      "alerta"
     ],
     "entidades": [
-      "Polícia Militar"
+      "Met Office"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2026/jun/21/record-breaking-extreme-heat-wave-humidity-uk-met-office-warning"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-21-seguranca-sp",
+    "data": "2026-06-21",
+    "titulo": "Suspeito confessa tentativa de sequestro em São Paulo",
+    "resumo": "Um dos suspeitos detidos pela tentativa de sequestro de uma criança em Guaianases, na Zona Leste de São Paulo, admitiu o crime. Ele declarou que estava se escondendo por medo de ser morto. O caso é investigado pela polícia.",
+    "categoria": "seguranca",
+    "tags": [
+      "sequestro",
+      "crime",
+      "confissão",
+      "São Paulo"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "São Paulo",
+      "Guaianases"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/21/suspeito-de-tentar-sequestrar-crianca-em-sp-admite-crime-e-diz-que-se-escondia-por-medo-de-ser-morto.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-21-loteria-mega-sena",
+    "data": "2026-06-21",
+    "titulo": "Apostas de Goiás e Bahia acertam cinco números na Mega-Sena",
+    "resumo": "Seis apostas feitas em Goiás acertaram cinco dezenas no último concurso da Mega-Sena, totalizando mais de R$ 185 mil em prêmios. Em paralelo, quatro apostas na Bahia também acertaram a quina, cada uma faturando R$ 30.910,50. O prêmio principal saiu para uma aposta no Rio de Janeiro.",
+    "categoria": "economia",
+    "tags": [
+      "loteria",
+      "Mega-Sena",
+      "prêmios",
+      "apostas"
+    ],
+    "entidades": [
+      "Caixa Econômica Federal"
     ],
     "pessoas": [],
     "estados": [
       "Goiás",
-      "Rio de Janeiro",
-      "Mato Grosso"
-    ],
-    "cidades": [
-      "Anápolis",
-      "Campo Grande",
-      "Cuiabá"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/go/goias/noticia/2026/06/20/empresario-e-morto-a-tiros-enquanto-ia-a-delegacia-denunciar-agiota-diz-policia.ghtml"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/20/homem-e-morto-em-campo-grande.html"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/06/20/cuiaba-realiza-mutirao-gratuito-de-vacinacao-para-caes-neste-sabado-20.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-20-educacao-amapa",
-    "data": "2026-06-20",
-    "titulo": "Amapá apresenta o pior índice de educação infantil do país",
-    "resumo": "Segundo dados do IBGE, o Amapá registrou o menor índice de acesso à educação infantil em 2025, com apenas 60% das crianças matriculadas. O estado também não atingiu as metas de escolarização na idade certa, indicando desafios significativos na área da educação infantil no estado.",
-    "categoria": "educacao",
-    "tags": [
-      "educação infantil",
-      "IBGE",
-      "metas de aprendizagem"
-    ],
-    "entidades": [
-      "IBGE"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Amapá"
+      "Bahia",
+      "Rio de Janeiro"
     ],
     "cidades": [],
     "paises": [
@@ -111,521 +171,29 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/ap/amapa/noticia/2026/06/20/amapa-tem-pior-indice-de-educacao-infantil-do-pais-e-nao-alcanca-metas-de-aprendizagem-diz-ibge.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-20-politica-colombia",
-    "data": "2026-06-20",
-    "titulo": "Colômbia se prepara para segundo turno presidencial com fantasma de paramilitares",
-    "resumo": "A Colômbia se prepara para o segundo turno das eleições presidenciais, onde os eleitores decidirão entre dois candidatos cujas trajetórias foram moldadas por milícias paramilitares. As visões dos candidatos para o país são diametralmente opostas, e a influência histórica dos grupos armados paira sobre o pleito.",
-    "categoria": "politica",
-    "tags": [
-      "eleições presidenciais",
-      "paramilitares",
-      "Colômbia"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Colômbia"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jun/20/colombia-presidential-election-paramilitary-militia-runoff"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-20-meio-ambiente-tunisia",
-    "data": "2026-06-20",
-    "titulo": "Estratégia de energia renovável da Tunísia enfrenta resistência",
-    "resumo": "A estratégia de energia renovável da Tunísia está enfrentando obstáculos e resistência. A concessão de projetos de energia renovável para corporações estrangeiras é apontada como um fator que pode não resolver a crise energética do país. A situação indica desafios na implementação de suas políticas energéticas sustentáveis.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "energia renovável",
-      "crise energética",
-      "Tunísia"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Tunísia"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/opinions/2026/6/20/why-tunisias-renewable-energy-strategy-is-facing-resistance?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-20-internacional-liberdade-provisoria",
-    "data": "2026-06-20",
-    "titulo": "Empresário preso na Operação Estorno em Santarém é solto por decisão judicial",
-    "resumo": "A justiça determinou a liberdade provisória para um empresário que havia sido preso em Santarém, Pará, durante a Operação Estorno. O empresário foi flagrado com munições durante um mandado de busca e apreensão. A decisão judicial permite que ele responda em liberdade.",
-    "categoria": "justica",
-    "tags": [
-      "operação estorno",
-      "liberdade provisória",
-      "Santarém"
-    ],
-    "entidades": [
-      "Polícia Civil"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Pará"
-    ],
-    "cidades": [
-      "Santarém"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/20/justica-manda-soltar-empresario-preso-na-operacao-estorno-em-santarem.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-20-politica-uk",
-    "data": "2026-06-20",
-    "titulo": "Pressão aumenta sobre líder do Partido Trabalhista para renunciar em favor de outro membro",
-    "resumo": "Um membro do Partido Trabalhista expressou que o líder atual, Keir Starmer, não possui autoridade e que a pressão para ele renunciar em favor de Andy Burnham está crescendo. Há especulações de que Starmer teria apenas algumas semanas restantes no cargo. A situação política no Reino Unido indica instabilidade dentro do partido.",
-    "categoria": "politica",
-    "tags": [
-      "partido trabalhista",
-      "liderança",
-      "Reino Unido"
-    ],
-    "entidades": [
-      "Partido Trabalhista"
-    ],
-    "pessoas": [
-      "Keir Starmer",
-      "Andy Burnham",
-      "Charlie Falconer"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/20/keir-starmer-andy-burnham-labour-leadership-makerfield-byelection-uk-politics-latest-news"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-20-justica-israel",
-    "data": "2026-06-20",
-    "titulo": "Tribunal israelense condena sete homens por linchamento em 2021",
-    "resumo": "Um tribunal em Israel condenou sete homens pelo linchamento de Sa’id Moussa em 2021. O julgamento, que durou cinco anos, chegou ao fim com as condenações. O caso se refere a um incidente de violência ocorrido há alguns anos no país.",
-    "categoria": "justica",
-    "tags": [
-      "linchamento",
-      "condenação",
-      "Israel"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Sa’id Moussa"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Israel"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/an-israeli-court-has-convicted-seven-men-over-the-2021-lynching-of-said-mo?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-20-internacional-lebanon",
-    "data": "2026-06-20",
-    "titulo": "Ataques israelenses no sul do Líbano deixam ao menos 16 mortos",
-    "resumo": "Pelo menos 16 pessoas morreram em ataques israelenses no sul do Líbano, segundo autoridades locais. Os ataques ocorreram apesar de relatos de um cessar-fogo renovado que visava encerrar a violência persistente. O conflito entre Israel e Hezbollah forçou o cancelamento de negociações de paz entre EUA e Irã.",
-    "categoria": "internacional",
-    "tags": [
-      "ataques",
-      "Líbano",
-      "Israel",
-      "Hezbollah",
-      "cessar-fogo"
-    ],
-    "entidades": [
-      "Hezbollah"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Líbano",
-      "Israel"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jun/20/israeli-strikes-southern-lebanon-reports-renewed-ceasefire"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-20-esportes-copa",
-    "data": "2026-06-20",
-    "titulo": "Seleções africanas mostram força na Copa, enquanto Paraguai exalta espírito de equipe",
-    "resumo": "A Costa do Marfim demonstra potencial para alcançar um feito inédito, vencendo o Equador em sua estreia e buscando avançar para o mata-mata. O técnico do Paraguai, Gustavo Alfaro, elogiou o espírito de sua equipe após a vitória sobre a Turquia, ressaltando que a seleção não deve se sentir inferior. O torneio segue com surpresas e demonstrações de força das equipes.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "Copa do Mundo",
-      "Costa do Marfim",
-      "Paraguai"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Drogba",
-      "Gustavo Alfaro"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Costa do Marfim",
-      "Equador",
-      "Paraguai",
-      "Turquia"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/nova-geracao-costa-do-marfim-pode-alcancar-feito-que-drogba-nao-conseguiu/"
+        "nome": "G1",
+        "url": "https://g1.globo.com/go/goias/noticia/2026/06/21/mega-sena-seis-apostas-de-goias-acertam-a-quina-e-levam-mais-de-r-185-mil.ghtml"
       },
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/tecnico-do-paraguai-exalta-espirito-da-equipe-apos-vitoria-na-copa/"
+        "nome": "G1",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/21/apostas-da-bahia-acertam-cinco-numeros-na-mega-sena.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-20-economia-moscou",
-    "data": "2026-06-20",
-    "titulo": "Explosões em Moscou impactam economia russa e geram descontentamento",
-    "resumo": "Explosões em Moscou causaram danos significativos, afetando até mesmo a \"armadura\" do presidente Putin, conforme análise. Os ataques a refinarias de petróleo ameaçam o abastecimento de combustível e têm gerado descontentamento entre a população russa. O presidente admitiu os impactos negativos na economia do país.",
-    "categoria": "economia",
-    "tags": [
-      "Rússia",
-      "economia",
-      "ataques",
-      "explosões",
-      "refinarias"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Putin"
-    ],
-    "estados": [],
-    "cidades": [
-      "Moscou"
-    ],
-    "paises": [
-      "Rússia"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/analise-explosoes-em-moscou-destroem-ate-mesmo-a-armadura-de-putin/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-20-internacional-trump-musk",
-    "data": "2026-06-20",
-    "titulo": "Figuras políticas e empresariais de destaque participam de retiro secreto de Peter Thiel",
-    "resumo": "Uma lista vazada revelou participantes de encontros secretos organizados por Peter Thiel, incluindo aliados do ex-presidente Donald Trump e o empresário Elon Musk. A lista expôs figuras políticas de diferentes espectros e oficiais de outros países. Os retiros, conhecidos como 'Dialog', são eventos privados e de acesso restrito.",
-    "categoria": "internacional",
-    "tags": [
-      "Peter Thiel",
-      "Elon Musk",
-      "Donald Trump",
-      "retiro secreto"
-    ],
-    "entidades": [
-      "Dialog"
-    ],
-    "pessoas": [
-      "Peter Thiel",
-      "Donald Trump",
-      "Elon Musk",
-      "Jared Kushner",
-      "Scott Bessent"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/technology/2026/jun/20/trump-elon-musk-peter-thiel-retreat"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-20-seguranca-acidentes",
-    "data": "2026-06-20",
-    "titulo": "Acidentes de trânsito e ferroviários mobilizam equipes de resgate",
-    "resumo": "Um grave acidente envolvendo pelo menos 15 veículos ocorreu na BR-262 na Grande BH, exigindo a mobilização do Corpo de Bombeiros. No litoral de São Paulo, um carro despencou em um canal após o motorista errar uma curva, com o condutor sendo resgatado. Na Inglaterra, um acidente ferroviário perto de Bedford matou o condutor e deixou nove pessoas em estado crítico.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidentes",
-      "transporte",
-      "bombeiros",
-      "resgate"
-    ],
-    "entidades": [
-      "Corpo de Bombeiros"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais",
-      "São Paulo"
-    ],
-    "cidades": [
-      "Belo Horizonte",
-      "Santos"
-    ],
-    "paises": [
-      "Brasil",
-      "Reino Unido"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/20/video-acidente-envolvendo-ao-menos-15-veiculos-mobiliza-bombeiros-na-br-262-na-grande-bh.ghtml"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/20/motorista-erra-curva-e-carro-despenca-em-canal-no-litoral-de-sp-video.ghtml"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/20/bedford-train-crash-passenger-carriage-injured-hospital-treatment"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-20-cultura-festas",
-    "data": "2026-06-20",
-    "titulo": "Festas juninas e cultura do forró em destaque na Bahia",
-    "resumo": "Em Feira de Santana, Bahia, o Mercado de Arte Popular e o Shopping Cidade das Compras oferecem uma programação gratuita de forró até o dia 23 de junho. A iniciativa celebra a cultura nordestina e as festas juninas. A notícia também menciona a melhor época para consumir vinhos durante o inverno.",
+    "id": "2026-06-21-cinema-palmas",
+    "data": "2026-06-21",
+    "titulo": "Novo cinema com tecnologia a laser será inaugurado em shopping de Palmas",
+    "resumo": "Um novo complexo de cinema com cinco salas e capacidade para 660 espectadores será inaugurado em um shopping de Palmas na próxima quinta-feira. Uma das salas terá formato VIP e a operação será realizada pela Cinesercla. O cinema contará com tecnologia a laser.",
     "categoria": "cultura",
     "tags": [
-      "forró",
-      "festas juninas",
-      "cultura",
-      "Bahia",
-      "vinhos"
-    ],
-    "entidades": [
-      "MAP",
-      "Shopping Cidade das Compras"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Bahia"
-    ],
-    "cidades": [
-      "Feira de Santana"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/ba/bahia/saojoao/noticia/2026/06/20/programacao-forro-bahia.ghtml"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pr/parana/especial-publicitario/porto-a-porto/guia-do-vinho-e-da-gastronomia/noticia/2026/06/20/os-melhores-vinhos-para-o-inverno.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-20-internacional-lebanon-ceasefire",
-    "data": "2026-06-20",
-    "titulo": "Relatos de cessar-fogo no Líbano são ofuscados por novos ataques",
-    "resumo": "Apesar de relatos sobre a renovação de um cessar-fogo, ataques israelenses no sul do Líbano resultaram na morte de pelo menos 16 pessoas. A persistência da violência forçou mediadores a cancelar negociações de paz entre os Estados Unidos e o Irã, que estavam previstas para ocorrer na Suíça. O conflito entre Hezbollah e Israel continua a gerar instabilidade na região.",
-    "categoria": "internacional",
-    "tags": [
-      "Líbano",
-      "Israel",
-      "cessar-fogo",
-      "Hezbollah",
-      "negociações de paz"
-    ],
-    "entidades": [
-      "Hezbollah"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Líbano",
-      "Israel",
-      "Estados Unidos",
-      "Irã"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jun/20/israeli-strikes-southern-lebanon-reports-renewed-ceasefire"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-20-seguranca-violencia-domestica",
-    "data": "2026-06-20",
-    "titulo": "Pesquisa aponta alto índice de violência doméstica em Rio Branco",
-    "resumo": "Uma pesquisa realizada na capital do Acre, Rio Branco, revelou que mais de 10 mil mulheres foram vítimas de violência doméstica nos últimos 12 meses. O levantamento, que ouviu 800 pessoas, indica a gravidade do problema na cidade. Os dados foram divulgados pela Universidade Federal do Acre.",
-    "categoria": "seguranca",
-    "tags": [
-      "violência doméstica",
-      "pesquisa",
-      "Rio Branco",
-      "mulheres"
-    ],
-    "entidades": [
-      "Universidade Federal do Acre"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Acre"
-    ],
-    "cidades": [
-      "Rio Branco"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/ac/acre/noticia/2026/06/20/mais-de-10-mil-mulheres-sofreram-violencia-domestica-em-rio-branco-no-ultimo-ano-aponta-pesquisa.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-20-politica-india",
-    "data": "2026-06-20",
-    "titulo": "Protestos na Índia contra irregularidades em exames e pressão sobre o governo",
-    "resumo": "Centenas de pessoas participaram de um protesto em Nova Delhi, na Índia, organizado pela 'Cockroach' Janta Party. O movimento busca pressionar o governo em relação a supostas irregularidades em exames e casos de suicídio de estudantes. O protesto é direcionado especificamente ao Ministro da Educação, Dharmendra Pradhan.",
-    "categoria": "politica",
-    "tags": [
-      "protestos",
-      "Índia",
-      "educação",
-      "governo"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Dharmendra Pradhan"
-    ],
-    "estados": [],
-    "cidades": [
-      "Nova Delhi"
-    ],
-    "paises": [
-      "Índia"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "DW",
-        "url": "https://www.dw.com/en/india-news-hundreds-attend-cockroach-party-protest-in-new-delhi/live-77634329?maca=en-rss-en-all-1573-rdf"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-20-justica-processo-ap",
-    "data": "2026-06-20",
-    "titulo": "Autor desiste de ação de inelegibilidade contra Dr. Furlan, mas MPE pede continuidade",
-    "resumo": "Gilvam Borges, autor de uma ação que pedia a inelegibilidade de Dr. Furlan por suposto abuso de poder político e econômico, desistiu do processo. No entanto, o Ministério Público Eleitoral (MPE) argumenta que o julgamento não deve ser interrompido. A ação se refere às eleições de 2024, onde ambos foram candidatos em Macapá.",
-    "categoria": "justica",
-    "tags": [
-      "inelegibilidade",
-      "eleições",
-      "abuso de poder",
-      "Ministério Público"
-    ],
-    "entidades": [
-      "Ministério Público Eleitoral"
-    ],
-    "pessoas": [
-      "Gilvam Borges",
-      "Dr. Furlan"
-    ],
-    "estados": [
-      "Amapá"
-    ],
-    "cidades": [
-      "Macapá"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/ap/amapa/noticia/2026/06/20/gilvam-borges-desiste-de-acao-de-inelegibilidade-de-dr-furlan-mas-mpe-diz-que-julgamento-nao-deve-ser-interrompido.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-20-saude-palmas",
-    "data": "2026-06-20",
-    "titulo": "Santa Casa de Palmas cobra pagamento atrasado da prefeitura em meio à crise na saúde",
-    "resumo": "A Irmandade da Santa Casa de Misericórdia de Itatiba cobrou a prefeitura de Palmas por pagamentos atrasados. A entidade, contratada para gerir serviços em unidades de saúde da capital, protocolou um ofício solicitando os valores devidos. A cobrança ocorre em um contexto de crise na saúde do município.",
-    "categoria": "saude",
-    "tags": [
-      "saúde pública",
-      "pagamento atrasado",
-      "prefeitura",
+      "cinema",
+      "inauguração",
+      "tecnologia",
       "Palmas"
     ],
     "entidades": [
-      "Santa Casa de Misericórdia",
-      "Secretaria de Saúde"
+      "Cinesercla"
     ],
     "pessoas": [],
     "estados": [
@@ -637,59 +205,370 @@
     "paises": [
       "Brasil"
     ],
-    "importancia": 3,
+    "importancia": 2,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/20/em-meio-a-crise-na-saude-de-palmas-santa-casa-cobra-pagamento-atrasado-da-prefeitura.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/21/novo-complexo-de-cinema-sera-inaugurado-em-shopping-de-palmas-com-cinco-salas-e-tecnologia-a-laser.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-20-internacional-lebanon-bombardment",
-    "data": "2026-06-20",
-    "titulo": "Israel realiza ataques no sul do Líbano, matando pelo menos 16 pessoas",
-    "resumo": "Ataques aéreos israelenses atingiram o sul do Líbano, resultando na morte de pelo menos 16 pessoas, conforme relatos de autoridades locais. Os incidentes ocorrem apesar de notícias sobre a renovação de um cessar-fogo. A escalada da violência entre Israel e Hezbollah levou ao cancelamento de negociações de paz EUA-Irã na Suíça.",
-    "categoria": "internacional",
+    "id": "2026-06-21-musica-lenine-rj",
+    "data": "2026-06-21",
+    "titulo": "Lenine apresenta show 'Eita' no Rio de Janeiro com participações especiais",
+    "resumo": "O cantor Lenine apresentou seu show 'Eita' no Rio de Janeiro no último sábado, 20 de junho. A apresentação contou com a presença de Bráulio Tavares, Dudu Falcão e Lula Queiroga na plateia, considerados parceiros fundamentais em sua obra. O show foi elogiado pela coesão e qualidade sonora.",
+    "categoria": "cultura",
     "tags": [
-      "Líbano",
-      "Israel",
-      "ataques",
-      "Hezbollah",
-      "cessar-fogo"
+      "música",
+      "show",
+      "Lenine",
+      "Rio de Janeiro"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Lenine",
+      "Bráulio Tavares",
+      "Dudu Falcão",
+      "Lula Queiroga"
+    ],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Rio de Janeiro"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/06/21/lenine-apresenta-o-show-eita-no-rio-de-janeiro-com-coesao-som-perfeito-e-tres-parceiros-fundamentais-na-plateia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-21-eleicao-roraima",
+    "data": "2026-06-21",
+    "titulo": "Eleitores de Roraima escolhem novo governador em eleição suplementar",
+    "resumo": "Os habitantes de Roraima votam neste domingo em uma eleição suplementar para escolher o novo governador e vice-governador do estado. O pleito definirá o comando do Executivo estadual até janeiro de 2027. Mais de 384 mil eleitores estão aptos a votar em todo o estado.",
+    "categoria": "politica",
+    "tags": [
+      "eleição",
+      "suplementar",
+      "governador",
+      "Roraima"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Roraima"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rr/roraima/ao-vivo/roraimenses-escolhem-governador-e-vice-de-roraima-na-eleicao-suplementar-deste-domingo.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-21-incendio-timbiras",
+    "data": "2026-06-21",
+    "titulo": "Incêndio de grandes proporções atinge estabelecimento comercial em Timbiras (MA)",
+    "resumo": "Um incêndio de grandes proporções destruiu um estabelecimento comercial no município de Timbiras, no Maranhão, neste sábado (20). O fogo causou explosões e a destruição total do prédio. Felizmente, ninguém ficou ferido.",
+    "categoria": "seguranca",
+    "tags": [
+      "incêndio",
+      "explosão",
+      "Timbiras",
+      "Maranhão"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Maranhão"
+    ],
+    "cidades": [
+      "Timbiras"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/21/video-incendio-de-grandes-proporcoes-atinge-estabelecimento-comercial-em-timbiras-e-provoca-explosoes.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-21-cultura-campo-grande",
+    "data": "2026-06-21",
+    "titulo": "Campo Grande oferece diversas opções culturais neste domingo",
+    "resumo": "A cidade de Campo Grande terá um domingo com variadas opções culturais, incluindo festas juninas, feira cultural, espetáculos teatrais e apresentações circenses. A maioria das atrações terá entrada gratuita, permitindo o acesso a um público amplo.",
+    "categoria": "cultura",
+    "tags": [
+      "cultura",
+      "eventos",
+      "domingo",
+      "Campo Grande"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Mato Grosso do Sul"
+    ],
+    "cidades": [
+      "Campo Grande"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/21/vai-sair-de-casa-veja-o-que-fazer-neste-domingo-em-campo-grande.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-21-politica-eua",
+    "data": "2026-06-21",
+    "titulo": "Debate sobre cultura 'woke' persiste nos Estados Unidos",
+    "resumo": "Uma análise aponta que os Estados Unidos continuam divididos em relação à aceitação da cultura 'woke', que engloba identidades de gênero, orientações sexuais e origens diversas. O tema tem sido utilizado por republicanos em críticas aos democratas.",
+    "categoria": "politica",
+    "tags": [
+      "política",
+      "cultura",
+      "EUA",
+      "divisão"
     ],
     "entidades": [
-      "Hezbollah"
+      "CNN"
     ],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Líbano",
-      "Israel",
-      "Estados Unidos",
-      "Irã"
+      "Estados Unidos"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/analise-eua-ainda-estao-divididos-sobre-aceitar-cultura-woke/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-21-crime-manaus",
+    "data": "2026-06-21",
+    "titulo": "Suspeito de estupro de vulnerável é preso em Manaus",
+    "resumo": "Um homem investigado por estupro de vulnerável foi preso pela Polícia Federal no aeroporto de Manaus enquanto tentava embarcar. Ele possuía um mandado de prisão preventiva em aberto. A identidade do suspeito não foi divulgada.",
+    "categoria": "justica",
+    "tags": [
+      "prisão",
+      "estupro",
+      "vulnerável",
+      "Manaus",
+      "polícia"
+    ],
+    "entidades": [
+      "Polícia Federal"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Amazonas"
+    ],
+    "cidades": [
+      "Manaus"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/21/suspeito-de-estupro-de-vulneravel-e-preso-ao-tentar-embarcar-em-aeroporto-de-manaus.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-21-musica-kevinho-portugal",
+    "data": "2026-06-21",
+    "titulo": "MC Kevinho é hospitalizado após passar mal em show em Portugal",
+    "resumo": "O cantor MC Kevinho passou mal durante um show em Portugal e precisou ser hospitalizado. Segundo informações, o mal-estar foi causado pelo forte calor e variações de pressão no local. O artista está sob observação médica.",
+    "categoria": "cultura",
+    "tags": [
+      "música",
+      "show",
+      "hospitalização",
+      "Portugal",
+      "MC Kevinho"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "MC Kevinho"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Portugal"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/pop/celebridades/mc-kevinho-passa-mal-em-show-e-e-hospitalizado-em-portugal/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-21-politica-reino-unido",
+    "data": "2026-06-21",
+    "titulo": "Keir Starmer deve anunciar renúncia ao cargo de primeiro-ministro do Reino Unido",
+    "resumo": "Keir Starmer deve anunciar sua saída do cargo de primeiro-ministro do Reino Unido nesta segunda-feira. A decisão ocorre em meio a crescente apoio de parlamentares a Andy Burnham para assumir a liderança. Comentaristas questionam a capacidade de Burnham em comunicar suas ideias.",
+    "categoria": "politica",
+    "tags": [
+      "política",
+      "primeiro-ministro",
+      "renúncia",
+      "Reino Unido"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Keir Starmer",
+      "Andy Burnham"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
     ],
     "importancia": 4,
     "fontes": [
       {
         "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jun/20/israeli-strikes-southern-lebanon-reports-renewed-ceasefire"
+        "url": "https://www.theguardian.com/politics/live/2026/jun/21/keir-starmer-expected-resign-resignation-monday--andy-burnham-makerfield-labour-uk-politics-latest-news-updates"
       }
     ]
   },
   {
-    "id": "2026-06-20-cultura-literatura-modas",
-    "data": "2026-06-20",
-    "titulo": "Guia sobre vinhos e dicas de moda íntima feminina são destaque em publicações",
-    "resumo": "Matérias publicadas abordam temas variados, como a escolha dos melhores vinhos para o inverno e um guia para selecionar calcinhas confortáveis. A primeira trata de harmonização de rótulos com o clima frio e pratos encorpados. A segunda oferece dicas para encontrar lingerie que se adapte ao corpo e proporcione bem-estar ao longo do dia.",
-    "categoria": "cultura",
+    "id": "2026-06-21-esporte-espanha",
+    "data": "2026-06-21",
+    "titulo": "Lamine Yamal, da Espanha, projeta evolução e exalta Messi",
+    "resumo": "O jovem atacante espanhol Lamine Yamal, de 18 anos, expressou otimismo quanto à sua evolução no futebol e destacou Lionel Messi como o melhor jogador de todos os tempos. Yamal vê a longevidade de Messi na carreira como algo inatingível.",
+    "categoria": "esportes",
     "tags": [
-      "vinhos",
+      "futebol",
+      "espanha",
+      "Messi",
+      "Lamine Yamal"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Lamine Yamal",
+      "Lionel Messi"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Espanha"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/lamine-yamal-da-espanha-projeta-evolucao-e-exalta-messi-o-melhor/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-21-meio-ambiente-rios-amazonas",
+    "data": "2026-06-21",
+    "titulo": "Seca severa e extrema afeta rios Tocantins e Araguaia, segundo estudo",
+    "resumo": "Um estudo indica que os rios Tocantins e Araguaia estão enfrentando cenários de seca severa e extrema. Essa condição pode comprometer a geração de energia hidrelétrica na região. O monitoramento aponta para a gravidade da situação.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "seca",
+      "rios",
+      "Tocantins",
+      "Araguaia",
+      "energia"
+    ],
+    "entidades": [
+      "Cemaden",
+      "Secretaria de Meio Ambiente de Esperantina"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Tocantins"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/21/estudo-aponta-seca-severa-e-extrema-nos-rios-tocantins-e-araguaia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-21-clima-parana",
+    "data": "2026-06-21",
+    "titulo": "Inverno no Paraná terá previsão de chuvas acima da média e temperaturas ligeiramente mais altas",
+    "resumo": "O inverno começou no Hemisfério Sul com a previsão de ser chuvoso e um pouco mais quente no Paraná. Os volumes de chuva esperados são acima da média, assim como as temperaturas, que tendem a ficar ligeiramente acima do normal para a estação. Geralmente, o inverno é mais seco e frio na região.",
+    "categoria": "meio-ambiente",
+    "tags": [
       "inverno",
-      "moda íntima",
-      "conforto",
-      "dicas"
+      "clima",
+      "previsão",
+      "Paraná",
+      "chuva"
+    ],
+    "entidades": [
+      "Sistema de Tecnologia de Meteorologia do Paraná"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Paraná"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/06/21/inverno-inicia-com-previsao-de-ser-chuvoso-e-um-pouco-mais-quente-no-parana-veja-o-que-dizem-os-meteorologistas.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-21-seguranca-alerta-falso",
+    "data": "2026-06-21",
+    "titulo": "Governo investiga envio de alerta severo falso da Defesa Civil",
+    "resumo": "O governo identificou o envio de 10 alertas falsos em um sistema da Defesa Civil. A mensagem continha a palavra 'misantropi4'. As circunstâncias do envio do alerta falso estão sob investigação para entender a origem e o impacto.",
+    "categoria": "seguranca",
+    "tags": [
+      "alerta",
+      "falso",
+      "Defesa Civil",
+      "investigação"
     ],
     "entidades": [],
     "pessoas": [],
@@ -701,68 +580,211 @@
     "importancia": 2,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pr/parana/especial-publicitario/porto-a-porto/guia-do-vinho-e-da-gastronomia/noticia/2026/06/20/os-melhores-vinhos-para-o-inverno.ghtml"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pr/parana/especial-publicitario/recco-guia-de-moda-e-bem-estar/noticia/2026/06/20/deixe-respirar-o-guia-para-escolher-uma-calcinha-confortavel-de-verdade.ghtml"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/o-que-se-sabe-sobre-o-envio-de-alerta-severo-falso-da-defesa-civil/"
       }
     ]
   },
   {
-    "id": "2026-06-20-internacional-slave-trade",
-    "data": "2026-06-20",
-    "titulo": "Reencenação do tráfico de escravos marca Juneteenth e demanda reparações",
-    "resumo": "Durante as celebrações do Juneteenth, uma reencenação do tráfico de escravos foi realizada em Gana, onde líderes exigiram reparações. O evento ocorreu em meio a uma conferência que busca avançar a resolução da ONU que declara a escravidão o \"crime mais grave contra a humanidade\". A ação visa trazer visibilidade à história e às consequências da escravidão.",
-    "categoria": "internacional",
+    "id": "2026-06-21-cultura-santarem",
+    "data": "2026-06-21",
+    "titulo": "Santarém (PA) celebra 365 anos com histórias de personalidades locais",
+    "resumo": "A cidade de Santarém, no Pará, completa 365 anos nesta segunda-feira (22) e celebra sua história com destaque para personalidades que contribuem para o seu desenvolvimento. Uma reportagem especial resgata a memória e as trajetórias desses indivíduos.",
+    "categoria": "cultura",
     "tags": [
-      "Juneteenth",
-      "tráfico de escravos",
-      "reparações",
-      "Gana"
+      "aniversário",
+      "história",
+      "Santarém",
+      "personalidades"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Antonio (Babinha)",
+      "Williams Sousa (Coruja)",
+      "Herbert Farias (Cacheado)"
+    ],
+    "estados": [
+      "Pará"
+    ],
+    "cidades": [
+      "Santarém"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/21/santarem-365-anos-confira-historias-de-personalidades-que-ajudam-a-escrever-a-historia-da-perola-do-tapajos.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-21-justica-sp-araras",
+    "data": "2026-06-21",
+    "titulo": "Homem morre baleado em confusão no interior de SP",
+    "resumo": "Um homem morreu após ser baleado durante uma confusão ocorrida em Araras, interior de São Paulo, na madrugada deste domingo (21). A identidade da vítima não foi divulgada e ninguém foi preso até o momento. O caso será investigado pela Polícia Civil.",
+    "categoria": "justica",
+    "tags": [
+      "morte",
+      "baleado",
+      "confusão",
+      "Araras",
+      "polícia"
     ],
     "entidades": [
-      "ONU"
+      "Polícia Civil"
     ],
     "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Araras"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/06/21/homem-morre-apos-ser-baleado-durante-confusao-no-interior-de-sp.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-21-esporte-nz-england",
+    "data": "2026-06-21",
+    "titulo": "Nova Zelândia vence Inglaterra no segundo Test e empata série",
+    "resumo": "A Nova Zelândia conquistou a vitória contra a Inglaterra no segundo Test de críquete, empatando a série. O jogador Matt Henry se destacou na segunda entrada, com uma performance que desequilibrou o ataque inglês. A equipe neozelandesa demonstrou força na partida.",
+    "categoria": "esportes",
+    "tags": [
+      "críquete",
+      "vitória",
+      "Nova Zelândia",
+      "Inglaterra",
+      "série"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Matt Henry"
+    ],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Gana"
+      "Nova Zelândia",
+      "Inglaterra"
     ],
     "importancia": 3,
     "fontes": [
       {
         "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/slave-trade-reenacted-on-juneteenth-as-leaders-demand-reparations?traffic_source=rss"
+        "url": "https://www.aljazeera.com/sports/2026/6/21/henry-stars-as-new-zealand-wrap-up-victory-against-england-in-second-test?traffic_source=rss"
       }
     ]
   },
   {
-    "id": "2026-06-20-seguranca-glastonbury",
-    "data": "2026-06-20",
-    "titulo": "Suspeita de incêndio criminoso gera apreensão em Glastonbury",
-    "resumo": "Uma explosão seguida de incêndios em caravanas em Glastonbury levanta suspeitas de um ato criminoso, gerando inquietação na comunidade. Arrestos foram realizados após o incidente, que intensificou a controvérsia sobre o número de pessoas vivendo em veículos na área. A polícia investiga a causa dos eventos.",
+    "id": "2026-06-21-incendio-los-angeles",
+    "data": "2026-06-21",
+    "titulo": "Los Angeles declara estado de emergência devido a incêndio em armazém",
+    "resumo": "A cidade de Los Angeles declarou estado de emergência devido a um grande incêndio em um armazém de armazenamento a frio. Bombeiros lutam para conter as chamas, que continuam a emitir fumaça sobre a área metropolitana. A prefeita Karen Bass ativou o estado de emergência.",
     "categoria": "seguranca",
     "tags": [
-      "incêndio criminoso",
-      "Glastonbury",
-      "suspeita",
-      "investigação"
+      "incêndio",
+      "emergência",
+      "Los Angeles",
+      "armazém"
     ],
     "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
+    "pessoas": [
+      "Karen Bass"
+    ],
+    "estados": [
+      "Califórnia"
+    ],
+    "cidades": [
+      "Los Angeles"
+    ],
     "paises": [
-      "Reino Unido"
+      "Estados Unidos"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/jun/21/los-angeles-warehouse-fire"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-21-politica-florida",
+    "data": "2026-06-21",
+    "titulo": "Nova faculdade na Flórida será expandida sob gestão de Ron DeSantis",
+    "resumo": "A New College of Florida, uma faculdade liberal arts interveniente pelo governador Ron DeSantis, triplicará de tamanho. A instituição será fundida com a USF Sarasota-Manatee. Críticos descrevem a ação como um movimento conservador com intenções duvidosas.",
+    "categoria": "politica",
+    "tags": [
+      "educação",
+      "política",
+      "Flórida",
+      "Ron DeSantis"
+    ],
+    "entidades": [
+      "New College of Florida",
+      "USF Sarasota-Manatee"
+    ],
+    "pessoas": [
+      "Ron DeSantis"
+    ],
+    "estados": [
+      "Flórida"
+    ],
+    "cidades": [
+      "Sarasota"
+    ],
+    "paises": [
+      "Estados Unidos"
     ],
     "importancia": 3,
     "fontes": [
       {
         "nome": "The Guardian",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/20/suspected-arson-attack-glastonbury-fire-caravans-arrests"
+        "url": "https://www.theguardian.com/us-news/2026/jun/21/florida-new-college-de-santis"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-21-eleicao-reginopolis",
+    "data": "2026-06-21",
+    "titulo": "Reginópolis (SP) elege novo prefeito e vice em eleição suplementar",
+    "resumo": "Os eleitores de Reginópolis, em São Paulo, votam neste domingo (21) em uma eleição suplementar para escolher o novo prefeito e vice-prefeito. A votação ocorre até as 17h, conforme determinado pela Justiça Eleitoral. A nova gestão permanecerá no cargo até o fim do mandato.",
+    "categoria": "politica",
+    "tags": [
+      "eleição",
+      "suplementar",
+      "prefeito",
+      "Reginópolis",
+      "Justiça Eleitoral"
+    ],
+    "entidades": [
+      "Justiça Eleitoral"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Reginópolis"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/06/21/eleitores-voltam-as-urnas-neste-domingo-em-reginopolis-para-eleger-prefeito-e-vice.ghtml"
       }
     ]
   }
