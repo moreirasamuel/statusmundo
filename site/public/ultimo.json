@@ -1,325 +1,488 @@
 [
   {
-    "id": "2026-06-21-negociacoes-eua-ira",
-    "data": "2026-06-21",
-    "titulo": "EUA e Irã iniciam negociações na Suíça com foco em acordo de paz e questões nucleares",
-    "resumo": "Representantes dos Estados Unidos e do Irã iniciaram conversas em Bürgenstock, na Suíça. O objetivo é discutir um acordo para o fim da guerra e questões nucleares entre os dois países. O vice-presidente dos EUA e o presidente do Parlamento iraniano participaram dos encontros, que ocorrem em meio a tensões na região do Oriente Médio e o fechamento do Estreito de Hormuz.",
-    "categoria": "internacional",
-    "tags": [
-      "negociações",
-      "guerra",
-      "paz",
-      "nuclear"
-    ],
-    "entidades": [
-      "ONU",
-      "Parlamento Iraniano"
-    ],
-    "pessoas": [
-      "Mohammed Ghalibaf",
-      "JD Vance"
-    ],
-    "estados": [],
-    "cidades": [
-      "Bürgenstock",
-      "Zurique"
-    ],
-    "paises": [
-      "Estados Unidos",
-      "Irã",
-      "Suíça"
-    ],
-    "importancia": 5,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/negociacoes-entre-eua-e-ira-comecam-em-burgenstock-na-suica/"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/06/21/vemos-um-futuro-juntos-e-em-paz-diz-vice-de-trump-em-encontro-com-ira.ghtml"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jun/21/iran-us-israel-war-middle-east-lebanon-peace-talks-switzerland-vance-trump-strait-of-hormuz-latest-news-updates"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jun/21/us-iran-talks-jd-vance-switzerland-strait-of-hormuz-lebanon"
-      },
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/chefe-da-agencia-nuclear-da-onu-se-reune-com-chanceler-da-suica/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-21-eleicao-colombia",
-    "data": "2026-06-21",
-    "titulo": "Colômbia realiza segundo turno da eleição presidencial neste domingo",
-    "resumo": "Os eleitores colombianos votam neste domingo no segundo turno da eleição presidencial. A disputa ocorre entre o candidato de direita Abelardo de la Espriella e o esquerdista Iván Cepeda. O resultado definirá o futuro líder do país.",
+    "id": "2026-06-22-mudanca-politica-reino-unido",
+    "data": "2026-06-22",
+    "titulo": "Keir Starmer renuncia ao cargo de primeiro-ministro do Reino Unido; Andy Burnham assume",
+    "resumo": "Keir Starmer anunciou sua renúncia ao cargo de primeiro-ministro do Reino Unido. A decisão ocorre após dois anos de sua vitória histórica nas eleições. Andy Burnham foi apontado como potencial sucessor para liderar o Partido Trabalhista e assumir o posto de primeiro-ministro.",
     "categoria": "politica",
     "tags": [
-      "eleição",
-      "presidencial",
-      "Colômbia"
+      "primeiro-ministro",
+      "renúncia",
+      "política do Reino Unido"
     ],
     "entidades": [],
     "pessoas": [
-      "Abelardo de la Espriella",
-      "Iván Cepeda"
+      "Keir Starmer",
+      "Andy Burnham"
     ],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Colômbia"
+      "Reino Unido"
+    ],
+    "importancia": 5,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/22/keir-starmer-resignation-timeable-andy-burnham-labour-leadership-prime-minister-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-22-calor-europa",
+    "data": "2026-06-22",
+    "titulo": "Onda de calor intensa atinge a Europa com temperaturas elevadas",
+    "resumo": "Diversos países europeus, incluindo Alemanha, França e Reino Unido, estão registrando temperaturas extremamente altas devido a uma onda de calor. A previsão é que o calor persista, com pouca expectativa de alívio nas condições climáticas até o fim de semana ou início da próxima semana.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "onda de calor",
+      "temperaturas altas",
+      "Europa"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Alemanha",
+      "França",
+      "Reino Unido"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "DW",
+        "url": "https://www.dw.com/en/europe-sizzles-under-heatwave-with-little-relief-in-sight/live-77663026?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/jun/22/zelenskyy-ukraine-russia-drones-europe-heatwave-trump-meloni-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-22-tensão-eua-ira-nuclear",
+    "data": "2026-06-22",
+    "titulo": "EUA afirma que Irã permitirá inspetores nucleares, mas Teerã nega permissão",
+    "resumo": "O vice-presidente dos Estados Unidos, Vance, declarou que conversas sobre inspeções nucleares com o Irã devem começar esta semana e que um acordo está próximo. No entanto, o governo iraniano negou as afirmações, contrariando a perspectiva de abertura para inspetores.",
+    "categoria": "internacional",
+    "tags": [
+      "Irã",
+      "EUA",
+      "inspeção nuclear",
+      "acordo"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Vance"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos",
+      "Irã"
     ],
     "importancia": 4,
     "fontes": [
       {
         "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/urnas-abrem-na-colombia-para-segundo-turno-da-eleicao-presidencial/"
+        "url": "https://www.cnnbrasil.com.br/internacional/vance-diz-que-ira-vai-permitir-entrada-de-inspetores-nucleares-teera-nega/"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/jun/22/middle-east-crisis-iran-us-peace-talks-switzerland-strait-of-hormuz-latest-news-updates"
       }
     ]
   },
   {
-    "id": "2026-06-21-clima-extremo-reino-unido",
-    "data": "2026-06-21",
-    "titulo": "Reino Unido se prepara para ondas de calor recordes com previsão de temperaturas extremas",
-    "resumo": "O Escritório de Meteorologia do Reino Unido emitiu um alerta de calor extremo, prevendo temperaturas recordes de até 38°C para esta semana. Alertas de saúde foram acionados devido à alta umidade, que aumenta o risco de estresse térmico para populações vulneráveis. A onda de calor pode durar por vários dias.",
-    "categoria": "meio-ambiente",
+    "id": "2026-06-22-desaparecimento-primas-parana",
+    "data": "2026-06-22",
+    "titulo": "Primas desaparecidas no Paraná há 60 dias são tratadas como duplo homicídio",
+    "resumo": "Duas primas, Letycia Garcia Mendes e Sttela Dalva Melegari Almeida, ambas de 18 anos, completam 62 dias desaparecidas no Paraná. A Polícia Civil agora investiga o caso como um possível duplo homicídio, após a localização de imagens que mostram as jovens saindo em uma caminhonete com um suspeito antes do desaparecimento.",
+    "categoria": "justica",
     "tags": [
-      "clima",
-      "calor",
-      "temperatura",
-      "alerta"
+      "desaparecimento",
+      "homicídio",
+      "investigação policial",
+      "Paraná"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Letycia Garcia Mendes",
+      "Sttela Dalva Melegari Almeida"
+    ],
+    "estados": [
+      "Paraná"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/06/22/primas-estao-desaparecidas-no-parana-ha-60-dias-veja-tudo-o-que-se-sabe-sobre-o-caso.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-22-futebol-racismo-copa-mundo",
+    "data": "2026-06-22",
+    "titulo": "Ex-jogador é acusado de racismo por declarações sobre atleta belga na Copa do Mundo",
+    "resumo": "O ex-atacante Rade Bogdanovic está sendo acusado de racismo por comentários feitos durante a Copa do Mundo. Ele teria relacionado a cor da pele do atleta belga Nathan Ngoy à sua performance em campo. O caso gerou repercussão na esfera esportiva.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "Copa do Mundo",
+      "racismo",
+      "acusações"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Rade Bogdanovic",
+      "Nathan Ngoy"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/ex-jogador-e-acusado-de-racismo-apos-expulsao-de-atleta-belga/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-22-acidentes-transito-brasil",
+    "data": "2026-06-22",
+    "titulo": "Acidentes graves com caminhões e carros são registrados em diferentes estados do Brasil",
+    "resumo": "Um carreta desgovernada carregada com cana-de-açúcar causou estragos em Capinópolis, Minas Gerais, atingindo árvores, um poste e invadindo uma casa. Em Santos, São Paulo, um motorista desmaiou ao volante e colidiu com um poste em frente a uma unidade da PM. Em Ribeirão Preto, São Paulo, um carro na contramão bateu em dois veículos estacionados.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente de trânsito",
+      "caminhão",
+      "carro",
+      "Minas Gerais",
+      "São Paulo"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais",
+      "São Paulo"
+    ],
+    "cidades": [
+      "Capinópolis",
+      "Santos",
+      "Ribeirão Preto"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/22/carreta-desgovernada-carregada-com-cana-de-acucar-desce-rua-atinge-arvores-poste-e-invade-casa-video.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/22/motorista-desmaia-no-volante-e-bate-caminhonete-em-poste-em-frente-a-companhia-da-pm-video.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/06/22/video-motorista-na-contramao-bate-em-veiculos-estacionados-na-rua-em-ribeirao-preto-sp.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-22-drones-ucrania-russia",
+    "data": "2026-06-22",
+    "titulo": "Rússia intercepta drones ucranianos; Ucrânia promete 'trazer guerra de volta à Rússia'",
+    "resumo": "A Rússia informou ter interceptado cerca de 300 drones ucranianos em seu território, o que levou à suspensão temporária de operações no aeroporto de Moscou. Em resposta, o presidente ucraniano Volodymyr Zelenskyy declarou a intenção de 'trazer a guerra de volta à Rússia'.",
+    "categoria": "internacional",
+    "tags": [
+      "guerra na Ucrânia",
+      "drones",
+      "Rússia",
+      "Ucrânia",
+      "Volodymyr Zelenskyy"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Volodymyr Zelenskyy"
+    ],
+    "estados": [],
+    "cidades": [
+      "Moscou"
+    ],
+    "paises": [
+      "Rússia",
+      "Ucrânia"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/jun/22/zelenskyy-ukraine-russia-drones-europe-heatwave-trump-meloni-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-22-seguranca-cibernetica-apple-tesla",
+    "data": "2026-06-22",
+    "titulo": "Empresa indiana pode ter exposto dados sigilosos de Apple e Tesla por falha de segurança",
+    "resumo": "A Tata Electronics reportou um incidente de segurança cibernética após pesquisadores afirmarem que documentos confidenciais de design e especificação de componentes da Apple e Tesla foram vazados. A extensão do vazamento e as informações exatas ainda estão sob investigação.",
+    "categoria": "economia",
+    "tags": [
+      "segurança cibernética",
+      "vazamento de dados",
+      "Apple",
+      "Tesla",
+      "empresa indiana"
     ],
     "entidades": [
-      "Met Office"
+      "Apple",
+      "Tesla",
+      "Tata Electronics"
     ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/tecnologia/noticia/2026/06/22/vazamento-dados-apple-tesla-tata-electronics-resgate.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-22-saude-greve-belem",
+    "data": "2026-06-22",
+    "titulo": "Profissionais da saúde paralisam cirurgias em hospital de Belém por falta de salários",
+    "resumo": "Profissionais da saúde anunciaram a paralisação dos atendimentos no HPSM do Guamá, em Belém, afetando o setor de cirurgias. Apenas pacientes em estado grave estão sendo atendidos. A paralisação ocorre devido à falta de pagamento de salários, especialmente para anestesistas.",
+    "categoria": "saude",
+    "tags": [
+      "saúde",
+      "paralisação",
+      "hospital",
+      "Belém",
+      "salários atrasados"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Pará"
+    ],
+    "cidades": [
+      "Belém"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pa/para/noticia/2026/06/22/profissionais-da-saude-paralisam-setor-de-cirurgias-do-psm-do-guama-em-belem.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-22-musica-afro-b",
+    "data": "2026-06-22",
+    "titulo": "Afro B celebra suas raízes marfinenses em nova música",
+    "resumo": "O superstar britânico de Afrobeats, Afro B, conhecido pelo hit 'Drogba (Joanna)', lança sua nova música intitulada 'Mapouka'. A canção é uma celebração de suas origens marfinenses, mostrando a influência cultural em seu trabalho musical.",
+    "categoria": "cultura",
+    "tags": [
+      "música",
+      "Afrobeats",
+      "Afro B",
+      "cultura marfinense",
+      "lançamento musical"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Afro B"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Costa do Marfim"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "France 24",
+        "url": "https://www.france24.com/en/tv-shows/arts24/20260622-afro-b-celebrates-his-ivorian-roots-on-mapouka"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-22-justica-insecticida-caribenho",
+    "data": "2026-06-22",
+    "titulo": "Tribunal francês recusa julgamento sobre uso de inseticida tóxico nas Antilhas",
+    "resumo": "Um tribunal francês decidiu contra a abertura de um julgamento relacionado ao uso de um inseticida conhecido por ser tóxico nas Antilhas Francesas. A decisão impede uma investigação sobre um escândalo de saúde que perdura há 20 anos, apesar de o produto ter sido classificado como possivelmente cancerígeno em 1979.",
+    "categoria": "justica",
+    "tags": [
+      "justiça",
+      "inseticida",
+      "Antilhas Francesas",
+      "saúde pública",
+      "decisão judicial"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "França"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "France 24",
+        "url": "https://www.france24.com/en/french-court-refuses-trial-on-use-of-toxic-insecticide-in-french-west-indies"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-22-crime-morte-jovem-minas-gerais",
+    "data": "2026-06-22",
+    "titulo": "Polícia investiga morte de jovem encontrada ferida em Varginha, MG",
+    "resumo": "A Polícia Civil de Minas Gerais investiga as circunstâncias da morte de Joice Batiston, de 27 anos, que foi encontrada gravemente ferida na noite de sexta-feira em Varginha. A jovem chegou a ser socorrida pelos bombeiros, mas não resistiu aos ferimentos. A família busca respostas para o ocorrido.",
+    "categoria": "justica",
+    "tags": [
+      "crime",
+      "morte",
+      "investigação policial",
+      "Varginha",
+      "Minas Gerais"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Joice Batiston"
+    ],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Varginha"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/06/22/policia-civil-tenta-esclarecer-morte-de-jovem-encontrada-ferida-em-varginha-mg.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-22-crime-homicidio-santa-catarina",
+    "data": "2026-06-22",
+    "titulo": "Suspeito de matar namorada em SC é preso e alega ter simulado suicídio",
+    "resumo": "Um homem de 24 anos foi preso preventivamente sob suspeita de matar sua namorada, Maria Eduarda Salvaro, de 21 anos, em Santa Catarina. O Ministério Público de Santa Catarina informou que o suspeito teria tentado simular uma cena de suicídio para encobrir o crime. O corpo da vítima foi localizado em um apartamento.",
+    "categoria": "justica",
+    "tags": [
+      "crime",
+      "homicídio",
+      "violência doméstica",
+      "prisão",
+      "Santa Catarina"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Maria Eduarda Salvaro"
+    ],
+    "estados": [
+      "Santa Catarina"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/22/suspeito-matar-namorada-sc-simular-cena-suicidio-diz-mp.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-22-economia-plano-safra",
+    "data": "2026-06-22",
+    "titulo": "Governo acelera negociações para finalizar o Plano Safra 2026/27",
+    "resumo": "O governo federal está intensificando as negociações para concluir as definições do Plano Safra 2026/27. As discussões sobre recursos e subsídios estão na etapa final, com expectativa de que os números sejam fechados nos próximos dias. O anúncio oficial do programa está previsto para 1º de julho.",
+    "categoria": "economia",
+    "tags": [
+      "Plano Safra",
+      "agricultura",
+      "economia",
+      "governo",
+      "negociações"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/agro/governo-acelera-negociacoes-para-concluir-plano-safra-2026-27/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-22-justica-violencia-sexual-reino-unido",
+    "data": "2026-06-22",
+    "titulo": "Homem britânico admite crimes sexuais contra a esposa",
+    "resumo": "Um homem britânico, acusado de conspirar para drogar e estuprar sua esposa ao longo de duas décadas, admitiu a prática de uma dúzia de crimes sexuais. As confissões cobrem um período de três anos e incluem agressões sexuais cometidas com a participação de outra pessoa.",
+    "categoria": "justica",
+    "tags": [
+      "crimes sexuais",
+      "violência doméstica",
+      "admissão de culpa",
+      "Reino Unido"
+    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
       "Reino Unido"
     ],
-    "importancia": 4,
+    "importancia": 3,
     "fontes": [
       {
         "nome": "The Guardian",
-        "url": "https://www.theguardian.com/environment/2026/jun/21/record-breaking-extreme-heat-wave-humidity-uk-met-office-warning"
+        "url": "https://www.theguardian.com/uk-news/2026/jun/22/man-accused-conspiring-drug-wife-admits-sexual-offences"
       }
     ]
   },
   {
-    "id": "2026-06-21-seguranca-sp",
-    "data": "2026-06-21",
-    "titulo": "Suspeito confessa tentativa de sequestro em São Paulo",
-    "resumo": "Um dos suspeitos detidos pela tentativa de sequestro de uma criança em Guaianases, na Zona Leste de São Paulo, admitiu o crime. Ele declarou que estava se escondendo por medo de ser morto. O caso é investigado pela polícia.",
-    "categoria": "seguranca",
+    "id": "2026-06-22-clima-frio-campo-grande",
+    "data": "2026-06-22",
+    "titulo": "Campo Grande reabre abrigo para pessoas em situação de rua devido à queda de temperatura",
+    "resumo": "Devido à chegada de uma nova onda de frio em Campo Grande, a prefeitura decidiu reativar o abrigo temporário para pessoas em situação de rua. O local, localizado no Parque Ayrton Senna, voltou a funcionar e deve permanecer aberto até quinta-feira, com a mínima prevista para 10°C.",
+    "categoria": "social",
     "tags": [
-      "sequestro",
-      "crime",
-      "confissão",
-      "São Paulo"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "São Paulo",
-      "Guaianases"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/21/suspeito-de-tentar-sequestrar-crianca-em-sp-admite-crime-e-diz-que-se-escondia-por-medo-de-ser-morto.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-21-loteria-mega-sena",
-    "data": "2026-06-21",
-    "titulo": "Apostas de Goiás e Bahia acertam cinco números na Mega-Sena",
-    "resumo": "Seis apostas feitas em Goiás acertaram cinco dezenas no último concurso da Mega-Sena, totalizando mais de R$ 185 mil em prêmios. Em paralelo, quatro apostas na Bahia também acertaram a quina, cada uma faturando R$ 30.910,50. O prêmio principal saiu para uma aposta no Rio de Janeiro.",
-    "categoria": "economia",
-    "tags": [
-      "loteria",
-      "Mega-Sena",
-      "prêmios",
-      "apostas"
-    ],
-    "entidades": [
-      "Caixa Econômica Federal"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Goiás",
-      "Bahia",
-      "Rio de Janeiro"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/go/goias/noticia/2026/06/21/mega-sena-seis-apostas-de-goias-acertam-a-quina-e-levam-mais-de-r-185-mil.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/21/apostas-da-bahia-acertam-cinco-numeros-na-mega-sena.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-21-cinema-palmas",
-    "data": "2026-06-21",
-    "titulo": "Novo cinema com tecnologia a laser será inaugurado em shopping de Palmas",
-    "resumo": "Um novo complexo de cinema com cinco salas e capacidade para 660 espectadores será inaugurado em um shopping de Palmas na próxima quinta-feira. Uma das salas terá formato VIP e a operação será realizada pela Cinesercla. O cinema contará com tecnologia a laser.",
-    "categoria": "cultura",
-    "tags": [
-      "cinema",
-      "inauguração",
-      "tecnologia",
-      "Palmas"
-    ],
-    "entidades": [
-      "Cinesercla"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Tocantins"
-    ],
-    "cidades": [
-      "Palmas"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/21/novo-complexo-de-cinema-sera-inaugurado-em-shopping-de-palmas-com-cinco-salas-e-tecnologia-a-laser.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-21-musica-lenine-rj",
-    "data": "2026-06-21",
-    "titulo": "Lenine apresenta show 'Eita' no Rio de Janeiro com participações especiais",
-    "resumo": "O cantor Lenine apresentou seu show 'Eita' no Rio de Janeiro no último sábado, 20 de junho. A apresentação contou com a presença de Bráulio Tavares, Dudu Falcão e Lula Queiroga na plateia, considerados parceiros fundamentais em sua obra. O show foi elogiado pela coesão e qualidade sonora.",
-    "categoria": "cultura",
-    "tags": [
-      "música",
-      "show",
-      "Lenine",
-      "Rio de Janeiro"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Lenine",
-      "Bráulio Tavares",
-      "Dudu Falcão",
-      "Lula Queiroga"
-    ],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Rio de Janeiro"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/06/21/lenine-apresenta-o-show-eita-no-rio-de-janeiro-com-coesao-som-perfeito-e-tres-parceiros-fundamentais-na-plateia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-21-eleicao-roraima",
-    "data": "2026-06-21",
-    "titulo": "Eleitores de Roraima escolhem novo governador em eleição suplementar",
-    "resumo": "Os habitantes de Roraima votam neste domingo em uma eleição suplementar para escolher o novo governador e vice-governador do estado. O pleito definirá o comando do Executivo estadual até janeiro de 2027. Mais de 384 mil eleitores estão aptos a votar em todo o estado.",
-    "categoria": "politica",
-    "tags": [
-      "eleição",
-      "suplementar",
-      "governador",
-      "Roraima"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Roraima"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rr/roraima/ao-vivo/roraimenses-escolhem-governador-e-vice-de-roraima-na-eleicao-suplementar-deste-domingo.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-21-incendio-timbiras",
-    "data": "2026-06-21",
-    "titulo": "Incêndio de grandes proporções atinge estabelecimento comercial em Timbiras (MA)",
-    "resumo": "Um incêndio de grandes proporções destruiu um estabelecimento comercial no município de Timbiras, no Maranhão, neste sábado (20). O fogo causou explosões e a destruição total do prédio. Felizmente, ninguém ficou ferido.",
-    "categoria": "seguranca",
-    "tags": [
-      "incêndio",
-      "explosão",
-      "Timbiras",
-      "Maranhão"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Maranhão"
-    ],
-    "cidades": [
-      "Timbiras"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/21/video-incendio-de-grandes-proporcoes-atinge-estabelecimento-comercial-em-timbiras-e-provoca-explosoes.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-21-cultura-campo-grande",
-    "data": "2026-06-21",
-    "titulo": "Campo Grande oferece diversas opções culturais neste domingo",
-    "resumo": "A cidade de Campo Grande terá um domingo com variadas opções culturais, incluindo festas juninas, feira cultural, espetáculos teatrais e apresentações circenses. A maioria das atrações terá entrada gratuita, permitindo o acesso a um público amplo.",
-    "categoria": "cultura",
-    "tags": [
-      "cultura",
-      "eventos",
-      "domingo",
-      "Campo Grande"
+      "inverno",
+      "pessoas em situação de rua",
+      "abrigo",
+      "Campo Grande",
+      "onda de frio"
     ],
     "entidades": [],
     "pessoas": [],
@@ -336,312 +499,126 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/21/vai-sair-de-casa-veja-o-que-fazer-neste-domingo-em-campo-grande.ghtml"
+        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/22/com-minima-de-10c-campo-grande-reativa-abrigo-para-pessoas-em-situacao-de-rua.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-21-politica-eua",
-    "data": "2026-06-21",
-    "titulo": "Debate sobre cultura 'woke' persiste nos Estados Unidos",
-    "resumo": "Uma análise aponta que os Estados Unidos continuam divididos em relação à aceitação da cultura 'woke', que engloba identidades de gênero, orientações sexuais e origens diversas. O tema tem sido utilizado por republicanos em críticas aos democratas.",
-    "categoria": "politica",
+    "id": "2026-06-22-crime-porto-madeira-bolivia",
+    "data": "2026-06-22",
+    "titulo": "PF aguarda laudo para identificar cocaína diluída em carga de madeira na fronteira com Bolívia",
+    "resumo": "A Polícia Federal aguarda a conclusão de laudos periciais para determinar o tipo e a quantidade de cocaína encontrada diluída em uma carga de madeira apreendida em Mato Grosso do Sul. O entorpecente estava escondido em oito caminhões na fronteira com a Bolívia, como parte de um esquema internacional de tráfico.",
+    "categoria": "seguranca",
     "tags": [
-      "política",
-      "cultura",
-      "EUA",
-      "divisão"
+      "tráfico de drogas",
+      "cocaína",
+      "Polícia Federal",
+      "fronteira",
+      "Bolívia",
+      "Mato Grosso do Sul"
     ],
-    "entidades": [
-      "CNN"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/analise-eua-ainda-estao-divididos-sobre-aceitar-cultura-woke/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-21-crime-manaus",
-    "data": "2026-06-21",
-    "titulo": "Suspeito de estupro de vulnerável é preso em Manaus",
-    "resumo": "Um homem investigado por estupro de vulnerável foi preso pela Polícia Federal no aeroporto de Manaus enquanto tentava embarcar. Ele possuía um mandado de prisão preventiva em aberto. A identidade do suspeito não foi divulgada.",
-    "categoria": "justica",
-    "tags": [
-      "prisão",
-      "estupro",
-      "vulnerável",
-      "Manaus",
-      "polícia"
-    ],
-    "entidades": [
-      "Polícia Federal"
-    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [
-      "Amazonas"
+      "Mato Grosso do Sul"
     ],
-    "cidades": [
-      "Manaus"
-    ],
+    "cidades": [],
     "paises": [
-      "Brasil"
+      "Brasil",
+      "Bolívia"
     ],
     "importancia": 3,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/21/suspeito-de-estupro-de-vulneravel-e-preso-ao-tentar-embarcar-em-aeroporto-de-manaus.ghtml"
+        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/22/pf-aguarda-laudo-para-identificar-tipo-e-quantidade-de-cocaina-escondida-diluida-em-carga-de-madeira.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-21-musica-kevinho-portugal",
-    "data": "2026-06-21",
-    "titulo": "MC Kevinho é hospitalizado após passar mal em show em Portugal",
-    "resumo": "O cantor MC Kevinho passou mal durante um show em Portugal e precisou ser hospitalizado. Segundo informações, o mal-estar foi causado pelo forte calor e variações de pressão no local. O artista está sob observação médica.",
-    "categoria": "cultura",
+    "id": "2026-06-22-militares-myanmar",
+    "data": "2026-06-22",
+    "titulo": "Exército de Mianmar matou mais de 700 civis em seis meses, aponta relatório da ONU",
+    "resumo": "Um novo relatório das Nações Unidas indica que o exército de Mianmar é responsável pela morte de mais de 700 civis em um período de seis meses no ano passado. Dentre as vítimas fatais, 153 eram crianças, detalha o documento.",
+    "categoria": "internacional",
     "tags": [
-      "música",
-      "show",
-      "hospitalização",
-      "Portugal",
-      "MC Kevinho"
+      "Mianmar",
+      "direitos humanos",
+      "ONU",
+      "conflito",
+      "mortes de civis"
     ],
-    "entidades": [],
-    "pessoas": [
-      "MC Kevinho"
+    "entidades": [
+      "ONU"
     ],
+    "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Portugal"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/pop/celebridades/mc-kevinho-passa-mal-em-show-e-e-hospitalizado-em-portugal/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-21-politica-reino-unido",
-    "data": "2026-06-21",
-    "titulo": "Keir Starmer deve anunciar renúncia ao cargo de primeiro-ministro do Reino Unido",
-    "resumo": "Keir Starmer deve anunciar sua saída do cargo de primeiro-ministro do Reino Unido nesta segunda-feira. A decisão ocorre em meio a crescente apoio de parlamentares a Andy Burnham para assumir a liderança. Comentaristas questionam a capacidade de Burnham em comunicar suas ideias.",
-    "categoria": "politica",
-    "tags": [
-      "política",
-      "primeiro-ministro",
-      "renúncia",
-      "Reino Unido"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Keir Starmer",
-      "Andy Burnham"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
+      "Mianmar"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/21/keir-starmer-expected-resign-resignation-monday--andy-burnham-makerfield-labour-uk-politics-latest-news-updates"
+        "nome": "BBC",
+        "url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss"
       }
     ]
   },
   {
-    "id": "2026-06-21-esporte-espanha",
-    "data": "2026-06-21",
-    "titulo": "Lamine Yamal, da Espanha, projeta evolução e exalta Messi",
-    "resumo": "O jovem atacante espanhol Lamine Yamal, de 18 anos, expressou otimismo quanto à sua evolução no futebol e destacou Lionel Messi como o melhor jogador de todos os tempos. Yamal vê a longevidade de Messi na carreira como algo inatingível.",
+    "id": "2026-06-22-futebol-argentina-austria",
+    "data": "2026-06-22",
+    "titulo": "Argentina enfrenta Áustria pela Copa do Mundo; saiba onde assistir",
+    "resumo": "A seleção argentina de futebol encara a Áustria em partida válida pela Copa do Mundo. O jogo está marcado para as 14h (horário local) e ocorrerá no AT&T Stadium, em Dallas, no Texas. As escalações das equipes e informações sobre a transmissão estarão disponíveis para o público.",
     "categoria": "esportes",
     "tags": [
       "futebol",
-      "espanha",
-      "Messi",
-      "Lamine Yamal"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Lamine Yamal",
-      "Lionel Messi"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Espanha"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/lamine-yamal-da-espanha-projeta-evolucao-e-exalta-messi-o-melhor/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-21-meio-ambiente-rios-amazonas",
-    "data": "2026-06-21",
-    "titulo": "Seca severa e extrema afeta rios Tocantins e Araguaia, segundo estudo",
-    "resumo": "Um estudo indica que os rios Tocantins e Araguaia estão enfrentando cenários de seca severa e extrema. Essa condição pode comprometer a geração de energia hidrelétrica na região. O monitoramento aponta para a gravidade da situação.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "seca",
-      "rios",
-      "Tocantins",
-      "Araguaia",
-      "energia"
-    ],
-    "entidades": [
-      "Cemaden",
-      "Secretaria de Meio Ambiente de Esperantina"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Tocantins"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/21/estudo-aponta-seca-severa-e-extrema-nos-rios-tocantins-e-araguaia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-21-clima-parana",
-    "data": "2026-06-21",
-    "titulo": "Inverno no Paraná terá previsão de chuvas acima da média e temperaturas ligeiramente mais altas",
-    "resumo": "O inverno começou no Hemisfério Sul com a previsão de ser chuvoso e um pouco mais quente no Paraná. Os volumes de chuva esperados são acima da média, assim como as temperaturas, que tendem a ficar ligeiramente acima do normal para a estação. Geralmente, o inverno é mais seco e frio na região.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "inverno",
-      "clima",
-      "previsão",
-      "Paraná",
-      "chuva"
-    ],
-    "entidades": [
-      "Sistema de Tecnologia de Meteorologia do Paraná"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Paraná"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/06/21/inverno-inicia-com-previsao-de-ser-chuvoso-e-um-pouco-mais-quente-no-parana-veja-o-que-dizem-os-meteorologistas.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-21-seguranca-alerta-falso",
-    "data": "2026-06-21",
-    "titulo": "Governo investiga envio de alerta severo falso da Defesa Civil",
-    "resumo": "O governo identificou o envio de 10 alertas falsos em um sistema da Defesa Civil. A mensagem continha a palavra 'misantropi4'. As circunstâncias do envio do alerta falso estão sob investigação para entender a origem e o impacto.",
-    "categoria": "seguranca",
-    "tags": [
-      "alerta",
-      "falso",
-      "Defesa Civil",
-      "investigação"
+      "Copa do Mundo",
+      "Argentina",
+      "Áustria"
     ],
     "entidades": [],
     "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/nacional/o-que-se-sabe-sobre-o-envio-de-alerta-severo-falso-da-defesa-civil/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-21-cultura-santarem",
-    "data": "2026-06-21",
-    "titulo": "Santarém (PA) celebra 365 anos com histórias de personalidades locais",
-    "resumo": "A cidade de Santarém, no Pará, completa 365 anos nesta segunda-feira (22) e celebra sua história com destaque para personalidades que contribuem para o seu desenvolvimento. Uma reportagem especial resgata a memória e as trajetórias desses indivíduos.",
-    "categoria": "cultura",
-    "tags": [
-      "aniversário",
-      "história",
-      "Santarém",
-      "personalidades"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Antonio (Babinha)",
-      "Williams Sousa (Coruja)",
-      "Herbert Farias (Cacheado)"
-    ],
     "estados": [
-      "Pará"
+      "Texas"
     ],
     "cidades": [
-      "Santarém"
+      "Dallas"
     ],
     "paises": [
-      "Brasil"
+      "Argentina",
+      "Áustria"
     ],
-    "importancia": 2,
+    "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/21/santarem-365-anos-confira-historias-de-personalidades-que-ajudam-a-escrever-a-historia-da-perola-do-tapajos.ghtml"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/argentina-x-austria-escalacoes-e-onde-assistir-ao-jogo-da-copa-do-mundo/"
       }
     ]
   },
   {
-    "id": "2026-06-21-justica-sp-araras",
-    "data": "2026-06-21",
-    "titulo": "Homem morre baleado em confusão no interior de SP",
-    "resumo": "Um homem morreu após ser baleado durante uma confusão ocorrida em Araras, interior de São Paulo, na madrugada deste domingo (21). A identidade da vítima não foi divulgada e ninguém foi preso até o momento. O caso será investigado pela Polícia Civil.",
+    "id": "2026-06-22-justica-presidio-juiz-fora",
+    "data": "2026-06-22",
+    "titulo": "MP investiga denúncia de 'sala do castigo' em presídio de Juiz de Fora",
+    "resumo": "O Ministério Público de Minas Gerais (MPMG) em Juiz de Fora está apurando uma denúncia sobre a existência de uma suposta 'sala do castigo' em um presídio da cidade. A investigação foi iniciada após uma representação da Comissão de Direitos Humanos da OAB. A Secretaria de Estado de Justiça e Segurança Pública (Sejusp) negou a acusação.",
     "categoria": "justica",
     "tags": [
-      "morte",
-      "baleado",
-      "confusão",
-      "Araras",
-      "polícia"
+      "sistema prisional",
+      "direitos humanos",
+      "investigação",
+      "Juiz de Fora",
+      "Minas Gerais"
     ],
     "entidades": [
-      "Polícia Civil"
+      "OAB"
     ],
     "pessoas": [],
     "estados": [
-      "São Paulo"
+      "Minas Gerais"
     ],
     "cidades": [
-      "Araras"
+      "Juiz de Fora"
     ],
     "paises": [
       "Brasil"
@@ -650,141 +627,70 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/06/21/homem-morre-apos-ser-baleado-durante-confusao-no-interior-de-sp.ghtml"
+        "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/06/22/mp-investiga-denuncia-de-sala-do-castigo-em-presidio-de-juiz-de-fora-sejusp-nega.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-21-esporte-nz-england",
-    "data": "2026-06-21",
-    "titulo": "Nova Zelândia vence Inglaterra no segundo Test e empata série",
-    "resumo": "A Nova Zelândia conquistou a vitória contra a Inglaterra no segundo Test de críquete, empatando a série. O jogador Matt Henry se destacou na segunda entrada, com uma performance que desequilibrou o ataque inglês. A equipe neozelandesa demonstrou força na partida.",
-    "categoria": "esportes",
+    "id": "2026-06-22-justica-deolane-habeas-corpus",
+    "data": "2026-06-22",
+    "titulo": "OAB-SP pede habeas corpus para influenciadora Deolane Bezerra",
+    "resumo": "A Ordem dos Advogados do Brasil em São Paulo (OAB-SP) entrou com um pedido de habeas corpus para a influenciadora e advogada Deolane Bezerra. A solicitação visa a transferência da detenta para a Sala de Estado-Maior ou prisão domiciliar. Deolane Bezerra está detida na Penitenciária Feminina de Tupi Paulista.",
+    "categoria": "justica",
     "tags": [
-      "críquete",
-      "vitória",
-      "Nova Zelândia",
-      "Inglaterra",
-      "série"
+      "OAB",
+      "habeas corpus",
+      "Deolane Bezerra",
+      "sistema prisional",
+      "São Paulo"
+    ],
+    "entidades": [
+      "OAB"
+    ],
+    "pessoas": [
+      "Deolane Bezerra"
+    ],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/22/oab-de-sp-entra-com-pedido-de-habeas-corpus-para-deolane-ser-transferida-para-sala-de-estado-maior-ou-prisao-domiciliar.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-22-justica-caso-gritzbach",
+    "data": "2026-06-22",
+    "titulo": "Viúva relata último contato com motorista em depoimento sobre caso Gritzbach",
+    "resumo": "Simone Novais, viúva do motorista Celso Novais, prestou depoimento no Tribunal do Júri no âmbito do caso Gritzbach. Em sua fala, ela detalhou as últimas palavras do marido e o impacto de sua perda para a família. O caso continua em andamento judicial.",
+    "categoria": "justica",
+    "tags": [
+      "caso Gritzbach",
+      "depoimento",
+      "júri",
+      "violência",
+      "família"
     ],
     "entidades": [],
     "pessoas": [
-      "Matt Henry"
+      "Simone Novais",
+      "Celso Novais"
     ],
     "estados": [],
     "cidades": [],
-    "paises": [
-      "Nova Zelândia",
-      "Inglaterra"
-    ],
-    "importancia": 3,
+    "paises": [],
+    "importancia": 2,
     "fontes": [
       {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/6/21/henry-stars-as-new-zealand-wrap-up-victory-against-england-in-second-test?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-21-incendio-los-angeles",
-    "data": "2026-06-21",
-    "titulo": "Los Angeles declara estado de emergência devido a incêndio em armazém",
-    "resumo": "A cidade de Los Angeles declarou estado de emergência devido a um grande incêndio em um armazém de armazenamento a frio. Bombeiros lutam para conter as chamas, que continuam a emitir fumaça sobre a área metropolitana. A prefeita Karen Bass ativou o estado de emergência.",
-    "categoria": "seguranca",
-    "tags": [
-      "incêndio",
-      "emergência",
-      "Los Angeles",
-      "armazém"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Karen Bass"
-    ],
-    "estados": [
-      "Califórnia"
-    ],
-    "cidades": [
-      "Los Angeles"
-    ],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/2026/jun/21/los-angeles-warehouse-fire"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-21-politica-florida",
-    "data": "2026-06-21",
-    "titulo": "Nova faculdade na Flórida será expandida sob gestão de Ron DeSantis",
-    "resumo": "A New College of Florida, uma faculdade liberal arts interveniente pelo governador Ron DeSantis, triplicará de tamanho. A instituição será fundida com a USF Sarasota-Manatee. Críticos descrevem a ação como um movimento conservador com intenções duvidosas.",
-    "categoria": "politica",
-    "tags": [
-      "educação",
-      "política",
-      "Flórida",
-      "Ron DeSantis"
-    ],
-    "entidades": [
-      "New College of Florida",
-      "USF Sarasota-Manatee"
-    ],
-    "pessoas": [
-      "Ron DeSantis"
-    ],
-    "estados": [
-      "Flórida"
-    ],
-    "cidades": [
-      "Sarasota"
-    ],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/2026/jun/21/florida-new-college-de-santis"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-21-eleicao-reginopolis",
-    "data": "2026-06-21",
-    "titulo": "Reginópolis (SP) elege novo prefeito e vice em eleição suplementar",
-    "resumo": "Os eleitores de Reginópolis, em São Paulo, votam neste domingo (21) em uma eleição suplementar para escolher o novo prefeito e vice-prefeito. A votação ocorre até as 17h, conforme determinado pela Justiça Eleitoral. A nova gestão permanecerá no cargo até o fim do mandato.",
-    "categoria": "politica",
-    "tags": [
-      "eleição",
-      "suplementar",
-      "prefeito",
-      "Reginópolis",
-      "Justiça Eleitoral"
-    ],
-    "entidades": [
-      "Justiça Eleitoral"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Reginópolis"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/06/21/eleitores-voltam-as-urnas-neste-domingo-em-reginopolis-para-eleger-prefeito-e-vice.ghtml"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/caso-gritzbach-viuva-de-motorista-relata-ultimo-contato/"
       }
     ]
   }
