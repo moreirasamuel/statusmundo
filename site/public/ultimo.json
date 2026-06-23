@@ -1,285 +1,449 @@
 [
   {
-    "id": "2026-06-22-mudanca-politica-reino-unido",
-    "data": "2026-06-22",
-    "titulo": "Keir Starmer renuncia ao cargo de primeiro-ministro do Reino Unido; Andy Burnham assume",
-    "resumo": "Keir Starmer anunciou sua renúncia ao cargo de primeiro-ministro do Reino Unido. A decisão ocorre após dois anos de sua vitória histórica nas eleições. Andy Burnham foi apontado como potencial sucessor para liderar o Partido Trabalhista e assumir o posto de primeiro-ministro.",
-    "categoria": "politica",
+    "id": "investigacao-abuso-sexual",
+    "data": "2026-06-23",
+    "titulo": "Operações Policiais Resultam em Prisões por Abuso Sexual Infantil e Exploração Sexual de Adolescentes",
+    "resumo": "A Polícia Federal prendeu um suspeito de armazenar arquivos de abuso sexual infantil em São Francisco, Minas Gerais. Em Manaus, Amazonas, um agente de segurança pública foi preso sob investigação de exploração sexual de adolescentes. Os casos reforçam o combate a crimes contra menores no país.",
+    "categoria": "justica",
     "tags": [
-      "primeiro-ministro",
-      "renúncia",
-      "política do Reino Unido"
+      "abuso sexual",
+      "exploração sexual",
+      "crianças",
+      "adolescentes",
+      "polícia federal",
+      "polícia civil"
     ],
-    "entidades": [],
-    "pessoas": [
-      "Keir Starmer",
-      "Andy Burnham"
+    "entidades": [
+      "Polícia Federal",
+      "Polícia Civil do Amazonas"
     ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 5,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/22/keir-starmer-resignation-timeable-andy-burnham-labour-leadership-prime-minister-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-22-calor-europa",
-    "data": "2026-06-22",
-    "titulo": "Onda de calor intensa atinge a Europa com temperaturas elevadas",
-    "resumo": "Diversos países europeus, incluindo Alemanha, França e Reino Unido, estão registrando temperaturas extremamente altas devido a uma onda de calor. A previsão é que o calor persista, com pouca expectativa de alívio nas condições climáticas até o fim de semana ou início da próxima semana.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "onda de calor",
-      "temperaturas altas",
-      "Europa"
-    ],
-    "entidades": [],
     "pessoas": [],
-    "estados": [],
-    "cidades": [],
+    "estados": [
+      "Minas Gerais",
+      "Amazonas"
+    ],
+    "cidades": [
+      "São Francisco",
+      "Manaus"
+    ],
     "paises": [
-      "Alemanha",
-      "França",
-      "Reino Unido"
+      "Brasil"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "DW",
-        "url": "https://www.dw.com/en/europe-sizzles-under-heatwave-with-little-relief-in-sight/live-77663026?maca=en-rss-en-all-1573-rdf"
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/23/suspeito-de-armazenar-arquivos-de-abuso-sexual-infantil-e-preso-em-operacao-da-pf-em-sao-francisco.ghtml"
       },
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jun/22/zelenskyy-ukraine-russia-drones-europe-heatwave-trump-meloni-latest-news-updates"
+        "nome": "G1",
+        "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/23/agente-de-seguranca-publica-e-preso-investigado-por-exploracao-sexual-de-adolescentes-em-manaus.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-22-tensão-eua-ira-nuclear",
-    "data": "2026-06-22",
-    "titulo": "EUA afirma que Irã permitirá inspetores nucleares, mas Teerã nega permissão",
-    "resumo": "O vice-presidente dos Estados Unidos, Vance, declarou que conversas sobre inspeções nucleares com o Irã devem começar esta semana e que um acordo está próximo. No entanto, o governo iraniano negou as afirmações, contrariando a perspectiva de abertura para inspetores.",
+    "id": "mortes-violentas-brasil",
+    "data": "2026-06-23",
+    "titulo": "Homens São Mortos a Tiros em Diferentes Cidades do Brasil",
+    "resumo": "Um homem foi morto a tiros na rodovia MA-310, em São Bento, Maranhão. Em Barra Mansa, Rio de Janeiro, outro homem foi encontrado morto com marcas de tiros. Um ex-jogador de futebol identificado como Brasão foi assassinado a tiros em Tubarão, Santa Catarina, após uma briga em seu bar. Em Santos, São Paulo, um homem em situação de rua foi morto com um tiro na cabeça.",
+    "categoria": "seguranca",
+    "tags": [
+      "homicídio",
+      "tiros",
+      "violência",
+      "polícia"
+    ],
+    "entidades": [
+      "Polícia Civil",
+      "Polícia Militar"
+    ],
+    "pessoas": [
+      "Brasão"
+    ],
+    "estados": [
+      "Maranhão",
+      "Rio de Janeiro",
+      "Santa Catarina",
+      "São Paulo"
+    ],
+    "cidades": [
+      "São Bento",
+      "Barra Mansa",
+      "Tubarão",
+      "Santos"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/23/homem-e-morto-a-tiros-na-rodovia-ma-310-em-sao-bento.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/06/23/homem-e-encontrado-morto-com-marcas-de-tiros-em-barra-mansa.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/23/ex-jogador-brasao-morto-a-tiros-expulsar-cliente-bar-sc-diz-policia.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/23/homem-em-situacao-de-rua-e-morto-com-tiro-na-cabeca-no-litoral-de-sp.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "obras-infraestrutura-jacarei",
+    "data": "2026-06-23",
+    "titulo": "Jacareí Inicia Obras de Melhoria Viária e Mutirão de Saúde",
+    "resumo": "A Prefeitura de Jacareí iniciou obras de melhoria viária na Rua Padre Eugênio e também um trabalho para ligar as Avenidas Adhemar de Barros e Getúlio Vargas, visando facilitar o tráfego na cidade. Paralelamente, um mutirão de cirurgias e exames, iniciado em abril, realizará mais de 1.300 procedimentos até dezembro.",
+    "categoria": "economia",
+    "tags": [
+      "obras",
+      "infraestrutura",
+      "saúde",
+      "mutirão"
+    ],
+    "entidades": [
+      "Prefeitura de Jacareí",
+      "Secretaria de Saúde de Jacareí",
+      "Santa Casa do município"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Jacareí"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-jacarei/noticia/2026/06/23/obras-de-melhoria-viaria-comecam-na-rua-padre-eugenio-em-jacarei.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-jacarei/noticia/2026/06/23/jacarei-inicia-obras-entre-av-adhemar-de-barros-e-av-getulio-vargas.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-jacarei/noticia/2026/06/23/mutirao-de-cirurgias-e-exames-fara-mais-de-1300-procedimentos-ate-dezembro.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "eventos-culturais-nordeste",
+    "data": "2026-06-23",
+    "titulo": "Celebrações de São João Movimentam o Nordeste com Shows e Transmissões",
+    "resumo": "Campina Grande, na Paraíba, celebra o São João com shows tradicionais, incluindo a apresentação de Elba Ramalho. Em Maceió, Alagoas, o São João Massayó 2026 terá seus shows transmitidos pela TV Asa Branca. As festas juninas são um marco cultural da região nordestina.",
+    "categoria": "cultura",
+    "tags": [
+      "São João",
+      "festas juninas",
+      "cultura nordestina",
+      "shows",
+      "transmissão"
+    ],
+    "entidades": [
+      "TV Asa Branca Alagoas"
+    ],
+    "pessoas": [
+      "Elba Ramalho"
+    ],
+    "estados": [
+      "Paraíba",
+      "Alagoas"
+    ],
+    "cidades": [
+      "Campina Grande",
+      "Maceió"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pb/paraiba/sao-joao/noticia/2026/06/23/elba-ramalho-se-apresenta-na-vespera-de-sao-joao-em-campina-grande-ha-mais-de-30-anos.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/al/saojoao/2026/noticia/2026/06/23/tv-asa-branca-alagoas-transmite-shows-do-sao-joao-massayo-2026-confira-as-datas.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "tragedia-envolvendo-bebe-minas-gerais",
+    "data": "2026-06-23",
+    "titulo": "Jovem Investigada por Tentativa de Homicídio após Parto em Vaso Sanitário em Hospital de MG",
+    "resumo": "Uma jovem de 20 anos está sendo investigada por tentativa de aborto e homicídio após dar à luz a um bebê em um vaso sanitário na Santa Casa de Patrocínio, Minas Gerais. A Polícia Civil apura as circunstâncias do ocorrido.",
+    "categoria": "justica",
+    "tags": [
+      "parto",
+      "bebê",
+      "hospital",
+      "investigação",
+      "tentativa de homicídio"
+    ],
+    "entidades": [
+      "Polícia Civil",
+      "Santa Casa de Patrocínio"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Patrocínio"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/23/jovem-e-investigada-por-tentativa-de-aborto-e-homicidio-apos-dar-a-luz-em-vaso-sanitario-de-hospital-em-mg.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "concursos-publicos-brasil",
+    "data": "2026-06-23",
+    "titulo": "Concursos Abertos Oferecem Milhares de Vagas em Diversas Cidades",
+    "resumo": "A Prefeitura de Porto Velho, em Rondônia, abriu concurso para Guarda Municipal com 50 vagas e salário de R$ 6,3 mil. Em Indaiatuba, São Paulo, um feirão de empregos oferecerá 593 oportunidades. Outras cidades também anunciam novas vagas no mercado de trabalho.",
+    "categoria": "educacao",
+    "tags": [
+      "concurso público",
+      "empregos",
+      "vagas",
+      "guarda municipal"
+    ],
+    "entidades": [
+      "Prefeitura de Porto Velho",
+      "Prefeitura de Indaiatuba"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Rondônia",
+      "São Paulo"
+    ],
+    "cidades": [
+      "Porto Velho",
+      "Indaiatuba"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ro/rondonia/noticia/2026/06/23/prefeitura-de-porto-velho-abre-concurso-para-guarda-municipal-com-salario-de-r-63-mil.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/campinas-regiao/concursos-e-emprego/noticia/2026/06/23/indaiatuba-realiza-feirao-de-empregos-com-593-oportunidades-saiba-como-participar.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "transporte-interrompido-sp",
+    "data": "2026-06-23",
+    "titulo": "Ventos Fortes Suspendem Travessia de Balsa em São Paulo",
+    "resumo": "A travessia de balsa entre São Sebastião e Ilhabela, no Litoral Norte de São Paulo, foi suspensa por quase duas horas devido aos ventos fortes que atingem a região costeira. O tráfego foi normalizado após a melhora das condições climáticas.",
     "categoria": "internacional",
     "tags": [
-      "Irã",
-      "EUA",
-      "inspeção nuclear",
-      "acordo"
+      "transporte",
+      "balsa",
+      "condições climáticas",
+      "suspensão"
     ],
     "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "São Sebastião",
+      "Ilhabela"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/23/travessia-de-balsa-entre-sao-sebastiao-e-ilhabela-e-suspensa-por-quase-2h-devido-aos-ventos-fortes.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "desenvolvimentos-politicos-escocia",
+    "data": "2026-06-23",
+    "titulo": "Ex-Secretário do SNP Pego em Esquema de Desvio de Fundos é Condenado a Prisão",
+    "resumo": "Peter Murrell, ex-marido da ex-primeira-ministra da Escócia Nicola Sturgeon, foi condenado a mais de cinco anos de prisão por desviar mais de £400.000 do Partido Nacional Escocês (SNP) ao longo de 12 anos. Ele confessou os crimes de peculato.",
+    "categoria": "politica",
+    "tags": [
+      "esquema",
+      "desvio de fundos",
+      "prisão",
+      "partido político",
+      "política escocesa"
+    ],
+    "entidades": [
+      "Scottish National party (SNP)"
+    ],
     "pessoas": [
-      "Vance"
+      "Peter Murrell",
+      "Nicola Sturgeon"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido",
+      "Escócia"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/politics/2026/jun/23/peter-murrell-sentenced-embezzlement-snp-scottish-national-party"
+      }
+    ]
+  },
+  {
+    "id": "relacoes-internacionais-irã-eua",
+    "data": "2026-06-23",
+    "titulo": "Tensão Irã-EUA: Líderes Discutem Inspeções Nucleares e Acordos Internacionais",
+    "resumo": "O presidente dos EUA, Donald Trump, afirmou que o Irã concordou com inspeções nucleares futuras, enquanto o Ministério das Relações Exteriores iraniano negou planos de inspeção em locais bombardeados. Omã e Irã anunciaram a formação de um time para um acordo sobre administração marítima.",
+    "categoria": "internacional",
+    "tags": [
+      "eua",
+      "irã",
+      "nuclear",
+      "inspeções",
+      "acordos internacionais",
+      "diplomacia"
+    ],
+    "entidades": [
+      "IAEA"
+    ],
+    "pessoas": [
+      "Donald Trump"
     ],
     "estados": [],
     "cidades": [],
     "paises": [
       "Estados Unidos",
-      "Irã"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/vance-diz-que-ira-vai-permitir-entrada-de-inspetores-nucleares-teera-nega/"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jun/22/middle-east-crisis-iran-us-peace-talks-switzerland-strait-of-hormuz-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-22-desaparecimento-primas-parana",
-    "data": "2026-06-22",
-    "titulo": "Primas desaparecidas no Paraná há 60 dias são tratadas como duplo homicídio",
-    "resumo": "Duas primas, Letycia Garcia Mendes e Sttela Dalva Melegari Almeida, ambas de 18 anos, completam 62 dias desaparecidas no Paraná. A Polícia Civil agora investiga o caso como um possível duplo homicídio, após a localização de imagens que mostram as jovens saindo em uma caminhonete com um suspeito antes do desaparecimento.",
-    "categoria": "justica",
-    "tags": [
-      "desaparecimento",
-      "homicídio",
-      "investigação policial",
-      "Paraná"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Letycia Garcia Mendes",
-      "Sttela Dalva Melegari Almeida"
-    ],
-    "estados": [
-      "Paraná"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/06/22/primas-estao-desaparecidas-no-parana-ha-60-dias-veja-tudo-o-que-se-sabe-sobre-o-caso.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-22-futebol-racismo-copa-mundo",
-    "data": "2026-06-22",
-    "titulo": "Ex-jogador é acusado de racismo por declarações sobre atleta belga na Copa do Mundo",
-    "resumo": "O ex-atacante Rade Bogdanovic está sendo acusado de racismo por comentários feitos durante a Copa do Mundo. Ele teria relacionado a cor da pele do atleta belga Nathan Ngoy à sua performance em campo. O caso gerou repercussão na esfera esportiva.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "Copa do Mundo",
-      "racismo",
-      "acusações"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Rade Bogdanovic",
-      "Nathan Ngoy"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/ex-jogador-e-acusado-de-racismo-apos-expulsao-de-atleta-belga/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-22-acidentes-transito-brasil",
-    "data": "2026-06-22",
-    "titulo": "Acidentes graves com caminhões e carros são registrados em diferentes estados do Brasil",
-    "resumo": "Um carreta desgovernada carregada com cana-de-açúcar causou estragos em Capinópolis, Minas Gerais, atingindo árvores, um poste e invadindo uma casa. Em Santos, São Paulo, um motorista desmaiou ao volante e colidiu com um poste em frente a uma unidade da PM. Em Ribeirão Preto, São Paulo, um carro na contramão bateu em dois veículos estacionados.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente de trânsito",
-      "caminhão",
-      "carro",
-      "Minas Gerais",
-      "São Paulo"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais",
-      "São Paulo"
-    ],
-    "cidades": [
-      "Capinópolis",
-      "Santos",
-      "Ribeirão Preto"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/22/carreta-desgovernada-carregada-com-cana-de-acucar-desce-rua-atinge-arvores-poste-e-invade-casa-video.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/22/motorista-desmaia-no-volante-e-bate-caminhonete-em-poste-em-frente-a-companhia-da-pm-video.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/06/22/video-motorista-na-contramao-bate-em-veiculos-estacionados-na-rua-em-ribeirao-preto-sp.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-22-drones-ucrania-russia",
-    "data": "2026-06-22",
-    "titulo": "Rússia intercepta drones ucranianos; Ucrânia promete 'trazer guerra de volta à Rússia'",
-    "resumo": "A Rússia informou ter interceptado cerca de 300 drones ucranianos em seu território, o que levou à suspensão temporária de operações no aeroporto de Moscou. Em resposta, o presidente ucraniano Volodymyr Zelenskyy declarou a intenção de 'trazer a guerra de volta à Rússia'.",
-    "categoria": "internacional",
-    "tags": [
-      "guerra na Ucrânia",
-      "drones",
-      "Rússia",
-      "Ucrânia",
-      "Volodymyr Zelenskyy"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Volodymyr Zelenskyy"
-    ],
-    "estados": [],
-    "cidades": [
-      "Moscou"
-    ],
-    "paises": [
-      "Rússia",
-      "Ucrânia"
+      "Irã",
+      "Omã"
     ],
     "importancia": 4,
     "fontes": [
       {
         "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jun/22/zelenskyy-ukraine-russia-drones-europe-heatwave-trump-meloni-latest-news-updates"
+        "url": "https://www.theguardian.com/world/live/2026/jun/23/iran-us-israel-lebanon-un-peace-deal-nuclear-iaea-frozen-assets-strait-of-hormuz-latest-news-updates"
       }
     ]
   },
   {
-    "id": "2026-06-22-seguranca-cibernetica-apple-tesla",
-    "data": "2026-06-22",
-    "titulo": "Empresa indiana pode ter exposto dados sigilosos de Apple e Tesla por falha de segurança",
-    "resumo": "A Tata Electronics reportou um incidente de segurança cibernética após pesquisadores afirmarem que documentos confidenciais de design e especificação de componentes da Apple e Tesla foram vazados. A extensão do vazamento e as informações exatas ainda estão sob investigação.",
-    "categoria": "economia",
+    "id": "descobertas-cientificas-rio-janeiro",
+    "data": "2026-06-23",
+    "titulo": "Bactérias do Rio de Janeiro Auxiliam Cientistas na Busca por Vida em Marte",
+    "resumo": "Pesquisadores da USP estão utilizando bactérias encontradas em uma laguna no Rio de Janeiro para ajudar a investigar a possibilidade de vida em Marte. O estudo com a bactéria Staphylococcus nepalensis busca entender as condições de sobrevivência em ambientes extremos.",
+    "categoria": "ciencia",
     "tags": [
-      "segurança cibernética",
-      "vazamento de dados",
-      "Apple",
-      "Tesla",
-      "empresa indiana"
+      "ciência",
+      "astrobiologia",
+      "marte",
+      "bactérias",
+      "universidade"
     ],
     "entidades": [
-      "Apple",
-      "Tesla",
-      "Tata Electronics"
+      "Universidade de São Paulo (USP)",
+      "Laboratório de Astrobiologia (AstroLab)"
     ],
     "pessoas": [],
-    "estados": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
     "cidades": [],
-    "paises": [],
-    "importancia": 4,
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/tecnologia/noticia/2026/06/22/vazamento-dados-apple-tesla-tata-electronics-resgate.ghtml"
+        "url": "https://g1.globo.com/ciencia/noticia/2026/06/23/bacterias-que-vivem-em-laguna-no-rio-de-janeiro-ajudam-cientistas-a-descobrir-se-ha-vida-em-marte.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-22-saude-greve-belem",
-    "data": "2026-06-22",
-    "titulo": "Profissionais da saúde paralisam cirurgias em hospital de Belém por falta de salários",
-    "resumo": "Profissionais da saúde anunciaram a paralisação dos atendimentos no HPSM do Guamá, em Belém, afetando o setor de cirurgias. Apenas pacientes em estado grave estão sendo atendidos. A paralisação ocorre devido à falta de pagamento de salários, especialmente para anestesistas.",
-    "categoria": "saude",
+    "id": "mudanca-lideranca-heineken",
+    "data": "2026-06-23",
+    "titulo": "Brasileiro Rafael Oliveira Nomeado Novo CEO Global da Heineken",
+    "resumo": "A cervejaria holandesa Heineken anunciou a nomeação do brasileiro Rafael Oliveira, de 51 anos, como seu novo CEO global e presidente do conselho de administração. Esta é a primeira vez que a empresa escolhe um executivo brasileiro para liderar sua operação mundial.",
+    "categoria": "economia",
     "tags": [
-      "saúde",
-      "paralisação",
-      "hospital",
-      "Belém",
-      "salários atrasados"
+      "heineken",
+      "ceo",
+      "liderança",
+      "corporativo",
+      "negócios"
     ],
-    "entidades": [],
+    "entidades": [
+      "Heineken"
+    ],
+    "pessoas": [
+      "Rafael Oliveira"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Holanda",
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/economia/noticia/2026/06/23/brasileiro-heineken-ceo-global.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "debate-banheiros-teresina",
+    "data": "2026-06-23",
+    "titulo": "Câmara de Teresina Aprova Projeto que Restringe Uso de Banheiros Femininos por Mulheres Trans",
+    "resumo": "A Câmara Municipal de Teresina aprovou, em segunda votação, um projeto de lei que proíbe o uso de banheiros femininos por mulheres trans e travestis. A medida gerou debate e já havia sido aprovada em primeira votação anteriormente.",
+    "categoria": "politica",
+    "tags": [
+      "projeto de lei",
+      "direitos humanos",
+      "lgbtqia+",
+      "câmara municipal",
+      "teresina"
+    ],
+    "entidades": [
+      "Câmara de Teresina"
+    ],
     "pessoas": [],
     "estados": [
-      "Pará"
+      "Piauí"
     ],
     "cidades": [
-      "Belém"
+      "Teresina"
     ],
     "paises": [
       "Brasil"
@@ -288,203 +452,154 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/pa/para/noticia/2026/06/22/profissionais-da-saude-paralisam-setor-de-cirurgias-do-psm-do-guama-em-belem.ghtml"
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/23/projeto-mulheres-trans-banheiros.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-22-musica-afro-b",
-    "data": "2026-06-22",
-    "titulo": "Afro B celebra suas raízes marfinenses em nova música",
-    "resumo": "O superstar britânico de Afrobeats, Afro B, conhecido pelo hit 'Drogba (Joanna)', lança sua nova música intitulada 'Mapouka'. A canção é uma celebração de suas origens marfinenses, mostrando a influência cultural em seu trabalho musical.",
-    "categoria": "cultura",
+    "id": "desastre-veicular-bauru",
+    "data": "2026-06-23",
+    "titulo": "Caminhão Desgovernado Atinge Imóvel em Bauru (SP) Sem Deixar Feridos",
+    "resumo": "Um caminhão carregado com materiais de construção desceu uma rua desgovernado e atingiu uma casa na manhã desta terça-feira (23) em Bauru, São Paulo. Apesar do susto e do impacto, ninguém ficou ferido no incidente.",
+    "categoria": "seguranca",
     "tags": [
-      "música",
-      "Afrobeats",
-      "Afro B",
-      "cultura marfinense",
-      "lançamento musical"
+      "acidente",
+      "caminhão",
+      "imóvel",
+      "bairro"
     ],
     "entidades": [],
-    "pessoas": [
-      "Afro B"
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
     ],
-    "estados": [],
-    "cidades": [],
+    "cidades": [
+      "Bauru"
+    ],
     "paises": [
-      "Costa do Marfim"
+      "Brasil"
     ],
     "importancia": 2,
     "fontes": [
       {
-        "nome": "France 24",
-        "url": "https://www.france24.com/en/tv-shows/arts24/20260622-afro-b-celebrates-his-ivorian-roots-on-mapouka"
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/06/23/video-caminhao-desgovernado-e-sem-motorista-desce-rua-e-atinge-imovel-em-bauru.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-22-justica-insecticida-caribenho",
-    "data": "2026-06-22",
-    "titulo": "Tribunal francês recusa julgamento sobre uso de inseticida tóxico nas Antilhas",
-    "resumo": "Um tribunal francês decidiu contra a abertura de um julgamento relacionado ao uso de um inseticida conhecido por ser tóxico nas Antilhas Francesas. A decisão impede uma investigação sobre um escândalo de saúde que perdura há 20 anos, apesar de o produto ter sido classificado como possivelmente cancerígeno em 1979.",
-    "categoria": "justica",
+    "id": "preocupacoes-saude-kenia",
+    "data": "2026-06-23",
+    "titulo": "Construção de Centro de Ebola nos EUA no Quênia Suspensa Após Ordem Judicial",
+    "resumo": "O Quênia suspendeu os planos de construção de um centro para o Ebola financiado pelos EUA após uma ordem judicial e críticas públicas. A decisão vem em meio a preocupações sobre os riscos à saúde e o uso dos fundos americanos.",
+    "categoria": "saude",
     "tags": [
-      "justiça",
-      "inseticida",
-      "Antilhas Francesas",
+      "ebola",
       "saúde pública",
-      "decisão judicial"
+      "centro de tratamento",
+      "ordem judicial",
+      "financiamento internacional"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "França"
+      "Quênia",
+      "Estados Unidos"
     ],
-    "importancia": 3,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "France 24",
-        "url": "https://www.france24.com/en/french-court-refuses-trial-on-use-of-toxic-insecticide-in-french-west-indies"
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/23/kenya-minister-says-us-run-ebola-facility-plans-halted-after-court-order?traffic_source=rss"
       }
     ]
   },
   {
-    "id": "2026-06-22-crime-morte-jovem-minas-gerais",
-    "data": "2026-06-22",
-    "titulo": "Polícia investiga morte de jovem encontrada ferida em Varginha, MG",
-    "resumo": "A Polícia Civil de Minas Gerais investiga as circunstâncias da morte de Joice Batiston, de 27 anos, que foi encontrada gravemente ferida na noite de sexta-feira em Varginha. A jovem chegou a ser socorrida pelos bombeiros, mas não resistiu aos ferimentos. A família busca respostas para o ocorrido.",
-    "categoria": "justica",
+    "id": "comemoracoes-museu-juiz-fora",
+    "data": "2026-06-23",
+    "titulo": "Museu Mariano Procópio Completa 105 Anos com Programação Especial em Juiz de Fora",
+    "resumo": "O Museu Mariano Procópio celebra seu 105º aniversário em Juiz de Fora, Minas Gerais, com uma programação gratuita que inclui visitas guiadas, brindes e um passeio noturno. As atividades visam comemorar a data e atrair o público.",
+    "categoria": "cultura",
     "tags": [
-      "crime",
-      "morte",
-      "investigação policial",
-      "Varginha",
-      "Minas Gerais"
+      "museu",
+      "aniversário",
+      "programação cultural",
+      "juiz de fora"
     ],
-    "entidades": [],
-    "pessoas": [
-      "Joice Batiston"
+    "entidades": [
+      "Fundação Museu Mariano Procópio"
     ],
+    "pessoas": [],
     "estados": [
       "Minas Gerais"
     ],
     "cidades": [
-      "Varginha"
+      "Juiz de Fora"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 3,
+    "importancia": 2,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/06/22/policia-civil-tenta-esclarecer-morte-de-jovem-encontrada-ferida-em-varginha-mg.ghtml"
+        "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/06/23/museu-mariano-procopio-completa-105-anos-com-visitas-guiadas-brindes-e-passeio-noturno-em-juiz-de-fora-veja-programacao.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-22-crime-homicidio-santa-catarina",
-    "data": "2026-06-22",
-    "titulo": "Suspeito de matar namorada em SC é preso e alega ter simulado suicídio",
-    "resumo": "Um homem de 24 anos foi preso preventivamente sob suspeita de matar sua namorada, Maria Eduarda Salvaro, de 21 anos, em Santa Catarina. O Ministério Público de Santa Catarina informou que o suspeito teria tentado simular uma cena de suicídio para encobrir o crime. O corpo da vítima foi localizado em um apartamento.",
-    "categoria": "justica",
+    "id": "esporte-copa-mundo-2026",
+    "data": "2026-06-23",
+    "titulo": "Copa do Mundo 2026: Portugal em Campo e Família de Cristiano Ronaldo Presente",
+    "resumo": "O dia da Copa do Mundo 2026 conta com a partida de Portugal contra o Uzbequistão. A irmã de Cristiano Ronaldo, Katia Aveiro, confirmou sua presença para torcer pela seleção e pelo irmão, vestindo uma camisa histórica do jogador.",
+    "categoria": "esportes",
     "tags": [
-      "crime",
-      "homicídio",
-      "violência doméstica",
-      "prisão",
-      "Santa Catarina"
+      "copa do mundo 2026",
+      "futebol",
+      "portugal",
+      "cristiano ronaldo"
     ],
     "entidades": [],
     "pessoas": [
-      "Maria Eduarda Salvaro"
+      "Cristiano Ronaldo",
+      "Katia Aveiro"
     ],
-    "estados": [
-      "Santa Catarina"
-    ],
+    "estados": [],
     "cidades": [],
     "paises": [
-      "Brasil"
+      "Portugal",
+      "Uzbequistão"
     ],
-    "importancia": 3,
+    "importancia": 4,
     "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/6/23/portugal-vs-uzbekistan-live-world-cup-2026?traffic_source=rss"
+      },
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/22/suspeito-matar-namorada-sc-simular-cena-suicidio-diz-mp.ghtml"
+        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/23/em-dia-de-portugal-na-copa-irma-de-cristiano-ronaldo-veste-camisa-usada-pelo-craque-no-200o-jogo-pela-selecao-ainda-tem-o-cheiro-dele.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-22-economia-plano-safra",
-    "data": "2026-06-22",
-    "titulo": "Governo acelera negociações para finalizar o Plano Safra 2026/27",
-    "resumo": "O governo federal está intensificando as negociações para concluir as definições do Plano Safra 2026/27. As discussões sobre recursos e subsídios estão na etapa final, com expectativa de que os números sejam fechados nos próximos dias. O anúncio oficial do programa está previsto para 1º de julho.",
+    "id": "investimento-imobiliario-matogrosso-sul",
+    "data": "2026-06-23",
+    "titulo": "Campanha Inédita Une Investimento em Terrenos, Rentabilização Patrimonial e Prêmios em MS",
+    "resumo": "Uma campanha promovida pela Plan Loteamentos, de Mato Grosso do Sul, oferece benefícios para investimento em terrenos, formação de patrimônio e premiações para clientes. A iniciativa ocorre durante o período do torneio mundial de futebol.",
     "categoria": "economia",
     "tags": [
-      "Plano Safra",
-      "agricultura",
-      "economia",
-      "governo",
-      "negociações"
+      "investimento",
+      "imóveis",
+      "terrenos",
+      "patrimônio",
+      "campanha"
     ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
+    "entidades": [
+      "Plan Loteamentos"
     ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/agro/governo-acelera-negociacoes-para-concluir-plano-safra-2026-27/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-22-justica-violencia-sexual-reino-unido",
-    "data": "2026-06-22",
-    "titulo": "Homem britânico admite crimes sexuais contra a esposa",
-    "resumo": "Um homem britânico, acusado de conspirar para drogar e estuprar sua esposa ao longo de duas décadas, admitiu a prática de uma dúzia de crimes sexuais. As confissões cobrem um período de três anos e incluem agressões sexuais cometidas com a participação de outra pessoa.",
-    "categoria": "justica",
-    "tags": [
-      "crimes sexuais",
-      "violência doméstica",
-      "admissão de culpa",
-      "Reino Unido"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/22/man-accused-conspiring-drug-wife-admits-sexual-offences"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-22-clima-frio-campo-grande",
-    "data": "2026-06-22",
-    "titulo": "Campo Grande reabre abrigo para pessoas em situação de rua devido à queda de temperatura",
-    "resumo": "Devido à chegada de uma nova onda de frio em Campo Grande, a prefeitura decidiu reativar o abrigo temporário para pessoas em situação de rua. O local, localizado no Parque Ayrton Senna, voltou a funcionar e deve permanecer aberto até quinta-feira, com a mínima prevista para 10°C.",
-    "categoria": "social",
-    "tags": [
-      "inverno",
-      "pessoas em situação de rua",
-      "abrigo",
-      "Campo Grande",
-      "onda de frio"
-    ],
-    "entidades": [],
     "pessoas": [],
     "estados": [
       "Mato Grosso do Sul"
@@ -499,198 +614,138 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/22/com-minima-de-10c-campo-grande-reativa-abrigo-para-pessoas-em-situacao-de-rua.ghtml"
+        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/especial-publicitario/plan-loteamentos/noticia/2026/06/23/campanha-une-investimento-em-terrenos-rentabilizacao-patrimonial-e-premios.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-22-crime-porto-madeira-bolivia",
-    "data": "2026-06-22",
-    "titulo": "PF aguarda laudo para identificar cocaína diluída em carga de madeira na fronteira com Bolívia",
-    "resumo": "A Polícia Federal aguarda a conclusão de laudos periciais para determinar o tipo e a quantidade de cocaína encontrada diluída em uma carga de madeira apreendida em Mato Grosso do Sul. O entorpecente estava escondido em oito caminhões na fronteira com a Bolívia, como parte de um esquema internacional de tráfico.",
+    "id": "acidente-transporte-sao-luis",
+    "data": "2026-06-23",
+    "titulo": "Acidente na Barragem do Bacanga em São Luís Deixa Motorista Ferido",
+    "resumo": "Um motorista ficou ferido após um acidente na Barragem do Bacanga, em São Luís, Maranhão, nesta terça-feira (23). O incidente ocorreu após o pneu do veículo estourar enquanto o motorista se dirigia para uma cooperativa.",
     "categoria": "seguranca",
     "tags": [
-      "tráfico de drogas",
-      "cocaína",
-      "Polícia Federal",
-      "fronteira",
-      "Bolívia",
-      "Mato Grosso do Sul"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Mato Grosso do Sul"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil",
-      "Bolívia"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/22/pf-aguarda-laudo-para-identificar-tipo-e-quantidade-de-cocaina-escondida-diluida-em-carga-de-madeira.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-22-militares-myanmar",
-    "data": "2026-06-22",
-    "titulo": "Exército de Mianmar matou mais de 700 civis em seis meses, aponta relatório da ONU",
-    "resumo": "Um novo relatório das Nações Unidas indica que o exército de Mianmar é responsável pela morte de mais de 700 civis em um período de seis meses no ano passado. Dentre as vítimas fatais, 153 eram crianças, detalha o documento.",
-    "categoria": "internacional",
-    "tags": [
-      "Mianmar",
-      "direitos humanos",
-      "ONU",
-      "conflito",
-      "mortes de civis"
+      "acidente de trânsito",
+      "rodovia",
+      "feridos",
+      "pneu estourado"
     ],
     "entidades": [
-      "ONU"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Mianmar"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "BBC",
-        "url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-22-futebol-argentina-austria",
-    "data": "2026-06-22",
-    "titulo": "Argentina enfrenta Áustria pela Copa do Mundo; saiba onde assistir",
-    "resumo": "A seleção argentina de futebol encara a Áustria em partida válida pela Copa do Mundo. O jogo está marcado para as 14h (horário local) e ocorrerá no AT&T Stadium, em Dallas, no Texas. As escalações das equipes e informações sobre a transmissão estarão disponíveis para o público.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "Copa do Mundo",
-      "Argentina",
-      "Áustria"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Texas"
-    ],
-    "cidades": [
-      "Dallas"
-    ],
-    "paises": [
-      "Argentina",
-      "Áustria"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/argentina-x-austria-escalacoes-e-onde-assistir-ao-jogo-da-copa-do-mundo/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-22-justica-presidio-juiz-fora",
-    "data": "2026-06-22",
-    "titulo": "MP investiga denúncia de 'sala do castigo' em presídio de Juiz de Fora",
-    "resumo": "O Ministério Público de Minas Gerais (MPMG) em Juiz de Fora está apurando uma denúncia sobre a existência de uma suposta 'sala do castigo' em um presídio da cidade. A investigação foi iniciada após uma representação da Comissão de Direitos Humanos da OAB. A Secretaria de Estado de Justiça e Segurança Pública (Sejusp) negou a acusação.",
-    "categoria": "justica",
-    "tags": [
-      "sistema prisional",
-      "direitos humanos",
-      "investigação",
-      "Juiz de Fora",
-      "Minas Gerais"
-    ],
-    "entidades": [
-      "OAB"
+      "Polícia Militar (PM)"
     ],
     "pessoas": [],
     "estados": [
-      "Minas Gerais"
+      "Maranhão"
     ],
     "cidades": [
-      "Juiz de Fora"
+      "São Luís"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/06/22/mp-investiga-denuncia-de-sala-do-castigo-em-presidio-de-juiz-de-fora-sejusp-nega.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-22-justica-deolane-habeas-corpus",
-    "data": "2026-06-22",
-    "titulo": "OAB-SP pede habeas corpus para influenciadora Deolane Bezerra",
-    "resumo": "A Ordem dos Advogados do Brasil em São Paulo (OAB-SP) entrou com um pedido de habeas corpus para a influenciadora e advogada Deolane Bezerra. A solicitação visa a transferência da detenta para a Sala de Estado-Maior ou prisão domiciliar. Deolane Bezerra está detida na Penitenciária Feminina de Tupi Paulista.",
-    "categoria": "justica",
-    "tags": [
-      "OAB",
-      "habeas corpus",
-      "Deolane Bezerra",
-      "sistema prisional",
-      "São Paulo"
-    ],
-    "entidades": [
-      "OAB"
-    ],
-    "pessoas": [
-      "Deolane Bezerra"
-    ],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/22/oab-de-sp-entra-com-pedido-de-habeas-corpus-para-deolane-ser-transferida-para-sala-de-estado-maior-ou-prisao-domiciliar.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-22-justica-caso-gritzbach",
-    "data": "2026-06-22",
-    "titulo": "Viúva relata último contato com motorista em depoimento sobre caso Gritzbach",
-    "resumo": "Simone Novais, viúva do motorista Celso Novais, prestou depoimento no Tribunal do Júri no âmbito do caso Gritzbach. Em sua fala, ela detalhou as últimas palavras do marido e o impacto de sua perda para a família. O caso continua em andamento judicial.",
-    "categoria": "justica",
-    "tags": [
-      "caso Gritzbach",
-      "depoimento",
-      "júri",
-      "violência",
-      "família"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Simone Novais",
-      "Celso Novais"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [],
     "importancia": 2,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/caso-gritzbach-viuva-de-motorista-relata-ultimo-contato/"
+        "nome": "G1",
+        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/23/pneu-estoura-e-provoca-acidente-na-barragem-do-bacanga-em-sao-luis-familia-busca-informacoes-sobre-motorista.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "reforma-politica-amazonas",
+    "data": "2026-06-23",
+    "titulo": "Assembleia Legislativa do Amazonas Aprova LDO de 2027 com Aumento para Ministério Público",
+    "resumo": "A Assembleia Legislativa do Amazonas (Aleam) aprovou o Projeto de Lei nº 344/2026, que estabelece a Lei de Diretrizes Orçamentárias (LDO) de 2027. A proposta inclui um aumento de repasse para o Ministério Público do estado.",
+    "categoria": "politica",
+    "tags": [
+      "orçamento",
+      "política orçamentária",
+      "assembleia legislativa",
+      "ministério público"
+    ],
+    "entidades": [
+      "Assembleia Legislativa do Amazonas (Aleam)"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Amazonas"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/23/aleam-aprova-ldo-de-2027-com-aumento-de-repasse-ao-ministerio-publico-no-amazonas.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "incidente-parapente-china",
+    "data": "2026-06-23",
+    "titulo": "Piloto de Parapente Fica Preso por 3 Horas a 60 Metros de Altura na China",
+    "resumo": "Um piloto de parapente ficou preso por mais de três horas a 60 metros de altura em Nanchong, província de Sichuan, na China. O resgate foi realizado com o auxílio de um guindaste em um canteiro de obras.",
+    "categoria": "internacional",
+    "tags": [
+      "parapente",
+      "resgate",
+      "acidente",
+      "altura",
+      "china"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Sichuan"
+    ],
+    "cidades": [
+      "Nanchong"
+    ],
+    "paises": [
+      "China"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mundo/noticia/2026/06/23/video-piloto-de-parapente-fica-preso-por-3-horas-a-60-metros-de-altura-na-china.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "prisao-vereador-parana",
+    "data": "2026-06-23",
+    "titulo": "Vereador do PR é Preso Após Agressão à Ex-esposa e Participa de Sessão com Tornozeleira",
+    "resumo": "O vereador Márcio Gonçalves (MDB), de Laranjeiras do Sul (PR), foi preso após bater e arrastar o carro da ex-esposa com o filho dentro. Logo após ser solto, ele participou de uma sessão da Câmara Municipal utilizando tornozeleira eletrônica.",
+    "categoria": "justica",
+    "tags": [
+      "violência doméstica",
+      "prisão",
+      "vereador",
+      "tornozeleira eletrônica"
+    ],
+    "entidades": [
+      "Câmara Municipal de Laranjeiras do Sul"
+    ],
+    "pessoas": [
+      "Márcio Gonçalves"
+    ],
+    "estados": [
+      "Paraná"
+    ],
+    "cidades": [
+      "Laranjeiras do Sul"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/06/23/vereador-do-parana-preso-por-bater-no-carro-da-ex-com-o-filho-dentro-e-solto-e-participa-de-sessao-da-camara-logo-apos-sair-da-cadeia.ghtml"
       }
     ]
   }
