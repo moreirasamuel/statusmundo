@@ -1,542 +1,721 @@
 [
   {
-    "id": "investigacao-abuso-sexual",
-    "data": "2026-06-23",
-    "titulo": "Operações Policiais Resultam em Prisões por Abuso Sexual Infantil e Exploração Sexual de Adolescentes",
-    "resumo": "A Polícia Federal prendeu um suspeito de armazenar arquivos de abuso sexual infantil em São Francisco, Minas Gerais. Em Manaus, Amazonas, um agente de segurança pública foi preso sob investigação de exploração sexual de adolescentes. Os casos reforçam o combate a crimes contra menores no país.",
-    "categoria": "justica",
-    "tags": [
-      "abuso sexual",
-      "exploração sexual",
-      "crianças",
-      "adolescentes",
-      "polícia federal",
-      "polícia civil"
-    ],
-    "entidades": [
-      "Polícia Federal",
-      "Polícia Civil do Amazonas"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais",
-      "Amazonas"
-    ],
-    "cidades": [
-      "São Francisco",
-      "Manaus"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/23/suspeito-de-armazenar-arquivos-de-abuso-sexual-infantil-e-preso-em-operacao-da-pf-em-sao-francisco.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/23/agente-de-seguranca-publica-e-preso-investigado-por-exploracao-sexual-de-adolescentes-em-manaus.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "mortes-violentas-brasil",
-    "data": "2026-06-23",
-    "titulo": "Homens São Mortos a Tiros em Diferentes Cidades do Brasil",
-    "resumo": "Um homem foi morto a tiros na rodovia MA-310, em São Bento, Maranhão. Em Barra Mansa, Rio de Janeiro, outro homem foi encontrado morto com marcas de tiros. Um ex-jogador de futebol identificado como Brasão foi assassinado a tiros em Tubarão, Santa Catarina, após uma briga em seu bar. Em Santos, São Paulo, um homem em situação de rua foi morto com um tiro na cabeça.",
-    "categoria": "seguranca",
-    "tags": [
-      "homicídio",
-      "tiros",
-      "violência",
-      "polícia"
-    ],
-    "entidades": [
-      "Polícia Civil",
-      "Polícia Militar"
-    ],
-    "pessoas": [
-      "Brasão"
-    ],
-    "estados": [
-      "Maranhão",
-      "Rio de Janeiro",
-      "Santa Catarina",
-      "São Paulo"
-    ],
-    "cidades": [
-      "São Bento",
-      "Barra Mansa",
-      "Tubarão",
-      "Santos"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/23/homem-e-morto-a-tiros-na-rodovia-ma-310-em-sao-bento.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/06/23/homem-e-encontrado-morto-com-marcas-de-tiros-em-barra-mansa.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/23/ex-jogador-brasao-morto-a-tiros-expulsar-cliente-bar-sc-diz-policia.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/23/homem-em-situacao-de-rua-e-morto-com-tiro-na-cabeca-no-litoral-de-sp.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "obras-infraestrutura-jacarei",
-    "data": "2026-06-23",
-    "titulo": "Jacareí Inicia Obras de Melhoria Viária e Mutirão de Saúde",
-    "resumo": "A Prefeitura de Jacareí iniciou obras de melhoria viária na Rua Padre Eugênio e também um trabalho para ligar as Avenidas Adhemar de Barros e Getúlio Vargas, visando facilitar o tráfego na cidade. Paralelamente, um mutirão de cirurgias e exames, iniciado em abril, realizará mais de 1.300 procedimentos até dezembro.",
-    "categoria": "economia",
-    "tags": [
-      "obras",
-      "infraestrutura",
-      "saúde",
-      "mutirão"
-    ],
-    "entidades": [
-      "Prefeitura de Jacareí",
-      "Secretaria de Saúde de Jacareí",
-      "Santa Casa do município"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Jacareí"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-jacarei/noticia/2026/06/23/obras-de-melhoria-viaria-comecam-na-rua-padre-eugenio-em-jacarei.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-jacarei/noticia/2026/06/23/jacarei-inicia-obras-entre-av-adhemar-de-barros-e-av-getulio-vargas.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-jacarei/noticia/2026/06/23/mutirao-de-cirurgias-e-exames-fara-mais-de-1300-procedimentos-ate-dezembro.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "eventos-culturais-nordeste",
-    "data": "2026-06-23",
-    "titulo": "Celebrações de São João Movimentam o Nordeste com Shows e Transmissões",
-    "resumo": "Campina Grande, na Paraíba, celebra o São João com shows tradicionais, incluindo a apresentação de Elba Ramalho. Em Maceió, Alagoas, o São João Massayó 2026 terá seus shows transmitidos pela TV Asa Branca. As festas juninas são um marco cultural da região nordestina.",
-    "categoria": "cultura",
-    "tags": [
-      "São João",
-      "festas juninas",
-      "cultura nordestina",
-      "shows",
-      "transmissão"
-    ],
-    "entidades": [
-      "TV Asa Branca Alagoas"
-    ],
-    "pessoas": [
-      "Elba Ramalho"
-    ],
-    "estados": [
-      "Paraíba",
-      "Alagoas"
-    ],
-    "cidades": [
-      "Campina Grande",
-      "Maceió"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pb/paraiba/sao-joao/noticia/2026/06/23/elba-ramalho-se-apresenta-na-vespera-de-sao-joao-em-campina-grande-ha-mais-de-30-anos.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/al/saojoao/2026/noticia/2026/06/23/tv-asa-branca-alagoas-transmite-shows-do-sao-joao-massayo-2026-confira-as-datas.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "tragedia-envolvendo-bebe-minas-gerais",
-    "data": "2026-06-23",
-    "titulo": "Jovem Investigada por Tentativa de Homicídio após Parto em Vaso Sanitário em Hospital de MG",
-    "resumo": "Uma jovem de 20 anos está sendo investigada por tentativa de aborto e homicídio após dar à luz a um bebê em um vaso sanitário na Santa Casa de Patrocínio, Minas Gerais. A Polícia Civil apura as circunstâncias do ocorrido.",
-    "categoria": "justica",
-    "tags": [
-      "parto",
-      "bebê",
-      "hospital",
-      "investigação",
-      "tentativa de homicídio"
-    ],
-    "entidades": [
-      "Polícia Civil",
-      "Santa Casa de Patrocínio"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Patrocínio"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/23/jovem-e-investigada-por-tentativa-de-aborto-e-homicidio-apos-dar-a-luz-em-vaso-sanitario-de-hospital-em-mg.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "concursos-publicos-brasil",
-    "data": "2026-06-23",
-    "titulo": "Concursos Abertos Oferecem Milhares de Vagas em Diversas Cidades",
-    "resumo": "A Prefeitura de Porto Velho, em Rondônia, abriu concurso para Guarda Municipal com 50 vagas e salário de R$ 6,3 mil. Em Indaiatuba, São Paulo, um feirão de empregos oferecerá 593 oportunidades. Outras cidades também anunciam novas vagas no mercado de trabalho.",
-    "categoria": "educacao",
-    "tags": [
-      "concurso público",
-      "empregos",
-      "vagas",
-      "guarda municipal"
-    ],
-    "entidades": [
-      "Prefeitura de Porto Velho",
-      "Prefeitura de Indaiatuba"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Rondônia",
-      "São Paulo"
-    ],
-    "cidades": [
-      "Porto Velho",
-      "Indaiatuba"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ro/rondonia/noticia/2026/06/23/prefeitura-de-porto-velho-abre-concurso-para-guarda-municipal-com-salario-de-r-63-mil.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/campinas-regiao/concursos-e-emprego/noticia/2026/06/23/indaiatuba-realiza-feirao-de-empregos-com-593-oportunidades-saiba-como-participar.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "transporte-interrompido-sp",
-    "data": "2026-06-23",
-    "titulo": "Ventos Fortes Suspendem Travessia de Balsa em São Paulo",
-    "resumo": "A travessia de balsa entre São Sebastião e Ilhabela, no Litoral Norte de São Paulo, foi suspensa por quase duas horas devido aos ventos fortes que atingem a região costeira. O tráfego foi normalizado após a melhora das condições climáticas.",
+    "id": "2026-06-24-ataque-terrorista-siria",
+    "data": "2026-06-24",
+    "titulo": "EUA bombardeiam Síria e matam comandante do Estado Islâmico",
+    "resumo": "As Forças Armadas dos Estados Unidos realizaram um ataque na Síria, resultando na morte de um comandante de alto escalão do grupo terrorista Estado Islâmico. A operação ocorreu na semana passada e foi divulgada nesta quarta-feira (24). O ataque visa desmantelar lideranças de organizações extremistas.",
     "categoria": "internacional",
     "tags": [
-      "transporte",
-      "balsa",
-      "condições climáticas",
-      "suspensão"
+      "EUA",
+      "Síria",
+      "Estado Islâmico",
+      "terrorismo"
     ],
-    "entidades": [],
+    "entidades": [
+      "Estado Islâmico"
+    ],
     "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "São Sebastião",
-      "Ilhabela"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/23/travessia-de-balsa-entre-sao-sebastiao-e-ilhabela-e-suspensa-por-quase-2h-devido-aos-ventos-fortes.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "desenvolvimentos-politicos-escocia",
-    "data": "2026-06-23",
-    "titulo": "Ex-Secretário do SNP Pego em Esquema de Desvio de Fundos é Condenado a Prisão",
-    "resumo": "Peter Murrell, ex-marido da ex-primeira-ministra da Escócia Nicola Sturgeon, foi condenado a mais de cinco anos de prisão por desviar mais de £400.000 do Partido Nacional Escocês (SNP) ao longo de 12 anos. Ele confessou os crimes de peculato.",
-    "categoria": "politica",
-    "tags": [
-      "esquema",
-      "desvio de fundos",
-      "prisão",
-      "partido político",
-      "política escocesa"
-    ],
-    "entidades": [
-      "Scottish National party (SNP)"
-    ],
-    "pessoas": [
-      "Peter Murrell",
-      "Nicola Sturgeon"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido",
-      "Escócia"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/2026/jun/23/peter-murrell-sentenced-embezzlement-snp-scottish-national-party"
-      }
-    ]
-  },
-  {
-    "id": "relacoes-internacionais-irã-eua",
-    "data": "2026-06-23",
-    "titulo": "Tensão Irã-EUA: Líderes Discutem Inspeções Nucleares e Acordos Internacionais",
-    "resumo": "O presidente dos EUA, Donald Trump, afirmou que o Irã concordou com inspeções nucleares futuras, enquanto o Ministério das Relações Exteriores iraniano negou planos de inspeção em locais bombardeados. Omã e Irã anunciaram a formação de um time para um acordo sobre administração marítima.",
-    "categoria": "internacional",
-    "tags": [
-      "eua",
-      "irã",
-      "nuclear",
-      "inspeções",
-      "acordos internacionais",
-      "diplomacia"
-    ],
-    "entidades": [
-      "IAEA"
-    ],
-    "pessoas": [
-      "Donald Trump"
-    ],
     "estados": [],
     "cidades": [],
     "paises": [
       "Estados Unidos",
-      "Irã",
-      "Omã"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jun/23/iran-us-israel-lebanon-un-peace-deal-nuclear-iaea-frozen-assets-strait-of-hormuz-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "descobertas-cientificas-rio-janeiro",
-    "data": "2026-06-23",
-    "titulo": "Bactérias do Rio de Janeiro Auxiliam Cientistas na Busca por Vida em Marte",
-    "resumo": "Pesquisadores da USP estão utilizando bactérias encontradas em uma laguna no Rio de Janeiro para ajudar a investigar a possibilidade de vida em Marte. O estudo com a bactéria Staphylococcus nepalensis busca entender as condições de sobrevivência em ambientes extremos.",
-    "categoria": "ciencia",
-    "tags": [
-      "ciência",
-      "astrobiologia",
-      "marte",
-      "bactérias",
-      "universidade"
-    ],
-    "entidades": [
-      "Universidade de São Paulo (USP)",
-      "Laboratório de Astrobiologia (AstroLab)"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ciencia/noticia/2026/06/23/bacterias-que-vivem-em-laguna-no-rio-de-janeiro-ajudam-cientistas-a-descobrir-se-ha-vida-em-marte.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "mudanca-lideranca-heineken",
-    "data": "2026-06-23",
-    "titulo": "Brasileiro Rafael Oliveira Nomeado Novo CEO Global da Heineken",
-    "resumo": "A cervejaria holandesa Heineken anunciou a nomeação do brasileiro Rafael Oliveira, de 51 anos, como seu novo CEO global e presidente do conselho de administração. Esta é a primeira vez que a empresa escolhe um executivo brasileiro para liderar sua operação mundial.",
-    "categoria": "economia",
-    "tags": [
-      "heineken",
-      "ceo",
-      "liderança",
-      "corporativo",
-      "negócios"
-    ],
-    "entidades": [
-      "Heineken"
-    ],
-    "pessoas": [
-      "Rafael Oliveira"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Holanda",
-      "Brasil"
+      "Síria"
     ],
     "importancia": 4,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/economia/noticia/2026/06/23/brasileiro-heineken-ceo-global.ghtml"
+        "url": "https://g1.globo.com/mundo/noticia/2026/06/24/eua-bombardeio-siria-mata-comandante-alto-escalao-ei.ghtml"
       }
     ]
   },
   {
-    "id": "debate-banheiros-teresina",
-    "data": "2026-06-23",
-    "titulo": "Câmara de Teresina Aprova Projeto que Restringe Uso de Banheiros Femininos por Mulheres Trans",
-    "resumo": "A Câmara Municipal de Teresina aprovou, em segunda votação, um projeto de lei que proíbe o uso de banheiros femininos por mulheres trans e travestis. A medida gerou debate e já havia sido aprovada em primeira votação anteriormente.",
+    "id": "2026-06-24-primarias-nova-iorque",
+    "data": "2026-06-24",
+    "titulo": "Candidatos apoiados por Mamdani vencem primárias democratas em Nova Iorque",
+    "resumo": "Candidatos apoiados por Zohran Mamdani obtiveram vitórias significativas nas primárias democratas em Nova Iorque. A eleição evidenciou a crescente influência do prefeito da cidade. Brad Lander, um dos apoiados, derrotou Dan Goldman em uma disputa que refletiu divisões internas do partido. As eleições primárias definem candidatos para as próximas eleições.",
     "categoria": "politica",
     "tags": [
-      "projeto de lei",
-      "direitos humanos",
-      "lgbtqia+",
-      "câmara municipal",
-      "teresina"
-    ],
-    "entidades": [
-      "Câmara de Teresina"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Piauí"
-    ],
-    "cidades": [
-      "Teresina"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/23/projeto-mulheres-trans-banheiros.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "desastre-veicular-bauru",
-    "data": "2026-06-23",
-    "titulo": "Caminhão Desgovernado Atinge Imóvel em Bauru (SP) Sem Deixar Feridos",
-    "resumo": "Um caminhão carregado com materiais de construção desceu uma rua desgovernado e atingiu uma casa na manhã desta terça-feira (23) em Bauru, São Paulo. Apesar do susto e do impacto, ninguém ficou ferido no incidente.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente",
-      "caminhão",
-      "imóvel",
-      "bairro"
+      "primárias",
+      "Nova Iorque",
+      "democratas",
+      "Zohran Mamdani"
     ],
     "entidades": [],
-    "pessoas": [],
+    "pessoas": [
+      "Zohran Mamdani",
+      "Brad Lander",
+      "Dan Goldman"
+    ],
     "estados": [
-      "São Paulo"
+      "Nova Iorque"
     ],
-    "cidades": [
-      "Bauru"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/06/23/video-caminhao-desgovernado-e-sem-motorista-desce-rua-e-atinge-imovel-em-bauru.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "preocupacoes-saude-kenia",
-    "data": "2026-06-23",
-    "titulo": "Construção de Centro de Ebola nos EUA no Quênia Suspensa Após Ordem Judicial",
-    "resumo": "O Quênia suspendeu os planos de construção de um centro para o Ebola financiado pelos EUA após uma ordem judicial e críticas públicas. A decisão vem em meio a preocupações sobre os riscos à saúde e o uso dos fundos americanos.",
-    "categoria": "saude",
-    "tags": [
-      "ebola",
-      "saúde pública",
-      "centro de tratamento",
-      "ordem judicial",
-      "financiamento internacional"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
     "cidades": [],
     "paises": [
-      "Quênia",
       "Estados Unidos"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/6/23/kenya-minister-says-us-run-ebola-facility-plans-halted-after-court-order?traffic_source=rss"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/live/2026/jun/24/mamdani-new-york-primaries-midterms-democrats-republicans-trump-250-anniversary-politics-latest-updates"
+      },
+      {
+        "nome": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss"
       }
     ]
   },
   {
-    "id": "comemoracoes-museu-juiz-fora",
-    "data": "2026-06-23",
-    "titulo": "Museu Mariano Procópio Completa 105 Anos com Programação Especial em Juiz de Fora",
-    "resumo": "O Museu Mariano Procópio celebra seu 105º aniversário em Juiz de Fora, Minas Gerais, com uma programação gratuita que inclui visitas guiadas, brindes e um passeio noturno. As atividades visam comemorar a data e atrair o público.",
-    "categoria": "cultura",
+    "id": "2026-06-24-morte-cerebral-atacante-frances",
+    "data": "2026-06-24",
+    "titulo": "Entenda o que é morte cerebral após caso de atacante francês",
+    "resumo": "O caso do atacante francês Kenzo Kies, que teve o quadro de morte cerebral confirmado após um afogamento na França, levanta questões sobre a condição. Especialistas explicam que a morte cerebral é a cessação irreversível das funções cerebrais. A definição e o diagnóstico são cruciais para questões médicas e legais.",
+    "categoria": "saude",
     "tags": [
-      "museu",
-      "aniversário",
-      "programação cultural",
-      "juiz de fora"
+      "morte cerebral",
+      "Kenzo Kies",
+      "França",
+      "afogamento"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Kenzo Kies"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "França"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/saude/o-que-e-morte-cerebral-entenda-o-caso-de-atacante-frances/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-temperatura-extrema-europa",
+    "data": "2026-06-24",
+    "titulo": "Onda de calor causa mortes e transtornos na Europa",
+    "resumo": "Uma onda de calor intensa tem provocado mortes e diversos transtornos em toda a Europa. Especialistas apontam que a crise climática está tornando esses eventos mais frequentes e severos no continente. As altas temperaturas impactam a vida cotidiana e a infraestrutura.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "onda de calor",
+      "Europa",
+      "crise climática",
+      "temperatura extrema"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "França",
+      "Alemanha"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/24/deaths-disruptions-across-europe-what-you-should-know-about-the-heatwave?traffic_source=rss"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/fashion/2026/jun/24/louis-vuitton-beach-paris-40c-heat"
+      },
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/cidade-em-sc-registra-91oc-veja-locais-mais-frios-no-sul/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-loteria-mega-sena",
+    "data": "2026-06-24",
+    "titulo": "Mega-Sena: apostas no Pará acertam quadra e quina; prêmio principal acumula",
+    "resumo": "No concurso 3022 da Mega-Sena, dez apostas registradas no oeste do Pará acertaram a quadra. Em Belém, uma aposta levou a quina, com prêmio de R$ 8.964,74. O prêmio principal, avaliado em R$ 2,8 milhões, não foi sorteado e acumulou para o próximo concurso. A Mega-Sena é uma das principais loterias do Brasil.",
+    "categoria": "economia",
+    "tags": [
+      "Mega-Sena",
+      "loteria",
+      "Pará",
+      "apostas"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Pará"
+    ],
+    "cidades": [
+      "Belém"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/24/mega-sena-3022-10-apostas-do-oeste-do-pa-acertam-a-quadra-premio-vai-a-r-35-mi.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-prensao-pensao-alimenticia",
+    "data": "2026-06-24",
+    "titulo": "Homem é preso em Santarém por dívida de pensão alimentícia",
+    "resumo": "Um homem foi preso em Santarém, no oeste do Pará, por não pagamento de pensão alimentícia. A prisão ocorreu em cumprimento a um mandado judicial. A falta de pagamento de pensão alimentícia é um crime previsto em lei. A polícia cumpriu o mandado na tarde de terça-feira (23).",
+    "categoria": "justica",
+    "tags": [
+      "prisão",
+      "pensão alimentícia",
+      "Santarém",
+      "Pará"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Pará"
+    ],
+    "cidades": [
+      "Santarém"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/24/policia-militar-prende-homem-com-debito-de-pensao-alimenticia-em-santarem.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-incendio-carros-alegoricos",
+    "data": "2026-06-24",
+    "titulo": "Incêndio destrói carros alegóricos de escola de samba em Nova Friburgo",
+    "resumo": "Um incêndio de grandes proporções destruiu carros alegóricos da escola de samba Unidos do Imperador em Nova Friburgo, Rio de Janeiro. O fogo ocorreu na noite de terça-feira (23) e levantou suspeitas de ação criminosa. As chamas assustaram moradores locais e causaram perdas materiais significativas. As causas do incêndio estão sob investigação.",
+    "categoria": "seguranca",
+    "tags": [
+      "incêndio",
+      "Nova Friburgo",
+      "escola de samba",
+      "ação criminosa"
     ],
     "entidades": [
-      "Fundação Museu Mariano Procópio"
+      "Unidos do Imperador"
     ],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Nova Friburgo"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/06/24/incendio-destroi-carros-alegoricos-da-unidos-do-imperador-em-nova-friburgo-e-levanta-suspeita-de-acao-criminosa.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-interrupcao-agua-mogi",
+    "data": "2026-06-24",
+    "titulo": "Três bairros de Mogi das Cruzes ficam sem água para manutenção",
+    "resumo": "Três bairros de Mogi das Cruzes, em São Paulo, ficarão sem abastecimento de água nesta quinta-feira (25). A interrupção é necessária para a realização de manutenção preventiva na rede de distribuição. Os bairros afetados são César de Sousa, Jardim das Bandeiras e Residencial Colinas. O serviço deve ser normalizado após a conclusão dos trabalhos.",
+    "categoria": "infraestrutura",
+    "tags": [
+      "abastecimento de água",
+      "Mogi das Cruzes",
+      "manutenção",
+      "São Paulo"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Mogi das Cruzes"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/06/24/tres-bairros-de-mogi-das-cruzes-ficam-sem-agua-nesta-quinta-feira.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-justica-impede-afastamento-vereador",
+    "data": "2026-06-24",
+    "titulo": "Justiça barra pedido de vereador para se afastar de cargo sem perder salário no ES",
+    "resumo": "A Justiça do Espírito Santo negou o pedido do vereador José Roque de Oliveira para se afastar de um cargo efetivo na prefeitura de São Gabriel da Palha, mantendo o recebimento do salário. A decisão judicial impediu o afastamento com a manutenção da remuneração. O caso envolve regras de servidores públicos e afastamento de cargos. A decisão foi publicada nesta quarta-feira (24).",
+    "categoria": "justica",
+    "tags": [
+      "justiça",
+      "vereador",
+      "Espírito Santo",
+      "salário"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "José Roque de Oliveira"
+    ],
+    "estados": [
+      "Espírito Santo"
+    ],
+    "cidades": [
+      "São Gabriel da Palha"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/06/24/justica-barra-pedido-de-vereador-que-queria-se-afastar-do-cargo-mas-sem-perder-o-salario-no-es.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-prestacao-servicos-sao-jose-dos-campos",
+    "data": "2026-06-24",
+    "titulo": "Trabalhadores da Urbam mantêm greve em São José dos Campos após audiência sem acordo",
+    "resumo": "Os trabalhadores da Urbam (Urbanizadora Municipal) decidiram manter a greve em São José dos Campos, São Paulo, após uma audiência realizada nesta quarta-feira (24) não resultar em acordo. O sindicato responsável pelos funcionários comunicou a decisão. A paralisação afeta os serviços prestados pela empresa na cidade. Negociações continuam para tentar resolver o impasse.",
+    "categoria": "economia",
+    "tags": [
+      "greve",
+      "São José dos Campos",
+      "Urbam",
+      "trabalhadores"
+    ],
+    "entidades": [
+      "Urbam"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "São José dos Campos"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/24/apos-audiencia-sem-acordo-trabalhadores-da-urbam-mantem-greve-em-sao-jose-dos-campos.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-intolerancia-religiosa-parana",
+    "data": "2026-06-24",
+    "titulo": "Homem ameaça e joga pedras em centro de Umbanda e Candomblé no Paraná",
+    "resumo": "Um homem foi filmado fazendo ameaças e arremessando pedras contra um centro religioso de Umbanda e Candomblé em Foz do Iguaçu, no Paraná. A Polícia Civil está investigando o caso como intolerância religiosa. O ataque ocorreu no centro da cidade e foi registrado em vídeo. As autoridades apuram os fatos para punir o agressor.",
+    "categoria": "justica",
+    "tags": [
+      "intolerância religiosa",
+      "Foz do Iguaçu",
+      "Umbanda",
+      "Candomblé",
+      "Paraná"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Paraná"
+    ],
+    "cidades": [
+      "Foz do Iguaçu"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/06/24/homem-ameaca-e-joga-pedras-contra-centro-no-parana.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-concurso-alece",
+    "data": "2026-06-24",
+    "titulo": "Inscrições para concurso da Alece são prorrogadas",
+    "resumo": "As inscrições para o concurso da Assembleia Legislativa do Ceará (Alece) foram prorrogadas até o dia 13 de julho. O edital oferece 200 vagas efetivas e 400 para cadastro reserva. Os salários podem chegar a R$ 6 mil. A Alece busca preencher seu quadro de pessoal com profissionais qualificados.",
+    "categoria": "educacao",
+    "tags": [
+      "concurso público",
+      "Alece",
+      "Ceará",
+      "inscrições"
+    ],
+    "entidades": [
+      "Alece"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Ceará"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ce/ceara/suachance/noticia/2026/06/24/concurso-da-alece-tem-inscricoes-prorrogadas-salarios-vao-ate-r-6-mil.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-acidente-serra-das-araras",
+    "data": "2026-06-24",
+    "titulo": "Acidente com carreta causa interdição parcial na descida da Serra das Araras",
+    "resumo": "Um acidente envolvendo uma carreta bi-trem causou a interdição parcial da pista de descida da Serra das Araras, em Piraí, Rio de Janeiro, na manhã desta quarta-feira (24). O incidente bloqueou parte da rodovia, gerando transtornos no trânsito. As autoridades atuaram no local para liberar a pista e apurar as causas do acidente. O tráfego foi afetado.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente de trânsito",
+      "Serra das Araras",
+      "rodovia",
+      "interdição"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Piraí"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/06/24/acidente-serra-das-araras.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-homem-morto-aracaju",
+    "data": "2026-06-24",
+    "titulo": "Homem em situação de rua é encontrado morto com golpes de faca em Aracaju",
+    "resumo": "Um homem em situação de rua foi encontrado morto na madrugada desta quarta-feira (24) no Centro de Aracaju, Sergipe. A vítima apresentava marcas de golpes de faca. A Polícia Militar foi acionada e a perícia foi realizada no local. A investigação busca identificar o autor do crime e as circunstâncias da morte. O caso ocorreu próximo ao local do Forró Caju.",
+    "categoria": "seguranca",
+    "tags": [
+      "homicídio",
+      "Aracaju",
+      "situação de rua",
+      "golpes de faca",
+      "Sergipe"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Sergipe"
+    ],
+    "cidades": [
+      "Aracaju"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/24/homem-em-situacao-de-rua-e-encontrado-morto-com-golpes-de-faca-no-centro-de-aracaju.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-fraude-celulares-roubados",
+    "data": "2026-06-24",
+    "titulo": "Lula edita decreto que cria banco nacional de dados de celulares roubados",
+    "resumo": "O presidente Luiz Inácio Lula da Silva editou um decreto que cria um banco nacional de dados para reunir informações sobre celulares roubados. A medida visa centralizar dados já registrados no programa Celular Seguro. O objetivo é facilitar o rastreamento e a recuperação de aparelhos. A iniciativa busca combater o roubo e furto de celulares no país. Informações foram divulgadas nesta quarta-feira (24).",
+    "categoria": "seguranca",
+    "tags": [
+      "celulares roubados",
+      "banco de dados",
+      "decreto",
+      "Lula",
+      "Programa Celular Seguro"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Lula"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/lula-edita-decreto-que-cria-banco-para-reunir-dados-de-celulares-roubados/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-preta-gil-filme-serie",
+    "data": "2026-06-24",
+    "titulo": "Preta Gil ganha filme e série no Globoplay",
+    "resumo": "A cantora Preta Gil será homenageada com um filme e uma série no Globoplay, intitulados \"Quanto Mais Preta Melhor\". As produções serão lançadas em 20 de julho, marcando um ano da morte da artista. A obra audiovisual visa celebrar a trajetória e o legado de Preta Gil. As notícias foram divulgadas nesta quarta-feira (24).",
+    "categoria": "cultura",
+    "tags": [
+      "Preta Gil",
+      "Globoplay",
+      "filme",
+      "série",
+      "homenagem"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Preta Gil"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/pop/quanto-mais-preta-melhor-preta-gil-ganha-filme-e-serie-no-globoplay/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-reportagem-ockenden",
+    "data": "2026-06-24",
+    "titulo": "Relatório Ockenden expõe falhas graves em maternidades e pede inquérito público",
+    "resumo": "O relatório Ockenden, conduzido pela parteira Donna Ockenden, revelou mais de 500 mortes e danos graves a mulheres e bebês devido a cuidados precários em maternidades. Famílias exigem um inquérito público e denunciam o tratamento desumano. O documento aponta falhas graves na assistência obstétrica. O NHS (Serviço Nacional de Saúde) do Reino Unido é alvo de críticas.",
+    "categoria": "saude",
+    "tags": [
+      "relatório Ockenden",
+      "maternidade",
+      "cuidados de saúde",
+      "inquérito público",
+      "Reino Unido"
+    ],
+    "entidades": [
+      "NHS"
+    ],
+    "pessoas": [
+      "Donna Ockenden"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/society/live/2026/jun/24/ockenden-maternity-review-nottingham-university-hospitals-trust-nhs-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-calor-extremo-sul-brasil",
+    "data": "2026-06-24",
+    "titulo": "Cidades no Sul do Brasil registram temperaturas extremamente baixas",
+    "resumo": "Algumas cidades do Sul do Brasil registraram temperaturas negativas nesta quarta-feira (24), com destaque para Bom Jardim da Serra em Santa Catarina, que marcou -9,1°C. Urupema, conhecida como a Capital Nacional do Frio, atingiu -8,33°C. O frio intenso afeta a região sul do país, com geadas e condições climáticas adversas.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "frio extremo",
+      "Sul do Brasil",
+      "temperatura negativa",
+      "geada",
+      "Santa Catarina"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Santa Catarina",
+      "Rio Grande do Sul",
+      "Paraná"
+    ],
+    "cidades": [
+      "Bom Jardim da Serra",
+      "Urupema"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/cidade-em-sc-registra-91oc-veja-locais-mais-frios-no-sul/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-investimento-africa-do-sul-xenofobia",
+    "data": "2026-06-24",
+    "titulo": "Xenofobia na África do Sul pode prejudicar investimentos",
+    "resumo": "A xenofobia crescente na África do Sul, alimentada por grupos vigilantes e forças populistas, pode ter sérias implicações econômicas para o país e a região. Há temores de que o sentimento anti-imigrante prejudique o investimento estrangeiro. Expectativas indicam que a situação pode se agravar com ultimatos para a saída de imigrantes até 30 de junho. Especialistas alertam para os riscos econômicos.",
+    "categoria": "economia",
+    "tags": [
+      "xenofobia",
+      "África do Sul",
+      "investimento",
+      "imigrantes",
+      "economia"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "África do Sul"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "DW",
+        "url": "https://www.dw.com/en/is-xenophobia-in-south-africa-risking-investment/a-77687020?maca=en-rss-en-all-1573-rdf"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-flamengo-copa-historica",
+    "data": "2026-06-24",
+    "titulo": "Flamengo pode igualar marca histórica do Corinthians em Copas",
+    "resumo": "O Flamengo tem a possibilidade de igualar uma marca histórica do Corinthians em Copas após 40 anos. A possível escalação de três jogadores rubro-negros pela Seleção Brasileira em um Mundial seria a primeira vez desde a Copa do México em 1986. A notícia destaca a relevância de jogadores do clube atuando pela seleção nacional em competições internacionais. A performance em Copas é um marco para clubes.",
+    "categoria": "esportes",
+    "tags": [
+      "Flamengo",
+      "Corinthians",
+      "Copa do Mundo",
+      "seleção brasileira",
+      "história do futebol"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/apos-40-anos-flamengo-pode-igualar-marca-historica-do-corinthians-em-copas/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-dunga-shakira-copa",
+    "data": "2026-06-24",
+    "titulo": "Dunga dança música de Shakira para a Copa e viraliza",
+    "resumo": "O ex-jogador e técnico Dunga viralizou nas redes sociais após aparecer dançando uma música de Shakira feita para a Copa do Mundo em um programa de TV mexicano. A cena com a música da cantora colombiana chamou atenção e repercutiu na internet. O momento de descontração de Dunga foi amplamente compartilhado. A música é tema para a atual edição da Copa.",
+    "categoria": "esportes",
+    "tags": [
+      "Dunga",
+      "Shakira",
+      "Copa do Mundo",
+      "viral",
+      "humor"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Dunga",
+      "Shakira"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "México",
+      "Colômbia"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/dunga-danca-musica-de-shakira-feita-para-a-copa-na-tv-mexicana-e-viraliza/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-camp-mystic-falencia-texas",
+    "data": "2026-06-24",
+    "titulo": "Camp Mystic declara falência após mortes em inundações no Texas",
+    "resumo": "O acampamento cristão Camp Mystic, no Texas, declarou falência após a morte de 28 pessoas em inundações catastróficas em julho do ano passado. Os proprietários informaram que a dívida total excede 10 milhões de dólares. O processo de falência foi iniciado nesta quarta-feira (24) e visa reestruturar as finanças da organização. O incidente teve grande repercussão nos Estados Unidos.",
+    "categoria": "economia",
+    "tags": [
+      "falência",
+      "Camp Mystic",
+      "inundações",
+      "Texas",
+      "mortes"
+    ],
+    "entidades": [
+      "Camp Mystic"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Texas"
+    ],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/jun/24/camp-mystic-files-bankruptcy-texas-floods"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-acidente-montes-claros",
+    "data": "2026-06-24",
+    "titulo": "Caminhão pega fogo no Centro de Montes Claros após serviço de soldagem",
+    "resumo": "Um caminhão pegou fogo no Centro de Montes Claros, Minas Gerais, nesta terça-feira (23). Segundo o motorista, o incêndio começou após a realização de um serviço de soldagem no chassi do veículo. O Corpo de Bombeiros foi acionado e combateu as chamas. Ninguém ficou ferido. As causas exatas do incêndio estão sendo apuradas. O tráfego na região foi afetado.",
+    "categoria": "seguranca",
+    "tags": [
+      "incêndio",
+      "Montes Claros",
+      "caminhão",
+      "soldagem",
+      "Minas Gerais"
+    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [
       "Minas Gerais"
     ],
     "cidades": [
-      "Juiz de Fora"
+      "Montes Claros"
     ],
     "paises": [
       "Brasil"
@@ -545,207 +724,173 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/06/23/museu-mariano-procopio-completa-105-anos-com-visitas-guiadas-brindes-e-passeio-noturno-em-juiz-de-fora-veja-programacao.ghtml"
+        "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/24/caminhao-pega-fogo-no-centro-de-montes-claros-apos-possivel-curto-circuito.html"
       }
     ]
   },
   {
-    "id": "esporte-copa-mundo-2026",
-    "data": "2026-06-23",
-    "titulo": "Copa do Mundo 2026: Portugal em Campo e Família de Cristiano Ronaldo Presente",
-    "resumo": "O dia da Copa do Mundo 2026 conta com a partida de Portugal contra o Uzbequistão. A irmã de Cristiano Ronaldo, Katia Aveiro, confirmou sua presença para torcer pela seleção e pelo irmão, vestindo uma camisa histórica do jogador.",
-    "categoria": "esportes",
+    "id": "2026-06-24-acidente-santarem",
+    "data": "2026-06-24",
+    "titulo": "Dois carros batem na Avenida Cuiabá em Santarém",
+    "resumo": "Um acidente entre dois carros foi registrado na Avenida Cuiabá, em Santarém, no oeste do Pará. O momento da colisão foi capturado por câmeras de segurança próximas à rodoviária do município. O incidente ocorreu na manhã desta terça-feira (23). Não há informações sobre feridos. As autoridades de trânsito analisaram as imagens.",
+    "categoria": "seguranca",
     "tags": [
-      "copa do mundo 2026",
-      "futebol",
-      "portugal",
-      "cristiano ronaldo"
+      "acidente de trânsito",
+      "Santarém",
+      "Pará",
+      "colisão"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Pará"
+    ],
+    "cidades": [
+      "Santarém"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/24/video-confira-o-momento-da-batida-entre-dois-carros-na-avenida-cuiaba-em-santarem.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-defesa-sudeste-asiatico",
+    "data": "2026-06-24",
+    "titulo": "Países do Sudeste Asiático fortalecem laços de defesa, mas evitam alianças formais",
+    "resumo": "Países do Sudeste Asiático estão expandindo a cooperação em defesa, o que altera o cenário no Mar da China Meridional. No entanto, as nações evitam formar alianças formais, o que poderia ser interpretado como um bloco anti-China. A iniciativa visa aumentar a segurança regional em um contexto de tensões geopolíticas. As relações de defesa estão sendo aprofundadas.",
+    "categoria": "internacional",
+    "tags": [
+      "defesa",
+      "Sudeste Asiático",
+      "cooperação",
+      "Mar da China Meridional",
+      "geopolítica"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "China",
+      "Vietnã",
+      "Filipinas",
+      "Malásia",
+      "Brunei",
+      "Tailândia",
+      "Singapura",
+      "Indonésia",
+      "Camboja",
+      "Laos",
+      "Mianmar"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "DW",
+        "url": "https://www.dw.com/en/southeast-asia-boost-defense-ties-but-avoids-firm-alliances/a-77689233?maca=en-rss-en-all-1573-rdf"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-24-afastamento-jaques-wagner",
+    "data": "2026-06-24",
+    "titulo": "Expectativa no Planalto é pelo afastamento de Jaques Wagner após conversa com Lula",
+    "resumo": "Há uma expectativa no Planalto para que o líder do governo no Senado, Jaques Wagner, se afaste do cargo após uma conversa com o presidente Luiz Inácio Lula da Silva. A discussão ocorre após a operação da Polícia Federal que envolve o senador. A reunião entre Lula e Wagner está prevista para acontecer em Brasília. A situação envolve investigações sobre o caso Banco Master. A possível saída de Wagner do posto de liderança é aguardada.",
+    "categoria": "politica",
+    "tags": [
+      "Jaques Wagner",
+      "Lula",
+      "Planalto",
+      "Senado",
+      "Polícia Federal"
     ],
     "entidades": [],
     "pessoas": [
-      "Cristiano Ronaldo",
-      "Katia Aveiro"
+      "Jaques Wagner",
+      "Luiz Inácio Lula da Silva"
     ],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Portugal",
-      "Uzbequistão"
+      "Brasil"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/6/23/portugal-vs-uzbekistan-live-world-cup-2026?traffic_source=rss"
-      },
-      {
         "nome": "G1",
-        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/23/em-dia-de-portugal-na-copa-irma-de-cristiano-ronaldo-veste-camisa-usada-pelo-craque-no-200o-jogo-pela-selecao-ainda-tem-o-cheiro-dele.ghtml"
+        "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/06/24/expectativa-no-planalto-e-pelo-afastamento-de-jaques-wagner-apos-conversa-com-lula.html"
       }
     ]
   },
   {
-    "id": "investimento-imobiliario-matogrosso-sul",
-    "data": "2026-06-23",
-    "titulo": "Campanha Inédita Une Investimento em Terrenos, Rentabilização Patrimonial e Prêmios em MS",
-    "resumo": "Uma campanha promovida pela Plan Loteamentos, de Mato Grosso do Sul, oferece benefícios para investimento em terrenos, formação de patrimônio e premiações para clientes. A iniciativa ocorre durante o período do torneio mundial de futebol.",
-    "categoria": "economia",
-    "tags": [
-      "investimento",
-      "imóveis",
-      "terrenos",
-      "patrimônio",
-      "campanha"
-    ],
-    "entidades": [
-      "Plan Loteamentos"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Mato Grosso do Sul"
-    ],
-    "cidades": [
-      "Campo Grande"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/especial-publicitario/plan-loteamentos/noticia/2026/06/23/campanha-une-investimento-em-terrenos-rentabilizacao-patrimonial-e-premios.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "acidente-transporte-sao-luis",
-    "data": "2026-06-23",
-    "titulo": "Acidente na Barragem do Bacanga em São Luís Deixa Motorista Ferido",
-    "resumo": "Um motorista ficou ferido após um acidente na Barragem do Bacanga, em São Luís, Maranhão, nesta terça-feira (23). O incidente ocorreu após o pneu do veículo estourar enquanto o motorista se dirigia para uma cooperativa.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente de trânsito",
-      "rodovia",
-      "feridos",
-      "pneu estourado"
-    ],
-    "entidades": [
-      "Polícia Militar (PM)"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Maranhão"
-    ],
-    "cidades": [
-      "São Luís"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/23/pneu-estoura-e-provoca-acidente-na-barragem-do-bacanga-em-sao-luis-familia-busca-informacoes-sobre-motorista.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "reforma-politica-amazonas",
-    "data": "2026-06-23",
-    "titulo": "Assembleia Legislativa do Amazonas Aprova LDO de 2027 com Aumento para Ministério Público",
-    "resumo": "A Assembleia Legislativa do Amazonas (Aleam) aprovou o Projeto de Lei nº 344/2026, que estabelece a Lei de Diretrizes Orçamentárias (LDO) de 2027. A proposta inclui um aumento de repasse para o Ministério Público do estado.",
+    "id": "2026-06-24-therese-badenoch-apologia",
+    "data": "2026-06-24",
+    "titulo": "Therese Badenoch não pedirá desculpas por comentários sobre Starmer",
+    "resumo": "Therese Badenoch não apresentará um pedido de desculpas por seus comentários feitos durante a sessão de Perguntas ao Primeiro-Ministro (PMQs) sobre a 'queda' de Keir Starmer. Um porta-voz afirmou que ela não se retratará. A polêmica envolve alegações de que opositores estariam descontentes com a liderança de Starmer. Nigel Farage também fez um apelo a conservadores internacionais.",
     "categoria": "politica",
     "tags": [
-      "orçamento",
-      "política orçamentária",
-      "assembleia legislativa",
-      "ministério público"
-    ],
-    "entidades": [
-      "Assembleia Legislativa do Amazonas (Aleam)"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Amazonas"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/23/aleam-aprova-ldo-de-2027-com-aumento-de-repasse-ao-ministerio-publico-no-amazonas.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "incidente-parapente-china",
-    "data": "2026-06-23",
-    "titulo": "Piloto de Parapente Fica Preso por 3 Horas a 60 Metros de Altura na China",
-    "resumo": "Um piloto de parapente ficou preso por mais de três horas a 60 metros de altura em Nanchong, província de Sichuan, na China. O resgate foi realizado com o auxílio de um guindaste em um canteiro de obras.",
-    "categoria": "internacional",
-    "tags": [
-      "parapente",
-      "resgate",
-      "acidente",
-      "altura",
-      "china"
+      "Therese Badenoch",
+      "Keir Starmer",
+      "PMQs",
+      "Reino Unido",
+      "política"
     ],
     "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Sichuan"
+    "pessoas": [
+      "Therese Badenoch",
+      "Keir Starmer",
+      "Nigel Farage"
     ],
-    "cidades": [
-      "Nanchong"
-    ],
+    "estados": [],
+    "cidades": [],
     "paises": [
-      "China"
+      "Reino Unido"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/06/23/video-piloto-de-parapente-fica-preso-por-3-horas-a-60-metros-de-altura-na-china.ghtml"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/24/andy-burnham-labour-leadership-starmer-darren-jones-pmqs-latest-news-updates"
       }
     ]
   },
   {
-    "id": "prisao-vereador-parana",
-    "data": "2026-06-23",
-    "titulo": "Vereador do PR é Preso Após Agressão à Ex-esposa e Participa de Sessão com Tornozeleira",
-    "resumo": "O vereador Márcio Gonçalves (MDB), de Laranjeiras do Sul (PR), foi preso após bater e arrastar o carro da ex-esposa com o filho dentro. Logo após ser solto, ele participou de uma sessão da Câmara Municipal utilizando tornozeleira eletrônica.",
-    "categoria": "justica",
+    "id": "2026-06-24-louis-vuitton-paris",
+    "data": "2026-06-24",
+    "titulo": "Louis Vuitton recria praia em Paris durante onda de calor",
+    "resumo": "Durante um evento de moda em Paris, com temperaturas próximas a 40°C, a Louis Vuitton recriou um ambiente de praia para o desfile da coleção masculina de Pharrell Williams. O cenário contou com areia e uma piscina. A apresentação da marca francesa buscou trazer a atmosfera praiana para a cidade. O calor intenso em Paris tornou a iniciativa ainda mais notável.",
+    "categoria": "cultura",
     "tags": [
-      "violência doméstica",
-      "prisão",
-      "vereador",
-      "tornozeleira eletrônica"
+      "Louis Vuitton",
+      "Paris",
+      "moda",
+      "Pharrell Williams",
+      "onda de calor"
     ],
     "entidades": [
-      "Câmara Municipal de Laranjeiras do Sul"
+      "Louis Vuitton"
     ],
     "pessoas": [
-      "Márcio Gonçalves"
+      "Pharrell Williams"
     ],
-    "estados": [
-      "Paraná"
-    ],
+    "estados": [],
     "cidades": [
-      "Laranjeiras do Sul"
+      "Paris"
     ],
     "paises": [
-      "Brasil"
+      "França"
     ],
-    "importancia": 3,
+    "importancia": 2,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/06/23/vereador-do-parana-preso-por-bater-no-carro-da-ex-com-o-filho-dentro-e-solto-e-participa-de-sessao-da-camara-logo-apos-sair-da-cadeia.ghtml"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/fashion/2026/jun/24/louis-vuitton-beach-paris-40c-heat"
       }
     ]
   }
