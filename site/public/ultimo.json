@@ -1,377 +1,184 @@
 [
   {
-    "id": "2026-06-24-ataque-terrorista-siria",
-    "data": "2026-06-24",
-    "titulo": "EUA bombardeiam Síria e matam comandante do Estado Islâmico",
-    "resumo": "As Forças Armadas dos Estados Unidos realizaram um ataque na Síria, resultando na morte de um comandante de alto escalão do grupo terrorista Estado Islâmico. A operação ocorreu na semana passada e foi divulgada nesta quarta-feira (24). O ataque visa desmantelar lideranças de organizações extremistas.",
-    "categoria": "internacional",
+    "id": "2026-06-25-onda-calor-europa",
+    "data": "2026-06-25",
+    "titulo": "Onda de calor extrema assola a Europa com mortes e alertas de saúde",
+    "resumo": "Uma forte onda de calor está atingindo a Europa, com temperaturas elevadas causando mortes e o fechamento antecipado de pontos turísticos. Vários países, incluindo França, Itália e Espanha, relataram um aumento nas mortes relacionadas ao calor. Na França, o alerta de saúde foi elevado ao nível mais alto, e em Paris, locais como a Torre Eiffel e o Louvre fecharam mais cedo.",
+    "categoria": "saude",
     "tags": [
-      "EUA",
-      "Síria",
-      "Estado Islâmico",
-      "terrorismo"
+      "onda de calor",
+      "temperaturas extremas",
+      "alerta de saúde",
+      "Europa"
     ],
     "entidades": [
-      "Estado Islâmico"
+      "Torre Eiffel",
+      "Louvre"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Inglaterra"
+    ],
+    "cidades": [
+      "Paris"
+    ],
+    "paises": [
+      "França",
+      "Itália",
+      "Espanha",
+      "Reino Unido"
+    ],
+    "importancia": 5,
+    "fontes": [
+      {
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/video/20260625-brutal-paris-tourists-struggle-in-extreme-heat-as-sites-close-early"
+      },
+      {
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/world/live/2026/jun/25/europe-heatwave-uk-italy-france-record-temperature-latest-news-updates"
+      },
+      {
+        "nome": "feeds.bbci.co.uk",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-25-terremoto-venezuela",
+    "data": "2026-06-25",
+    "titulo": "Terremotos de grande magnitude atingem Venezuela e levantam preocupações sobre ajuda",
+    "resumo": "A Venezuela foi atingida por fortes terremotos com magnitude 7,5 e 7,2, os mais intensos em mais de um século. Cientistas explicam a dificuldade na previsão de tais eventos destrutivos. Há preocupação sobre como as sanções financeiras podem impactar as operações de ajuda humanitária na região devastada.",
+    "categoria": "internacional",
+    "tags": [
+      "terremoto",
+      "Venezuela",
+      "ajuda humanitária",
+      "sanções"
+    ],
+    "entidades": [
+      "Serviço Geológico dos Estados Unidos (USGS)"
     ],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Estados Unidos",
-      "Síria"
+      "Venezuela"
     ],
-    "importancia": 4,
+    "importancia": 5,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/06/24/eua-bombardeio-siria-mata-comandante-alto-escalao-ei.ghtml"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ciencia/noticia/2026/06/25/por-que-nao-se-podem-prever-terremotos-altamente-destrutivos.ghtml"
+      },
+      {
+        "nome": "aljazeera.com",
+        "url": "https://www.aljazeera.com/news/2026/6/25/venezuela-quakes-how-will-sanctions-impact-aid-operations?traffic_source=rss"
+      },
+      {
+        "nome": "feeds.bbci.co.uk",
+        "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss"
       }
     ]
   },
   {
-    "id": "2026-06-24-primarias-nova-iorque",
-    "data": "2026-06-24",
-    "titulo": "Candidatos apoiados por Mamdani vencem primárias democratas em Nova Iorque",
-    "resumo": "Candidatos apoiados por Zohran Mamdani obtiveram vitórias significativas nas primárias democratas em Nova Iorque. A eleição evidenciou a crescente influência do prefeito da cidade. Brad Lander, um dos apoiados, derrotou Dan Goldman em uma disputa que refletiu divisões internas do partido. As eleições primárias definem candidatos para as próximas eleições.",
+    "id": "2026-06-25-trump-aniversario-e-politica",
+    "data": "2026-06-25",
+    "titulo": "Trump celebra aniversário dos EUA com comício e enfrenta críticas internas",
+    "resumo": "O presidente Donald Trump marcou o 250º aniversário dos Estados Unidos com um comício no National Mall, em Washington D.C., incluindo sobrevoos militares. Internamente, ele enfrenta crescentes críticas de colegas republicanos, com relatos de discussões acaloradas. Trump também se reuniu com o presidente da Câmara para tentar resolver impasses legislativos.",
     "categoria": "politica",
     "tags": [
-      "primárias",
-      "Nova Iorque",
-      "democratas",
-      "Zohran Mamdani"
+      "eleições EUA",
+      "aniversário EUA",
+      "política interna",
+      "comício"
     ],
     "entidades": [],
     "pessoas": [
-      "Zohran Mamdani",
-      "Brad Lander",
-      "Dan Goldman"
+      "Donald Trump",
+      "Mike Johnson"
     ],
-    "estados": [
-      "Nova Iorque"
+    "estados": [],
+    "cidades": [
+      "Washington D.C."
     ],
-    "cidades": [],
     "paises": [
       "Estados Unidos"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/live/2026/jun/24/mamdani-new-york-primaries-midterms-democrats-republicans-trump-250-anniversary-politics-latest-updates"
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/video/20260625-trump-marks-nation-s-250th-birthday-with-campaign-style-rally"
       },
       {
-        "nome": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-24-morte-cerebral-atacante-frances",
-    "data": "2026-06-24",
-    "titulo": "Entenda o que é morte cerebral após caso de atacante francês",
-    "resumo": "O caso do atacante francês Kenzo Kies, que teve o quadro de morte cerebral confirmado após um afogamento na França, levanta questões sobre a condição. Especialistas explicam que a morte cerebral é a cessação irreversível das funções cerebrais. A definição e o diagnóstico são cruciais para questões médicas e legais.",
-    "categoria": "saude",
-    "tags": [
-      "morte cerebral",
-      "Kenzo Kies",
-      "França",
-      "afogamento"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Kenzo Kies"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "França"
-    ],
-    "importancia": 3,
-    "fontes": [
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/video/20260625-republicans-have-growing-litany-list-against-trump"
+      },
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/saude/o-que-e-morte-cerebral-entenda-o-caso-de-atacante-frances/"
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/live/2026/jun/25/trump-housing-bill-senate-regulations-supreme-court-latest-news-updates"
       }
     ]
   },
   {
-    "id": "2026-06-24-temperatura-extrema-europa",
-    "data": "2026-06-24",
-    "titulo": "Onda de calor causa mortes e transtornos na Europa",
-    "resumo": "Uma onda de calor intensa tem provocado mortes e diversos transtornos em toda a Europa. Especialistas apontam que a crise climática está tornando esses eventos mais frequentes e severos no continente. As altas temperaturas impactam a vida cotidiana e a infraestrutura.",
-    "categoria": "meio-ambiente",
+    "id": "2026-06-25-copa-mundo-frustracao-figurinha",
+    "data": "2026-06-25",
+    "titulo": "Fãs franceses frustrados com esgotamento de álbuns de figurinhas da Copa do Mundo",
+    "resumo": "A paixão pelas figurinhas da Copa do Mundo está gerando frustração na França, onde os álbuns e pacotes se esgotaram rapidamente. A alta demanda pegou as bancas de jornal desprevenidas. Em paralelo, eventos esportivos da Copa do Mundo geram movimentações no comércio, com orientação para liberação de funcionários em cidades como Feira de Santana.",
+    "categoria": "esportes",
     "tags": [
-      "onda de calor",
-      "Europa",
-      "crise climática",
-      "temperatura extrema"
+      "Copa do Mundo",
+      "figurinhas",
+      "frustração",
+      "comércio"
     ],
-    "entidades": [],
+    "entidades": [
+      "Panini"
+    ],
     "pessoas": [],
-    "estados": [],
-    "cidades": [],
+    "estados": [
+      "Bahia"
+    ],
+    "cidades": [
+      "Feira de Santana"
+    ],
     "paises": [
       "França",
-      "Alemanha"
+      "Brasil"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/6/24/deaths-disruptions-across-europe-what-you-should-know-about-the-heatwave?traffic_source=rss"
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/video/20260625-fans-frustrated-as-world-cup-panini-sell-out-in-france"
       },
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/fashion/2026/jun/24/louis-vuitton-beach-paris-40c-heat"
-      },
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/cidade-em-sc-registra-91oc-veja-locais-mais-frios-no-sul/"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/25/jogos-copa-do-mundo-bahia.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-24-loteria-mega-sena",
-    "data": "2026-06-24",
-    "titulo": "Mega-Sena: apostas no Pará acertam quadra e quina; prêmio principal acumula",
-    "resumo": "No concurso 3022 da Mega-Sena, dez apostas registradas no oeste do Pará acertaram a quadra. Em Belém, uma aposta levou a quina, com prêmio de R$ 8.964,74. O prêmio principal, avaliado em R$ 2,8 milhões, não foi sorteado e acumulou para o próximo concurso. A Mega-Sena é uma das principais loterias do Brasil.",
+    "id": "2026-06-25-economia-mercado-trabalho",
+    "data": "2026-06-25",
+    "titulo": "Relatório aponta salários médios abaixo da média nacional em setores de alta empregabilidade no Brasil",
+    "resumo": "Um relatório indica que seis dos dez setores que mais empregam no Brasil oferecem salários médios inferiores à média nacional. O Distrito Federal aparece como a unidade federativa com a maior média salarial. Jovens tendem a ficar menos tempo nos empregos formais, e a geração 'nem-nem' (que não trabalha nem estuda) avança em algumas regiões.",
     "categoria": "economia",
     "tags": [
-      "Mega-Sena",
-      "loteria",
-      "Pará",
-      "apostas"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Pará"
-    ],
-    "cidades": [
-      "Belém"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/24/mega-sena-3022-10-apostas-do-oeste-do-pa-acertam-a-quadra-premio-vai-a-r-35-mi.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-24-prensao-pensao-alimenticia",
-    "data": "2026-06-24",
-    "titulo": "Homem é preso em Santarém por dívida de pensão alimentícia",
-    "resumo": "Um homem foi preso em Santarém, no oeste do Pará, por não pagamento de pensão alimentícia. A prisão ocorreu em cumprimento a um mandado judicial. A falta de pagamento de pensão alimentícia é um crime previsto em lei. A polícia cumpriu o mandado na tarde de terça-feira (23).",
-    "categoria": "justica",
-    "tags": [
-      "prisão",
-      "pensão alimentícia",
-      "Santarém",
-      "Pará"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Pará"
-    ],
-    "cidades": [
-      "Santarém"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/24/policia-militar-prende-homem-com-debito-de-pensao-alimenticia-em-santarem.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-24-incendio-carros-alegoricos",
-    "data": "2026-06-24",
-    "titulo": "Incêndio destrói carros alegóricos de escola de samba em Nova Friburgo",
-    "resumo": "Um incêndio de grandes proporções destruiu carros alegóricos da escola de samba Unidos do Imperador em Nova Friburgo, Rio de Janeiro. O fogo ocorreu na noite de terça-feira (23) e levantou suspeitas de ação criminosa. As chamas assustaram moradores locais e causaram perdas materiais significativas. As causas do incêndio estão sob investigação.",
-    "categoria": "seguranca",
-    "tags": [
-      "incêndio",
-      "Nova Friburgo",
-      "escola de samba",
-      "ação criminosa"
+      "mercado de trabalho",
+      "salário médio",
+      "emprego",
+      "jovens"
     ],
     "entidades": [
-      "Unidos do Imperador"
+      "IBGE",
+      "CEMPRE",
+      "MTE"
     ],
     "pessoas": [],
     "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Nova Friburgo"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/06/24/incendio-destroi-carros-alegoricos-da-unidos-do-imperador-em-nova-friburgo-e-levanta-suspeita-de-acao-criminosa.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-24-interrupcao-agua-mogi",
-    "data": "2026-06-24",
-    "titulo": "Três bairros de Mogi das Cruzes ficam sem água para manutenção",
-    "resumo": "Três bairros de Mogi das Cruzes, em São Paulo, ficarão sem abastecimento de água nesta quinta-feira (25). A interrupção é necessária para a realização de manutenção preventiva na rede de distribuição. Os bairros afetados são César de Sousa, Jardim das Bandeiras e Residencial Colinas. O serviço deve ser normalizado após a conclusão dos trabalhos.",
-    "categoria": "infraestrutura",
-    "tags": [
-      "abastecimento de água",
-      "Mogi das Cruzes",
-      "manutenção",
-      "São Paulo"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Mogi das Cruzes"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/06/24/tres-bairros-de-mogi-das-cruzes-ficam-sem-agua-nesta-quinta-feira.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-24-justica-impede-afastamento-vereador",
-    "data": "2026-06-24",
-    "titulo": "Justiça barra pedido de vereador para se afastar de cargo sem perder salário no ES",
-    "resumo": "A Justiça do Espírito Santo negou o pedido do vereador José Roque de Oliveira para se afastar de um cargo efetivo na prefeitura de São Gabriel da Palha, mantendo o recebimento do salário. A decisão judicial impediu o afastamento com a manutenção da remuneração. O caso envolve regras de servidores públicos e afastamento de cargos. A decisão foi publicada nesta quarta-feira (24).",
-    "categoria": "justica",
-    "tags": [
-      "justiça",
-      "vereador",
-      "Espírito Santo",
-      "salário"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "José Roque de Oliveira"
-    ],
-    "estados": [
-      "Espírito Santo"
-    ],
-    "cidades": [
-      "São Gabriel da Palha"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/06/24/justica-barra-pedido-de-vereador-que-queria-se-afastar-do-cargo-mas-sem-perder-o-salario-no-es.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-24-prestacao-servicos-sao-jose-dos-campos",
-    "data": "2026-06-24",
-    "titulo": "Trabalhadores da Urbam mantêm greve em São José dos Campos após audiência sem acordo",
-    "resumo": "Os trabalhadores da Urbam (Urbanizadora Municipal) decidiram manter a greve em São José dos Campos, São Paulo, após uma audiência realizada nesta quarta-feira (24) não resultar em acordo. O sindicato responsável pelos funcionários comunicou a decisão. A paralisação afeta os serviços prestados pela empresa na cidade. Negociações continuam para tentar resolver o impasse.",
-    "categoria": "economia",
-    "tags": [
-      "greve",
-      "São José dos Campos",
-      "Urbam",
-      "trabalhadores"
-    ],
-    "entidades": [
-      "Urbam"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "São José dos Campos"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/24/apos-audiencia-sem-acordo-trabalhadores-da-urbam-mantem-greve-em-sao-jose-dos-campos.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-24-intolerancia-religiosa-parana",
-    "data": "2026-06-24",
-    "titulo": "Homem ameaça e joga pedras em centro de Umbanda e Candomblé no Paraná",
-    "resumo": "Um homem foi filmado fazendo ameaças e arremessando pedras contra um centro religioso de Umbanda e Candomblé em Foz do Iguaçu, no Paraná. A Polícia Civil está investigando o caso como intolerância religiosa. O ataque ocorreu no centro da cidade e foi registrado em vídeo. As autoridades apuram os fatos para punir o agressor.",
-    "categoria": "justica",
-    "tags": [
-      "intolerância religiosa",
-      "Foz do Iguaçu",
-      "Umbanda",
-      "Candomblé",
-      "Paraná"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Paraná"
-    ],
-    "cidades": [
-      "Foz do Iguaçu"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/06/24/homem-ameaca-e-joga-pedras-contra-centro-no-parana.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-24-concurso-alece",
-    "data": "2026-06-24",
-    "titulo": "Inscrições para concurso da Alece são prorrogadas",
-    "resumo": "As inscrições para o concurso da Assembleia Legislativa do Ceará (Alece) foram prorrogadas até o dia 13 de julho. O edital oferece 200 vagas efetivas e 400 para cadastro reserva. Os salários podem chegar a R$ 6 mil. A Alece busca preencher seu quadro de pessoal com profissionais qualificados.",
-    "categoria": "educacao",
-    "tags": [
-      "concurso público",
-      "Alece",
-      "Ceará",
-      "inscrições"
-    ],
-    "entidades": [
-      "Alece"
-    ],
-    "pessoas": [],
-    "estados": [
+      "Distrito Federal",
       "Ceará"
     ],
     "cidades": [],
@@ -381,120 +188,188 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ce/ceara/suachance/noticia/2026/06/24/concurso-da-alece-tem-inscricoes-prorrogadas-salarios-vao-ate-r-6-mil.html"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/economia/noticia/2026/06/25/cempre-ibge.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/economia/noticia/2026/06/25/quem-paga-mais-no-brasil-veja-o-salario-medio-no-seu-estado.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/25/jovens-emprego-geracao-nem-nem-avanca.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-24-acidente-serra-das-araras",
-    "data": "2026-06-24",
-    "titulo": "Acidente com carreta causa interdição parcial na descida da Serra das Araras",
-    "resumo": "Um acidente envolvendo uma carreta bi-trem causou a interdição parcial da pista de descida da Serra das Araras, em Piraí, Rio de Janeiro, na manhã desta quarta-feira (24). O incidente bloqueou parte da rodovia, gerando transtornos no trânsito. As autoridades atuaram no local para liberar a pista e apurar as causas do acidente. O tráfego foi afetado.",
-    "categoria": "seguranca",
+    "id": "2026-06-25-tecnologia-ia-chip-openai",
+    "data": "2026-06-25",
+    "titulo": "OpenAI apresenta chip próprio para otimizar seus produtos de inteligência artificial",
+    "resumo": "A OpenAI anunciou seu primeiro chip desenvolvido sob medida, denominado 'Jalapeño'. O objetivo é tornar o funcionamento de produtos como o ChatGPT mais rápido e econômico. O desenvolvimento foi feito em conjunto com outra empresa.",
+    "categoria": "ciencia",
     "tags": [
-      "acidente de trânsito",
-      "Serra das Araras",
-      "rodovia",
-      "interdição"
+      "inteligência artificial",
+      "chip",
+      "OpenAI",
+      "tecnologia"
     ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
+    "entidades": [
+      "OpenAI",
+      "ChatGPT"
     ],
-    "cidades": [
-      "Piraí"
+    "pessoas": [
+      "Sam Altman"
     ],
-    "paises": [
-      "Brasil"
-    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/06/24/acidente-serra-das-araras.html"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/tecnologia/noticia/2026/06/25/openai-apresenta-o-jalapeno-o-seu-primeiro-chip-de-ia.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-24-homem-morto-aracaju",
-    "data": "2026-06-24",
-    "titulo": "Homem em situação de rua é encontrado morto com golpes de faca em Aracaju",
-    "resumo": "Um homem em situação de rua foi encontrado morto na madrugada desta quarta-feira (24) no Centro de Aracaju, Sergipe. A vítima apresentava marcas de golpes de faca. A Polícia Militar foi acionada e a perícia foi realizada no local. A investigação busca identificar o autor do crime e as circunstâncias da morte. O caso ocorreu próximo ao local do Forró Caju.",
-    "categoria": "seguranca",
+    "id": "2026-06-25-cultura-adaptacao-literaria",
+    "data": "2026-06-25",
+    "titulo": "Clássico de Jane Austen 'Razão e Sensibilidade' ganha nova adaptação para o cinema",
+    "resumo": "A obra literária clássica 'Razão e Sensibilidade', de Jane Austen, será adaptada para um novo filme. As atrizes Daisy Edgar-Jones e Esmé Creed-Miles interpretarão as irmãs Dashwood na produção, que tem estreia prevista para outubro.",
+    "categoria": "cultura",
     "tags": [
-      "homicídio",
-      "Aracaju",
-      "situação de rua",
-      "golpes de faca",
-      "Sergipe"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Sergipe"
-    ],
-    "cidades": [
-      "Aracaju"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/se/sergipe/noticia/2026/06/24/homem-em-situacao-de-rua-e-encontrado-morto-com-golpes-de-faca-no-centro-de-aracaju.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-24-fraude-celulares-roubados",
-    "data": "2026-06-24",
-    "titulo": "Lula edita decreto que cria banco nacional de dados de celulares roubados",
-    "resumo": "O presidente Luiz Inácio Lula da Silva editou um decreto que cria um banco nacional de dados para reunir informações sobre celulares roubados. A medida visa centralizar dados já registrados no programa Celular Seguro. O objetivo é facilitar o rastreamento e a recuperação de aparelhos. A iniciativa busca combater o roubo e furto de celulares no país. Informações foram divulgadas nesta quarta-feira (24).",
-    "categoria": "seguranca",
-    "tags": [
-      "celulares roubados",
-      "banco de dados",
-      "decreto",
-      "Lula",
-      "Programa Celular Seguro"
+      "literatura",
+      "cinema",
+      "adaptação",
+      "Jane Austen"
     ],
     "entidades": [],
     "pessoas": [
-      "Lula"
+      "Jane Austen",
+      "Daisy Edgar-Jones",
+      "Esmé Creed-Miles"
     ],
     "estados": [],
+    "cidades": [],
+    "paises": [],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "cnnbrasil.com",
+        "url": "https://www.cnnbrasil.com.br/pop/cinema/razao-e-sensibilidade-classico-de-jane-austen-ganha-nova-adaptacao-veja/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-25-justica-condenacao-mae-tentativa-homicidio",
+    "data": "2026-06-25",
+    "titulo": "TJSP condena mãe a 12 anos de prisão por tentativa de matar filho",
+    "resumo": "O Tribunal de Justiça de São Paulo (TJSP) condenou uma mãe a 12 anos de prisão em regime fechado pela tentativa de assassinato de seu filho. O crime ocorreu em setembro de 2014, quando a criança tinha quatro anos e foi envenenada com chumbinho. A mulher também ingeriu a substância.",
+    "categoria": "justica",
+    "tags": [
+      "tentativa de homicídio",
+      "condenação",
+      "TJSP",
+      "violência familiar"
+    ],
+    "entidades": [
+      "TJSP"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
     "cidades": [],
     "paises": [
       "Brasil"
     ],
-    "importancia": 3,
+    "importancia": 2,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/politica/lula-edita-decreto-que-cria-banco-para-reunir-dados-de-celulares-roubados/"
+        "nome": "cnnbrasil.com",
+        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/tjsp-condena-mae-que-tentou-matar-filho-com-chumbinho-a-12-anos-de-prisao/"
       }
     ]
   },
   {
-    "id": "2026-06-24-preta-gil-filme-serie",
-    "data": "2026-06-24",
-    "titulo": "Preta Gil ganha filme e série no Globoplay",
-    "resumo": "A cantora Preta Gil será homenageada com um filme e uma série no Globoplay, intitulados \"Quanto Mais Preta Melhor\". As produções serão lançadas em 20 de julho, marcando um ano da morte da artista. A obra audiovisual visa celebrar a trajetória e o legado de Preta Gil. As notícias foram divulgadas nesta quarta-feira (24).",
-    "categoria": "cultura",
+    "id": "2026-06-25-seguranca-lavagem-dinheiro-pcc",
+    "data": "2026-06-25",
+    "titulo": "Suspeitos de lavar dinheiro do PCC e ligados a esquema de Deolane e Marcola são alvos de operação",
+    "resumo": "Uma operação policial investiga suspeitos de lavar dinheiro para o PCC, incluindo o presidente de uma empresa de ônibus. A investigação aponta uma ligação com um operador financeiro conectado a esquemas envolvendo Deolane e Marcola. A operação resultou no cumprimento de mandados de busca e apreensão.",
+    "categoria": "seguranca",
     "tags": [
-      "Preta Gil",
-      "Globoplay",
-      "filme",
-      "série",
-      "homenagem"
+      "lavagem de dinheiro",
+      "PCC",
+      "crime organizado",
+      "operação policial"
+    ],
+    "entidades": [
+      "PCC"
+    ],
+    "pessoas": [
+      "Deolane",
+      "Marcola"
+    ],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/25/presidente-de-empresa-de-onibus-suspeita-de-lavar-dinheiro-do-pcc-tinha-relacao-com-operador-ligado-ao-esquema-de-deolane-e-marcola.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-25-esportes-tecnico-holanda-copa",
+    "data": "2026-06-25",
+    "titulo": "Técnico da Holanda descarta receio de enfrentar o Brasil na Copa do Mundo",
+    "resumo": "O técnico da seleção holandesa, Ronald Koeman, afirmou que sua equipe não deve temer nenhum adversário, incluindo o Brasil, se o objetivo é conquistar o título da Copa do Mundo. Ele declarou que enfrentar o Brasil seria 'o mesmo' que jogar contra qualquer outra seleção forte.",
+    "categoria": "esportes",
+    "tags": [
+      "Copa do Mundo",
+      "futebol",
+      "Holanda",
+      "Brasil"
     ],
     "entidades": [],
     "pessoas": [
-      "Preta Gil"
+      "Ronald Koeman"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Países Baixos",
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "cnnbrasil.com",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/tecnico-da-holanda-descarta-receio-de-pegar-o-brasil-na-copa-da-na-mesma/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-25-politica-michelle-bolsonaro-flavio",
+    "data": "2026-06-25",
+    "titulo": "Michelle Bolsonaro nega \"briga\" após vídeo com críticas a Flávio Bolsonaro",
+    "resumo": "Michelle Bolsonaro negou que tenha havido uma \"briga\" após a divulgação de um vídeo com críticas a Flávio Bolsonaro. Ela afirmou que sua intenção foi apenas esclarecer a situação e declarou que trabalhará com o partido para derrotar o \"atual desgoverno\".",
+    "categoria": "politica",
+    "tags": [
+      "eleições Brasil",
+      "política interna",
+      "declarações"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Michelle Bolsonaro",
+      "Flávio Bolsonaro"
     ],
     "estados": [],
     "cidades": [],
@@ -504,118 +379,173 @@
     "importancia": 2,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/pop/quanto-mais-preta-melhor-preta-gil-ganha-filme-e-serie-no-globoplay/"
+        "nome": "cnnbrasil.com",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/michelle-nega-briga-apos-video-com-criticas-a-flavio-nao-tenho-raiva/"
       }
     ]
   },
   {
-    "id": "2026-06-24-reportagem-ockenden",
-    "data": "2026-06-24",
-    "titulo": "Relatório Ockenden expõe falhas graves em maternidades e pede inquérito público",
-    "resumo": "O relatório Ockenden, conduzido pela parteira Donna Ockenden, revelou mais de 500 mortes e danos graves a mulheres e bebês devido a cuidados precários em maternidades. Famílias exigem um inquérito público e denunciam o tratamento desumano. O documento aponta falhas graves na assistência obstétrica. O NHS (Serviço Nacional de Saúde) do Reino Unido é alvo de críticas.",
-    "categoria": "saude",
+    "id": "2026-06-25-cultura-anitta-hit",
+    "data": "2026-06-25",
+    "titulo": "Música 'Show das Poderosas' de Anitta completa 20 anos",
+    "resumo": "A música 'Show das Poderosas', de Anitta, lançada há 20 anos, é celebrada como um marco na carreira da artista. A canção marcou o início de sua projeção nacional. A matéria faz parte de uma série sobre grandes sucessos musicais dos últimos 20 anos.",
+    "categoria": "cultura",
     "tags": [
-      "relatório Ockenden",
-      "maternidade",
-      "cuidados de saúde",
-      "inquérito público",
-      "Reino Unido"
+      "música",
+      "pop",
+      "Anitta",
+      "hit"
     ],
-    "entidades": [
-      "NHS"
-    ],
+    "entidades": [],
     "pessoas": [
-      "Donna Ockenden"
+      "Anitta"
     ],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Reino Unido"
+      "Brasil"
     ],
-    "importancia": 4,
+    "importancia": 2,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/society/live/2026/jun/24/ockenden-maternity-review-nottingham-university-hospitals-trust-nhs-latest-news-updates"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/06/25/20-hits-em-20-anos-show-das-poderosas-a-musica-que-anitta-sabia-que-mudaria-a-vida-dela.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-24-calor-extremo-sul-brasil",
-    "data": "2026-06-24",
-    "titulo": "Cidades no Sul do Brasil registram temperaturas extremamente baixas",
-    "resumo": "Algumas cidades do Sul do Brasil registraram temperaturas negativas nesta quarta-feira (24), com destaque para Bom Jardim da Serra em Santa Catarina, que marcou -9,1°C. Urupema, conhecida como a Capital Nacional do Frio, atingiu -8,33°C. O frio intenso afeta a região sul do país, com geadas e condições climáticas adversas.",
-    "categoria": "meio-ambiente",
+    "id": "2026-06-25-esportes-artilheiro-alemanha",
+    "data": "2026-06-25",
+    "titulo": "Artilheiro da Alemanha na Copa ajusta dieta após críticas à forma física",
+    "resumo": "O principal artilheiro da seleção alemã na Copa do Mundo relatou ter cortado doces de sua dieta para responder a comentários sobre sua forma física. O jogador soma três gols e duas assistências no torneio e mudou seus hábitos alimentares.",
+    "categoria": "esportes",
     "tags": [
-      "frio extremo",
-      "Sul do Brasil",
-      "temperatura negativa",
-      "geada",
-      "Santa Catarina"
+      "Copa do Mundo",
+      "futebol",
+      "Alemanha",
+      "dieta"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Alemanha"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "cnnbrasil.com",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/artilheiro-da-alemanha-na-copa-corta-doce-da-dieta-para-calar-criticos/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-25-economia-fraudes-americanas",
+    "data": "2026-06-25",
+    "titulo": "PF investiga suspeitas de fraudes nas Americanas e mira Sicupira e filho de Jorge Lemann",
+    "resumo": "A Polícia Federal está investigando suspeitas de fraudes na empresa Americanas, tendo como alvos Jorge Paulo Lemann e seu filho, além de Carlos Alberto Sicupira. A operação cumpriu mandados de busca e apreensão e determinou o bloqueio de R$ 54 bilhões.",
+    "categoria": "economia",
+    "tags": [
+      "fraude",
+      "investigação",
+      "Americanas",
+      "PF"
+    ],
+    "entidades": [
+      "Americanas",
+      "PF"
+    ],
+    "pessoas": [
+      "Jorge Paulo Lemann",
+      "Carlos Alberto Sicupira"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "cnnbrasil.com",
+        "url": "https://www.cnnbrasil.com.br/politica/fraudes-nas-americanas-sicupira-e-filho-de-jorge-lemann-sao-alvos-da-pf/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-25-educacao-curso-ufpb",
+    "data": "2026-06-25",
+    "titulo": "UFPB oferece 100 vagas para curso gratuito de qualificação em armazenamento de energia",
+    "resumo": "A Universidade Federal da Paraíba (UFPB) abriu 100 vagas para um curso gratuito de qualificação profissional focado em Instalador de Sistemas de Armazenamento para Mini e Microgeração de Energia. O curso visa preparar profissionais para o setor de energias renováveis.",
+    "categoria": "educacao",
+    "tags": [
+      "curso gratuito",
+      "qualificação profissional",
+      "energia renovável",
+      "UFPB"
+    ],
+    "entidades": [
+      "UFPB"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Paraíba"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/06/25/ufpb-abre-100-vagas-para-curso-de-qualificacao-em-sistemas-de-armazenamento-de-energia.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-25-seguranca-suspeito-preso-bar",
+    "data": "2026-06-25",
+    "titulo": "Suspeito de furto é preso em bar assistindo jogo do Brasil no Paraná",
+    "resumo": "Um homem suspeito de uma tentativa de furto em uma escola foi preso em um bar em Londrina, no Paraná, enquanto assistia ao jogo da seleção brasileira. Ele teria cometido o crime minutos antes de ser detido.",
+    "categoria": "seguranca",
+    "tags": [
+      "prisão",
+      "furto",
+      "Paraná",
+      "Copa do Mundo"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [
-      "Santa Catarina",
-      "Rio Grande do Sul",
       "Paraná"
     ],
     "cidades": [
-      "Bom Jardim da Serra",
-      "Urupema"
+      "Londrina"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 3,
+    "importancia": 1,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/cidade-em-sc-registra-91oc-veja-locais-mais-frios-no-sul/"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/06/25/suspeito-furto-jogo-brasil-parana.html"
       }
     ]
   },
   {
-    "id": "2026-06-24-investimento-africa-do-sul-xenofobia",
-    "data": "2026-06-24",
-    "titulo": "Xenofobia na África do Sul pode prejudicar investimentos",
-    "resumo": "A xenofobia crescente na África do Sul, alimentada por grupos vigilantes e forças populistas, pode ter sérias implicações econômicas para o país e a região. Há temores de que o sentimento anti-imigrante prejudique o investimento estrangeiro. Expectativas indicam que a situação pode se agravar com ultimatos para a saída de imigrantes até 30 de junho. Especialistas alertam para os riscos econômicos.",
+    "id": "2026-06-25-loterias-super-sete",
+    "data": "2026-06-25",
+    "titulo": "Ninguém acerta os 7 números da Super Sete e prêmio acumula para R$ 2,2 milhões",
+    "resumo": "O concurso 864 da Super Sete, realizado nesta quinta-feira (25), não teve ganhadores com 7 acertos. Com isso, o prêmio acumulou e o próximo concurso, que sorteará os números nesta quinta-feira (25), terá um valor estimado em R$ 2,2 milhões.",
     "categoria": "economia",
     "tags": [
-      "xenofobia",
-      "África do Sul",
-      "investimento",
-      "imigrantes",
-      "economia"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "África do Sul"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "DW",
-        "url": "https://www.dw.com/en/is-xenophobia-in-south-africa-risking-investment/a-77687020?maca=en-rss-en-all-1573-rdf"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-24-flamengo-copa-historica",
-    "data": "2026-06-24",
-    "titulo": "Flamengo pode igualar marca histórica do Corinthians em Copas",
-    "resumo": "O Flamengo tem a possibilidade de igualar uma marca histórica do Corinthians em Copas após 40 anos. A possível escalação de três jogadores rubro-negros pela Seleção Brasileira em um Mundial seria a primeira vez desde a Copa do México em 1986. A notícia destaca a relevância de jogadores do clube atuando pela seleção nacional em competições internacionais. A performance em Copas é um marco para clubes.",
-    "categoria": "esportes",
-    "tags": [
-      "Flamengo",
-      "Corinthians",
-      "Copa do Mundo",
-      "seleção brasileira",
-      "história do futebol"
+      "loterias",
+      "Super Sete",
+      "sorteio",
+      "prêmio acumulado"
     ],
     "entidades": [],
     "pessoas": [],
@@ -624,273 +554,68 @@
     "paises": [
       "Brasil"
     ],
-    "importancia": 2,
+    "importancia": 1,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/apos-40-anos-flamengo-pode-igualar-marca-historica-do-corinthians-em-copas/"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/loterias/super-sete/noticia/2026/06/25/super-sete-hoje-resultado-do-concurso-864-e-numeros-sorteados.html"
       }
     ]
   },
   {
-    "id": "2026-06-24-dunga-shakira-copa",
-    "data": "2026-06-24",
-    "titulo": "Dunga dança música de Shakira para a Copa e viraliza",
-    "resumo": "O ex-jogador e técnico Dunga viralizou nas redes sociais após aparecer dançando uma música de Shakira feita para a Copa do Mundo em um programa de TV mexicano. A cena com a música da cantora colombiana chamou atenção e repercutiu na internet. O momento de descontração de Dunga foi amplamente compartilhado. A música é tema para a atual edição da Copa.",
-    "categoria": "esportes",
-    "tags": [
-      "Dunga",
-      "Shakira",
-      "Copa do Mundo",
-      "viral",
-      "humor"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Dunga",
-      "Shakira"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "México",
-      "Colômbia"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/dunga-danca-musica-de-shakira-feita-para-a-copa-na-tv-mexicana-e-viraliza/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-24-camp-mystic-falencia-texas",
-    "data": "2026-06-24",
-    "titulo": "Camp Mystic declara falência após mortes em inundações no Texas",
-    "resumo": "O acampamento cristão Camp Mystic, no Texas, declarou falência após a morte de 28 pessoas em inundações catastróficas em julho do ano passado. Os proprietários informaram que a dívida total excede 10 milhões de dólares. O processo de falência foi iniciado nesta quarta-feira (24) e visa reestruturar as finanças da organização. O incidente teve grande repercussão nos Estados Unidos.",
+    "id": "2026-06-25-loterias-mais-milionaria",
+    "data": "2026-06-25",
+    "titulo": "+Milionária acumula em R$ 67 mil após ninguém acertar todos os números",
+    "resumo": "O concurso 366 da +Milionária, sorteado nesta quinta-feira (25), não teve ganhadores com 6 acertos. Como resultado, o prêmio acumulou em R$ 67 mil para o próximo sorteio. As dezenas sorteadas foram 1, 11, 14, 22, 25, 37, e os trevos 2 e 5.",
     "categoria": "economia",
     "tags": [
-      "falência",
-      "Camp Mystic",
-      "inundações",
-      "Texas",
-      "mortes"
+      "loterias",
+      "Mais Milionária",
+      "sorteio",
+      "prêmio acumulado"
     ],
-    "entidades": [
-      "Camp Mystic"
-    ],
+    "entidades": [],
     "pessoas": [],
-    "estados": [
-      "Texas"
-    ],
+    "estados": [],
     "cidades": [],
     "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/2026/jun/24/camp-mystic-files-bankruptcy-texas-floods"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-24-acidente-montes-claros",
-    "data": "2026-06-24",
-    "titulo": "Caminhão pega fogo no Centro de Montes Claros após serviço de soldagem",
-    "resumo": "Um caminhão pegou fogo no Centro de Montes Claros, Minas Gerais, nesta terça-feira (23). Segundo o motorista, o incêndio começou após a realização de um serviço de soldagem no chassi do veículo. O Corpo de Bombeiros foi acionado e combateu as chamas. Ninguém ficou ferido. As causas exatas do incêndio estão sendo apuradas. O tráfego na região foi afetado.",
-    "categoria": "seguranca",
-    "tags": [
-      "incêndio",
-      "Montes Claros",
-      "caminhão",
-      "soldagem",
-      "Minas Gerais"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Montes Claros"
-    ],
-    "paises": [
       "Brasil"
     ],
-    "importancia": 2,
+    "importancia": 1,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/24/caminhao-pega-fogo-no-centro-de-montes-claros-apos-possivel-curto-circuito.html"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/loterias/milionaria/noticia/2026/06/25/milionaria-hoje-resultado-do-concurso-366-e-numeros-sorteados.html"
       }
     ]
   },
   {
-    "id": "2026-06-24-acidente-santarem",
-    "data": "2026-06-24",
-    "titulo": "Dois carros batem na Avenida Cuiabá em Santarém",
-    "resumo": "Um acidente entre dois carros foi registrado na Avenida Cuiabá, em Santarém, no oeste do Pará. O momento da colisão foi capturado por câmeras de segurança próximas à rodoviária do município. O incidente ocorreu na manhã desta terça-feira (23). Não há informações sobre feridos. As autoridades de trânsito analisaram as imagens.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente de trânsito",
-      "Santarém",
-      "Pará",
-      "colisão"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Pará"
-    ],
-    "cidades": [
-      "Santarém"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/24/video-confira-o-momento-da-batida-entre-dois-carros-na-avenida-cuiaba-em-santarem.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-24-defesa-sudeste-asiatico",
-    "data": "2026-06-24",
-    "titulo": "Países do Sudeste Asiático fortalecem laços de defesa, mas evitam alianças formais",
-    "resumo": "Países do Sudeste Asiático estão expandindo a cooperação em defesa, o que altera o cenário no Mar da China Meridional. No entanto, as nações evitam formar alianças formais, o que poderia ser interpretado como um bloco anti-China. A iniciativa visa aumentar a segurança regional em um contexto de tensões geopolíticas. As relações de defesa estão sendo aprofundadas.",
+    "id": "2026-06-25-internacional-recuperacao-ucrania",
+    "data": "2026-06-25",
+    "titulo": "Conferência sobre reconstrução da Ucrânia abre na Polônia sem a presença de Zelensky",
+    "resumo": "Uma conferência importante sobre a reconstrução da Ucrânia pós-guerra foi iniciada na Polônia. A ausência do presidente ucraniano, Volodymyr Zelensky, chamou atenção, sendo atribuída a uma disputa diplomática com o país anfitrião. O evento busca angariar fundos e apoio para a recuperação.",
     "categoria": "internacional",
     "tags": [
-      "defesa",
-      "Sudeste Asiático",
-      "cooperação",
-      "Mar da China Meridional",
-      "geopolítica"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "China",
-      "Vietnã",
-      "Filipinas",
-      "Malásia",
-      "Brunei",
-      "Tailândia",
-      "Singapura",
-      "Indonésia",
-      "Camboja",
-      "Laos",
-      "Mianmar"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "DW",
-        "url": "https://www.dw.com/en/southeast-asia-boost-defense-ties-but-avoids-firm-alliances/a-77689233?maca=en-rss-en-all-1573-rdf"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-24-afastamento-jaques-wagner",
-    "data": "2026-06-24",
-    "titulo": "Expectativa no Planalto é pelo afastamento de Jaques Wagner após conversa com Lula",
-    "resumo": "Há uma expectativa no Planalto para que o líder do governo no Senado, Jaques Wagner, se afaste do cargo após uma conversa com o presidente Luiz Inácio Lula da Silva. A discussão ocorre após a operação da Polícia Federal que envolve o senador. A reunião entre Lula e Wagner está prevista para acontecer em Brasília. A situação envolve investigações sobre o caso Banco Master. A possível saída de Wagner do posto de liderança é aguardada.",
-    "categoria": "politica",
-    "tags": [
-      "Jaques Wagner",
-      "Lula",
-      "Planalto",
-      "Senado",
-      "Polícia Federal"
+      "Ucrânia",
+      "reconstrução",
+      "conferência",
+      "diplomacia"
     ],
     "entidades": [],
     "pessoas": [
-      "Jaques Wagner",
-      "Luiz Inácio Lula da Silva"
+      "Volodymyr Zelensky"
     ],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Brasil"
+      "Ucrânia",
+      "Polônia"
     ],
-    "importancia": 4,
+    "importancia": 1,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/06/24/expectativa-no-planalto-e-pelo-afastamento-de-jaques-wagner-apos-conversa-com-lula.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-24-therese-badenoch-apologia",
-    "data": "2026-06-24",
-    "titulo": "Therese Badenoch não pedirá desculpas por comentários sobre Starmer",
-    "resumo": "Therese Badenoch não apresentará um pedido de desculpas por seus comentários feitos durante a sessão de Perguntas ao Primeiro-Ministro (PMQs) sobre a 'queda' de Keir Starmer. Um porta-voz afirmou que ela não se retratará. A polêmica envolve alegações de que opositores estariam descontentes com a liderança de Starmer. Nigel Farage também fez um apelo a conservadores internacionais.",
-    "categoria": "politica",
-    "tags": [
-      "Therese Badenoch",
-      "Keir Starmer",
-      "PMQs",
-      "Reino Unido",
-      "política"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Therese Badenoch",
-      "Keir Starmer",
-      "Nigel Farage"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/24/andy-burnham-labour-leadership-starmer-darren-jones-pmqs-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-24-louis-vuitton-paris",
-    "data": "2026-06-24",
-    "titulo": "Louis Vuitton recria praia em Paris durante onda de calor",
-    "resumo": "Durante um evento de moda em Paris, com temperaturas próximas a 40°C, a Louis Vuitton recriou um ambiente de praia para o desfile da coleção masculina de Pharrell Williams. O cenário contou com areia e uma piscina. A apresentação da marca francesa buscou trazer a atmosfera praiana para a cidade. O calor intenso em Paris tornou a iniciativa ainda mais notável.",
-    "categoria": "cultura",
-    "tags": [
-      "Louis Vuitton",
-      "Paris",
-      "moda",
-      "Pharrell Williams",
-      "onda de calor"
-    ],
-    "entidades": [
-      "Louis Vuitton"
-    ],
-    "pessoas": [
-      "Pharrell Williams"
-    ],
-    "estados": [],
-    "cidades": [
-      "Paris"
-    ],
-    "paises": [
-      "França"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/fashion/2026/jun/24/louis-vuitton-beach-paris-40c-heat"
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/video/20260625-ukraine-recovery-summit-opens-in-poland-without-zelensky"
       }
     ]
   }
