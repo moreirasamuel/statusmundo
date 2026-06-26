@@ -1,370 +1,607 @@
 [
   {
-    "id": "2026-06-25-onda-calor-europa",
-    "data": "2026-06-25",
-    "titulo": "Onda de calor extrema assola a Europa com mortes e alertas de saúde",
-    "resumo": "Uma forte onda de calor está atingindo a Europa, com temperaturas elevadas causando mortes e o fechamento antecipado de pontos turísticos. Vários países, incluindo França, Itália e Espanha, relataram um aumento nas mortes relacionadas ao calor. Na França, o alerta de saúde foi elevado ao nível mais alto, e em Paris, locais como a Torre Eiffel e o Louvre fecharam mais cedo.",
-    "categoria": "saude",
-    "tags": [
-      "onda de calor",
-      "temperaturas extremas",
-      "alerta de saúde",
-      "Europa"
-    ],
-    "entidades": [
-      "Torre Eiffel",
-      "Louvre"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Inglaterra"
-    ],
-    "cidades": [
-      "Paris"
-    ],
-    "paises": [
-      "França",
-      "Itália",
-      "Espanha",
-      "Reino Unido"
-    ],
-    "importancia": 5,
-    "fontes": [
-      {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/en/video/20260625-brutal-paris-tourists-struggle-in-extreme-heat-as-sites-close-early"
-      },
-      {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/world/live/2026/jun/25/europe-heatwave-uk-italy-france-record-temperature-latest-news-updates"
-      },
-      {
-        "nome": "feeds.bbci.co.uk",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-25-terremoto-venezuela",
-    "data": "2026-06-25",
-    "titulo": "Terremotos de grande magnitude atingem Venezuela e levantam preocupações sobre ajuda",
-    "resumo": "A Venezuela foi atingida por fortes terremotos com magnitude 7,5 e 7,2, os mais intensos em mais de um século. Cientistas explicam a dificuldade na previsão de tais eventos destrutivos. Há preocupação sobre como as sanções financeiras podem impactar as operações de ajuda humanitária na região devastada.",
+    "id": "2026-06-26-terremotos-venezuela",
+    "data": "2026-06-26",
+    "titulo": "Terremotos na Venezuela: Mais de 589 mortos confirmados, equipes de resgate internacionais chegam",
+    "resumo": "Um forte terremoto atingiu a Venezuela, resultando em mais de 589 mortes confirmadas até o momento. Equipes de resgate internacionais chegaram ao país para auxiliar nos esforços de busca por sobreviventes. Autoridades temem que o número de mortos possa chegar a milhares. A China se ofereceu para fornecer ajuda humanitária e de reconstrução.",
     "categoria": "internacional",
     "tags": [
       "terremoto",
       "Venezuela",
-      "ajuda humanitária",
-      "sanções"
+      "ajuda internacional",
+      "mortes"
     ],
-    "entidades": [
-      "Serviço Geológico dos Estados Unidos (USGS)"
+    "entidades": [],
+    "pessoas": [
+      "Delcy Rodríguez",
+      "Xi Jinping"
     ],
-    "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Venezuela"
+      "Venezuela",
+      "China"
     ],
     "importancia": 5,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/ciencia/noticia/2026/06/25/por-que-nao-se-podem-prever-terremotos-altamente-destrutivos.ghtml"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/jun/26/venezuela-earthquakes-search-survivors-death-toll-rodriguez-rubio-latest-news-updates"
       },
       {
-        "nome": "aljazeera.com",
-        "url": "https://www.aljazeera.com/news/2026/6/25/venezuela-quakes-how-will-sanctions-impact-aid-operations?traffic_source=rss"
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/6/26/which-countries-have-pledged-aid-to-venezuela-after-powerful-earthquakes?traffic_source=rss"
       },
       {
-        "nome": "feeds.bbci.co.uk",
-        "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss"
+        "nome": "G1",
+        "url": "https://g1.globo.com/meio-ambiente/noticia/2026/06/26/por-que-paises-vizinhos-sofrem-tanto-com-grandes-terremotos-mas-brasil-e-poupado.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-25-trump-aniversario-e-politica",
-    "data": "2026-06-25",
-    "titulo": "Trump celebra aniversário dos EUA com comício e enfrenta críticas internas",
-    "resumo": "O presidente Donald Trump marcou o 250º aniversário dos Estados Unidos com um comício no National Mall, em Washington D.C., incluindo sobrevoos militares. Internamente, ele enfrenta crescentes críticas de colegas republicanos, com relatos de discussões acaloradas. Trump também se reuniu com o presidente da Câmara para tentar resolver impasses legislativos.",
-    "categoria": "politica",
+    "id": "2026-06-26-calor-europa",
+    "data": "2026-06-26",
+    "titulo": "Onda de calor na Europa: Recorde de temperatura no Reino Unido, eventos cancelados na França e Bélgica",
+    "resumo": "A Europa enfrenta uma intensa onda de calor, com o Reino Unido registrando seu terceiro dia consecutivo de temperaturas recordes em junho. Na França e na Bélgica, eventos foram cancelados devido às altas temperaturas. Hospitais franceses estão sobrecarregados com um aumento de riscos à saúde e chamadas de emergência.",
+    "categoria": "meio-ambiente",
     "tags": [
-      "eleições EUA",
-      "aniversário EUA",
-      "política interna",
-      "comício"
+      "calor",
+      "onda de calor",
+      "Europa",
+      "temperatura",
+      "saúde"
     ],
     "entidades": [],
-    "pessoas": [
-      "Donald Trump",
-      "Mike Johnson"
-    ],
+    "pessoas": [],
     "estados": [],
     "cidades": [
-      "Washington D.C."
+      "Paris"
     ],
     "paises": [
-      "Estados Unidos"
+      "Reino Unido",
+      "França",
+      "Bélgica",
+      "Europa"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/en/video/20260625-trump-marks-nation-s-250th-birthday-with-campaign-style-rally"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/environment/live/2026/jun/26/europe-heatwave-extreme-heat-red-alert-weather-uk-england-france-climate-crisis-latest-news-updates"
       },
       {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/en/video/20260625-republicans-have-growing-litany-list-against-trump"
-      },
-      {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/live/2026/jun/25/trump-housing-bill-senate-regulations-supreme-court-latest-news-updates"
+        "nome": "France24",
+        "url": "https://www.france24.com/en/increased-health-risks-limited-resources-french-hospitals-overwhelmed-by-heatwave"
       }
     ]
   },
   {
-    "id": "2026-06-25-copa-mundo-frustracao-figurinha",
-    "data": "2026-06-25",
-    "titulo": "Fãs franceses frustrados com esgotamento de álbuns de figurinhas da Copa do Mundo",
-    "resumo": "A paixão pelas figurinhas da Copa do Mundo está gerando frustração na França, onde os álbuns e pacotes se esgotaram rapidamente. A alta demanda pegou as bancas de jornal desprevenidas. Em paralelo, eventos esportivos da Copa do Mundo geram movimentações no comércio, com orientação para liberação de funcionários em cidades como Feira de Santana.",
-    "categoria": "esportes",
-    "tags": [
-      "Copa do Mundo",
-      "figurinhas",
-      "frustração",
-      "comércio"
-    ],
-    "entidades": [
-      "Panini"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Bahia"
-    ],
-    "cidades": [
-      "Feira de Santana"
-    ],
-    "paises": [
-      "França",
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/en/video/20260625-fans-frustrated-as-world-cup-panini-sell-out-in-france"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/06/25/jogos-copa-do-mundo-bahia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-25-economia-mercado-trabalho",
-    "data": "2026-06-25",
-    "titulo": "Relatório aponta salários médios abaixo da média nacional em setores de alta empregabilidade no Brasil",
-    "resumo": "Um relatório indica que seis dos dez setores que mais empregam no Brasil oferecem salários médios inferiores à média nacional. O Distrito Federal aparece como a unidade federativa com a maior média salarial. Jovens tendem a ficar menos tempo nos empregos formais, e a geração 'nem-nem' (que não trabalha nem estuda) avança em algumas regiões.",
-    "categoria": "economia",
-    "tags": [
-      "mercado de trabalho",
-      "salário médio",
-      "emprego",
-      "jovens"
-    ],
-    "entidades": [
-      "IBGE",
-      "CEMPRE",
-      "MTE"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Distrito Federal",
-      "Ceará"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/economia/noticia/2026/06/25/cempre-ibge.ghtml"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/economia/noticia/2026/06/25/quem-paga-mais-no-brasil-veja-o-salario-medio-no-seu-estado.ghtml"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/25/jovens-emprego-geracao-nem-nem-avanca.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-25-tecnologia-ia-chip-openai",
-    "data": "2026-06-25",
-    "titulo": "OpenAI apresenta chip próprio para otimizar seus produtos de inteligência artificial",
-    "resumo": "A OpenAI anunciou seu primeiro chip desenvolvido sob medida, denominado 'Jalapeño'. O objetivo é tornar o funcionamento de produtos como o ChatGPT mais rápido e econômico. O desenvolvimento foi feito em conjunto com outra empresa.",
-    "categoria": "ciencia",
-    "tags": [
-      "inteligência artificial",
-      "chip",
-      "OpenAI",
-      "tecnologia"
-    ],
-    "entidades": [
-      "OpenAI",
-      "ChatGPT"
-    ],
-    "pessoas": [
-      "Sam Altman"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/tecnologia/noticia/2026/06/25/openai-apresenta-o-jalapeno-o-seu-primeiro-chip-de-ia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-25-cultura-adaptacao-literaria",
-    "data": "2026-06-25",
-    "titulo": "Clássico de Jane Austen 'Razão e Sensibilidade' ganha nova adaptação para o cinema",
-    "resumo": "A obra literária clássica 'Razão e Sensibilidade', de Jane Austen, será adaptada para um novo filme. As atrizes Daisy Edgar-Jones e Esmé Creed-Miles interpretarão as irmãs Dashwood na produção, que tem estreia prevista para outubro.",
-    "categoria": "cultura",
-    "tags": [
-      "literatura",
-      "cinema",
-      "adaptação",
-      "Jane Austen"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Jane Austen",
-      "Daisy Edgar-Jones",
-      "Esmé Creed-Miles"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "cnnbrasil.com",
-        "url": "https://www.cnnbrasil.com.br/pop/cinema/razao-e-sensibilidade-classico-de-jane-austen-ganha-nova-adaptacao-veja/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-25-justica-condenacao-mae-tentativa-homicidio",
-    "data": "2026-06-25",
-    "titulo": "TJSP condena mãe a 12 anos de prisão por tentativa de matar filho",
-    "resumo": "O Tribunal de Justiça de São Paulo (TJSP) condenou uma mãe a 12 anos de prisão em regime fechado pela tentativa de assassinato de seu filho. O crime ocorreu em setembro de 2014, quando a criança tinha quatro anos e foi envenenada com chumbinho. A mulher também ingeriu a substância.",
-    "categoria": "justica",
-    "tags": [
-      "tentativa de homicídio",
-      "condenação",
-      "TJSP",
-      "violência familiar"
-    ],
-    "entidades": [
-      "TJSP"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "cnnbrasil.com",
-        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/tjsp-condena-mae-que-tentou-matar-filho-com-chumbinho-a-12-anos-de-prisao/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-25-seguranca-lavagem-dinheiro-pcc",
-    "data": "2026-06-25",
-    "titulo": "Suspeitos de lavar dinheiro do PCC e ligados a esquema de Deolane e Marcola são alvos de operação",
-    "resumo": "Uma operação policial investiga suspeitos de lavar dinheiro para o PCC, incluindo o presidente de uma empresa de ônibus. A investigação aponta uma ligação com um operador financeiro conectado a esquemas envolvendo Deolane e Marcola. A operação resultou no cumprimento de mandados de busca e apreensão.",
-    "categoria": "seguranca",
-    "tags": [
-      "lavagem de dinheiro",
-      "PCC",
-      "crime organizado",
-      "operação policial"
-    ],
-    "entidades": [
-      "PCC"
-    ],
-    "pessoas": [
-      "Deolane",
-      "Marcola"
-    ],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/25/presidente-de-empresa-de-onibus-suspeita-de-lavar-dinheiro-do-pcc-tinha-relacao-com-operador-ligado-ao-esquema-de-deolane-e-marcola.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-25-esportes-tecnico-holanda-copa",
-    "data": "2026-06-25",
-    "titulo": "Técnico da Holanda descarta receio de enfrentar o Brasil na Copa do Mundo",
-    "resumo": "O técnico da seleção holandesa, Ronald Koeman, afirmou que sua equipe não deve temer nenhum adversário, incluindo o Brasil, se o objetivo é conquistar o título da Copa do Mundo. Ele declarou que enfrentar o Brasil seria 'o mesmo' que jogar contra qualquer outra seleção forte.",
+    "id": "2026-06-26-copa-do-mundo",
+    "data": "2026-06-26",
+    "titulo": "Copa do Mundo: Equador surpreende Alemanha, Costa do Marfim avança, França e Noruega decidem liderança",
+    "resumo": "O Equador surpreendeu a Alemanha com uma vitória por 2 a 1, garantindo sua classificação para a próxima fase da Copa do Mundo. A Costa do Marfim também avançou para o mata-mata pela primeira vez. França e Noruega disputarão a liderança do grupo em um confronto decisivo. O Equador declarou feriado nacional após a vitória.",
     "categoria": "esportes",
     "tags": [
       "Copa do Mundo",
       "futebol",
-      "Holanda",
-      "Brasil"
+      "Equador",
+      "Alemanha",
+      "França",
+      "Noruega"
     ],
     "entidades": [],
     "pessoas": [
-      "Ronald Koeman"
+      "Kylian Mbappe",
+      "Erling Haaland"
     ],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Países Baixos",
+      "Equador",
+      "Alemanha",
+      "Costa do Marfim",
+      "França",
+      "Noruega",
+      "Holanda",
+      "Tunísia"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/klopp-ve-catastrofe-em-erros-da-alemanha-em-derrota-para-o-equador/"
+      },
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/equador-decreta-feriado-nesta-sexta-26-apos-vencer-alemanha-na-copa/"
+      },
+      {
+        "nome": "France24",
+        "url": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260626-ecuador-upset-germany-ivory-coast-qualify-to-next-round"
+      },
+      {
+        "nome": "France24",
+        "url": "https://www.france24.com/en/france-and-norway-to-fight-for-top-spot-in-final-world-cup-group-game"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-26-politica-brasil",
+    "data": "2026-06-26",
+    "titulo": "Notícias da política brasileira: Prisão domiciliar, influenciadora investigada e vereador afastado",
+    "resumo": "O ministro Alexandre de Moraes autorizou a prisão domiciliar de uma condenada de 8 de janeiro por motivos humanitários. Uma influenciadora digital em Tocantins é investigada por jogos ilegais e teve bens bloqueados. No Paraná, um vereador de Guarapuava foi afastado do cargo e se tornou réu por corrupção e outros crimes.",
+    "categoria": "politica",
+    "tags": [
+      "política",
+      "Brasil",
+      "justiça",
+      "corrupção",
+      "investigação"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Alexandre de Moraes"
+    ],
+    "estados": [
+      "Tocantins",
+      "Paraná"
+    ],
+    "cidades": [
+      "Guarapuava"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/26/situacao-humanitaria-levou-moraes-a-autorizar-prisao-domiciliar-de-condenada-do-8-de-janeiro.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/26/influenciadora-investigada-por-jogos-ilegais-e-alvo-de-buscas-e-tem-bens-bloqueados.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/06/26/vereador-do-parana-acusado-de-cobrar-por-imoveis-de-programa-habitacional-gratuito-e-afastado-do-cargo-e-se-torna-reu-na-justica.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-26-migracao-canal-mancha",
+    "data": "2026-06-26",
+    "titulo": "Aumento de travessias de migrantes no Canal da Mancha; França e Reino Unido em alerta",
+    "resumo": "O clima favorável e o mar calmo levaram a um aumento acentuado nas tentativas de travessia de migrantes do norte da França para o Reino Unido. Repórteres acompanharam de perto as operações em praias próximas a Calais, onde migrantes tentaram embarcar em barcos pequenos. A situação reflete os desafios contínuos na fronteira marítima.",
+    "categoria": "internacional",
+    "tags": [
+      "migração",
+      "Canal da Mancha",
+      "França",
+      "Reino Unido",
+      "travessia"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Calais"
+    ],
+    "paises": [
+      "França",
+      "Reino Unido"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "France24",
+        "url": "https://www.france24.com/en/video/20260626-france-uk-on-the-beach-as-migrants-try-to-cross-the-channel"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-26-economia-brasil",
+    "data": "2026-06-26",
+    "titulo": "Economia brasileira: Confiança da indústria sobe, dólar recua",
+    "resumo": "A confiança da indústria no Brasil apresentou alta pelo segundo mês consecutivo em junho, segundo a FGV. O índice subiu 3,0 pontos, alcançando 100,1 pontos. Paralelamente, o dólar recuou, com a moeda americana à vista fechando com baixa de 0,39% em relação ao real, enquanto o mercado observa a alta de juros nos Estados Unidos.",
+    "categoria": "economia",
+    "tags": [
+      "economia",
+      "Brasil",
+      "confiança da indústria",
+      "dólar",
+      "juros"
+    ],
+    "entidades": [
+      "FGV"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil",
+      "Estados Unidos"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/mercado/mercado-financeiro-ibovespa-dolar-26-junho-2026/"
+      },
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/confianca-da-industria-no-brasil-sobe-pelo-2o-mes-seguido-em-junho-diz-fgv/"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-26-direitos-armas-eua",
+    "data": "2026-06-26",
+    "titulo": "Decisão da Suprema Corte sobre porte de armas no Havaí gera debates nos EUA",
+    "resumo": "Uma decisão da Suprema Corte dos Estados Unidos que derrubou uma lei do Havaí que proibia o porte de armas em propriedades privadas sem permissão está gerando debates. Especialistas apontam que a decisão pode criar problemas para proprietários de negócios e indicar a direção dos conservadores na corte.",
+    "categoria": "justica",
+    "tags": [
+      "direitos",
+      "armas",
+      "Suprema Corte",
+      "Havaí",
+      "EUA"
+    ],
+    "entidades": [
+      "Suprema Corte"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Havaí"
+    ],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/jun/26/supreme-court-hawaii-gun-ruling"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-26-estudo-risadas-primatas",
+    "data": "2026-06-26",
+    "titulo": "Estudo revela que humanos e grandes primatas compartilham risadas há 15 milhões de anos",
+    "resumo": "Uma nova pesquisa sugere que grandes primatas riem de forma semelhante aos humanos. A análise de gravações antigas de diversas espécies de primatas revelou características comuns em sua 'risada' com a dos humanos. Isso indica que eles podem ter tido um ancestral comum que ria há aproximadamente 15 milhões de anos.",
+    "categoria": "ciencia",
+    "tags": [
+      "ciência",
+      "estudo",
+      "primatas",
+      "risada",
+      "evolução"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "France24",
+        "url": "https://www.france24.com/en/humans-and-apes-have-shared-a-laugh-for-15-million-years-says-study"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-26-legislacao-pb",
+    "data": "2026-06-26",
+    "titulo": "Lei na Paraíba garante prioridade em matrículas para filhos de PCDs e idosos",
+    "resumo": "Uma nova lei sancionada na Paraíba garante prioridade nas matrículas da rede estadual de ensino para filhos e dependentes de pessoas com deficiência ou idosos. A medida visa assegurar o acesso à educação para esses grupos vulneráveis.",
+    "categoria": "educacao",
+    "tags": [
+      "lei",
+      "educação",
+      "Paraíba",
+      "prioridade",
+      "matrículas"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Lucas"
+    ],
+    "estados": [
+      "Paraíba"
+    ],
+    "cidades": [],
+    "paises": [
       "Brasil"
     ],
     "importancia": 2,
     "fontes": [
       {
-        "nome": "cnnbrasil.com",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/tecnico-da-holanda-descarta-receio-de-pegar-o-brasil-na-copa-da-na-mesma/"
+        "nome": "G1",
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/06/26/lei-garante-prioridade-para-filhos-de-pcds-e-idosos-em-matriculas-na-rede-estadual-de-ensino-na-pb.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-25-politica-michelle-bolsonaro-flavio",
-    "data": "2026-06-25",
-    "titulo": "Michelle Bolsonaro nega \"briga\" após vídeo com críticas a Flávio Bolsonaro",
-    "resumo": "Michelle Bolsonaro negou que tenha havido uma \"briga\" após a divulgação de um vídeo com críticas a Flávio Bolsonaro. Ela afirmou que sua intenção foi apenas esclarecer a situação e declarou que trabalhará com o partido para derrotar o \"atual desgoverno\".",
+    "id": "2026-06-26-seguranca-sp",
+    "data": "2026-06-26",
+    "titulo": "Operações de segurança em São Paulo: Quadrilha de extorsão no aeroporto e prisão por posse de armas",
+    "resumo": "A Polícia Civil de São Paulo prendeu o líder de uma quadrilha de extorsão que agia no Aeroporto de São Paulo. Em Piracicaba, um homem foi preso em flagrante por posse ilegal de armas de fogo, suspeito de agredir e ameaçar o enteado.",
+    "categoria": "seguranca",
+    "tags": [
+      "segurança",
+      "polícia",
+      "São Paulo",
+      "extorsão",
+      "armas"
+    ],
+    "entidades": [
+      "Polícia Civil"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "São Paulo",
+      "Piracicaba"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/policia-prende-zoio-lider-de-quadrilha-de-extorsao-no-aeroporto-de-sp/"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/06/26/suspeito-de-agredir-e-ameacar-atirar-em-enteado-e-preso-por-posse-ilegal-de-armas-em-piracicaba.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-26-diversidade-esportiva",
+    "data": "2026-06-26",
+    "titulo": "Partida da Copa do Mundo gera objeções no Egito e Irã por designação 'Pride Match'",
+    "resumo": "Uma partida da Copa do Mundo entre Egito e Irã, designada como 'Pride Match', gerou objeções em ambos os países. A designação do jogo em Seattle, nos Estados Unidos, foi feita antes do sorteio da Copa. Homossexualidade é criminalizada tanto no Egito quanto no Irã.",
+    "categoria": "esportes",
+    "tags": [
+      "Copa do Mundo",
+      "futebol",
+      "diversidade",
+      "Egito",
+      "Irã"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Seattle"
+    ],
+    "paises": [
+      "Egito",
+      "Irã",
+      "Estados Unidos"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "DW",
+        "url": "https://www.dw.com/en/world-cup-pride-match-sparks-objections-in-egypt-and-iran/a-77721148?maca=en-rss-en-all-1573-rdf"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-26-cultura-reino-unido",
+    "data": "2026-06-26",
+    "titulo": "Planos para reformulação do Palácio de Buckingham incluem manter o local ativo",
+    "resumo": "Planos para a reforma do Palácio de Buckingham, avaliados em £369 milhões, indicam que o Rei Charles III não residirá no local após a conclusão das obras. No entanto, as autoridades enfatizam que o palácio continuará sendo um centro de atividades reais e manterá seu papel histórico.",
+    "categoria": "cultura",
+    "tags": [
+      "Palácio de Buckingham",
+      "Rei Charles III",
+      "reforma",
+      "Reino Unido",
+      "monarquia"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Charles III"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/26/plans-revamped-buckingham-palace-king-charles"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-26-familia-imperial-japao",
+    "data": "2026-06-26",
+    "titulo": "Debate no Japão sobre preservação da linhagem masculina imperial",
+    "resumo": "O Japão enfrenta um debate nacional sobre como preservar sua linhagem imperial masculina, que remonta a 2.600 anos, devido à escassez de herdeiros do sexo masculino. A discussão ocorre enquanto o Imperador Naruhito e a Imperatriz Masako concluem uma viagem pela Europa.",
     "categoria": "politica",
     "tags": [
-      "eleições Brasil",
-      "política interna",
-      "declarações"
+      "Japão",
+      "monarquia",
+      "família imperial",
+      "linhagem",
+      "debate"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Naruhito",
+      "Masako"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Japão"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "France24",
+        "url": "https://www.france24.com/en/tv-shows/access-asia/20260626-how-far-will-japan-go-to-preserve-the-2-600-year-old-male-imperial-bloodline"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-26-acidentes-rodoviarios-sp",
+    "data": "2026-06-26",
+    "titulo": "Carreta tomba em rodovia de São Paulo e causa bloqueio",
+    "resumo": "Uma carreta carregada com madeira tombou na Rodovia Comendador Américo Emilio Romi (SP-306), entre Capivari e Santa Bárbara d'Oeste, em São Paulo. O acidente bloqueou parte da pista e causou congestionamento na madrugada desta sexta-feira.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente",
+      "rodovia",
+      "carreta",
+      "São Paulo",
+      "trânsito"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Capivari",
+      "Santa Bárbara d'Oeste"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/06/26/carreta-carregada-com-madeira-tomba-em-rodovia-entre-capivari-e-santa-barbara-e-bloqueia-parte-da-pista.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-26-servico-publico-fortaleza",
+    "data": "2026-06-26",
+    "titulo": "Expediente reduzido em Fortaleza na segunda devido a jogo do Brasil na Copa",
+    "resumo": "O expediente nos órgãos municipais de Fortaleza será reduzido na próxima segunda-feira (29) em função do jogo do Brasil na Copa do Mundo de 2026. A medida visa permitir que os servidores acompanhem a partida.",
+    "categoria": "politica",
+    "tags": [
+      "serviço público",
+      "Fortaleza",
+      "Copa do Mundo",
+      "expediente"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Evandro Leitão"
+    ],
+    "estados": [
+      "Ceará"
+    ],
+    "cidades": [
+      "Fortaleza"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ce/ceara/noticia/2026/06/26/expediente-do-servico-publico-de-fortaleza-sera-reduzido-na-segunda-devido-ao-jogo-do-brasil-na-copa.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-26-obras-publicas-mg",
+    "data": "2026-06-26",
+    "titulo": "Ponte entre Montes Claros e Capitão Enéas é liberada após reparos",
+    "resumo": "A ponte sobre o Rio Verde, que liga os municípios de Montes Claros e Capitão Enéas, em Minas Gerais, foi liberada para passagem nesta semana. A estrutura, localizada próximo à comunidade de Peri-Peri, estava interditada para reparos.",
+    "categoria": "infraestrutura",
+    "tags": [
+      "infraestrutura",
+      "ponte",
+      "reparos",
+      "Minas Gerais"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Montes Claros",
+      "Capitão Enéas"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/26/ponte-entre-montes-claros-e-capitao-eneas-e-liberada-apos-reparos.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-26-musica-sao-joao-caruaru",
+    "data": "2026-06-26",
+    "titulo": "Shows de Nathanzinho Lima, Gusttavo Lima e Xand Avião marcam último fim de semana do São João de Caruaru",
+    "resumo": "O último fim de semana do São João de Caruaru contará com apresentações de diversos artistas de forró, pagode e sertanejo. O Pátio de Eventos e o Alto do Moura receberão shows de nomes como Nathanzinho Lima, Gusttavo Lima e Xand Avião, encerrando as festividades na cidade.",
+    "categoria": "cultura",
+    "tags": [
+      "cultura",
+      "música",
+      "São João",
+      "Caruaru",
+      "festas juninas"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Nathanzinho Lima",
+      "Gusttavo Lima",
+      "Xand Avião"
+    ],
+    "estados": [
+      "Pernambuco"
+    ],
+    "cidades": [
+      "Caruaru"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/caruaru-regiao/sao-joao-de-caruaru/2026/noticia/2026/06/26/nathanzinho-lima-gusttavo-lima-xand-aviao-e-mais-veja-horarios-das-atracoes-do-ultimo-fim-de-semana-do-sao-joao-de-caruaru.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-26-politica-interna-brasil",
+    "data": "2026-06-26",
+    "titulo": "Michelle Bolsonaro cita versículo bíblico em meio a crise com Flávio Bolsonaro",
+    "resumo": "Michelle Bolsonaro citou um trecho bíblico que fala sobre 'falsa testemunha' em meio a relatos de uma crise com Flávio Bolsonaro. O Salmo citado é interpretado como uma lição sobre a importância de vigiar as palavras e dizer a verdade.",
+    "categoria": "politica",
+    "tags": [
+      "política",
+      "Brasil",
+      "Michelle Bolsonaro",
+      "Flávio Bolsonaro",
+      "religião"
     ],
     "entidades": [],
     "pessoas": [
@@ -376,246 +613,11 @@
     "paises": [
       "Brasil"
     ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "cnnbrasil.com",
-        "url": "https://www.cnnbrasil.com.br/eleicoes/michelle-nega-briga-apos-video-com-criticas-a-flavio-nao-tenho-raiva/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-25-cultura-anitta-hit",
-    "data": "2026-06-25",
-    "titulo": "Música 'Show das Poderosas' de Anitta completa 20 anos",
-    "resumo": "A música 'Show das Poderosas', de Anitta, lançada há 20 anos, é celebrada como um marco na carreira da artista. A canção marcou o início de sua projeção nacional. A matéria faz parte de uma série sobre grandes sucessos musicais dos últimos 20 anos.",
-    "categoria": "cultura",
-    "tags": [
-      "música",
-      "pop",
-      "Anitta",
-      "hit"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Anitta"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/06/25/20-hits-em-20-anos-show-das-poderosas-a-musica-que-anitta-sabia-que-mudaria-a-vida-dela.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-25-esportes-artilheiro-alemanha",
-    "data": "2026-06-25",
-    "titulo": "Artilheiro da Alemanha na Copa ajusta dieta após críticas à forma física",
-    "resumo": "O principal artilheiro da seleção alemã na Copa do Mundo relatou ter cortado doces de sua dieta para responder a comentários sobre sua forma física. O jogador soma três gols e duas assistências no torneio e mudou seus hábitos alimentares.",
-    "categoria": "esportes",
-    "tags": [
-      "Copa do Mundo",
-      "futebol",
-      "Alemanha",
-      "dieta"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Alemanha"
-    ],
     "importancia": 1,
     "fontes": [
       {
-        "nome": "cnnbrasil.com",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/artilheiro-da-alemanha-na-copa-corta-doce-da-dieta-para-calar-criticos/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-25-economia-fraudes-americanas",
-    "data": "2026-06-25",
-    "titulo": "PF investiga suspeitas de fraudes nas Americanas e mira Sicupira e filho de Jorge Lemann",
-    "resumo": "A Polícia Federal está investigando suspeitas de fraudes na empresa Americanas, tendo como alvos Jorge Paulo Lemann e seu filho, além de Carlos Alberto Sicupira. A operação cumpriu mandados de busca e apreensão e determinou o bloqueio de R$ 54 bilhões.",
-    "categoria": "economia",
-    "tags": [
-      "fraude",
-      "investigação",
-      "Americanas",
-      "PF"
-    ],
-    "entidades": [
-      "Americanas",
-      "PF"
-    ],
-    "pessoas": [
-      "Jorge Paulo Lemann",
-      "Carlos Alberto Sicupira"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "cnnbrasil.com",
-        "url": "https://www.cnnbrasil.com.br/politica/fraudes-nas-americanas-sicupira-e-filho-de-jorge-lemann-sao-alvos-da-pf/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-25-educacao-curso-ufpb",
-    "data": "2026-06-25",
-    "titulo": "UFPB oferece 100 vagas para curso gratuito de qualificação em armazenamento de energia",
-    "resumo": "A Universidade Federal da Paraíba (UFPB) abriu 100 vagas para um curso gratuito de qualificação profissional focado em Instalador de Sistemas de Armazenamento para Mini e Microgeração de Energia. O curso visa preparar profissionais para o setor de energias renováveis.",
-    "categoria": "educacao",
-    "tags": [
-      "curso gratuito",
-      "qualificação profissional",
-      "energia renovável",
-      "UFPB"
-    ],
-    "entidades": [
-      "UFPB"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Paraíba"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/06/25/ufpb-abre-100-vagas-para-curso-de-qualificacao-em-sistemas-de-armazenamento-de-energia.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-25-seguranca-suspeito-preso-bar",
-    "data": "2026-06-25",
-    "titulo": "Suspeito de furto é preso em bar assistindo jogo do Brasil no Paraná",
-    "resumo": "Um homem suspeito de uma tentativa de furto em uma escola foi preso em um bar em Londrina, no Paraná, enquanto assistia ao jogo da seleção brasileira. Ele teria cometido o crime minutos antes de ser detido.",
-    "categoria": "seguranca",
-    "tags": [
-      "prisão",
-      "furto",
-      "Paraná",
-      "Copa do Mundo"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Paraná"
-    ],
-    "cidades": [
-      "Londrina"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/06/25/suspeito-furto-jogo-brasil-parana.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-25-loterias-super-sete",
-    "data": "2026-06-25",
-    "titulo": "Ninguém acerta os 7 números da Super Sete e prêmio acumula para R$ 2,2 milhões",
-    "resumo": "O concurso 864 da Super Sete, realizado nesta quinta-feira (25), não teve ganhadores com 7 acertos. Com isso, o prêmio acumulou e o próximo concurso, que sorteará os números nesta quinta-feira (25), terá um valor estimado em R$ 2,2 milhões.",
-    "categoria": "economia",
-    "tags": [
-      "loterias",
-      "Super Sete",
-      "sorteio",
-      "prêmio acumulado"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/loterias/super-sete/noticia/2026/06/25/super-sete-hoje-resultado-do-concurso-864-e-numeros-sorteados.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-25-loterias-mais-milionaria",
-    "data": "2026-06-25",
-    "titulo": "+Milionária acumula em R$ 67 mil após ninguém acertar todos os números",
-    "resumo": "O concurso 366 da +Milionária, sorteado nesta quinta-feira (25), não teve ganhadores com 6 acertos. Como resultado, o prêmio acumulou em R$ 67 mil para o próximo sorteio. As dezenas sorteadas foram 1, 11, 14, 22, 25, 37, e os trevos 2 e 5.",
-    "categoria": "economia",
-    "tags": [
-      "loterias",
-      "Mais Milionária",
-      "sorteio",
-      "prêmio acumulado"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/loterias/milionaria/noticia/2026/06/25/milionaria-hoje-resultado-do-concurso-366-e-numeros-sorteados.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-25-internacional-recuperacao-ucrania",
-    "data": "2026-06-25",
-    "titulo": "Conferência sobre reconstrução da Ucrânia abre na Polônia sem a presença de Zelensky",
-    "resumo": "Uma conferência importante sobre a reconstrução da Ucrânia pós-guerra foi iniciada na Polônia. A ausência do presidente ucraniano, Volodymyr Zelensky, chamou atenção, sendo atribuída a uma disputa diplomática com o país anfitrião. O evento busca angariar fundos e apoio para a recuperação.",
-    "categoria": "internacional",
-    "tags": [
-      "Ucrânia",
-      "reconstrução",
-      "conferência",
-      "diplomacia"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Volodymyr Zelensky"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Ucrânia",
-      "Polônia"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/en/video/20260625-ukraine-recovery-summit-opens-in-poland-without-zelensky"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/em-crise-com-flavio-michelle-cita-trecho-biblico-sobre-falsa-testemunha/"
       }
     ]
   }
