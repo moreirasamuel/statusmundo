@@ -1,214 +1,546 @@
 [
   {
-    "id": "2026-06-27-ajuda-venezuela",
-    "data": "2026-06-27",
-    "titulo": "Brasil envia ajuda humanitária à Venezuela após terremoto",
-    "resumo": "O Brasil enviou o segundo voo humanitário com ajuda para a Venezuela, transportando médicos, cães farejadores, bombeiros e suprimentos. A ação visa auxiliar as vítimas do terremoto que atingiu o país. Um terceiro avião com mais ajuda ainda pode ser enviado.",
+    "id": "2026-06-28-queda-aviao-franca",
+    "data": "2026-06-28",
+    "titulo": "Acidente de avião deixa 11 mortos na França",
+    "resumo": "Um avião pertencente a uma escola de paraquedismo caiu na cidade de Tomblaine, no nordeste da França, neste domingo (28). Onze pessoas morreram na queda, incluindo o piloto, cinco alunos e cinco instrutores. O Ministério do Interior da França está acompanhando a situação.",
     "categoria": "internacional",
     "tags": [
-      "ajuda humanitária",
-      "terremoto",
-      "Venezuela",
-      "Brasil",
-      "FAB"
-    ],
-    "entidades": [
-      "Força Aérea Brasileira",
-      "Venezuela"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil",
-      "Venezuela"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "Agência Brasil",
-        "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/segundo-aviao-da-fab-decola-neste-sabado-com-ajuda-para-venezuela"
-      },
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/politica/aviao-da-fab-com-ajuda-para-vitimas-de-terremoto-chega-a-venezuela/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-27-ondas-calor-europa",
-    "data": "2026-06-27",
-    "titulo": "Europa enfrenta ondas de calor com temperaturas extremas",
-    "resumo": "Várias nações europeias, incluindo Alemanha, Inglaterra e Itália, estão sob alerta de calor extremo, com temperaturas que podem ultrapassar os 40°C. A onda de calor está se espalhando pela Europa Central e Oriental. Há preocupações sobre a preparação do continente para tais eventos climáticos.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "onda de calor",
-      "temperaturas extremas",
-      "mudanças climáticas",
-      "Europa"
+      "acidente aéreo",
+      "França",
+      "paraquedismo"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [],
-    "cidades": [],
+    "cidades": [
+      "Tomblaine"
+    ],
     "paises": [
-      "Alemanha",
-      "Reino Unido",
-      "Itália",
       "França"
     ],
-    "importancia": 4,
+    "importancia": 5,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mundo/noticia/2026/06/28/acidente-com-aviao-franca-diz-agencia.ghtml"
+      },
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/queda-de-aviao-na-franca-deixa-mortos/"
+      },
+      {
+        "nome": "aljazeera.com",
+        "url": "https://www.aljazeera.com/news/2026/6/28/at-least-11-dead-in-civilian-plane-crash-in-eastern-france-authorities?traffic_source=rss"
+      },
+      {
+        "nome": "rss.dw.com",
+        "url": "https://www.dw.com/en/france-11-killed-in-civilian-plane-crash/a-77743392?maca=en-rss-en-all-1573-rdf"
       }
     ]
   },
   {
-    "id": "2026-06-27-ataque-ucraniano-russia",
-    "data": "2026-06-27",
-    "titulo": "Ucrânia ataca instalação industrial na Rússia, afirma Zelensky",
-    "resumo": "O presidente ucraniano, Volodymyr Zelensky, declarou que a Ucrânia realizou um ataque a uma importante instalação industrial na cidade russa de Volgogrado. A Ucrânia tem intensificado ataques aéreos de longo alcance contra alvos militares russos.",
-    "categoria": "internacional",
+    "id": "2026-06-28-sao-joao-campina-grande",
+    "data": "2026-06-28",
+    "titulo": "Turista australiana celebra aniversário no São João de Campina Grande e viraliza",
+    "resumo": "Uma turista australiana chamada Alicia Stamford celebrou seu aniversário de 40 anos durante os festejos juninos em Campina Grande, Paraíba. Sua comemoração viralizou nas redes sociais, com ela descrevendo o momento como a 'melhor noite da minha vida'.",
+    "categoria": "cultura",
     "tags": [
-      "guerra",
-      "Ucrânia",
-      "Rússia",
-      "ataque aéreo",
-      "Volgogrado"
+      "festas juninas",
+      "turismo",
+      "viral"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Paraíba"
+    ],
+    "cidades": [
+      "Campina Grande"
+    ],
+    "paises": [
+      "Austrália",
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pb/paraiba/sao-joao/noticia/2026/06/28/turista-australiana-comemora-40-anos-no-sao-joao-de-campina-grande-e-viraliza-video.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-28-homenagem-acre-minas",
+    "data": "2026-06-28",
+    "titulo": "Acre é homenageado por artista de Minas Gerais com ilustração inspirada em Chico Mendes",
+    "resumo": "O estado do Acre foi homenageado por um ilustrador mineiro de 25 anos, Bernardo Barbosa. O artista criou um personagem chamado Chico, inspirado na história e cultura acreana, especialmente em Chico Mendes, como parte de um projeto sobre o Panteão Brasileiro.",
+    "categoria": "cultura",
+    "tags": [
+      "arte",
+      "homenagem",
+      "Chico Mendes"
     ],
     "entidades": [],
     "pessoas": [
-      "Volodymyr Zelensky"
+      "Chico Mendes",
+      "Bernardo Barbosa"
     ],
+    "estados": [
+      "Acre",
+      "Minas Gerais"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ac/acre/noticia/2026/06/28/com-ilustracao-inspirada-em-chico-mendes-acre-e-homenageado-por-artista-de-minas-gerais.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-28-ataques-eua-ira",
+    "data": "2026-06-28",
+    "titulo": "Novos ataques entre EUA e Irã ameaçam cessar-fogo",
+    "resumo": "A Guarda Revolucionária do Irã lançou ataques contra o Bahrein e o Kuwait em resposta a ataques aéreos dos EUA contra 10 locais iranianos. A República Islâmica ameaçou parar completamente as negociações de paz se os ataques americanos continuarem. Esforços para reabrir o Estreito de Ormuz estão em curso.",
+    "categoria": "internacional",
+    "tags": [
+      "conflito",
+      "Oriente Médio",
+      "ceçar-fogo"
+    ],
+    "entidades": [
+      "Guarda Revolucionária do Irã"
+    ],
+    "pessoas": [],
     "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos",
+      "Irã",
+      "Bahrein",
+      "Kuwait"
+    ],
+    "importancia": 5,
+    "fontes": [
+      {
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/new-us-iran-exchange-of-attacks-threatens-ceasefire"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-28-violencia-piaui",
+    "data": "2026-06-28",
+    "titulo": "Homem é morto a tiros em praça durante festa junina no Sul do Piauí; suspeito é preso",
+    "resumo": "Um homem identificado como Bruno foi morto a tiros na praça central de Paes Landim, no Sul do Piauí, durante um festival junino. O evento promovido pela prefeitura foi cancelado após o crime. O suspeito foi localizado e preso pelas autoridades.",
+    "categoria": "seguranca",
+    "tags": [
+      "violência",
+      "homicídio",
+      "festa junina"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Piauí"
+    ],
     "cidades": [
-      "Volgogrado"
+      "Paes Landim"
     ],
     "paises": [
-      "Ucrânia",
-      "Rússia"
+      "Brasil"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/06/27/ucrania-ataque-russia.ghtml"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/28/homem-morto-a-tiros-paes-landim.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-27-saude-acre",
-    "data": "2026-06-27",
-    "titulo": "Acre registra mais de 1,6 mil casos de síndromes respiratórias",
-    "resumo": "O estado do Acre registrou mais de 1,6 mil casos de Síndrome Respiratória Aguda Grave (SRAG) até o dia 13 de junho. Crianças e idosos são os grupos mais afetados pelas doenças respiratórias na região. Os dados foram divulgados pela Secretaria de Saúde do estado.",
-    "categoria": "saude",
+    "id": "2026-06-28-protestos-albania",
+    "data": "2026-06-28",
+    "titulo": "Protestos na Albânia contra projeto de resort ligado à família Trump entram na quinta semana",
+    "resumo": "Manifestações na Albânia completaram sua quinta semana, iniciadas em maio contra um projeto de resort de luxo associado à família Trump. Os protestos evoluíram para uma crítica mais ampla ao Primeiro-Ministro Edi Rama e seu governo, abordando questões mais gerais.",
+    "categoria": "politica",
     "tags": [
-      "saúde respiratória",
-      "síndromes respiratórias",
-      "Acre",
-      "boletim epidemiológico"
+      "protestos",
+      "Albânia",
+      "resort"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Albânia"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/albania-s-flamingo-revolution-trump-linked-luxury-resort-plan-triggers-mass-protests"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-28-nevoeiro-sao-paulo",
+    "data": "2026-06-28",
+    "titulo": "São Paulo amanhece com nevoeiro neste domingo (28)",
+    "resumo": "A cidade de São Paulo registrou temperaturas baixas e redução de visibilidade neste domingo (28) com a presença de nevoeiro desde a madrugada. O fenômeno ainda era visível pela manhã em diversas regiões da capital.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "clima",
+      "São Paulo",
+      "nevoeiro"
     ],
     "entidades": [
-      "Secretaria de Saúde do Acre"
+      "Centro de Gerenciamento de Emergências (CGE)"
     ],
     "pessoas": [],
     "estados": [
-      "Acre"
+      "São Paulo"
     ],
-    "cidades": [],
+    "cidades": [
+      "São Paulo"
+    ],
     "paises": [
       "Brasil"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ac/acre/noticia/2026/06/27/acre-soma-mais-de-16-mil-casos-de-sindromes-respiratorias-criancas-e-idosos-sao-mais-afetados.ghtml"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/28/video-sao-paulo-amanhece-com-nevoeiro-neste-domingo-28-mas-sol-deve-fazer-temperatura-subir.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-27-obras-br163",
-    "data": "2026-06-27",
-    "titulo": "Dnit assina ordem de serviço para obras na BR-163 e inicia trabalhos emergenciais",
-    "resumo": "O Departamento Nacional de Infraestrutura de Transportes (Dnit) assinou a ordem de serviço para o início das obras na BR-163, entre Rurópolis e Santarém. A medida surge após dias de protestos e bloqueios na rodovia. Empresas já iniciaram trabalhos emergenciais na região.",
-    "categoria": "infraestrutura",
+    "id": "2026-06-28-assassinato-sao-jose-dos-campos",
+    "data": "2026-06-28",
+    "titulo": "Polícia identifica suspeito de matar homem a facadas em São José dos Campos",
+    "resumo": "A Polícia Civil identificou o principal suspeito de ter matado um homem de 30 anos a facadas em São José dos Campos, na Zona Sul da cidade. O crime ocorreu na noite da última quarta-feira (24). A Justiça já decretou a prisão do indivíduo.",
+    "categoria": "justica",
     "tags": [
-      "obras",
-      "rodovia",
-      "BR-163",
-      "Dnit",
-      "Pará"
+      "homicídio",
+      "investigação",
+      "prisão"
     ],
     "entidades": [
-      "Departamento Nacional de Infraestrutura de Transportes"
+      "Polícia Civil"
     ],
     "pessoas": [],
-    "estados": [],
+    "estados": [
+      "São Paulo"
+    ],
     "cidades": [
-      "Rurópolis",
-      "Santarém"
+      "São José dos Campos"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 3,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/27/dnit-assina-ordem-de-servico-para-obras-na-br-163-e-empresas-iniciam-trabalhos-emergenciais-entre-ruropolis-e-santarem.ghtml"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/28/policia-identifica-suspeito-de-matar-homem-a-facadas-em-sao-jose-dos-campos-justica-decreta-prisao.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-27-credito-consignado-clt",
-    "data": "2026-06-27",
-    "titulo": "Uso do FGTS como garantia para o Consignado CLT é regulamentado",
-    "resumo": "O Comitê Gestor das Operações de Crédito Consignado regulamentou o uso de parte do FGTS como garantia para o Consignado CLT. Essa modalidade de empréstimo permite o desconto direto no salário do trabalhador. A regulamentação visa facilitar o acesso ao crédito.",
+    "id": "2026-06-28-industria-pasta-amendoim",
+    "data": "2026-06-28",
+    "titulo": "Mãe transforma pasta de amendoim caseira em indústria com exportação para os EUA",
+    "resumo": "Após a perda do marido, Juliana Maena transformou a produção caseira de pasta de amendoim em uma indústria. Sua empresa agora exporta o produto para os Estados Unidos e mais três países. A iniciativa mudou a vida de Juliana e seus quatro filhos.",
     "categoria": "economia",
     "tags": [
-      "FGTS",
-      "crédito consignado",
-      "CLT",
-      "regulamentação",
-      "empréstimo"
+      "empreendedorismo",
+      "exportação",
+      "indústria alimentícia"
     ],
-    "entidades": [
-      "Comitê Gestor das Operações de Crédito Consignado"
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
     ],
+    "cidades": [
+      "Peruíbe"
+    ],
+    "paises": [
+      "Brasil",
+      "Estados Unidos"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/santos-regiao/culinaria-013/noticia/2026/06/28/apos-perda-do-marido-mae-transforma-pasta-de-amendoim-caseira-em-industria-que-exporta-para-os-eua-e-mais-tres-paies.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-28-copa-mundo-vars",
+    "data": "2026-06-28",
+    "titulo": "Controvérsias do VAR na fase de grupos da Copa do Mundo de 2026",
+    "resumo": "Decisões polêmicas envolvendo o VAR (Árbitro de Vídeo) na fase de grupos da Copa do Mundo de 2026 foram destacadas. Exemplos incluem o gol do Irã nos acréscimos e uma penalidade negada a Gana contra a Inglaterra.",
+    "categoria": "esportes",
+    "tags": [
+      "Copa do Mundo",
+      "VAR",
+      "futebol"
+    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
+    "paises": [
+      "Irã",
+      "Gana",
+      "Inglaterra"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "aljazeera.com",
+        "url": "https://www.aljazeera.com/sports/2026/6/28/world-cup-2026-most-controversial-var-officiating-decisions-in-group-stage?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-28-onca-foz-do-iguacu",
+    "data": "2026-06-28",
+    "titulo": "Onça-pintada é encontrada embaixo de varal de roupas em Foz do Iguaçu",
+    "resumo": "Uma onça-pintada foi encontrada escondida embaixo de um varal de roupas em uma residência na região do Gleba Guaraní, em Foz do Iguaçu, oeste do Paraná. Agentes da Polícia Militar Ambiental e pesquisadores atuaram no resgate do animal.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "fauna",
+      "onça-pintada",
+      "Paraná"
+    ],
+    "entidades": [
+      "Polícia Militar Ambiental"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Paraná"
+    ],
+    "cidades": [
+      "Foz do Iguaçu"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/06/28/onca-foz-do-iguacu.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-28-papa-venezuela",
+    "data": "2026-06-28",
+    "titulo": "Papa Leão XIV expressa solidariedade ao povo venezuelano após terremotos",
+    "resumo": "O papa Leão XIV manifestou solidariedade aos venezuelanos afetados pelos terremotos que deixaram mais de 1.400 mortos no país. Ele também agradeceu às equipes de resgate que atuam na região. As buscas pelas vítimas entram em fase crítica.",
+    "categoria": "internacional",
+    "tags": [
+      "papa",
+      "terremoto",
+      "Venezuela",
+      "solidariedade"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Papa Leão XIV"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Vaticano",
+      "Venezuela"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mundo/noticia/2026/06/28/papa-leao-xiv-expressa-solidariedade-ao-povo-venezuelano.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-28-quirac-sao-joao",
+    "data": "2026-06-28",
+    "titulo": "Quina de São João sorteará prêmio de R$ 260 milhões neste domingo",
+    "resumo": "O concurso especial 7.051 da Quina de São João, com prêmio estimado em R$ 260 milhões, será sorteado neste domingo (28), às 14h, no Centro de Tradições Nordestinas de São Paulo. O prêmio não acumula e, caso não haja ganhadores com cinco dezenas, será dividido entre os acertadores de quatro números.",
+    "categoria": "economia",
+    "tags": [
+      "loteria",
+      "sorteio",
+      "prêmio"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "agenciabrasil.ebc",
+        "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/quina-de-sao-joao-sorteia-premio-de-r-260-milhoes-neste-domingo"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-28-vitória-congo-copa",
+    "data": "2026-06-28",
+    "titulo": "República Democrática do Congo vence Uzbequistão e avança para oitavas da Copa do Mundo",
+    "resumo": "A República Democrática do Congo derrotou o Uzbequistão por 3 a 1, garantindo sua vaga na fase eliminatória da Copa do Mundo. Com esta vitória, nove das dez seleções africanas no torneio avançaram para a próxima fase.",
+    "categoria": "esportes",
+    "tags": [
+      "Copa do Mundo",
+      "futebol",
+      "República Democrática do Congo"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "República Democrática do Congo",
+      "Uzbequistão"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/dr-congo-beat-uzbekistan-and-fly-to-world-cup-round-of-32"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-28-feminicidio-mg",
+    "data": "2026-06-28",
+    "titulo": "Feminicídio de advogada e reconhecimento de padre pelo Vaticano entre destaques em Minas Gerais",
+    "resumo": "A semana em Minas Gerais foi marcada por um caso de feminicídio de uma advogada que repercutiu nacionalmente. Outras notícias de destaque incluem o reconhecimento de um padre mineiro pelo Vaticano, acidentes e uma prisão por tráfico de drogas.",
+    "categoria": "justica",
+    "tags": [
+      "feminicídio",
+      "Vaticano",
+      "Minas Gerais"
+    ],
+    "entidades": [
+      "Vaticano"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/06/28/feminicidio-de-advogada-reconhecimento-do-vaticano-a-padre-e-prisao-por-trafico-veja-as-mais-lidas.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-28-soja-mato-grosso-japao",
+    "data": "2026-06-28",
+    "titulo": "Japão comprou mais de 535 mil toneladas de soja de Mato Grosso em 2025",
+    "resumo": "O Japão adquiriu mais de 535 mil toneladas de soja e farelo de soja do estado de Mato Grosso durante o ano de 2025. A transação movimentou cerca de US$ 193,9 milhões, de acordo com dados da Secretaria de Comércio Exterior.",
+    "categoria": "economia",
+    "tags": [
+      "agronegócio",
+      "exportação",
+      "soja",
+      "Mato Grosso"
+    ],
+    "entidades": [
+      "Secretaria de Comércio Exterior (Secex)"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Mato Grosso"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil",
+      "Japão"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/06/28/brasil-x-japao-pais-asiatico-comprou-mais-de-535-mil-toneladas-de-soja-de-mato-grosso-em-2025.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-28-apresentacao-simone-mendes-campina-grande",
+    "data": "2026-06-28",
+    "titulo": "Simone Mendes se apresenta no São João de Campina Grande neste domingo (28)",
+    "resumo": "A cantora Simone Mendes é uma das atrações do São João de Campina Grande neste domingo (28). Além dela, Japãozin, Mara Pavanelly e Nicácia Brasil também se apresentam no Parque do Povo. O evento junino em Campina Grande acontece de 3 de junho a 5 de julho.",
+    "categoria": "cultura",
+    "tags": [
+      "música",
+      "São João",
+      "Campina Grande"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Simone Mendes",
+      "Japãozin",
+      "Mara Pavanelly",
+      "Nicácia Brasil"
+    ],
+    "estados": [
+      "Paraíba"
+    ],
+    "cidades": [
+      "Campina Grande"
+    ],
     "paises": [
       "Brasil"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/economia/noticia/2026/06/27/entenda-consignado-clt-credito-fgts-garantia-emprestimo.ghtml"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pb/paraiba/sao-joao/noticia/2026/06/28/sao-joao-de-campina-grande-tem-simone-mendes-e-mais-atracoes-neste-domingo-28.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-27-vagas-ibge-parana",
-    "data": "2026-06-27",
-    "titulo": "IBGE abre 606 vagas temporárias no Paraná",
-    "resumo": "O Instituto Brasileiro de Geografia e Estatística (IBGE) abriu dois processos seletivos com um total de 606 vagas temporárias no Paraná. Os profissionais atuarão nas próximas operações censitárias do Instituto. As vagas estão distribuídas em 56 cidades do estado.",
-    "categoria": "educacao",
+    "id": "2026-06-28-hortalicas-exoticas-parana",
+    "data": "2026-06-28",
+    "titulo": "Agricultora cultiva hortaliças exóticas, como couve-flor colorida, no Paraná",
+    "resumo": "No Paraná, a produtora Natielle Pereira cultiva hortaliças com características incomuns, como couve-flor colorida e tomate listrado. Ela inovou ao apresentar sua produção de hortaliças variadas online, atraindo a atenção pela diversidade.",
+    "categoria": "economia",
     "tags": [
-      "IBGE",
-      "vagas temporárias",
-      "concursos",
-      "Paraná",
-      "censo"
+      "agricultura",
+      "hortaliças",
+      "Paraná"
     ],
-    "entidades": [
-      "Instituto Brasileiro de Geografia e Estatística"
+    "entidades": [],
+    "pessoas": [
+      "Natielle Pereira"
     ],
-    "pessoas": [],
     "estados": [
       "Paraná"
     ],
@@ -219,136 +551,151 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pr/parana/concursos-e-emprego/noticia/2026/06/27/ibge-vagas-temporarias-parana.ghtml"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pr/parana/caminhos-do-campo/noticia/2026/06/28/com-couve-flor-colorida-e-tomate-listrado-agricultora-cultiva-hortalicas-exoticas-no-parana.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-27-investigacao-homem-morreu-mt",
-    "data": "2026-06-27",
-    "titulo": "Perícia busca familiares de homem que morreu em Mato Grosso",
-    "resumo": "A Perícia Oficial e Identificação Técnica (Politec) está à procura de familiares de Adriano Ramos da Silva, de 27 anos, que faleceu no dia 20 de junho em Nova Mutum, Mato Grosso. Adriano era natural do Maranhão. As autoridades buscam informações para identificar e contatar a família.",
-    "categoria": "justica",
+    "id": "2026-06-28-zelensky-e-miliband",
+    "data": "2026-06-28",
+    "titulo": "Lucy Powell considera Ed Miliband um bom nome para chanceler no Reino Unido",
+    "resumo": "A vice-líder do Partido Trabalhista, Lucy Powell, indicou que Ed Miliband seria um bom candidato para o cargo de chanceler no gabinete de Andy Burnham. Ela mencionou que o Secretário de Energia seria uma boa escolha para o Tesouro, mas classificou especulações sobre cargos como 'pouco edificantes'.",
+    "categoria": "politica",
     "tags": [
-      "identificação",
-      "perícia",
-      "falecimento",
-      "Mato Grosso",
-      "Maranhão"
+      "Reino Unido",
+      "política",
+      "Partido Trabalhista"
     ],
     "entidades": [
-      "Perícia Oficial e Identificação Técnica"
+      "Partido Trabalhista"
     ],
     "pessoas": [
-      "Adriano Ramos da Silva"
+      "Lucy Powell",
+      "Ed Miliband",
+      "Andy Burnham"
     ],
-    "estados": [
-      "Mato Grosso",
-      "Maranhão"
-    ],
-    "cidades": [
-      "Nova Mutum"
-    ],
+    "estados": [],
+    "cidades": [],
     "paises": [
-      "Brasil"
+      "Reino Unido"
     ],
-    "importancia": 2,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/06/27/pericia-procura-por-familiares-de-homem-do-ma-que-morreu-em-mt.ghtml"
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/politics/2026/jun/28/labour-lucy-powell-ed-miliband-chancellor"
       }
     ]
   },
   {
-    "id": "2026-06-27-furto-celulares-mogi",
-    "data": "2026-06-27",
-    "titulo": "Bairros de Mogi das Cruzes lideram furtos e roubos de celulares",
-    "resumo": "Os bairros Jundiapeba, Centro e Vila Oliveira em Mogi das Cruzes registraram o maior número de furtos e roubos de celulares na cidade. Os aparelhos são alvos frequentes de criminosos devido ao valor de revenda e acesso a informações bancárias. Dicas de segurança foram divulgadas.",
-    "categoria": "seguranca",
+    "id": "2026-06-28-zelensky-visita-asia-central",
+    "data": "2026-06-28",
+    "titulo": "Nova Caledônia realiza eleições cruciais para definir seu futuro",
+    "resumo": "A Nova Caledônia realiza eleições neste domingo (28) em um pleito considerado crucial para o futuro do território. A independência da França permanece como a questão política central. A votação ocorre após dois anos de planos para expandir os direitos de voto a residentes não indígenas.",
+    "categoria": "politica",
     "tags": [
-      "furto",
-      "roubo",
-      "celulares",
-      "Mogi das Cruzes",
-      "segurança pública"
+      "eleições",
+      "Nova Caledônia",
+      "independência"
     ],
     "entidades": [],
     "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Mogi das Cruzes"
-    ],
+    "estados": [],
+    "cidades": [],
     "paises": [
-      "Brasil"
+      "França"
     ],
-    "importancia": 2,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/06/27/jundiapeba-centro-e-vila-oliveira-lideram-furtos-e-roubos-de-celulares-em-mogi-das-cruzes-veja-como-se-proteger.ghtml"
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/new-caledonia-election-tests-territory-s-future-after-unrest-and-deadlock"
       }
     ]
   },
   {
-    "id": "2026-06-27-refugio-granada-arraial",
-    "data": "2026-06-27",
-    "titulo": "Granada é encontrada em praia de Arraial do Cabo durante mutirão de limpeza",
-    "resumo": "Uma granada com pino foi encontrada por voluntários durante um mutirão de limpeza na praia de Massambaba, em Arraial do Cabo. O artefato explosivo foi localizado na faixa de areia da Área de Proteção Ambiental. O objeto foi recolhido e as autoridades foram acionadas.",
-    "categoria": "seguranca",
+    "id": "2026-06-28-canjica-receita",
+    "data": "2026-06-28",
+    "titulo": "Receita de canjica cremosa com ingredientes simples para o cardápio junino",
+    "resumo": "Uma receita de canjica cremosa, também conhecida como mugunzá, é apresentada com ingredientes simples. A receita, preparada pela cozinheira Élida Veloso, é uma opção para o cardápio das festas juninas e utiliza ingredientes fáceis de encontrar.",
+    "categoria": "cultura",
     "tags": [
-      "granada",
-      "armazão explosivo",
-      "praia",
-      "Arraial do Cabo",
-      "segurança"
+      "culinária",
+      "receita",
+      "festa junina"
     ],
     "entidades": [],
-    "pessoas": [],
+    "pessoas": [
+      "Élida Veloso"
+    ],
     "estados": [
-      "Rio de Janeiro"
+      "Paraná",
+      "Bahia"
     ],
-    "cidades": [
-      "Arraial do Cabo"
-    ],
+    "cidades": [],
     "paises": [
       "Brasil"
     ],
     "importancia": 2,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/06/27/granada-e-encontrada-durante-mutirao-de-limpeza-em-praia-de-arraial-do-cabo.ghtml"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pr/parana/caminhos-do-campo/receitas-paranaenses/noticia/2026/06/28/canjica-cremosa-aprenda-a-preparar-receita-com-ingredientes-simples.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-27-prisao-subtenente-ms",
-    "data": "2026-06-27",
-    "titulo": "Subtenente suspeito de matar esposa é recapturado em Mato Grosso do Sul",
-    "resumo": "Um subtenente do Corpo de Bombeiros Militar, suspeito de matar a esposa a marteladas, foi recapturado em Campo Grande, Mato Grosso do Sul. Ele estava foragido há duas semanas após escapar de um presídio militar. A prisão ocorreu após fuga de duas semanas.",
-    "categoria": "justica",
+    "id": "2026-06-28-noticias-bahia",
+    "data": "2026-06-28",
+    "titulo": "Vídeos com as principais notícias da Bahia são divulgados",
+    "resumo": "Vídeos compilando as principais notícias ocorridas no estado da Bahia no domingo, 28 de junho de 2026, foram disponibilizados. As reportagens abrangem diversos temas de interesse local.",
+    "categoria": "politica",
     "tags": [
-      "homicídio",
-      "prisão",
-      "foragido",
-      "Mato Grosso do Sul",
-      "violência doméstica"
+      "notícias",
+      "Bahia",
+      "vídeos"
     ],
     "entidades": [
-      "Corpo de Bombeiros Militar"
+      "TV Bahia"
     ],
+    "pessoas": [],
+    "estados": [
+      "Bahia"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ba/bahia/edicao/2026/06/28/videos-do-g1-bahia-e-tv-bahia-domingo-28-de-junho-de-2026.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-28-ze-vaqueiro-campina-grande",
+    "data": "2026-06-28",
+    "titulo": "Zé Vaqueiro lota Parque do Povo em Campina Grande e celebra São João",
+    "resumo": "O cantor Zé Vaqueiro lotou o Parque do Povo em Campina Grande no sábado (27), celebrando a maratona de apresentações de São João. Ele descreveu o momento como um dos mais especiais de sua vida, apesar do tempo frio e chuvoso.",
+    "categoria": "cultura",
+    "tags": [
+      "música",
+      "São João",
+      "Campina Grande",
+      "Zé Vaqueiro"
+    ],
+    "entidades": [],
     "pessoas": [
-      "Elianderson Duarte"
+      "Zé Vaqueiro"
     ],
     "estados": [
-      "Mato Grosso do Sul"
+      "Paraíba"
     ],
     "cidades": [
-      "Campo Grande"
+      "Campina Grande"
     ],
     "paises": [
       "Brasil"
@@ -356,31 +703,29 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/27/subtenente-suspeito-de-matar-esposa-a-marteladas-e-recapturado-14-dias-apos-fugir-de-presidio-militar-em-ms.ghtml"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pb/paraiba/sao-joao/noticia/2026/06/28/ze-vaqueiro-lota-parque-do-povo-e-celebra-maratona-de-sao-joao-um-dos-mais-especiais-da-minha-vida.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-27-problemas-saude-indigenas-ro",
-    "data": "2026-06-27",
-    "titulo": "MPF denuncia falta de água e precariedade na saúde em aldeias indígenas de Rondônia",
-    "resumo": "O Ministério Público Federal (MPF) entrou com uma ação civil pública exigindo a construção de unidades de saúde e a garantia de acesso à água tratada em aldeias indígenas de Rondônia. A denúncia aponta para a precariedade dos serviços de saúde e falta de saneamento.",
-    "categoria": "justica",
+    "id": "2026-06-28-riscos-rios-tocantins",
+    "data": "2026-06-28",
+    "titulo": "Atenção aos riscos ao banhar em rios do Tocantins durante a temporada",
+    "resumo": "A temporada de praias no Tocantins exige cuidados redobrados ao frequentar rios e lagos do estado. Os riscos incluem a presença de arraias, piranhas e afogamentos. O Corpo de Bombeiros cataloga 97 atrativos de banho disponíveis na região.",
+    "categoria": "seguranca",
     "tags": [
-      "direitos humanos",
-      "saúde",
-      "indígenas",
-      "água potável",
-      "Rondônia",
-      "MPF"
+      "segurança",
+      "rios",
+      "Tocantins",
+      "riscos"
     ],
     "entidades": [
-      "Ministério Público Federal"
+      "Corpo de Bombeiros"
     ],
     "pessoas": [],
     "estados": [
-      "Rondônia"
+      "Tocantins"
     ],
     "cidades": [],
     "paises": [
@@ -389,552 +734,95 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ro/rondonia/noticia/2026/06/27/mpf-denuncia-falta-de-agua-tratada-e-precariedade-na-saude-em-aldeias-indigenas-de-ro-entenda.ghtml"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/28/arraias-piranhas-e-afogamento-veja-os-riscos-e-como-se-proteger-ao-banhar-em-rios-do-to.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-27-universidades-uk",
-    "data": "2026-06-27",
-    "titulo": "Estudantes do Reino Unido enfrentam dificuldades financeiras e moram com os pais",
-    "resumo": "Estudantes universitários no Reino Unido, especialmente os de origem mais humilde, estão sendo forçados a morar com seus pais devido a dificuldades financeiras. Preocupações com dinheiro limitam as opções e o acesso a eventos e atividades universitárias.",
-    "categoria": "educacao",
+    "id": "2026-06-28-vučić-sérvia",
+    "data": "2026-06-28",
+    "titulo": "Presidente da Sérvia, Aleksandar Vučić, anuncia renúncia e abre caminho para novas eleições",
+    "resumo": "O presidente da Sérvia, Aleksandar Vučić, anunciou que renunciará em poucas semanas, permitindo a convocação de eleições antecipadas. A decisão ocorre em meio a tensões políticas no país. Há especulações de que Vučić possa assumir um cargo de maior poder como Primeiro-Ministro.",
+    "categoria": "politica",
     "tags": [
-      "educação superior",
-      "dificuldade financeira",
-      "estudantes",
-      "Reino Unido",
-      "moradia"
+      "Sérvia",
+      "política",
+      "eleições"
     ],
-    "entidades": [
-      "University College London"
+    "entidades": [],
+    "pessoas": [
+      "Aleksandar Vučić"
     ],
-    "pessoas": [],
     "estados": [],
-    "cidades": [
-      "Londres"
-    ],
+    "cidades": [],
     "paises": [
-      "Reino Unido"
+      "Sérvia"
     ],
-    "importancia": 2,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/education/2026/jun/27/uk-university-students-forced-to-live-at-home"
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/video/20260628-serbia-s-vu%C4%8Di%C4%87-to-resign-opening-path-to-early-elections-amid-political-tensions"
       }
     ]
   },
   {
-    "id": "2026-06-27-plot-trump",
-    "data": "2026-06-27",
-    "titulo": "Plano para assassinar Trump em evento do UFC é exposto",
-    "resumo": "Documentos judiciais revelam um plano de extrema-direita para assassinar o ex-presidente Donald Trump durante um evento do UFC. Os suspeitos se conectaram através de aplicativos de mensagens criptografadas e redes sociais. O plano envolvia um ataque no local do evento.",
+    "id": "2026-06-28-luta-lds-podcaster",
+    "data": "2026-06-28",
+    "titulo": "Igreja Mórmon processa podcaster em disputa pelo nome 'Mormon'",
+    "resumo": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias (Igreja Mórmon) entrou com um processo contra um ex-membro, John Dehlin, por uso indevido do nome 'Mormon Stories' em seu podcast. Dehlin argumenta que o nome é de uso livre. A disputa envolve mudanças de marca e direitos autorais.",
     "categoria": "justica",
     "tags": [
-      "plot",
-      "assassinato",
-      "Donald Trump",
-      "UFC",
-      "extrema-direita"
+      "religião",
+      "processo judicial",
+      "propriedade intelectual"
     ],
     "entidades": [
-      "UFC"
+      "Igreja de Jesus Cristo dos Santos dos Últimos Dias"
     ],
     "pessoas": [
-      "Donald Trump",
-      "Tycen Proper"
+      "John Dehlin"
     ],
     "estados": [],
     "cidades": [],
     "paises": [
       "Estados Unidos"
     ],
-    "importancia": 3,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/2026/jun/27/trump-assassination-plot-ufc-fight-tycen-proper"
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jun/28/lds-church-mormon-lawsuit"
       }
     ]
   },
   {
-    "id": "2026-06-27-lula-hospital-ufsj",
-    "data": "2026-06-27",
-    "titulo": "Lula inaugura Hospital Universitário da UFSJ",
-    "resumo": "O presidente Luiz Inácio Lula da Silva inaugurou o Hospital Universitário da Universidade Federal de São João del-Rei (UFSJ). A inauguração faz parte da agenda de destaque da semana em Minas Gerais. O evento reforça investimentos na área da saúde e educação.",
-    "categoria": "politica",
-    "tags": [
-      "inauguração",
-      "hospital universitário",
-      "Lula",
-      "UFSJ",
-      "Minas Gerais"
-    ],
-    "entidades": [
-      "Universidade Federal de São João del-Rei"
-    ],
-    "pessoas": [
-      "Lula"
-    ],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "São João del-Rei"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/06/27/voce-viu-lula-inaugura-hospital-universitario-da-ufsj-ciclista-morre-atropelado-na-br-494-e-policia-apreende-carro-com-porta-malas-lotado-de-fios-de-cobre.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-27-artistas-copa-mundo",
-    "data": "2026-06-27",
-    "titulo": "Arrascaeta, Piquerez e Emi Martínez encerram Copa sem jogar",
-    "resumo": "Os jogadores Arrascaeta, Piquerez e Emi Martínez não entraram em campo em nenhuma partida da Copa do Mundo. A eliminação da seleção uruguaia após derrota para a Espanha marcou o fim da participação destes atletas no torneio sem terem atuado.",
+    "id": "2026-06-28-selecao-ira-copa",
+    "data": "2026-06-28",
+    "titulo": "Seleção do Irã é questionada sobre azar na Copa do Mundo",
+    "resumo": "A participação da seleção do Irã na Copa do Mundo de 2026 levanta questionamentos sobre seu nível de 'azar'. O grupo G da competição viu o Irã empatar com o Egito, enquanto a Bélgica goleou e eliminou a Nova Zelândia. A matéria explora histórias de azar e injustiças em Copas.",
     "categoria": "esportes",
     "tags": [
       "Copa do Mundo",
       "futebol",
-      "Uruguai",
-      "Espanha",
-      "jogadores"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Arrascaeta",
-      "Piquerez",
-      "Emi Martínez"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Uruguai",
-      "Espanha"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/arrascaeta-piquerez-e-emi-martinez-encerram-a-copa-sem-entrar-em-campo/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-27-neymar-japao",
-    "data": "2026-06-27",
-    "titulo": "Japão é maior vítima de Neymar pela Seleção Brasileira",
-    "resumo": "O Japão se tornou o adversário mais frequente e com maior número de gols marcados por Neymar pela Seleção Brasileira de futebol. O atacante marcou nove gols contra os japoneses. Ambos os times voltam a se enfrentar na segunda fase da Copa do Mundo.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "Neymar",
-      "Seleção Brasileira",
-      "Japão",
-      "estatísticas",
-      "Copa do Mundo"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Neymar"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil",
-      "Japão"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/japao-e-a-maior-vitima-de-neymar-pela-selecao-brasileira-veja-os-numeros/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-27-gastronomia-toscana",
-    "data": "2026-06-27",
-    "titulo": "Entenda a diferença entre Chianti e Brunello, vinhos da Toscana",
-    "resumo": "Os vinhos Chianti e Brunello, ambos da região da Toscana, na Itália, são produzidos a partir da uva Sangiovese. Apesar da origem comum, apresentam diferenças significativas em suas características e processos de produção. A matéria explora as particularidades de cada um.",
-    "categoria": "cultura",
-    "tags": [
-      "gastronomia",
-      "vinho",
-      "Toscana",
-      "Chianti",
-      "Brunello",
-      "Itália"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Toscana"
-    ],
-    "cidades": [],
-    "paises": [
-      "Itália"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pr/parana/especial-publicitario/porto-a-porto/guia-do-vinho-e-da-gastronomia/noticia/2026/06/27/vinhos-da-toscana-qual-e-a-diferenca-entre-chianti-e-brunello.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-27-moda-emocoes",
-    "data": "2026-06-27",
-    "titulo": "Relação entre emoções e a forma como nos vestimos é explorada",
-    "resumo": "Uma análise explora a conexão entre o estado emocional das pessoas e suas escolhas de vestuário no dia a dia. Algumas decisões de moda são automáticas, enquanto outras envolvem reflexão sobre cores e modelos. A matéria discute como as roupas podem refletir ou influenciar o humor.",
-    "categoria": "cultura",
-    "tags": [
-      "moda",
-      "comportamento",
-      "psicologia",
-      "vestuário",
-      "emoções"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Paraná"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pr/parana/especial-publicitario/recco-guia-de-moda-e-bem-estar/noticia/2026/06/27/entenda-a-relacao-entre-emocoes-e-a-maneira-como-nos-vestimos.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-27-festas-juninas-santos",
-    "data": "2026-06-27",
-    "titulo": "Santos celebra festas juninas com programação diversificada",
-    "resumo": "A cidade de Santos, no litoral de São Paulo, está sediando diversas festas juninas neste fim de semana. A programação inclui quadrilhas, apresentações culturais, música ao vivo e feiras criativas. Eventos como o Arraiá dos Ingleses e Caiçara oferecem atividades para toda a família.",
-    "categoria": "cultura",
-    "tags": [
-      "festas juninas",
-      "cultura",
-      "eventos",
-      "Santos",
-      "São Paulo"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Santos"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/santos-regiao/o-que-fazer-em-santos/noticia/2026/06/27/arraias-quadrilhas-e-comidas-tipicas-veja-a-programacao-das-festas-juninas-em-santos.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-27-praias-improprias-natal",
-    "data": "2026-06-27",
-    "titulo": "Seis trechos de praias da Grande Natal estão impróprios para banho",
-    "resumo": "O litoral da Grande Natal apresenta seis trechos de praias e rios impróprios para banho neste fim de semana. A informação consta no boletim de balneabilidade divulgado pelo Instituto de Desenvolvimento Sustentável e Meio Ambiente. A Praia do Meio está entre os locais afetados.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "balneabilidade",
-      "praias",
-      "meio ambiente",
-      "Natal",
-      "Rio Grande do Norte"
-    ],
-    "entidades": [
-      "Instituto de Desenvolvimento Sustentável e Meio Ambiente"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Rio Grande do Norte"
-    ],
-    "cidades": [
-      "Natal"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/06/27/grande-natal-tem-seis-trechos-improprios-para-banho-neste-fim-de-semana.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-27-animais-cuiaba",
-    "data": "2026-06-27",
-    "titulo": "Cena rara de cutia comendo rolinha-roxa é filmada em Cuiabá",
-    "resumo": "Um vídeo capturou uma cena incomum de uma cutia se alimentando de uma rolinha-roxa no campus da Universidade Federal de Mato Grosso, em Cuiabá. O registro foi feito por um biólogo e destaca a interação entre espécies na fauna local. O comportamento alimentar é considerado raro.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "fauna",
-      "animais",
-      "cutia",
-      "rolinha-roxa",
-      "Cuiabá",
-      "biologia"
-    ],
-    "entidades": [
-      "Universidade Federal de Mato Grosso"
-    ],
-    "pessoas": [
-      "Pablo Edini"
-    ],
-    "estados": [
-      "Mato Grosso"
-    ],
-    "cidades": [
-      "Cuiabá"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/06/27/video-mostra-cena-rara-de-cutia-comendo-rolinha-roxa-em-cuiaba.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-27-fraudes-myanmar",
-    "data": "2026-06-27",
-    "titulo": "Reportagem investiga sindicatos de golpes em Mianmar",
-    "resumo": "Uma reportagem investigativa expõe o funcionamento de sindicatos de golpes em Mianmar, que operam através de esquemas fraudulentos. A investigação utilizou métodos de infiltração para desvendar as táticas e operações dessas organizações criminosas.",
-    "categoria": "justica",
-    "tags": [
-      "investigação",
-      "fraudes",
-      "golpes",
-      "Mianmar",
-      "crime organizado"
+      "Irã"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Mianmar"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/101-east/2026/6/27/exclusive-infiltrating-myanmars-scam-syndicates?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-27-exames-gaza",
-    "data": "2026-06-27",
-    "titulo": "Estudantes em Gaza enfrentam desafios para realizar exames",
-    "resumo": "Estudantes na Faixa de Gaza estão realizando exames de ensino médio em condições precárias, muitas vezes morando em tendas e enfrentando a falta de escolas. Uma estudante precisa caminhar uma hora diariamente para chegar a um café onde pode fazer suas provas.",
-    "categoria": "educacao",
-    "tags": [
-      "educação",
-      "Gaza",
-      "exames",
-      "conflito",
-      "estudantes"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Dana Shabat"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Palestina"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/features/2026/6/27/no-school-living-in-a-tent-but-its-exam-time-in-gaza-generate?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-27-justica-bebe-violada",
-    "data": "2026-06-27",
-    "titulo": "Família aguarda justiça oito anos após estupro de bebê",
-    "resumo": "Uma família em Delhi, na Índia, continua aguardando justiça oito anos após o estupro de um bebê. O caso está travado no sistema legal, e a família enfrenta dificuldades em proteger a criança. As tensões familiares e a demora do processo legal são obstáculos significativos.",
-    "categoria": "justica",
-    "tags": [
-      "justiça",
-      "estupro",
-      "infantil",
-      "Índia",
-      "Delhi",
-      "processo legal"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Delhi"
-    ],
-    "paises": [
-      "Índia"
+      "Irã",
+      "Egito",
+      "Bélgica",
+      "Nova Zelândia"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/features/longform/2026/6/27/childhood-interrupted-family-awaits-justice-8-years-after-baby-was-raped?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-27-jornalista-morre",
-    "data": "2026-06-27",
-    "titulo": "Jornalista David Hencke, que expôs escândalo 'cash-for-questions', morre aos 79 anos",
-    "resumo": "O renomado jornalista David Hencke, conhecido por expor o escândalo 'cash-for-questions' na política britânica nos anos 90, faleceu aos 79 anos. Sua carreira no The Guardian durou mais de três décadas, onde se destacou por investigar irregularidades políticas.",
-    "categoria": "cultura",
-    "tags": [
-      "jornalismo",
-      "escândalo",
-      "política",
-      "Reino Unido",
-      "The Guardian"
-    ],
-    "entidades": [
-      "The Guardian"
-    ],
-    "pessoas": [
-      "David Hencke"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/media/2026/jun/27/david-hencke-guardian-journalist-dies"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-27-compra-boeing-china",
-    "data": "2026-06-27",
-    "titulo": "China Southern compra 7 cargueiros da Boeing por US$ 3,6 bilhões",
-    "resumo": "A China Southern anunciou a compra de sete cargueiros Boeing, em um negócio avaliado em pelo menos US$ 3,6 bilhões. A aquisição visa atender à crescente demanda no transporte aéreo de cargas, impulsionada pelo comércio eletrônico e por iniciativas estratégicas chinesas.",
-    "categoria": "economia",
-    "tags": [
-      "aviação",
-      "cargueiros",
-      "Boeing",
-      "China Southern",
-      "comércio eletrônico"
-    ],
-    "entidades": [
-      "China Southern",
-      "Boeing"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "China"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/infra/china-southern-compra-7-cargueiros-da-boeing-por-ao-menos-us-36-bi/"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-27-bandeiras-conselho",
-    "data": "2026-06-27",
-    "titulo": "Conselho vence caso judicial sobre exibição de bandeiras inglesas",
-    "resumo": "Um conselho local em Oxfordshire, no Reino Unido, venceu um caso judicial relacionado à exibição de bandeiras inglesas em postes de iluminação. O líder do conselho enfrentou críticas pela decisão de manter um 'espaço neutro e seguro para os residentes'.",
-    "categoria": "politica",
-    "tags": [
-      "política local",
-      "bandeiras",
-      "Inglaterra",
-      "Oxfordshire",
-      "decisão judicial"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Oxfordshire"
-    ],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/27/oxfordshire-council-high-court-injunction-raise-the-colours-nationalist-flags"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-27-lotomania-ceara",
-    "data": "2026-06-27",
-    "titulo": "Aposta do Ceará ganha R$ 62 mil na Lotomania",
-    "resumo": "Uma aposta realizada em Fortaleza, Ceará, acertou 19 números no concurso 2942 da Lotomania, garantindo um prêmio de R$ 62.270,37. Outros três apostadores em diferentes cidades também obtiveram o mesmo resultado. O jogo vencedor foi feito na capital cearense.",
-    "categoria": "economia",
-    "tags": [
-      "loteria",
-      "prêmio",
-      "Lotomania",
-      "Ceará",
-      "Fortaleza"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Ceará"
-    ],
-    "cidades": [
-      "Fortaleza"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ce/ceara/noticia/2026/06/27/aposta-do-ceara-acerta-19-numeros-e-ganha-r-62-mil-na-lotomania.ghtml"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mundo/noticia/2026/06/28/o-ira-e-a-selecao-mais-azarada-da-copa-do-mundo.ghtml"
       }
     ]
   }
