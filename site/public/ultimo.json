@@ -1,337 +1,145 @@
 [
   {
-    "id": "2026-06-28-queda-aviao-franca",
-    "data": "2026-06-28",
-    "titulo": "Acidente de avião deixa 11 mortos na França",
-    "resumo": "Um avião pertencente a uma escola de paraquedismo caiu na cidade de Tomblaine, no nordeste da França, neste domingo (28). Onze pessoas morreram na queda, incluindo o piloto, cinco alunos e cinco instrutores. O Ministério do Interior da França está acompanhando a situação.",
-    "categoria": "internacional",
-    "tags": [
-      "acidente aéreo",
-      "França",
-      "paraquedismo"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Tomblaine"
-    ],
-    "paises": [
-      "França"
-    ],
-    "importancia": 5,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mundo/noticia/2026/06/28/acidente-com-aviao-franca-diz-agencia.ghtml"
-      },
-      {
-        "nome": "cnnbrasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/queda-de-aviao-na-franca-deixa-mortos/"
-      },
-      {
-        "nome": "aljazeera.com",
-        "url": "https://www.aljazeera.com/news/2026/6/28/at-least-11-dead-in-civilian-plane-crash-in-eastern-france-authorities?traffic_source=rss"
-      },
-      {
-        "nome": "rss.dw.com",
-        "url": "https://www.dw.com/en/france-11-killed-in-civilian-plane-crash/a-77743392?maca=en-rss-en-all-1573-rdf"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-28-sao-joao-campina-grande",
-    "data": "2026-06-28",
-    "titulo": "Turista australiana celebra aniversário no São João de Campina Grande e viraliza",
-    "resumo": "Uma turista australiana chamada Alicia Stamford celebrou seu aniversário de 40 anos durante os festejos juninos em Campina Grande, Paraíba. Sua comemoração viralizou nas redes sociais, com ela descrevendo o momento como a 'melhor noite da minha vida'.",
-    "categoria": "cultura",
-    "tags": [
-      "festas juninas",
-      "turismo",
-      "viral"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Paraíba"
-    ],
-    "cidades": [
-      "Campina Grande"
-    ],
-    "paises": [
-      "Austrália",
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pb/paraiba/sao-joao/noticia/2026/06/28/turista-australiana-comemora-40-anos-no-sao-joao-de-campina-grande-e-viraliza-video.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-28-homenagem-acre-minas",
-    "data": "2026-06-28",
-    "titulo": "Acre é homenageado por artista de Minas Gerais com ilustração inspirada em Chico Mendes",
-    "resumo": "O estado do Acre foi homenageado por um ilustrador mineiro de 25 anos, Bernardo Barbosa. O artista criou um personagem chamado Chico, inspirado na história e cultura acreana, especialmente em Chico Mendes, como parte de um projeto sobre o Panteão Brasileiro.",
-    "categoria": "cultura",
-    "tags": [
-      "arte",
-      "homenagem",
-      "Chico Mendes"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Chico Mendes",
-      "Bernardo Barbosa"
-    ],
-    "estados": [
-      "Acre",
-      "Minas Gerais"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/ac/acre/noticia/2026/06/28/com-ilustracao-inspirada-em-chico-mendes-acre-e-homenageado-por-artista-de-minas-gerais.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-28-ataques-eua-ira",
-    "data": "2026-06-28",
-    "titulo": "Novos ataques entre EUA e Irã ameaçam cessar-fogo",
-    "resumo": "A Guarda Revolucionária do Irã lançou ataques contra o Bahrein e o Kuwait em resposta a ataques aéreos dos EUA contra 10 locais iranianos. A República Islâmica ameaçou parar completamente as negociações de paz se os ataques americanos continuarem. Esforços para reabrir o Estreito de Ormuz estão em curso.",
-    "categoria": "internacional",
-    "tags": [
-      "conflito",
-      "Oriente Médio",
-      "ceçar-fogo"
-    ],
-    "entidades": [
-      "Guarda Revolucionária do Irã"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos",
-      "Irã",
-      "Bahrein",
-      "Kuwait"
-    ],
-    "importancia": 5,
-    "fontes": [
-      {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/en/new-us-iran-exchange-of-attacks-threatens-ceasefire"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-28-violencia-piaui",
-    "data": "2026-06-28",
-    "titulo": "Homem é morto a tiros em praça durante festa junina no Sul do Piauí; suspeito é preso",
-    "resumo": "Um homem identificado como Bruno foi morto a tiros na praça central de Paes Landim, no Sul do Piauí, durante um festival junino. O evento promovido pela prefeitura foi cancelado após o crime. O suspeito foi localizado e preso pelas autoridades.",
-    "categoria": "seguranca",
-    "tags": [
-      "violência",
-      "homicídio",
-      "festa junina"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Piauí"
-    ],
-    "cidades": [
-      "Paes Landim"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/28/homem-morto-a-tiros-paes-landim.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-28-protestos-albania",
-    "data": "2026-06-28",
-    "titulo": "Protestos na Albânia contra projeto de resort ligado à família Trump entram na quinta semana",
-    "resumo": "Manifestações na Albânia completaram sua quinta semana, iniciadas em maio contra um projeto de resort de luxo associado à família Trump. Os protestos evoluíram para uma crítica mais ampla ao Primeiro-Ministro Edi Rama e seu governo, abordando questões mais gerais.",
-    "categoria": "politica",
-    "tags": [
-      "protestos",
-      "Albânia",
-      "resort"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Albânia"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/en/albania-s-flamingo-revolution-trump-linked-luxury-resort-plan-triggers-mass-protests"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-28-nevoeiro-sao-paulo",
-    "data": "2026-06-28",
-    "titulo": "São Paulo amanhece com nevoeiro neste domingo (28)",
-    "resumo": "A cidade de São Paulo registrou temperaturas baixas e redução de visibilidade neste domingo (28) com a presença de nevoeiro desde a madrugada. O fenômeno ainda era visível pela manhã em diversas regiões da capital.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "clima",
-      "São Paulo",
-      "nevoeiro"
-    ],
-    "entidades": [
-      "Centro de Gerenciamento de Emergências (CGE)"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "São Paulo"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/28/video-sao-paulo-amanhece-com-nevoeiro-neste-domingo-28-mas-sol-deve-fazer-temperatura-subir.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-28-assassinato-sao-jose-dos-campos",
-    "data": "2026-06-28",
-    "titulo": "Polícia identifica suspeito de matar homem a facadas em São José dos Campos",
-    "resumo": "A Polícia Civil identificou o principal suspeito de ter matado um homem de 30 anos a facadas em São José dos Campos, na Zona Sul da cidade. O crime ocorreu na noite da última quarta-feira (24). A Justiça já decretou a prisão do indivíduo.",
+    "id": "2026-06-29-suprema-corte-eua-trump",
+    "data": "2026-06-29",
+    "titulo": "Suprema Corte dos EUA toma decisões sobre casos envolvendo Donald Trump e eleições",
+    "resumo": "A Suprema Corte dos Estados Unidos rejeitou o recurso de Donald Trump no caso de abuso sexual de E. Jean Carroll, mantendo a obrigação de pagamento de indenização. Em outra decisão, a corte permitiu que o presidente demita líderes de agências independentes, mas considerou ilegal a demissão de Lisa Cook, governadora do Federal Reserve.  A corte também deu flexibilidade aos estados para contarem votos por correio recebidos após o dia da eleição.",
     "categoria": "justica",
     "tags": [
-      "homicídio",
-      "investigação",
-      "prisão"
+      "suprema corte",
+      "donald trump",
+      "eleições",
+      "federal reserve",
+      "e. jean carroll"
     ],
     "entidades": [
-      "Polícia Civil"
+      "Suprema Corte dos Estados Unidos",
+      "Federal Reserve",
+      "Agências independentes"
     ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
+    "pessoas": [
+      "Donald Trump",
+      "E. Jean Carroll",
+      "Lisa Cook"
     ],
+    "estados": [],
     "cidades": [
-      "São José dos Campos"
+      "Filadélfia"
     ],
     "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/28/policia-identifica-suspeito-de-matar-homem-a-facadas-em-sao-jose-dos-campos-justica-decreta-prisao.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-28-industria-pasta-amendoim",
-    "data": "2026-06-28",
-    "titulo": "Mãe transforma pasta de amendoim caseira em indústria com exportação para os EUA",
-    "resumo": "Após a perda do marido, Juliana Maena transformou a produção caseira de pasta de amendoim em uma indústria. Sua empresa agora exporta o produto para os Estados Unidos e mais três países. A iniciativa mudou a vida de Juliana e seus quatro filhos.",
-    "categoria": "economia",
-    "tags": [
-      "empreendedorismo",
-      "exportação",
-      "indústria alimentícia"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Peruíbe"
-    ],
-    "paises": [
-      "Brasil",
       "Estados Unidos"
     ],
-    "importancia": 4,
+    "importancia": 5,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/santos-regiao/culinaria-013/noticia/2026/06/28/apos-perda-do-marido-mae-transforma-pasta-de-amendoim-caseira-em-industria-que-exporta-para-os-eua-e-mais-tres-paies.ghtml"
+        "nome": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/live/2026/jun/29/supreme-court-donald-trump-administration-us-politics-latest-news-updates"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/jun/29/us-supreme-court-ftc-ruling-slaughter"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mundo/noticia/2026/06/29/derrota-trump-suprema-corte-eua-da-flexibilidade-estados-votos-correio-midterms.ghtml"
+      },
+      {
+        "nome": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss"
       }
     ]
   },
   {
-    "id": "2026-06-28-copa-mundo-vars",
-    "data": "2026-06-28",
-    "titulo": "Controvérsias do VAR na fase de grupos da Copa do Mundo de 2026",
-    "resumo": "Decisões polêmicas envolvendo o VAR (Árbitro de Vídeo) na fase de grupos da Copa do Mundo de 2026 foram destacadas. Exemplos incluem o gol do Irã nos acréscimos e uma penalidade negada a Gana contra a Inglaterra.",
-    "categoria": "esportes",
+    "id": "2026-06-29-onda-de-calor-europa",
+    "data": "2026-06-29",
+    "titulo": "Onda de calor na Europa expõe desafios de saúde pública e debate sobre ar condicionado",
+    "resumo": "A Europa enfrenta uma onda de calor que expõe a fragilidade dos sistemas de saúde, que aprenderam lições da onda de calor de 2003. Hospitais franceses demonstram maior preparo, mas a tensão entre clima em aquecimento e infraestrutura de saúde persiste. A União Europeia declarou que não tomará partido no debate sobre o uso de ar condicionado, mesmo com as temperaturas recordes.",
+    "categoria": "saude",
     "tags": [
-      "Copa do Mundo",
-      "VAR",
-      "futebol"
+      "onda de calor",
+      "saúde pública",
+      "ar condicionado",
+      "mudanças climáticas"
+    ],
+    "entidades": [
+      "União Europeia"
+    ],
+    "pessoas": [
+      "Nadia Massih",
+      "Antoine Flahault"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "França",
+      "União Europeia"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "France24",
+        "url": "https://www.france24.com/en/french-hospitals-better-prepared-important-lessons-learned-from-deadly-2003-heatwave"
+      },
+      {
+        "nome": "France24",
+        "url": "https://www.france24.com/en/europe/20260629-eu-refuses-to-take-side-for-or-against-air-conditioning-amid-record-breaking-heatwave"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-29-violencia-alem",
+    "data": "2026-06-29",
+    "titulo": "Atirador mata cinco em centro de bem-estar juvenil na Alemanha",
+    "resumo": "Um tiroteio em um centro de bem-estar juvenil no norte da Alemanha resultou na morte de cinco pessoas. A polícia informou que duas pessoas foram presas, uma delas sendo o suspeito de ter realizado o ataque. As investigações estão em andamento para determinar as circunstâncias do ocorrido.",
+    "categoria": "seguranca",
+    "tags": [
+      "tiroteio",
+      "violência",
+      "aleamanha",
+      "centro juvenil"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Irã",
-      "Gana",
-      "Inglaterra"
+      "Alemanha"
     ],
-    "importancia": 3,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "aljazeera.com",
-        "url": "https://www.aljazeera.com/sports/2026/6/28/world-cup-2026-most-controversial-var-officiating-decisions-in-group-stage?traffic_source=rss"
+        "nome": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss"
       }
     ]
   },
   {
-    "id": "2026-06-28-onca-foz-do-iguacu",
-    "data": "2026-06-28",
-    "titulo": "Onça-pintada é encontrada embaixo de varal de roupas em Foz do Iguaçu",
-    "resumo": "Uma onça-pintada foi encontrada escondida embaixo de um varal de roupas em uma residência na região do Gleba Guaraní, em Foz do Iguaçu, oeste do Paraná. Agentes da Polícia Militar Ambiental e pesquisadores atuaram no resgate do animal.",
-    "categoria": "meio-ambiente",
+    "id": "2026-06-29-violencia-brasil",
+    "data": "2026-06-29",
+    "titulo": "Casos de feminicídio e violência doméstica são registrados em Minas Gerais e São Paulo",
+    "resumo": "Uma estudante de medicina foi morta a facadas em Barbacena (MG), com seu namorado preso como principal suspeito. Em Lambari (MG), uma professora de 63 anos foi encontrada morta em casa, e seu filho foi preso. Em Cabreúva (SP), um secretário municipal foi preso suspeito de agredir a companheira. Um homem foi preso após atirar no namorado da ex-companheira em Ipatinga (MG).",
+    "categoria": "seguranca",
     "tags": [
-      "fauna",
-      "onça-pintada",
-      "Paraná"
+      "feminicídio",
+      "violência doméstica",
+      "homicídio",
+      "prisão"
     ],
-    "entidades": [
-      "Polícia Militar Ambiental"
-    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [
-      "Paraná"
+      "Minas Gerais",
+      "São Paulo"
     ],
     "cidades": [
-      "Foz do Iguaçu"
+      "Barbacena",
+      "Lambari",
+      "Cabreúva",
+      "Ipatinga"
     ],
     "paises": [
       "Brasil"
@@ -339,490 +147,324 @@
     "importancia": 4,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/06/28/onca-foz-do-iguacu.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-28-papa-venezuela",
-    "data": "2026-06-28",
-    "titulo": "Papa Leão XIV expressa solidariedade ao povo venezuelano após terremotos",
-    "resumo": "O papa Leão XIV manifestou solidariedade aos venezuelanos afetados pelos terremotos que deixaram mais de 1.400 mortos no país. Ele também agradeceu às equipes de resgate que atuam na região. As buscas pelas vítimas entram em fase crítica.",
-    "categoria": "internacional",
-    "tags": [
-      "papa",
-      "terremoto",
-      "Venezuela",
-      "solidariedade"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Papa Leão XIV"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Vaticano",
-      "Venezuela"
-    ],
-    "importancia": 4,
-    "fontes": [
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/06/29/estudante-de-medicina-foi-morta-com-mais-de-100-facadas-em-barbacena-segundo-pericia-namorado-esta-preso-suspeito-do-crime.ghtml"
+      },
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mundo/noticia/2026/06/28/papa-leao-xiv-expressa-solidariedade-ao-povo-venezuelano.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/06/29/mulher-e-encontrada-morta-em-lambari-mg-filho-e-preso-suspeito.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/29/prisao-secretario-cabreuva.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/06/29/homem-tenta-atirar-na-ex-atinge-o-namorado-dela-e-acaba-preso-apos-perseguicao-em-mg.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-28-quirac-sao-joao",
-    "data": "2026-06-28",
-    "titulo": "Quina de São João sorteará prêmio de R$ 260 milhões neste domingo",
-    "resumo": "O concurso especial 7.051 da Quina de São João, com prêmio estimado em R$ 260 milhões, será sorteado neste domingo (28), às 14h, no Centro de Tradições Nordestinas de São Paulo. O prêmio não acumula e, caso não haja ganhadores com cinco dezenas, será dividido entre os acertadores de quatro números.",
-    "categoria": "economia",
+    "id": "2026-06-29-acidentes-transito-brasil",
+    "data": "2026-06-29",
+    "titulo": "Acidentes de trânsito deixam mortos e feridos em rodovias de SP e TO",
+    "resumo": "Um acidente envolvendo um ônibus e um bitrem na Rodovia Castello Branco (SP-280), em Porangaba (SP), deixou um motorista gravemente ferido. Em Ituverava (SP), um motociclista foi resgatado após passar dois dias em uma vala após um acidente. Um acidente entre carro e caminhonete na TO-222, em Aragominas (TO), resultou em uma morte e quatro feridos.",
+    "categoria": "seguranca",
     "tags": [
-      "loteria",
-      "sorteio",
-      "prêmio"
+      "acidente de trânsito",
+      "rodovia",
+      "feridos",
+      "mortes"
     ],
     "entidades": [],
     "pessoas": [],
+    "estados": [
+      "São Paulo",
+      "Tocantins"
+    ],
+    "cidades": [
+      "Porangaba",
+      "Ituverava",
+      "Aragominas"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/06/29/batida-entre-onibus-e-bitrem-deixa-motorista-gravemente-ferido-na-sp-280-em-porangaba.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/06/29/motociclista-passa-2-dias-em-vala-apos-acidente-e-e-salvo-por-ciclista-em-ituverava-sp.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/29/acidente-deixa-um-morto-e-feridos-em-rodovia-do-tocantins.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-29-visa-futuro-tecnologia",
+    "data": "2026-06-29",
+    "titulo": "Dimas Fausto defende tecnologia aliada à humanidade e visão de futuro no empreendedorismo",
+    "resumo": "Dimas Fausto, presidente da Dimastec, defende que a melhor tecnologia é aquela que aproxima pessoas e simplifica rotinas. Ele acredita que empreender envolve identificar necessidades de mercado e que a inovação vem da escuta atenta. Fausto ressalta a importância da tecnologia estar alinhada com o ser humano e não o afastar do processo.",
+    "categoria": "economia",
+    "tags": [
+      "tecnologia",
+      "empreendedorismo",
+      "inovação",
+      "visão de futuro"
+    ],
+    "entidades": [
+      "Dimastec"
+    ],
+    "pessoas": [
+      "Dimas Fausto"
+    ],
     "estados": [
       "São Paulo"
     ],
-    "cidades": [],
+    "cidades": [
+      "Ribeirão Preto",
+      "Franca"
+    ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 4,
+    "importancia": 3,
     "fontes": [
       {
-        "nome": "agenciabrasil.ebc",
-        "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/quina-de-sao-joao-sorteia-premio-de-r-260-milhoes-neste-domingo"
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/especial-publicitario/mydhas-dimastec-mydhas-conecta-pessoas-e-resultados-em-tempo-real/noticia/2026/06/29/dimas-fausto-defende-a-tecnologia-aliada-a-humanidade.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/especial-publicitario/mydhas-dimastec-mydhas-conecta-pessoas-e-resultados-em-tempo-real/noticia/2026/06/29/dimas-fausto-fala-sobre-empreendedorismo-e-visao-de-futuro.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-28-vitória-congo-copa",
-    "data": "2026-06-28",
-    "titulo": "República Democrática do Congo vence Uzbequistão e avança para oitavas da Copa do Mundo",
-    "resumo": "A República Democrática do Congo derrotou o Uzbequistão por 3 a 1, garantindo sua vaga na fase eliminatória da Copa do Mundo. Com esta vitória, nove das dez seleções africanas no torneio avançaram para a próxima fase.",
-    "categoria": "esportes",
+    "id": "2026-06-29-taxa-alfandegaria-ue",
+    "data": "2026-06-29",
+    "titulo": "União Europeia introduz taxa de 3 euros em pequenas encomendas para conter importações chinesas",
+    "resumo": "A União Europeia introduziu uma taxa alfandegária de 3 euros para pacotes de mercadorias com valor inferior a 150 euros. A medida visa conter a entrada de produtos baratos de importação, especialmente da China, e evitar a \"desertificação\" das ruas comerciais europeias. Plataformas como Temu e Shein serão afetadas pela nova regra.",
+    "categoria": "economia",
     "tags": [
-      "Copa do Mundo",
-      "futebol",
+      "taxa alfandegária",
+      "união europeia",
+      "importações",
+      "china",
+      "comércio eletrônico"
+    ],
+    "entidades": [
+      "União Europeia",
+      "Comissão Europeia"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "União Europeia",
+      "China"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/jun/29/eu-introduces-customs-charge-on-small-parcels-to-curb-cheap-chinese-imports"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-29-terremoto-venezuela",
+    "data": "2026-06-29",
+    "titulo": "Resgate de sobrevivente após terremotos na Venezuela e réplica afeta região",
+    "resumo": "Um homem de 21 anos foi resgatado após ficar preso por 106 horas nos escombros de um terremoto na Venezuela. Uma réplica de magnitude 4.6 atingiu a região perto da capital, sem relatos de novos danos. O número de mortos nos tremores iniciais ultrapassa 1.450, com expectativa de aumento.",
+    "categoria": "internacional",
+    "tags": [
+      "terremoto",
+      "resgate",
+      "réplica",
+      "venezuela",
+      "desastre natural"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Aaron Levi Cantillo Vargas"
+    ],
+    "estados": [],
+    "cidades": [
+      "Caracas"
+    ],
+    "paises": [
+      "Venezuela",
+      "El Salvador"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/jun/29/venezuela-earthquakes-search-rescue-latest-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-29-ebola-rdc",
+    "data": "2026-06-29",
+    "titulo": "República Democrática do Congo proíbe aglomerações para conter surto de Ebola",
+    "resumo": "O governo da República Democrática do Congo proibiu aglomerações na capital para evitar a propagação do vírus Ebola. Políticos de oposição acusam o governo de usar o surto para impedir protestos planejados. As autoridades de saúde buscam conter a disseminação da doença na região.",
+    "categoria": "saude",
+    "tags": [
+      "ebola",
+      "saúde pública",
+      "epidemologia",
+      "congo"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Kinshasa"
+    ],
+    "paises": [
       "República Democrática do Congo"
     ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "República Democrática do Congo",
-      "Uzbequistão"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/en/dr-congo-beat-uzbekistan-and-fly-to-world-cup-round-of-32"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-28-feminicidio-mg",
-    "data": "2026-06-28",
-    "titulo": "Feminicídio de advogada e reconhecimento de padre pelo Vaticano entre destaques em Minas Gerais",
-    "resumo": "A semana em Minas Gerais foi marcada por um caso de feminicídio de uma advogada que repercutiu nacionalmente. Outras notícias de destaque incluem o reconhecimento de um padre mineiro pelo Vaticano, acidentes e uma prisão por tráfico de drogas.",
-    "categoria": "justica",
-    "tags": [
-      "feminicídio",
-      "Vaticano",
-      "Minas Gerais"
-    ],
-    "entidades": [
-      "Vaticano"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/06/28/feminicidio-de-advogada-reconhecimento-do-vaticano-a-padre-e-prisao-por-trafico-veja-as-mais-lidas.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-28-soja-mato-grosso-japao",
-    "data": "2026-06-28",
-    "titulo": "Japão comprou mais de 535 mil toneladas de soja de Mato Grosso em 2025",
-    "resumo": "O Japão adquiriu mais de 535 mil toneladas de soja e farelo de soja do estado de Mato Grosso durante o ano de 2025. A transação movimentou cerca de US$ 193,9 milhões, de acordo com dados da Secretaria de Comércio Exterior.",
-    "categoria": "economia",
-    "tags": [
-      "agronegócio",
-      "exportação",
-      "soja",
-      "Mato Grosso"
-    ],
-    "entidades": [
-      "Secretaria de Comércio Exterior (Secex)"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Mato Grosso"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil",
-      "Japão"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/06/28/brasil-x-japao-pais-asiatico-comprou-mais-de-535-mil-toneladas-de-soja-de-mato-grosso-em-2025.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-28-apresentacao-simone-mendes-campina-grande",
-    "data": "2026-06-28",
-    "titulo": "Simone Mendes se apresenta no São João de Campina Grande neste domingo (28)",
-    "resumo": "A cantora Simone Mendes é uma das atrações do São João de Campina Grande neste domingo (28). Além dela, Japãozin, Mara Pavanelly e Nicácia Brasil também se apresentam no Parque do Povo. O evento junino em Campina Grande acontece de 3 de junho a 5 de julho.",
-    "categoria": "cultura",
-    "tags": [
-      "música",
-      "São João",
-      "Campina Grande"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Simone Mendes",
-      "Japãozin",
-      "Mara Pavanelly",
-      "Nicácia Brasil"
-    ],
-    "estados": [
-      "Paraíba"
-    ],
-    "cidades": [
-      "Campina Grande"
-    ],
-    "paises": [
-      "Brasil"
-    ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pb/paraiba/sao-joao/noticia/2026/06/28/sao-joao-de-campina-grande-tem-simone-mendes-e-mais-atracoes-neste-domingo-28.ghtml"
+        "nome": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss"
       }
     ]
   },
   {
-    "id": "2026-06-28-hortalicas-exoticas-parana",
-    "data": "2026-06-28",
-    "titulo": "Agricultora cultiva hortaliças exóticas, como couve-flor colorida, no Paraná",
-    "resumo": "No Paraná, a produtora Natielle Pereira cultiva hortaliças com características incomuns, como couve-flor colorida e tomate listrado. Ela inovou ao apresentar sua produção de hortaliças variadas online, atraindo a atenção pela diversidade.",
-    "categoria": "economia",
-    "tags": [
-      "agricultura",
-      "hortaliças",
-      "Paraná"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Natielle Pereira"
-    ],
-    "estados": [
-      "Paraná"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pr/parana/caminhos-do-campo/noticia/2026/06/28/com-couve-flor-colorida-e-tomate-listrado-agricultora-cultiva-hortalicas-exoticas-no-parana.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-28-zelensky-e-miliband",
-    "data": "2026-06-28",
-    "titulo": "Lucy Powell considera Ed Miliband um bom nome para chanceler no Reino Unido",
-    "resumo": "A vice-líder do Partido Trabalhista, Lucy Powell, indicou que Ed Miliband seria um bom candidato para o cargo de chanceler no gabinete de Andy Burnham. Ela mencionou que o Secretário de Energia seria uma boa escolha para o Tesouro, mas classificou especulações sobre cargos como 'pouco edificantes'.",
+    "id": "2026-06-29-politica-reino-unido",
+    "data": "2026-06-29",
+    "titulo": "Andy Burnham anuncia planos para descentralização de poder no Reino Unido",
+    "resumo": "Andy Burnham, prefeito de Greater Manchester, anunciou planos para criar um centro governamental em Manchester, chamado 'No 10 North'. A iniciativa visa uma maior reconfiguração de poder no país. A proposta faz parte de um discurso político sobre a devolução de poder e desenvolvimento regional.",
     "categoria": "politica",
     "tags": [
-      "Reino Unido",
       "política",
-      "Partido Trabalhista"
+      "reino unido",
+      "descentralização",
+      "governo regional"
     ],
     "entidades": [
+      "Governo do Reino Unido",
       "Partido Trabalhista"
     ],
     "pessoas": [
-      "Lucy Powell",
-      "Ed Miliband",
-      "Andy Burnham"
+      "Andy Burnham",
+      "Keir Starmer",
+      "Badenoch"
     ],
     "estados": [],
-    "cidades": [],
+    "cidades": [
+      "Manchester"
+    ],
     "paises": [
       "Reino Unido"
     ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/politics/2026/jun/28/labour-lucy-powell-ed-miliband-chancellor"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-28-zelensky-visita-asia-central",
-    "data": "2026-06-28",
-    "titulo": "Nova Caledônia realiza eleições cruciais para definir seu futuro",
-    "resumo": "A Nova Caledônia realiza eleições neste domingo (28) em um pleito considerado crucial para o futuro do território. A independência da França permanece como a questão política central. A votação ocorre após dois anos de planos para expandir os direitos de voto a residentes não indígenas.",
-    "categoria": "politica",
-    "tags": [
-      "eleições",
-      "Nova Caledônia",
-      "independência"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "França"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/en/new-caledonia-election-tests-territory-s-future-after-unrest-and-deadlock"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-28-canjica-receita",
-    "data": "2026-06-28",
-    "titulo": "Receita de canjica cremosa com ingredientes simples para o cardápio junino",
-    "resumo": "Uma receita de canjica cremosa, também conhecida como mugunzá, é apresentada com ingredientes simples. A receita, preparada pela cozinheira Élida Veloso, é uma opção para o cardápio das festas juninas e utiliza ingredientes fáceis de encontrar.",
-    "categoria": "cultura",
-    "tags": [
-      "culinária",
-      "receita",
-      "festa junina"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Élida Veloso"
-    ],
-    "estados": [
-      "Paraná",
-      "Bahia"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
     "importancia": 2,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pr/parana/caminhos-do-campo/receitas-paranaenses/noticia/2026/06/28/canjica-cremosa-aprenda-a-preparar-receita-com-ingredientes-simples.ghtml"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/29/andy-burnham-devolution-speech-keir-starmer-labour-latest-news-updates"
       }
     ]
   },
   {
-    "id": "2026-06-28-noticias-bahia",
-    "data": "2026-06-28",
-    "titulo": "Vídeos com as principais notícias da Bahia são divulgados",
-    "resumo": "Vídeos compilando as principais notícias ocorridas no estado da Bahia no domingo, 28 de junho de 2026, foram disponibilizados. As reportagens abrangem diversos temas de interesse local.",
-    "categoria": "politica",
-    "tags": [
-      "notícias",
-      "Bahia",
-      "vídeos"
-    ],
-    "entidades": [
-      "TV Bahia"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Bahia"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/ba/bahia/edicao/2026/06/28/videos-do-g1-bahia-e-tv-bahia-domingo-28-de-junho-de-2026.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-28-ze-vaqueiro-campina-grande",
-    "data": "2026-06-28",
-    "titulo": "Zé Vaqueiro lota Parque do Povo em Campina Grande e celebra São João",
-    "resumo": "O cantor Zé Vaqueiro lotou o Parque do Povo em Campina Grande no sábado (27), celebrando a maratona de apresentações de São João. Ele descreveu o momento como um dos mais especiais de sua vida, apesar do tempo frio e chuvoso.",
-    "categoria": "cultura",
-    "tags": [
-      "música",
-      "São João",
-      "Campina Grande",
-      "Zé Vaqueiro"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Zé Vaqueiro"
-    ],
-    "estados": [
-      "Paraíba"
-    ],
-    "cidades": [
-      "Campina Grande"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pb/paraiba/sao-joao/noticia/2026/06/28/ze-vaqueiro-lota-parque-do-povo-e-celebra-maratona-de-sao-joao-um-dos-mais-especiais-da-minha-vida.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-28-riscos-rios-tocantins",
-    "data": "2026-06-28",
-    "titulo": "Atenção aos riscos ao banhar em rios do Tocantins durante a temporada",
-    "resumo": "A temporada de praias no Tocantins exige cuidados redobrados ao frequentar rios e lagos do estado. Os riscos incluem a presença de arraias, piranhas e afogamentos. O Corpo de Bombeiros cataloga 97 atrativos de banho disponíveis na região.",
+    "id": "2026-06-29-apreensao-mercurio-roraima",
+    "data": "2026-06-29",
+    "titulo": "PRF apreende mais de 250 kg de mercúrio em Roraima; total semestral supera 1 tonelada",
+    "resumo": "A Polícia Rodoviária Federal (PRF) apreendeu 253 quilos de mercúrio transportados ilegalmente em Roraima. Com esta apreensão, o total acumulado nos últimos seis meses ultrapassou 1,08 tonelada. A operação ocorreu na BR-401, no município do Cantá.",
     "categoria": "seguranca",
     "tags": [
-      "segurança",
-      "rios",
-      "Tocantins",
-      "riscos"
+      "apreensão",
+      "mercúrio",
+      "crime ambiental",
+      "roraima",
+      "polícia rodoviária federal"
     ],
     "entidades": [
-      "Corpo de Bombeiros"
+      "Polícia Rodoviária Federal"
     ],
     "pessoas": [],
     "estados": [
-      "Tocantins"
+      "Roraima"
     ],
-    "cidades": [],
+    "cidades": [
+      "Cantá"
+    ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 3,
+    "importancia": 2,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/28/arraias-piranhas-e-afogamento-veja-os-riscos-e-como-se-proteger-ao-banhar-em-rios-do-to.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/rr/roraima/noticia/2026/06/29/prf-apreende-253-kg-de-mercurio-em-roraima-e-total-supera-1-tonelada-em-seis-meses.ghtml"
       }
     ]
   },
   {
-    "id": "2026-06-28-vučić-sérvia",
-    "data": "2026-06-28",
-    "titulo": "Presidente da Sérvia, Aleksandar Vučić, anuncia renúncia e abre caminho para novas eleições",
-    "resumo": "O presidente da Sérvia, Aleksandar Vučić, anunciou que renunciará em poucas semanas, permitindo a convocação de eleições antecipadas. A decisão ocorre em meio a tensões políticas no país. Há especulações de que Vučić possa assumir um cargo de maior poder como Primeiro-Ministro.",
-    "categoria": "politica",
+    "id": "2026-06-29-debate-salario-economia",
+    "data": "2026-06-29",
+    "titulo": "Como avaliar se você ganha bem ou mal: salário não é o único fator",
+    "resumo": "A percepção de ganhar bem ou mal vai além do valor do salário e é considerada um conceito relativo na economia. Diversos fatores influenciam a avaliação da renda, indicando que o montante no contracheque não conta a história completa. A análise da remuneração deve considerar múltiplos aspectos para uma compreensão completa.",
+    "categoria": "economia",
     "tags": [
-      "Sérvia",
-      "política",
-      "eleições"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Aleksandar Vučić"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Sérvia"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/en/video/20260628-serbia-s-vu%C4%8Di%C4%87-to-resign-opening-path-to-early-elections-amid-political-tensions"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-28-luta-lds-podcaster",
-    "data": "2026-06-28",
-    "titulo": "Igreja Mórmon processa podcaster em disputa pelo nome 'Mormon'",
-    "resumo": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias (Igreja Mórmon) entrou com um processo contra um ex-membro, John Dehlin, por uso indevido do nome 'Mormon Stories' em seu podcast. Dehlin argumenta que o nome é de uso livre. A disputa envolve mudanças de marca e direitos autorais.",
-    "categoria": "justica",
-    "tags": [
-      "religião",
-      "processo judicial",
-      "propriedade intelectual"
-    ],
-    "entidades": [
-      "Igreja de Jesus Cristo dos Santos dos Últimos Dias"
-    ],
-    "pessoas": [
-      "John Dehlin"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jun/28/lds-church-mormon-lawsuit"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-28-selecao-ira-copa",
-    "data": "2026-06-28",
-    "titulo": "Seleção do Irã é questionada sobre azar na Copa do Mundo",
-    "resumo": "A participação da seleção do Irã na Copa do Mundo de 2026 levanta questionamentos sobre seu nível de 'azar'. O grupo G da competição viu o Irã empatar com o Egito, enquanto a Bélgica goleou e eliminou a Nova Zelândia. A matéria explora histórias de azar e injustiças em Copas.",
-    "categoria": "esportes",
-    "tags": [
-      "Copa do Mundo",
-      "futebol",
-      "Irã"
+      "renda",
+      "salário",
+      "economia",
+      "avaliação de renda"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
-    "paises": [
-      "Irã",
-      "Egito",
-      "Bélgica",
-      "Nova Zelândia"
-    ],
-    "importancia": 3,
+    "paises": [],
+    "importancia": 1,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mundo/noticia/2026/06/28/o-ira-e-a-selecao-mais-azarada-da-copa-do-mundo.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/g1-explica/noticia/2026/06/29/como-saber-se-voce-ganha-bem-ou-mal-dica-o-valor-do-salario-nao-conta-a-historia-toda.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-06-29-comentario-padre-missa",
+    "data": "2026-06-29",
+    "titulo": "Padre faz comentário sobre noiva desistir de casamento e arranca risos em missa",
+    "resumo": "Um padre em Divinópolis (MG) aconselhou uma noiva a desistir do casamento após o noivo apresentar uma lista com 13 exigências. O religioso compartilhou o ocorrido durante uma missa, onde seu comentário sobre a noiva ter se livrado de uma situação rendeu risos e aplausos dos fiéis. A união foi cancelada.",
+    "categoria": "cultura",
+    "tags": [
+      "religião",
+      "casamento",
+      "conselho",
+      "humor"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Chrystian Shankar"
+    ],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Divinópolis"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/06/29/ela-se-livrou-de-uma-comentario-de-padre-sobre-noiva-que-nao-se-casou-apos-conselho-dele-arranca-risos-e-aplausos-dos-fieis-em-missa.ghtml"
       }
     ]
   }
