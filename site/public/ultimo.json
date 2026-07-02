@@ -1,633 +1,58 @@
 [
   {
-    "id": "2026-07-01-trump-financas-cripto",
-    "data": "2026-07-01",
-    "titulo": "Donald Trump anuncia ganhos milionários em criptomoedas e gera debate sobre conflito de interesses",
-    "resumo": "O presidente dos Estados Unidos, Donald Trump, divulgou suas declarações financeiras, revelando ganhos superiores a 1 bilhão de dólares em empreendimentos de criptomoedas. A informação gerou questionamentos sobre um possível conflito de interesses, uma vez que Trump também tem buscado a desregulamentação desse setor. As declarações mostram um total de mais de 2 bilhões de dólares em ganhos no último ano.",
-    "categoria": "politica",
-    "tags": [
-      "Donald Trump",
-      "criptomoedas",
-      "finanças",
-      "conflito de interesses"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Donald Trump"
-    ],
-    "estados": [
-      "California"
-    ],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 5,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/live/2026/jul/01/donald-trump-cryptocurrencies-supreme-court-birthright-citizenship-save-america-act-latest-news-updates"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/2026/jul/01/crypto-ventures-stock-key-takeaways-trump-financial-disclosures"
-      },
-      {
-        "nome": "France24",
-        "url": "https://www.france24.com/en/trump-accused-of-conflict-of-interest-between-his-personal-wealth-and-national-security"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-01-presidencia-irlanda-ue",
-    "data": "2026-07-01",
-    "titulo": "Irlanda assume presidência do Conselho da União Europeia",
-    "resumo": "A Irlanda assumiu a presidência rotativa do Conselho da União Europeia em uma cerimônia em Dublin. Entre as responsabilidades de seu mandato estão a condução de negociações sobre novas sanções contra a Rússia e os processos de adesão da Ucrânia e da Moldávia. O país também enfrentará discussões sobre o sistema de reserva militar alemão.",
-    "categoria": "internacional",
-    "tags": [
-      "União Europeia",
-      "Irlanda",
-      "presidência",
-      "Rússia",
-      "Ucrânia",
-      "Moldávia"
-    ],
-    "entidades": [
-      "União Europeia"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Dublin"
-    ],
-    "paises": [
-      "Irlanda",
-      "Rússia",
-      "Ucrânia",
-      "Moldávia",
-      "Alemanha"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jul/01/ireland-set-to-take-presidency-of-eu-in-dublin-opening-ceremony-europe-live"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-01-acidentes-transito-brasil",
-    "data": "2026-07-01",
-    "titulo": "Acidentes de trânsito resultam em mortes em diferentes estados do Brasil",
-    "resumo": "Vários acidentes de trânsito foram registrados no Brasil, resultando em mortes e feridos. Na Bahia, uma mulher grávida morreu em um acidente na BR-101. No Sul de Minas, um homem foi atropelado na Rodovia Fernão Dias. No Piauí, outro acidente na BR-020 causou uma morte. No Ceará, um ataque a tiros em um bar deixou um morto e dois feridos.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente de trânsito",
-      "morte",
-      "Bahia",
-      "Minas Gerais",
-      "Piauí",
-      "Ceará"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Bahia",
-      "Minas Gerais",
-      "Piauí",
-      "Ceará"
-    ],
-    "cidades": [
-      "Gandu",
-      "São Sebastião da Bela Vista",
-      "São Raimundo Nonato",
-      "Russas"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/07/01/mulher-que-morreu-em-acidente-na-bahia-estava-gravida-e-havia-se-casado-com-policial-militar-ha-menos-de-dois-meses.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/07/01/ocorrencias-de-transito-sul-de-minas.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/01/mulher-morre-acidente-entre-moto-carro-br-020.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ce/ceara/noticia/2026/07/01/ataque-a-tiros-em-bar-deixa-um-morto-e-dois-baleados-no-ceara-video.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-01-justica-violencia-sp-ma-ms",
-    "data": "2026-07-01",
-    "titulo": "Ações judiciais e prisões por violência e crimes em São Paulo, Maranhão e Mato Grosso do Sul",
-    "resumo": "A Justiça determinou que São Luís implante um abrigo para jovens mulheres, com multa de R$ 237 mil para a prefeitura. Em São Paulo, dois primos foram presos por espancar um homem e tentar enforcá-lo, e dois homens foram presos por furto de fios de cobre. No Maranhão, um suspeito de estupro de vulnerável contra uma criança foi preso. Em Mato Grosso do Sul, um suspeito morreu e outro foi preso após ataque que matou um policial militar.",
-    "categoria": "justica",
-    "tags": [
-      "justiça",
-      "violência",
-      "prisão",
-      "estupro",
-      "homicídio",
-      "furto",
-      "São Paulo",
-      "Maranhão",
-      "Mato Grosso do Sul"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo",
-      "Maranhão",
-      "Mato Grosso do Sul"
-    ],
-    "cidades": [
-      "São Luís",
-      "Irapuã",
-      "Bacabal",
-      "Corumbá",
-      "Pindamonhangaba"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/01/justica-determina-prazo-para-sao-luis-implantar-abrigo-para-jovens-mulheres-e-multa-prefeitura-em-r-237-mil.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/01/primos-sao-presos-apos-espancar-homem-e-tentar-enforca-lo-com-cinto-no-interior-de-sp.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/01/suspeito-de-estupro-de-vulneravel-contra-crianca-e-preso-em-bacabal-no-ma.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/01/um-suspeito-morre-outro-e-preso-e-terceiro-segue-foragido-apos-ataque-que-matou-policial-militar-em-corumba.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/01/gcm-prende-dois-homens-em-flagrante-por-furto-de-60-kg-de-fios-de-cobre-em-pindamonhangaba-sp.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-01-meta-ia-demissoes",
-    "data": "2026-07-01",
-    "titulo": "Meta enfrenta demissões e críticas internas em meio à corrida pela inteligência artificial",
-    "resumo": "A Meta, empresa de tecnologia, está passando por um período de demissões e críticas internas em meio à intensa corrida pelo desenvolvimento de inteligência artificial (IA). Relatos indicam um clima interno tóxico, com vigilância de funcionários e fuga de talentos. A busca por liderança em IA parece estar cobrando um preço significativo da empresa.",
-    "categoria": "economia",
-    "tags": [
-      "Meta",
-      "inteligência artificial",
-      "IA",
-      "demissões",
-      "tecnologia"
-    ],
-    "entidades": [
-      "Meta"
-    ],
-    "pessoas": [],
-    "estados": [
-      "California"
-    ],
-    "cidades": [
-      "Menlo Park"
-    ],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/01/meta-enfrenta-demissoes-e-criticas-internas-em-meio-a-corrida-pela-ia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-01-terremoto-venezuela",
-    "data": "2026-07-01",
-    "titulo": "Famílias continuam buscas por desaparecidos após terremoto na Venezuela",
-    "resumo": "Uma semana após os devastadores terremotos gêmeos na Venezuela, diversas famílias permanecem em busca de seus entes queridos em meio aos escombros. A esperança de encontrar sobreviventes diminui a cada dia. A região de La Guaira, a mais afetada, é palco de um intenso esforço de busca.",
-    "categoria": "internacional",
-    "tags": [
-      "terremoto",
-      "Venezuela",
-      "desaparecidos",
-      "busca por sobreviventes"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "La Guaira"
-    ],
-    "paises": [
-      "Venezuela"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "France24",
-        "url": "https://www.france24.com/en/video/20260701-france-24-meets-families-desperately-searching-for-venezuela-earthquake-missing"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-01-conferencia-climatica",
-    "data": "2026-07-01",
-    "titulo": "Mudanças climáticas causam temperaturas mais altas e prolongadas globalmente",
-    "resumo": "Especialistas alertam que as mudanças climáticas estão afetando o mundo com intensidade crescente, resultando em períodos de temperaturas mais elevadas e prolongados. As ondas de calor recorrentes na Europa não são mais eventos climáticos excepcionais, mas sim evidências de uma transformação climática estrutural.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "mudanças climáticas",
-      "temperatura",
-      "ondas de calor",
-      "crise climática"
-    ],
-    "entidades": [
-      "Grantham Research Institute on Climate Change and the Environment"
-    ],
-    "pessoas": [
-      "Emma Howard Boyd"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "France24",
-        "url": "https://www.france24.com/en/video/20260701-climate-change-hitting-the-world-with-a-vengeance-higher-temperatures-for-longer-periods-of-time"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-01-educacao-inovadora-cuiaba",
-    "data": "2026-07-01",
-    "titulo": "Escola em Cuiabá é reconhecida entre as mais inovadoras do mundo",
-    "resumo": "Uma escola filantrópica em Cuiabá, Mato Grosso, foi selecionada entre as dez mais inovadoras do mundo. O Centro de Educação Infantil (CEI) Rosa Mutran Maluf, mantido pela Fundação Fé e Alegria, recebeu o reconhecimento internacional por sua metodologia educacional. O prêmio destaca a qualidade da educação oferecida pela instituição.",
-    "categoria": "educacao",
-    "tags": [
-      "educação",
-      "inovação",
-      "escola",
-      "Cuiabá",
-      "reconhecimento internacional"
-    ],
-    "entidades": [
-      "Fundação Fé e Alegria"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Mato Grosso"
-    ],
-    "cidades": [
-      "Cuiabá"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/01/escola-em-cuiaba-esta-entre-as-10-mais-inovadoras-do-mundo.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-01-investimento-defesa-reino-unido",
-    "data": "2026-07-01",
-    "titulo": "Debate sobre investimento em defesa no Reino Unido envolve críticas a cortes em projetos rodoviários",
-    "resumo": "O plano de investimento em defesa do Reino Unido está gerando debates e críticas. Ministros e parlamentares expressaram preocupação de que o plano possa desviar fundos de projetos rodoviários essenciais. O governo defende a credibilidade do financiamento, enquanto oponentes argumentam que a medida pode ter consequências negativas para a infraestrutura de transporte.",
-    "categoria": "politica",
-    "tags": [
-      "Reino Unido",
-      "defesa",
-      "investimento",
-      "infraestrutura",
-      "política"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Kemi Badenoch",
-      "Andy Burnham"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/01/keir-starmer-andy-burnham-labour-defence-investment-plan-pmqs-kemi-badenoch"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-01-viagem-imovel-guia",
-    "data": "2026-07-01",
-    "titulo": "Guia detalha o processo de compra de imóveis",
-    "resumo": "Um guia completo foi publicado explicando o processo de aquisição de imóveis, desde a pesquisa inicial até a assinatura do contrato. O material aborda como a tecnologia e o atendimento ao cliente se integram nessa jornada. O objetivo é auxiliar os compradores na compreensão de todas as etapas envolvidas na compra de um imóvel.",
-    "categoria": "economia",
-    "tags": [
-      "imóveis",
-      "compra",
-      "guia",
-      "tecnologia",
-      "finanças"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/economia/negocios/como-comprar-um-imovel-a-jornada-da-pesquisa-ao-contrato-assinado/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-01-mobilidade-rio-branco",
-    "data": "2026-07-01",
-    "titulo": "Táxi-lotação de R$ 5 opera em Rio Branco após apreensão de ônibus",
-    "resumo": "A prefeitura de Rio Branco autorizou a operação temporária de táxis-lotação com tarifa de R$ 5 para mitigar os impactos da redução da frota de ônibus. A medida visa garantir o transporte coletivo na capital acreana enquanto a situação dos ônibus é resolvida. O serviço funcionará como uma alternativa para os usuários.",
-    "categoria": "economia",
-    "tags": [
-      "transporte público",
-      "Rio Branco",
-      "táxi-lotação",
-      "tarifa",
-      "mobilidade urbana"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Acre"
-    ],
-    "cidades": [
-      "Rio Branco"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ac/acre/noticia/2026/07/01/taxi-lotacao-de-r-5-passa-a-operar-em-rio-branco-apos-apreensao-de-onibus-veja-como-vai-funcionar.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-01-obras-ponte-mg-go",
-    "data": "2026-07-01",
-    "titulo": "Ponte Quinca Mariano, na divisa de MG e GO, será interditada para obras",
-    "resumo": "A Ponte Quinca Mariano, que liga Minas Gerais e Goiás sobre o Rio Paranaíba, será totalmente interditada para obras a partir de 15 de julho. A interdição exigirá que os motoristas que viajam entre as regiões alterem suas rotas habituais. A previsão é que as obras sejam realizadas para melhorar a infraestrutura da ponte.",
+    "id": "desabamento-aeroporto-porto-alegre",
+    "data": "2026-07-02",
+    "titulo": "Parte do teto do Aeroporto Salgado Filho desaba em Porto Alegre",
+    "resumo": "Uma parte do forro do teto do Aeroporto Salgado Filho, em Porto Alegre, desabou na manhã desta quinta-feira (2). A área de check-in precisou ser esvaziada devido ao incidente. As causas do desabamento ainda são desconhecidas.",
     "categoria": "infraestrutura",
     "tags": [
-      "obras",
-      "ponte",
-      "interdição",
-      "Minas Gerais",
-      "Goiás"
+      "aeroporto",
+      "chuva",
+      "desabamento"
     ],
-    "entidades": [],
+    "entidades": [
+      "Fraport"
+    ],
     "pessoas": [],
     "estados": [
-      "Minas Gerais",
-      "Goiás"
+      "Rio Grande do Sul"
     ],
-    "cidades": [],
+    "cidades": [
+      "Porto Alegre"
+    ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 2,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/01/ponte-quinca-mariano-na-divisa-de-mg-e-go-sera-interditada-para-obras.ghtml"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/02/teto-do-aeroporto-salgado-filho-desaba.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-01-cultura-am-ap",
-    "data": "2026-07-01",
-    "titulo": "Eventos culturais celebram carreiras artísticas e investimentos no Amapá",
-    "resumo": "O cantor Nicolas Jr. celebrará 26 anos de carreira com um show gratuito no Teatro Amazonas, em Manaus. No Amapá, mais de R$ 9 milhões foram destinados a obras culturais em quatro municípios, visando ampliar o acesso à cultura para cerca de 621 mil pessoas. Os investimentos abrangem melhorias na infraestrutura cultural dos municípios.",
+    "id": "festival-cultura-paracatu",
+    "data": "2026-07-02",
+    "titulo": "Paracatu sediará Festival do Patrimônio Cultural com shows gratuitos",
+    "resumo": "A cidade de Paracatu, no Noroeste de Minas Gerais, recebe até domingo (5) a edição de 2026 do Festival do Patrimônio Cultural. O evento conta com uma programação gratuita para todas as idades, incluindo shows com artistas como Oswaldo Montenegro, Tiago Iorc e Maria Gadú.",
     "categoria": "cultura",
     "tags": [
-      "cultura",
+      "festival",
       "música",
-      "investimento",
-      "Amapá",
-      "Amazonas"
-    ],
-    "entidades": [
-      "MinC"
-    ],
-    "pessoas": [
-      "Nicolas Jr."
-    ],
-    "estados": [
-      "Amazonas",
-      "Amapá"
-    ],
-    "cidades": [
-      "Manaus"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/07/01/nicolas-jr-celebra-26-anos-de-carreira-com-show-gratuito-no-teatro-amazonas.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ap/amapa/noticia/2026/07/01/amapa-recebe-r-9-milhoes-para-obras-culturais-em-quatro-municipios.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-01-politica-distrito-federal",
-    "data": "2026-07-01",
-    "titulo": "Câmara Legislativa do DF aprova projetos antes do recesso parlamentar",
-    "resumo": "A Câmara Legislativa do Distrito Federal (CLDF) aprovou diversos projetos de lei em uma sessão extraordinária antes do início do recesso parlamentar. As votações abrangeram uma lista de propostas legislativas. Detalhes sobre os projetos aprovados foram divulgados após a sessão. A CLDF encerrou suas atividades ordinárias com a aprovação dessas matérias.",
-    "categoria": "politica",
-    "tags": [
-      "Distrito Federal",
-      "Câmara Legislativa",
-      "projetos de lei",
-      "recesso parlamentar"
-    ],
-    "entidades": [
-      "CLDF"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Distrito Federal"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/07/01/veja-outros-projetos-aprovados-pela-camara-do-df-antes-do-recesso.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-01-fakenews-africa",
-    "data": "2026-07-01",
-    "titulo": "Desmentido vídeo que alega escravização de africanos cristãos por muçulmanos",
-    "resumo": "Um vídeo viral que mostra homens algemados sendo compartilhados por contas islamofóbicas, alegando retratar a escravização de africanos cristãos por muçulmanos, foi desmentido. A notícia falsa retira o vídeo de contexto para espalhar desinformação. O conteúdo foi verificado e sua alegação refutada.",
-    "categoria": "internacional",
-    "tags": [
-      "fake news",
-      "desinformação",
-      "África",
-      "vídeo viral",
-      "islamofobia"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "África"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "France24",
-        "url": "https://www.france24.com/en/africa/20260701-video-does-not-show-muslims-enslaving-christian-africans"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-01-impacto-brexit-automoveis",
-    "data": "2026-07-01",
-    "titulo": "UE é pressionada a isentar o Reino Unido de regras automotivas após Brexit",
-    "resumo": "O setor automotivo europeu pressiona a União Europeia a isentar o Reino Unido de novas regras de origem (\"Made in Europe\"). Essas regulamentações ameaçam excluir fabricantes britânicos de seu principal mercado de exportação, sendo classificadas como um possível 'próprio gol' para a indústria. A inclusão do Reino Unido nas regras é vista como crucial para evitar o impacto mais severo do Brexit.",
-    "categoria": "economia",
-    "tags": [
-      "União Europeia",
-      "Reino Unido",
-      "Brexit",
-      "indústria automotiva",
-      "exportação"
-    ],
-    "entidades": [
-      "União Europeia"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido",
-      "União Europeia"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/business/2026/jul/01/eu-rules-threaten-to-shut-out-uk-car-manufacturers-motor-industry"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-01-melhores-cidades-monocle",
-    "data": "2026-07-01",
-    "titulo": "Tóquio lidera ranking das melhores cidades para se viver, segundo revista Monocle",
-    "resumo": "A revista Monocle divulgou seu ranking anual das melhores cidades para se viver, baseado em percepções de qualidade de vida. Tóquio, Japão, ocupa a primeira posição, seguida por Copenhague, Lisboa, Viena e Sydney. Paris aparece na oitava colocação na lista. O ranking não se baseia apenas em dados objetivos, mas também na sensação de viver nas cidades.",
-    "categoria": "cultura",
-    "tags": [
-      "cidades",
-      "qualidade de vida",
-      "ranking",
-      "Tóquio",
-      "Monocle"
-    ],
-    "entidades": [
-      "Monocle"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Tóquio",
-      "Copenhague",
-      "Lisboa",
-      "Viena",
-      "Sydney",
-      "Paris"
-    ],
-    "paises": [
-      "Japão",
-      "Dinamarca",
-      "Portugal",
-      "Áustria",
-      "Austrália",
-      "França"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "France24",
-        "url": "https://www.france24.com/en/the-world-s-top-cities-to-live-in-according-to-monocle-magazine"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-01-feminicidio-minas-gerais",
-    "data": "2026-07-01",
-    "titulo": "Suspeito de feminicídio em Barbacena tinha histórico de comportamento abusivo, diz delegado",
-    "resumo": "Um homem de 25 anos é suspeito de matar uma estudante de medicina com mais de 100 facadas em Barbacena, Minas Gerais. Segundo o delegado responsável pela investigação, o suspeito possuía um histórico de comportamento abusivo e possessivo em relação à vítima. O crime chocou a comunidade local.",
-    "categoria": "justica",
-    "tags": [
-      "feminicídio",
-      "violência doméstica",
-      "Barbacena",
-      "Minas Gerais",
-      "investigação"
+      "cultura"
     ],
     "entidades": [],
     "pessoas": [
-      "Gustavo Dutra Lima",
-      "Letícia de Morais Vasconcelos Rodrigues"
+      "Oswaldo Montenegro",
+      "Tiago Iorc",
+      "Maria Gadú"
     ],
     "estados": [
       "Minas Gerais"
     ],
     "cidades": [
-      "Barbacena"
+      "Paracatu"
     ],
     "paises": [
       "Brasil"
@@ -635,71 +60,854 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/07/01/namorado-suspeito-de-matar-estudante-de-medicina-com-mais-de-100-facadas-tinha-historico-de-comportamento-abusivo-e-possessivo-diz-delegado.ghtml"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/02/oswaldo-montenegro-tiago-iorc-e-maria-gadu-veja-programacao-do-festival-do-patrimonio-cultural-de-paracatu.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-01-politica-bolsonaro-michelle-flavio",
-    "data": "2026-07-01",
-    "titulo": "Reconciliação entre Michelle e Flávio Bolsonaro é considerada 'impossível' por aliados",
-    "resumo": "A reconciliação entre Michelle Bolsonaro e o senador Flávio Bolsonaro é vista como improvável no cenário político atual, mesmo por aliados próximos. No entanto, há especulações de que Jair Bolsonaro possa intervir para buscar um apoio formal de Michelle ao filho. A relação entre os dois tem sido marcada por tensões.",
-    "categoria": "politica",
+    "id": "sequestro-fronteira-paraguai",
+    "data": "2026-07-02",
+    "titulo": "Paranaense é sequestrado no Paraguai após encontro marcado por aplicativo",
+    "resumo": "Um morador do Paraná relata ter sido vítima de sequestro e prejuízo de R$ 100 mil após atravessar a fronteira com o Paraguai para um encontro marcado pelo aplicativo de relacionamentos Grindr. O criminoso ameaçou a vítima de morte.",
+    "categoria": "seguranca",
     "tags": [
-      "Jair Bolsonaro",
-      "Michelle Bolsonaro",
-      "Flávio Bolsonaro",
-      "política",
-      "alianças"
+      "sequestro",
+      "golpe",
+      "fronteira"
     ],
     "entidades": [],
-    "pessoas": [
-      "Jair Bolsonaro",
-      "Michelle Bolsonaro",
-      "Flávio Bolsonaro"
+    "pessoas": [],
+    "estados": [
+      "Paraná"
     ],
-    "estados": [],
-    "cidades": [],
+    "cidades": [
+      "Foz do Iguaçu"
+    ],
+    "paises": [
+      "Brasil",
+      "Paraguai"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/07/02/paranaense-atravessa-fronteira-com-o-paraguai-para-encontro-pelo-grindr-e-sequestrado-e-tem-prejuizo-de-r-100-mil-falaram-que-iam-me-matar.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "morte-transito-fortaleza",
+    "data": "2026-07-01",
+    "titulo": "Eletricista morre em colisão entre carro e moto em Fortaleza",
+    "resumo": "Um eletricista morreu em uma colisão entre sua motocicleta e um carro no Conjunto 1º de Março, no Bairro Barroso, em Fortaleza. O acidente ocorreu quando a vítima estava a caminho do trabalho. O caso foi registrado nesta quarta-feira (1º).",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente",
+      "morte",
+      "trânsito"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Ceará"
+    ],
+    "cidades": [
+      "Fortaleza"
+    ],
     "paises": [
       "Brasil"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/01/reconciliacao-entre-michelle-e-flavio-bolsonaro-hoje-e-impossivel-mas-bolsonaro-pode-atuar-por-apoio-formal-da-mulher-ao-filho.ghtml"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ce/ceara/noticia/2026/07/02/eletricista-a-caminho-do-trabalho-morre-em-colisao-entre-carro-e-moto-em-fortaleza-imagem-e-forte.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-01-homicidio-jornalista-malta",
+    "id": "temporal-parana",
+    "data": "2026-07-02",
+    "titulo": "Temporal afeta casas no Paraná; idoso se protege com guarda-chuva",
+    "resumo": "Um temporal causou estragos em casas na região central do Paraná, afetando mais de 6,8 mil residências. Um vídeo mostra um idoso cadeirante se protegendo com um guarda-chuva dentro de sua casa, que teve o telhado destruído. Moradores se mobilizam para ajudar as vítimas.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "temporal",
+      "granizo",
+      "danos"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Paraná"
+    ],
+    "cidades": [
+      "Candói"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/07/02/idoso-guarda-chuva-temporal-casas-afetadas-parana.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "maus-tratos-animais-mogi-mirim",
     "data": "2026-07-01",
-    "titulo": "Empresário vai a julgamento na Malta pelo assassinato da jornalista Daphne Caruana Galizia",
-    "resumo": "Um empresário acusado de ordenar o assassinato da jornalista maltesa Daphne Caruana Galizia iniciou seu julgamento em Malta. O crime ocorreu há mais de nove anos, em um atentado com carro-bomba. O réu nega todas as acusações. O caso gerou grande repercussão internacional e levanta debates sobre a liberdade de imprensa.",
+    "titulo": "Animais são resgatados em situação de maus-tratos em Mogi Mirim",
+    "resumo": "Uma operação da Guarda Civil Municipal de Mogi Mirim resgatou aves, porcos e um gato em situação de maus-tratos em um imóvel no bairro Aterrado. Os animais estavam sem água e comida em meio a condições precárias. A ação ocorreu nesta quarta-feira (1º).",
+    "categoria": "seguranca",
+    "tags": [
+      "maus-tratos",
+      "animais",
+      "resgate"
+    ],
+    "entidades": [
+      "Guarda Civil Municipal"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Mogi Mirim"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/02/operacao-resgata-aves-porcos-e-gato-em-situacao-de-maus-tratos-em-mogi-mirim.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "homicidio-pirapora",
+    "data": "2026-07-01",
+    "titulo": "Jovem é perseguido e morto a tiros em Pirapora; vídeo registra crime",
+    "resumo": "Imagens de câmeras de segurança registraram o momento em que um jovem de 19 anos foi perseguido e morto a tiros em Pirapora, no Norte de Minas Gerais. O crime ocorreu no bairro Santa Mariana no início da noite desta quarta-feira (1º).",
+    "categoria": "seguranca",
+    "tags": [
+      "homicidio",
+      "tiros",
+      "câmeras"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Pirapora"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/02/cameras-de-seguranca-registram-momento-em-que-jovem-e-perseguido-e-morto-a-tiros-em-pirapora-video.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "golpes-saude-sorocaba",
+    "data": "2026-07-02",
+    "titulo": "Unimed Sorocaba alerta sobre golpes na área da saúde",
+    "resumo": "A Unimed Sorocaba reforça a importância da confiança e orienta usuários sobre procedimentos seguros de atendimento e cobrança para evitar golpes. A instituição alerta que fraudes utilizando nomes de empresas reconhecidas têm se tornado frequentes.",
+    "categoria": "saude",
+    "tags": [
+      "golpes",
+      "saúde",
+      "segurança"
+    ],
+    "entidades": [
+      "Unimed Sorocaba"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Sorocaba"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/sorocaba-jundiai/especial-publicitario/unimed-sorocaba/noticia/2026/07/02/cuidado-com-golpes-na-hora-de-cuidar-da-saude-confianca-faz-toda-a-diferenca.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "prisao-homicidio-maranhao",
+    "data": "2026-07-01",
+    "titulo": "Homem é preso suspeito de matar o pai a facadas no Maranhão",
+    "resumo": "Um homem de 34 anos foi preso preventivamente no Maranhão, suspeito de matar o próprio pai, de 54 anos, a facadas. O crime ocorreu no município de Bom Lugar e a prisão foi efetuada em Bacabal nesta quarta-feira (1º).",
     "categoria": "justica",
     "tags": [
-      "julgamento",
-      "assassinato",
-      "jornalista",
-      "Malta",
-      "liberdade de imprensa"
+      "prisão",
+      "homicidio",
+      "violência doméstica"
     ],
     "entidades": [],
-    "pessoas": [
-      "Daphne Caruana Galizia",
-      "Yorgen Fenech"
+    "pessoas": [],
+    "estados": [
+      "Maranhão"
     ],
+    "cidades": [
+      "Bom Lugar",
+      "Bacabal"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/02/homem-e-preso-suspeito-de-matar-o-proprio-pai-a-facadas-no-ma.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "fim-discos-playstation",
+    "data": "2026-01-01",
+    "titulo": "Sony deixará de fabricar discos físicos para jogos de PlayStation em 2028",
+    "resumo": "A Sony anunciou que deixará de produzir discos físicos para os novos videogames de seus consoles PlayStation a partir de janeiro de 2028. Os títulos passarão a ser distribuídos exclusivamente em formato digital.",
+    "categoria": "tecnologia",
+    "tags": [
+      "sony",
+      "playstation",
+      "jogos"
+    ],
+    "entidades": [
+      "Sony"
+    ],
+    "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Malta"
+      "Japão"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/tecnologia/noticia/2026/07/02/sony-vai-deixar-de-fabricar-discos-fisicos-para-novos-jogos-de-playstation-em-2028.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "preso-suspeito-assalto-influenciadores",
+    "data": "2026-07-01",
+    "titulo": "Suspeito de assaltar influenciadores Nathalia Valente e Yuri Meirelles é preso em SP",
+    "resumo": "A Polícia Civil prendeu um dos suspeitos de assaltar os influenciadores Nathalia Valente e Yuri Meirelles na Zona Sul de São Paulo. O crime ocorreu em 30 de abril e o suspeito de 26 anos foi localizado nesta quarta-feira (1º).",
+    "categoria": "seguranca",
+    "tags": [
+      "prisão",
+      "assalto",
+      "influenciadores"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Nathalia Valente",
+      "Yuri Meirelles"
+    ],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "São Paulo"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/02/suspeito-de-assaltar-influenciadores-nathalia-valente-e-yuri-meirelles-e-preso-em-sp.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "prorrogacao-concurso-bayeux",
+    "data": "2026-07-02",
+    "titulo": "Validade de concurso da Prefeitura de Bayeux é prorrogada por dois anos",
+    "resumo": "A Prefeitura de Bayeux prorrogou por mais dois anos a validade do concurso público realizado em 2021. Com a decisão, os candidatos aprovados poderão ser convocados até 5 de julho de 2028. O decreto foi assinado nesta quarta-feira (2).",
+    "categoria": "politica",
+    "tags": [
+      "concurso",
+      "prefeitura",
+      "prorrogação"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Paraíba"
+    ],
+    "cidades": [
+      "Bayeux"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/02/concurso-da-prefeitura-de-bayeux-tem-validade-prorrogada-por-mais-dois-anos.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "trump-birth-tourism",
+    "data": "2026-07-02",
+    "titulo": "Trump administration mira 'birth tourism' após revés na Suprema Corte",
+    "resumo": "A administração Trump pretende focar no 'birth tourism' (turismo de nascimento), mesmo após um revés na Suprema Corte que manteve a garantia constitucional da cidadania por nascimento. Procuradores federais e agentes de segurança vão direcionar esforços para a questão.",
+    "categoria": "politica",
+    "tags": [
+      "trump",
+      "imigração",
+      "cidadania"
+    ],
+    "entidades": [
+      "Suprema Corte"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/02/first-thing-birth-tourism-trump-administration-supreme-court"
+      }
+    ]
+  },
+  {
+    "id": "uk-apology-adocoes-forcasas",
+    "data": "2026-07-02",
+    "titulo": "Keir Starmer pede desculpas por escândalo de adoções forçadas no Reino Unido",
+    "resumo": "O líder do Partido Trabalhista, Keir Starmer, emitiu um pedido de desculpas oficial do governo britânico pelo escândalo de adoções forçadas ocorrido entre 1949 e 1976. Estima-se que 185 mil bebês foram retirados de mães solteiras nesse período na Inglaterra e País de Gales.",
+    "categoria": "politica",
+    "tags": [
+      "adoção",
+      "escândalo",
+      "desculpas"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Keir Starmer"
+    ],
+    "estados": [
+      "Inglaterra",
+      "País de Gales"
+    ],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/02/keir-starmer-apology-forced-adoption-labour-andy-burnham-uk-politics-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "cartoon-russo-uk",
+    "data": "2026-07-02",
+    "titulo": "MPs querem proibir transmissão de desenho russo 'Masha e o Urso' no Reino Unido",
+    "resumo": "Um grupo bipartidário de parlamentares do Reino Unido escreveu a ministros expressando preocupação com o desenho infantil russo 'Masha e o Urso'. Eles alegam que o programa contém conteúdo de 'propaganda' e buscam o fim de sua transmissão no país.",
+    "categoria": "cultura",
+    "tags": [
+      "desenho animado",
+      "propaganda",
+      "política"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido",
+      "Rússia"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jul/01/daphne-caruana-galizia-murder-yorgen-fenech-trial-malta"
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/02/mps-uk-broadcast-russian-cartoon-masha-and-the-bear"
+      }
+    ]
+  },
+  {
+    "id": "vidro-copo-escola-sao-jose",
+    "data": "2026-07-02",
+    "titulo": "Alunos colocam vidro em copo de água de professora em escola de SP",
+    "resumo": "Um episódio ocorrido em uma escola municipal de São José dos Campos, São Paulo, envolveu alunos que colocaram uma lâmina de vidro no copo de água de uma professora. O incidente pode resultar em punições para os estudantes e responsabilidades para os pais.",
+    "categoria": "educacao",
+    "tags": [
+      "escola",
+      "incidente",
+      "punição"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "São José dos Campos"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/02/lamina-de-vidro-em-copo-de-agua-de-professora-saiba-o-que-pode-acontecer-com-os-alunos-e-pais-envolvidos.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "pre-candidatos-presidente-vice",
+    "data": "2026-07-02",
+    "titulo": "Apenas 3 de 13 pré-candidatos à presidência definiram vice; confira nomes",
+    "resumo": "Apenas três dos treze pré-candidatos à Presidência da República já definiram seus vices para as próximas eleições. Dentre os que já anunciaram seus companheiros de chapa estão Renan Santos (Partido Missão) com Aroldo Medina. Outros nomes em pré-campanha incluem Luiz Inácio Lula da Silva, Flávio Bolsonaro e Ronaldo Caiado.",
+    "categoria": "politica",
+    "tags": [
+      "eleições",
+      "presidência",
+      "vice"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Luiz Inácio Lula da Silva",
+      "Flávio Bolsonaro",
+      "Ronaldo Caiado",
+      "Renan Santos",
+      "Romeu Zema",
+      "Aécio Neves",
+      "Aroldo Medina"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/02/pre-candidatos-a-presidente-definiram-vice.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "cristiano-ronaldo-copa",
+    "data": "2026-07-02",
+    "titulo": "Cristiano Ronaldo busca feito inédito em oitavas de final da Copa do Mundo",
+    "resumo": "Aos 41 anos, Cristiano Ronaldo buscará um feito inédito em sua carreira durante o jogo das oitavas de final da Copa do Mundo entre Portugal e Croácia. O craque português almeja conquistar o único título que ainda falta em sua trajetória profissional.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "copa do mundo",
+      "cristiano ronaldo"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Cristiano Ronaldo"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Portugal",
+      "Croácia"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/07/02/copa-do-mundo-cristiano-ronaldo-persegue-feito-inedito-da-carreira-em-jogo-das-oitavas.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "ana-paula-justus",
+    "data": "2026-07-02",
+    "titulo": "Ana Paula Siebert fala sobre diferença de idade com Justus",
+    "resumo": "A influenciadora Ana Paula Siebert comentou sobre a diferença de 33 anos em seu relacionamento com o empresário Roberto Justus. Ela lamentou os ataques que recebeu de internautas por causa da relação.",
+    "categoria": "cultura",
+    "tags": [
+      "celebridades",
+      "relacionamento",
+      "influenciador"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Ana Paula Siebert",
+      "Roberto Justus"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "cnnbrasil.com.br",
+        "url": "https://www.cnnbrasil.com.br/pop/celebridades/ana-paula-siebert-revela-pancada-por-diferenca-de-33-anos-com-justus/"
+      }
+    ]
+  },
+  {
+    "id": "frota-carro-clonada-rj",
+    "data": "2026-07-02",
+    "titulo": "Polícia investiga esquema de carros roubados e placas clonadas no RJ",
+    "resumo": "A Polícia Civil do Rio de Janeiro investiga um esquema de roubo de carros e clonagem de placas. Uma operação da Delegacia de Roubos e Furtos de Automóveis cumpre mandados de busca e apreensão e efetuou prisões em flagrante, incluindo um suspeito com uma motocicleta roubada em São Gonçalo.",
+    "categoria": "seguranca",
+    "tags": [
+      "polícia",
+      "roubo de veículos",
+      "placa clonada"
+    ],
+    "entidades": [
+      "Polícia Civil"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "São Gonçalo"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "cnnbrasil.com.br",
+        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-investiga-esquema-de-carros-roubados-e-placas-clonadas-no-rj/"
+      }
+    ]
+  },
+  {
+    "id": "assedio-eleitoral-prefeito-sp",
+    "data": "2026-07-02",
+    "titulo": "Prefeito de Eldorado (SP) é condenado por assédio eleitoral",
+    "resumo": "O prefeito de Eldorado (SP), Noel Castelo da Costa, foi condenado por assédio eleitoral após publicar um vídeo intimidando um servidor público. A decisão foi proferida pela Justiça do Trabalho de Registro.",
+    "categoria": "justica",
+    "tags": [
+      "assédio eleitoral",
+      "prefeito",
+      "condenação"
+    ],
+    "entidades": [
+      "Justiça do Trabalho"
+    ],
+    "pessoas": [
+      "Noel Castelo da Costa"
+    ],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Eldorado"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/02/prefeito-em-sp-e-condenado-por-assedio-eleitoral-apos-publicar-video-intimidando-servidor-publico.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "onda-calor-franca",
+    "data": "2026-07-02",
+    "titulo": "Onda de calor na França causa incêndios e mortes",
+    "resumo": "Uma intensa onda de calor atinge o sul da França, levando bombeiros a combater incêndios florestais. Autoridades de saúde estimam que as temperaturas extremas podem ter sido responsáveis por cerca de mil mortes no país.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "onda de calor",
+      "incêndios",
+      "mortes"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "França"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "cnnbrasil.com.br",
+        "url": "https://www.cnnbrasil.com.br/internacional/onda-de-calor-na-franca-bombeiros-combatem-incendios-no-sul-do-pais/"
+      }
+    ]
+  },
+  {
+    "id": "homicidio-casal-bh",
+    "data": "2026-07-02",
+    "titulo": "Mulher confessa ter matado casal em BH e roubado pertences das vítimas",
+    "resumo": "Uma mulher confessou ter matado um casal de idosos em um apartamento em Belo Horizonte e, em seguida, roubado relógios, braceletes de ouro e celulares das vítimas. Os itens foram vendidos por R$ 3,3 mil. A suspeita foi presa.",
+    "categoria": "justica",
+    "tags": [
+      "homicidio",
+      "roubo",
+      "belo horizonte"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Belo Horizonte"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/02/mulher-que-confessou-matar-casal-em-bh-roubou-e-vendeu-relogios-braceletes-de-ouro-e-celulares-das-vitimas-por-r-33-mil-diz-delegado.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "piloto-pequeno-aviao-beijing",
+    "data": "2026-07-02",
+    "titulo": "Piloto de avião que atingiu torre em Pequim escreveu sobre 'fim da vida', dizem autoridades",
+    "resumo": "Autoridades chinesas informaram que o piloto de um pequeno avião que colidiu com a torre mais alta de Pequim escreveu em seu diário sobre 'acabar com sua vida'. A declaração busca encerrar especulações sobre o incidente que levantou preocupações com a segurança aérea na capital chinesa.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente aéreo",
+      "pequim",
+      "investigação"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Pequim"
+    ],
+    "paises": [
+      "China"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/asia-pacific/20260702-pilot-who-hit-beijing-tallest-tower-wrote-about-ending-his-life-suicide-officials-say"
+      }
+    ]
+  },
+  {
+    "id": "traficante-pessoas-reino-unido",
+    "data": "2026-07-02",
+    "titulo": "Governo do Reino Unido investiga traficante de pessoas vivendo no país",
+    "resumo": "O governo do Reino Unido manifestou compartilhar o 'choque público' após relatos de que um traficante de pessoas condenado estaria vivendo no país. Downing Street está investigando urgentemente as circunstâncias, com informações indicando que o indivíduo seria o 'padrinho' dos campos de migrantes em Calais.",
+    "categoria": "seguranca",
+    "tags": [
+      "tráfico humano",
+      "imigração",
+      "investigação"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Leicestershire"
+    ],
+    "cidades": [
+      "Calais"
+    ],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/02/convicted-people-smuggler-uk-should-deported-tories"
+      }
+    ]
+  },
+  {
+    "id": "resgate-venezuelano-escombros-venezuela",
+    "data": "2026-07-02",
+    "titulo": "Socorristas tentam resgate de venezuelano preso há 7 dias sob escombros",
+    "resumo": "Centenas de socorristas trabalham no resgate de um venezuelano que está preso há uma semana sob os escombros de um shopping em La Guaira, na Venezuela. As equipes de resgate, incluindo bombeiros do Chile, tentam desenterrar o homem em uma operação dramática.",
+    "categoria": "internacional",
+    "tags": [
+      "resgate",
+      "escombros",
+      "venezuela"
+    ],
+    "entidades": [
+      "Corpo de bombeiros do Chile"
+    ],
+    "pessoas": [
+      "Hernán Gil"
+    ],
+    "estados": [],
+    "cidades": [
+      "La Guaira"
+    ],
+    "paises": [
+      "Venezuela",
+      "Chile"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mundo/noticia/2026/07/02/equipes-resgate-tentam-resgate-dramatico-escombros-shopping-terremotos-venezuela.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "comercio-exterior-sorocaba",
+    "data": "2026-07-02",
+    "titulo": "Importlink se consolida em comércio exterior no interior paulista",
+    "resumo": "A empresa Importlink, sediada em Sorocaba, se consolidou como referência em comércio exterior na região, contribuindo para que Sorocaba se torne o 5º maior município exportador do estado de São Paulo. A empresa atua integrando desembaraço aduaneiro e serviços logísticos.",
+    "categoria": "economia",
+    "tags": [
+      "comércio exterior",
+      "exportação",
+      "sorocaba"
+    ],
+    "entidades": [
+      "Importlink"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Sorocaba"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/sorocaba-jundiai/especial-publicitario/importlink/noticia/2026/07/02/como-a-importlink-se-tornou-referencia-em-comercio-exterior-no-interior-paulista.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "trump-250-aniversario-eua",
+    "data": "2026-07-02",
+    "titulo": "Reportagem diz que Trump 'sequestrou' aniversário dos EUA para agenda própria",
+    "resumo": "Uma reportagem indica que Donald Trump teria usado o 250º aniversário dos Estados Unidos para promover sua agenda política e projetos pessoais. Um importante democrata da Câmara descreveu a atitude como uma tentativa de 'roubar a celebração da América'.",
+    "categoria": "politica",
+    "tags": [
+      "trump",
+      "aniversário",
+      "política"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Donald Trump"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/live/2026/jul/02/donald-trump-us-politics-250-anniversary-republicans-democrats-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "internet-rn-velocidade-fatura",
+    "data": "2026-07-02",
+    "titulo": "Operadoras de internet no RN terão de informar velocidade real na fatura",
+    "resumo": "Uma nova lei no Rio Grande do Norte determinará que as operadoras de internet informem nas faturas mensais a velocidade real entregue aos clientes. A legislação entrará em vigor em 90 dias e exigirá detalhamento da velocidade média diária.",
+    "categoria": "economia",
+    "tags": [
+      "internet",
+      "consumidor",
+      "lei"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio Grande do Norte"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/02/operadoras-do-rn-terao-de-informar-velocidade-real-da-internet-entregue-aos-clientes-nas-faturas.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "presos-documento-falso-para",
+    "data": "2026-07-30",
+    "titulo": "Dupla é presa ao tentar sacar benefício com documento falso no Pará",
+    "resumo": "Um idoso e uma mulher foram presos em flagrante no Pará por tentativa de estelionato ao tentar sacar um benefício com um documento falso. O caso ocorreu em uma agência bancária em Mãe do Rio na terça-feira (30).",
+    "categoria": "justica",
+    "tags": [
+      "prisão",
+      "estelionato",
+      "documento falso"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Pará"
+    ],
+    "cidades": [
+      "Mãe do Rio"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pa/para/noticia/2026/07/02/dupla-e-presa-ao-tentar-sacar-beneficio-com-documento-falso-no-para.ghtml"
       }
     ]
   }
