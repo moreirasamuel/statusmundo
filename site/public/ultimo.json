@@ -1,274 +1,184 @@
 [
   {
-    "id": "desabamento-aeroporto-porto-alegre",
-    "data": "2026-07-02",
-    "titulo": "Parte do teto do Aeroporto Salgado Filho desaba em Porto Alegre",
-    "resumo": "Uma parte do forro do teto do Aeroporto Salgado Filho, em Porto Alegre, desabou na manhã desta quinta-feira (2). A área de check-in precisou ser esvaziada devido ao incidente. As causas do desabamento ainda são desconhecidas.",
-    "categoria": "infraestrutura",
+    "id": "2026-07-03-operacao-pf-emendas-pix",
+    "data": "2026-07-03",
+    "titulo": "PF apura irregularidades em emendas PIX com operação em quatro estados",
+    "resumo": "A Polícia Federal (PF) deflagrou uma operação para investigar possíveis irregularidades na aplicação de recursos federais destinados por emendas parlamentares. Foram cumpridos 41 mandados de busca e apreensão em Roraima, Bahia, São Paulo e Tocantins. O foco da investigação são as chamadas 'emendas PIX', que se referem a recursos de transferência especial.",
+    "categoria": "justica",
     "tags": [
-      "aeroporto",
-      "chuva",
-      "desabamento"
+      "PF",
+      "emendas parlamentares",
+      "corrupção",
+      "investigação"
     ],
     "entidades": [
-      "Fraport"
+      "Polícia Federal"
     ],
     "pessoas": [],
     "estados": [
-      "Rio Grande do Sul"
+      "Roraima",
+      "Bahia",
+      "São Paulo",
+      "Tocantins"
     ],
-    "cidades": [
-      "Porto Alegre"
-    ],
+    "cidades": [],
     "paises": [
       "Brasil"
     ],
-    "importancia": 4,
+    "importancia": 5,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/02/teto-do-aeroporto-salgado-filho-desaba.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/politica/noticia/2026/07/03/pf-faz-operacao-para-apurar-irregularidades-na-aplicacao-de-emendas-pix.ghtml"
       }
     ]
   },
   {
-    "id": "festival-cultura-paracatu",
-    "data": "2026-07-02",
-    "titulo": "Paracatu sediará Festival do Patrimônio Cultural com shows gratuitos",
-    "resumo": "A cidade de Paracatu, no Noroeste de Minas Gerais, recebe até domingo (5) a edição de 2026 do Festival do Patrimônio Cultural. O evento conta com uma programação gratuita para todas as idades, incluindo shows com artistas como Oswaldo Montenegro, Tiago Iorc e Maria Gadú.",
-    "categoria": "cultura",
+    "id": "2026-07-03-pf-lavagem-dinheiro-trafico",
+    "data": "2026-07-03",
+    "titulo": "PF desarticula organização criminosa e bloqueia R$ 10,4 bilhões em operação contra lavagem de dinheiro",
+    "resumo": "A Polícia Federal realizou a Operação Exchange para desarticular uma organização criminosa especializada em lavar dinheiro do tráfico internacional de drogas. A operação resultou no bloqueio de R$ 10,4 bilhões de um grupo investigado. Uma pessoa com suposto elo com o PCC foi presa durante a ação.",
+    "categoria": "justica",
     "tags": [
-      "festival",
-      "música",
-      "cultura"
+      "PF",
+      "lavagem de dinheiro",
+      "tráfico de drogas",
+      "crime organizado"
+    ],
+    "entidades": [
+      "Polícia Federal",
+      "PCC"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 5,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/03/operacao-da-pf-que-prendeu-suspeita-de-elo-com-pcc-bloqueia-r-104-bilhoes-de-grupo-investigado-por-lavar-dinheiro-do-trafico.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-03-ira-funeral-khamenei",
+    "data": "2026-07-03",
+    "titulo": "Autoridades iranianas choram em funeral privado de Ali Khamenei",
+    "resumo": "Autoridades do governo do Irã, incluindo o presidente Masoud Pezeshkian, foram vistas chorando durante o funeral privado do ex-líder supremo Ali Khamenei. O evento ocorreu em 3 de julho de 2026. Imagens do momento foram divulgadas.",
+    "categoria": "internacional",
+    "tags": [
+      "Irã",
+      "funeral",
+      "luto",
+      "política"
     ],
     "entidades": [],
     "pessoas": [
-      "Oswaldo Montenegro",
-      "Tiago Iorc",
-      "Maria Gadú"
+      "Masoud Pezeshkian",
+      "Ali Khamenei"
     ],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Paracatu"
-    ],
+    "estados": [],
+    "cidades": [],
     "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/02/oswaldo-montenegro-tiago-iorc-e-maria-gadu-veja-programacao-do-festival-do-patrimonio-cultural-de-paracatu.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "sequestro-fronteira-paraguai",
-    "data": "2026-07-02",
-    "titulo": "Paranaense é sequestrado no Paraguai após encontro marcado por aplicativo",
-    "resumo": "Um morador do Paraná relata ter sido vítima de sequestro e prejuízo de R$ 100 mil após atravessar a fronteira com o Paraguai para um encontro marcado pelo aplicativo de relacionamentos Grindr. O criminoso ameaçou a vítima de morte.",
-    "categoria": "seguranca",
-    "tags": [
-      "sequestro",
-      "golpe",
-      "fronteira"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Paraná"
-    ],
-    "cidades": [
-      "Foz do Iguaçu"
-    ],
-    "paises": [
-      "Brasil",
-      "Paraguai"
+      "Irã"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/07/02/paranaense-atravessa-fronteira-com-o-paraguai-para-encontro-pelo-grindr-e-sequestrado-e-tem-prejuizo-de-r-100-mil-falaram-que-iam-me-matar.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/mundo/noticia/2026/07/03/video-autoridades-governo-ira-choram-em-frente-caixao-ali-khamenei.ghtml"
       }
     ]
   },
   {
-    "id": "morte-transito-fortaleza",
-    "data": "2026-07-01",
-    "titulo": "Eletricista morre em colisão entre carro e moto em Fortaleza",
-    "resumo": "Um eletricista morreu em uma colisão entre sua motocicleta e um carro no Conjunto 1º de Março, no Bairro Barroso, em Fortaleza. O acidente ocorreu quando a vítima estava a caminho do trabalho. O caso foi registrado nesta quarta-feira (1º).",
+    "id": "2026-07-03-transito-para-verao",
+    "data": "2026-07-03",
+    "titulo": "Detran do Pará inicia operação 'Verão' com drones e reforço na fiscalização",
+    "resumo": "O Departamento de Trânsito do Estado do Pará (Detran/PA) iniciou a operação 'Verão 2026', que se estenderá até 3 de agosto. A ação conta com mais de 390 agentes em 27 municípios para intensificar a segurança nas rodovias. Serão utilizados drones e etilômetros para fiscalização.",
     "categoria": "seguranca",
     "tags": [
-      "acidente",
-      "morte",
-      "trânsito"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Ceará"
-    ],
-    "cidades": [
-      "Fortaleza"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/ce/ceara/noticia/2026/07/02/eletricista-a-caminho-do-trabalho-morre-em-colisao-entre-carro-e-moto-em-fortaleza-imagem-e-forte.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "temporal-parana",
-    "data": "2026-07-02",
-    "titulo": "Temporal afeta casas no Paraná; idoso se protege com guarda-chuva",
-    "resumo": "Um temporal causou estragos em casas na região central do Paraná, afetando mais de 6,8 mil residências. Um vídeo mostra um idoso cadeirante se protegendo com um guarda-chuva dentro de sua casa, que teve o telhado destruído. Moradores se mobilizam para ajudar as vítimas.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "temporal",
-      "granizo",
-      "danos"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Paraná"
-    ],
-    "cidades": [
-      "Candói"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/07/02/idoso-guarda-chuva-temporal-casas-afetadas-parana.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "maus-tratos-animais-mogi-mirim",
-    "data": "2026-07-01",
-    "titulo": "Animais são resgatados em situação de maus-tratos em Mogi Mirim",
-    "resumo": "Uma operação da Guarda Civil Municipal de Mogi Mirim resgatou aves, porcos e um gato em situação de maus-tratos em um imóvel no bairro Aterrado. Os animais estavam sem água e comida em meio a condições precárias. A ação ocorreu nesta quarta-feira (1º).",
-    "categoria": "seguranca",
-    "tags": [
-      "maus-tratos",
-      "animais",
-      "resgate"
+      "trânsito",
+      "segurança",
+      "fiscalização",
+      "operação"
     ],
     "entidades": [
-      "Guarda Civil Municipal"
+      "Detran/PA"
     ],
     "pessoas": [],
     "estados": [
-      "São Paulo"
+      "Pará"
     ],
-    "cidades": [
-      "Mogi Mirim"
-    ],
+    "cidades": [],
     "paises": [
       "Brasil"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/02/operacao-resgata-aves-porcos-e-gato-em-situacao-de-maus-tratos-em-mogi-mirim.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/pa/para/noticia/2026/07/03/detran-inicia-operacao-verao-com-drones-e-reforco-na-fiscalizacao-no-para.ghtml"
       }
     ]
   },
   {
-    "id": "homicidio-pirapora",
-    "data": "2026-07-01",
-    "titulo": "Jovem é perseguido e morto a tiros em Pirapora; vídeo registra crime",
-    "resumo": "Imagens de câmeras de segurança registraram o momento em que um jovem de 19 anos foi perseguido e morto a tiros em Pirapora, no Norte de Minas Gerais. O crime ocorreu no bairro Santa Mariana no início da noite desta quarta-feira (1º).",
-    "categoria": "seguranca",
-    "tags": [
-      "homicidio",
-      "tiros",
-      "câmeras"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Pirapora"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/02/cameras-de-seguranca-registram-momento-em-que-jovem-e-perseguido-e-morto-a-tiros-em-pirapora-video.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "golpes-saude-sorocaba",
-    "data": "2026-07-02",
-    "titulo": "Unimed Sorocaba alerta sobre golpes na área da saúde",
-    "resumo": "A Unimed Sorocaba reforça a importância da confiança e orienta usuários sobre procedimentos seguros de atendimento e cobrança para evitar golpes. A instituição alerta que fraudes utilizando nomes de empresas reconhecidas têm se tornado frequentes.",
-    "categoria": "saude",
-    "tags": [
-      "golpes",
-      "saúde",
-      "segurança"
-    ],
-    "entidades": [
-      "Unimed Sorocaba"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Sorocaba"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/sorocaba-jundiai/especial-publicitario/unimed-sorocaba/noticia/2026/07/02/cuidado-com-golpes-na-hora-de-cuidar-da-saude-confianca-faz-toda-a-diferenca.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "prisao-homicidio-maranhao",
-    "data": "2026-07-01",
-    "titulo": "Homem é preso suspeito de matar o pai a facadas no Maranhão",
-    "resumo": "Um homem de 34 anos foi preso preventivamente no Maranhão, suspeito de matar o próprio pai, de 54 anos, a facadas. O crime ocorreu no município de Bom Lugar e a prisão foi efetuada em Bacabal nesta quarta-feira (1º).",
+    "id": "2026-07-03-golpe-site-falso-amapa",
+    "data": "2026-07-03",
+    "titulo": "BMWs, joias e dinheiro apreendidos com grupo que aplicava golpes por site falso no Amapá",
+    "resumo": "A Polícia Civil do Amapá desvendou a ostentação de uma organização criminosa especializada em fraudes eletrônicas. Durante a operação, foram apreendidos bens como BMWs, dinheiro e joias. O grupo aplicava golpes utilizando sites falsos para enganar vítimas.",
     "categoria": "justica",
     "tags": [
-      "prisão",
-      "homicidio",
-      "violência doméstica"
+      "golpe",
+      "fraude eletrônica",
+      "crimes",
+      "apreensão"
     ],
-    "entidades": [],
+    "entidades": [
+      "Polícia Civil"
+    ],
     "pessoas": [],
     "estados": [
-      "Maranhão"
+      "Amapá"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ap/amapa/noticia/2026/07/03/bmws-dinheiro-joias-e-mais-veja-o-que-foi-apreendido-com-grupo-que-aplicava-golpe-por-site-falso-no-ap.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-03-influencer-condenacao-parana",
+    "data": "2026-07-03",
+    "titulo": "Ex-companheiro condenado a 14 anos por tentar matar influencer no Paraná",
+    "resumo": "Um ex-companheiro foi condenado a 14 anos e oito meses de prisão pela tentativa de homicídio qualificado contra uma influenciadora digital em Londrina, no Paraná. O julgamento ocorreu nesta quinta-feira (2), quando a sentença foi determinada. O caso envolveu esfaqueamento.",
+    "categoria": "justica",
+    "tags": [
+      "tentativa de homicídio",
+      "violência doméstica",
+      "condenação",
+      "influenciadora"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Daniele Gonçalves",
+      "Gabriel de Faveri"
+    ],
+    "estados": [
+      "Paraná"
     ],
     "cidades": [
-      "Bom Lugar",
-      "Bacabal"
+      "Londrina"
     ],
     "paises": [
       "Brasil"
@@ -276,60 +186,95 @@
     "importancia": 4,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/02/homem-e-preso-suspeito-de-matar-o-proprio-pai-a-facadas-no-ma.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/07/03/condenacao-caso-influencer-londrina-parana.ghtml"
       }
     ]
   },
   {
-    "id": "fim-discos-playstation",
-    "data": "2026-01-01",
-    "titulo": "Sony deixará de fabricar discos físicos para jogos de PlayStation em 2028",
-    "resumo": "A Sony anunciou que deixará de produzir discos físicos para os novos videogames de seus consoles PlayStation a partir de janeiro de 2028. Os títulos passarão a ser distribuídos exclusivamente em formato digital.",
-    "categoria": "tecnologia",
+    "id": "2026-07-03-fossil-lucy-abu-dhabi",
+    "data": "2026-07-03",
+    "titulo": "Fóssil 'Lucy' deixa a Etiópia e emociona visitantes em Abu Dhabi",
+    "resumo": "O fóssil 'Lucy', com cerca de 3,2 milhões de anos, está em exibição no Museu de História Natural de Abu Dhabi, após deixar a Etiópia. A peça tem atraído visitantes e gerado momentos de contemplação e silêncio. A exposição destaca a importância científica do achado.",
+    "categoria": "ciencia",
     "tags": [
-      "sony",
-      "playstation",
-      "jogos"
+      "fóssil",
+      "paleontologia",
+      "museu",
+      "descoberta"
     ],
     "entidades": [
-      "Sony"
+      "Museu de História Natural de Abu Dhabi"
     ],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Japão"
+      "Etiópia",
+      "Emirados Árabes Unidos"
     ],
-    "importancia": 4,
+    "importancia": 3,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/tecnologia/noticia/2026/07/02/sony-vai-deixar-de-fabricar-discos-fisicos-para-novos-jogos-de-playstation-em-2028.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/ciencia/noticia/2026/07/03/lucy-fossil-de-32-milhoes-de-anos-deixa-a-etiopia-e-emociona-visitantes-em-abu-dhabi.ghtml"
       }
     ]
   },
   {
-    "id": "preso-suspeito-assalto-influenciadores",
-    "data": "2026-07-01",
-    "titulo": "Suspeito de assaltar influenciadores Nathalia Valente e Yuri Meirelles é preso em SP",
-    "resumo": "A Polícia Civil prendeu um dos suspeitos de assaltar os influenciadores Nathalia Valente e Yuri Meirelles na Zona Sul de São Paulo. O crime ocorreu em 30 de abril e o suspeito de 26 anos foi localizado nesta quarta-feira (1º).",
-    "categoria": "seguranca",
+    "id": "2026-07-03-provas-banho-litoral-sp",
+    "data": "2026-07-03",
+    "titulo": "17 praias do litoral de SP impróprias para banho neste fim de semana",
+    "resumo": "Dezessete praias no litoral de São Paulo foram classificadas como impróprias para banho para o fim de semana. O relatório, divulgado pela Companhia Ambiental do Estado de São Paulo (Cetesb), indica a situação de balneabilidade em diversas localidades. A medida visa alertar banhistas sobre os riscos à saúde.",
+    "categoria": "meio-ambiente",
     "tags": [
-      "prisão",
-      "assalto",
-      "influenciadores"
+      "praias",
+      "balneabilidade",
+      "poluição",
+      "litoral"
     ],
-    "entidades": [],
-    "pessoas": [
-      "Nathalia Valente",
-      "Yuri Meirelles"
+    "entidades": [
+      "Cetesb"
     ],
+    "pessoas": [],
     "estados": [
       "São Paulo"
     ],
     "cidades": [
-      "São Paulo"
+      "Ubatuba"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/03/litoral-de-sp-tem-17-praias-improprias-para-banho-neste-fim-de-semana-confira-os-locais.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-03-batida-br-343-piaui",
+    "data": "2026-07-03",
+    "titulo": "Um morre em colisão frontal entre carro e caminhão na BR-343, no Piauí",
+    "resumo": "Uma pessoa faleceu após uma batida frontal entre um carro e um caminhão na BR-343, no Piauí. O acidente ocorreu na madrugada desta sexta-feira (3), próximo à Comunidade Lagoa, zona rural de Amarante. A vítima ficou presa às ferragens.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente",
+      "transporte",
+      "morte",
+      "rodovia"
+    ],
+    "entidades": [
+      "PMPI"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Piauí"
+    ],
+    "cidades": [
+      "Amarante"
     ],
     "paises": [
       "Brasil"
@@ -337,21 +282,152 @@
     "importancia": 4,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/02/suspeito-de-assaltar-influenciadores-nathalia-valente-e-yuri-meirelles-e-preso-em-sp.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/03/batida-entre-carro-e-caminhao-br-343.ghtml"
       }
     ]
   },
   {
-    "id": "prorrogacao-concurso-bayeux",
-    "data": "2026-07-02",
-    "titulo": "Validade de concurso da Prefeitura de Bayeux é prorrogada por dois anos",
-    "resumo": "A Prefeitura de Bayeux prorrogou por mais dois anos a validade do concurso público realizado em 2021. Com a decisão, os candidatos aprovados poderão ser convocados até 5 de julho de 2028. O decreto foi assinado nesta quarta-feira (2).",
+    "id": "2026-07-03-ipva-carros-eletricos-tocantins",
+    "data": "2026-07-03",
+    "titulo": "Tocantins isenta IPVA para carros elétricos por dois anos e reduz imposto até 2030",
+    "resumo": "O Tocantins aprovou uma lei que isenta o IPVA para veículos elétricos por dois anos, com redução gradual do imposto até 2030. A medida visa incentivar a adoção de carros, caminhões e ônibus elétricos no estado. A votação ocorreu nesta quinta-feira (2).",
     "categoria": "politica",
     "tags": [
-      "concurso",
-      "prefeitura",
-      "prorrogação"
+      "IPVA",
+      "carros elétricos",
+      "incentivo fiscal",
+      "lei"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Tocantins"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/03/lei-aprovada-no-to-garante-isencao-de-ipva-para-carros-eletricos-por-dois-anos-e-reduz-imposto-ate-2030.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-03-catalogo-ufam-idiomas",
+    "data": "2026-07-03",
+    "titulo": "Ufam abre 1.280 vagas em cursos de idiomas e proficiência no Amazonas",
+    "resumo": "A Universidade Federal do Amazonas (Ufam) abriu inscrições para 1.280 vagas em cursos de idiomas e de proficiência para o segundo semestre de 2026. As oportunidades são para estudantes da instituição e para o público em geral, com modalidades presenciais e online. O prazo para inscrições já foi divulgado.",
+    "categoria": "educacao",
+    "tags": [
+      "universidade",
+      "cursos de idiomas",
+      "vagas",
+      "educação"
+    ],
+    "entidades": [
+      "Ufam"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Amazonas"
+    ],
+    "cidades": [
+      "Manaus"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/03/ufam-abre-inscricoes-para-1280-vagas-em-cursos-de-idiomas-e-proficiencia-no-amazonas-veja-como-participar.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-03-audiencia-publica-eua-tarifaco",
+    "data": "2026-07-03",
+    "titulo": "Flávio Bolsonaro participa de audiência pública nos EUA sobre tarifas",
+    "resumo": "O senador e pré-candidato à Presidência, Flávio Bolsonaro, participará de uma audiência pública em Washington, nos Estados Unidos, na próxima terça-feira (7). O evento abordará as tarifas impostas a exportações brasileiras. Aliados de Bolsonaro consideram a carta enviada aos EUA como munição para Lula.",
+    "categoria": "politica",
+    "tags": [
+      "tarifas",
+      "comércio internacional",
+      "política externa",
+      "audiência pública"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Flávio Bolsonaro",
+      "Lula"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos",
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/politica/noticia/2026/07/03/flavio-bolsonaro-eua-tarifaco.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/03/aliados-de-flavio-bolsonaro-classificam-carta-aos-eua-como-municao-para-lula.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-03-crime-abuso-infantil-paraiba",
+    "data": "2026-07-03",
+    "titulo": "PF prende suspeito de armazenar imagens de abuso sexual infantil na Paraíba",
+    "resumo": "A Polícia Federal cumpriu um mandado de busca e apreensão em Triunfo, na Paraíba, contra um homem suspeito de armazenar imagens de abuso sexual infanto-juvenil. A investigação visa combater a exploração sexual infantil no estado. A ação ocorreu na manhã desta sexta-feira (3).",
+    "categoria": "justica",
+    "tags": [
+      "abuso infantil",
+      "exploração sexual",
+      "investigação",
+      "PF"
+    ],
+    "entidades": [
+      "Polícia Federal"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Paraíba"
+    ],
+    "cidades": [
+      "Triunfo"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/03/pf-faz-buscas-na-paraiba-contra-suspeito-de-armazenar-imagens-de-abuso-sexual-infantil.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-03-crime-estupro-filho-campina-grande",
+    "data": "2026-07-03",
+    "titulo": "Homem é preso suspeito de estuprar o próprio filho de 9 anos em Campina Grande",
+    "resumo": "Um homem de 51 anos foi preso em Campina Grande, na Paraíba, sob suspeita de estuprar o próprio filho de 9 anos, diagnosticado com Transtorno do Espectro Autista (TEA). A prisão ocorreu na manhã desta sexta-feira (3). A investigação apura o crime de estupro de vulnerável.",
+    "categoria": "justica",
+    "tags": [
+      "estupro de vulnerável",
+      "abuso infantil",
+      "prisão",
+      "crime"
     ],
     "entidades": [],
     "pessoas": [],
@@ -359,247 +435,7 @@
       "Paraíba"
     ],
     "cidades": [
-      "Bayeux"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/02/concurso-da-prefeitura-de-bayeux-tem-validade-prorrogada-por-mais-dois-anos.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "trump-birth-tourism",
-    "data": "2026-07-02",
-    "titulo": "Trump administration mira 'birth tourism' após revés na Suprema Corte",
-    "resumo": "A administração Trump pretende focar no 'birth tourism' (turismo de nascimento), mesmo após um revés na Suprema Corte que manteve a garantia constitucional da cidadania por nascimento. Procuradores federais e agentes de segurança vão direcionar esforços para a questão.",
-    "categoria": "politica",
-    "tags": [
-      "trump",
-      "imigração",
-      "cidadania"
-    ],
-    "entidades": [
-      "Suprema Corte"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/02/first-thing-birth-tourism-trump-administration-supreme-court"
-      }
-    ]
-  },
-  {
-    "id": "uk-apology-adocoes-forcasas",
-    "data": "2026-07-02",
-    "titulo": "Keir Starmer pede desculpas por escândalo de adoções forçadas no Reino Unido",
-    "resumo": "O líder do Partido Trabalhista, Keir Starmer, emitiu um pedido de desculpas oficial do governo britânico pelo escândalo de adoções forçadas ocorrido entre 1949 e 1976. Estima-se que 185 mil bebês foram retirados de mães solteiras nesse período na Inglaterra e País de Gales.",
-    "categoria": "politica",
-    "tags": [
-      "adoção",
-      "escândalo",
-      "desculpas"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Keir Starmer"
-    ],
-    "estados": [
-      "Inglaterra",
-      "País de Gales"
-    ],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/02/keir-starmer-apology-forced-adoption-labour-andy-burnham-uk-politics-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "cartoon-russo-uk",
-    "data": "2026-07-02",
-    "titulo": "MPs querem proibir transmissão de desenho russo 'Masha e o Urso' no Reino Unido",
-    "resumo": "Um grupo bipartidário de parlamentares do Reino Unido escreveu a ministros expressando preocupação com o desenho infantil russo 'Masha e o Urso'. Eles alegam que o programa contém conteúdo de 'propaganda' e buscam o fim de sua transmissão no país.",
-    "categoria": "cultura",
-    "tags": [
-      "desenho animado",
-      "propaganda",
-      "política"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido",
-      "Rússia"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/02/mps-uk-broadcast-russian-cartoon-masha-and-the-bear"
-      }
-    ]
-  },
-  {
-    "id": "vidro-copo-escola-sao-jose",
-    "data": "2026-07-02",
-    "titulo": "Alunos colocam vidro em copo de água de professora em escola de SP",
-    "resumo": "Um episódio ocorrido em uma escola municipal de São José dos Campos, São Paulo, envolveu alunos que colocaram uma lâmina de vidro no copo de água de uma professora. O incidente pode resultar em punições para os estudantes e responsabilidades para os pais.",
-    "categoria": "educacao",
-    "tags": [
-      "escola",
-      "incidente",
-      "punição"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "São José dos Campos"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/02/lamina-de-vidro-em-copo-de-agua-de-professora-saiba-o-que-pode-acontecer-com-os-alunos-e-pais-envolvidos.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "pre-candidatos-presidente-vice",
-    "data": "2026-07-02",
-    "titulo": "Apenas 3 de 13 pré-candidatos à presidência definiram vice; confira nomes",
-    "resumo": "Apenas três dos treze pré-candidatos à Presidência da República já definiram seus vices para as próximas eleições. Dentre os que já anunciaram seus companheiros de chapa estão Renan Santos (Partido Missão) com Aroldo Medina. Outros nomes em pré-campanha incluem Luiz Inácio Lula da Silva, Flávio Bolsonaro e Ronaldo Caiado.",
-    "categoria": "politica",
-    "tags": [
-      "eleições",
-      "presidência",
-      "vice"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Luiz Inácio Lula da Silva",
-      "Flávio Bolsonaro",
-      "Ronaldo Caiado",
-      "Renan Santos",
-      "Romeu Zema",
-      "Aécio Neves",
-      "Aroldo Medina"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/02/pre-candidatos-a-presidente-definiram-vice.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "cristiano-ronaldo-copa",
-    "data": "2026-07-02",
-    "titulo": "Cristiano Ronaldo busca feito inédito em oitavas de final da Copa do Mundo",
-    "resumo": "Aos 41 anos, Cristiano Ronaldo buscará um feito inédito em sua carreira durante o jogo das oitavas de final da Copa do Mundo entre Portugal e Croácia. O craque português almeja conquistar o único título que ainda falta em sua trajetória profissional.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "copa do mundo",
-      "cristiano ronaldo"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Cristiano Ronaldo"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Portugal",
-      "Croácia"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/07/02/copa-do-mundo-cristiano-ronaldo-persegue-feito-inedito-da-carreira-em-jogo-das-oitavas.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "ana-paula-justus",
-    "data": "2026-07-02",
-    "titulo": "Ana Paula Siebert fala sobre diferença de idade com Justus",
-    "resumo": "A influenciadora Ana Paula Siebert comentou sobre a diferença de 33 anos em seu relacionamento com o empresário Roberto Justus. Ela lamentou os ataques que recebeu de internautas por causa da relação.",
-    "categoria": "cultura",
-    "tags": [
-      "celebridades",
-      "relacionamento",
-      "influenciador"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Ana Paula Siebert",
-      "Roberto Justus"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "cnnbrasil.com.br",
-        "url": "https://www.cnnbrasil.com.br/pop/celebridades/ana-paula-siebert-revela-pancada-por-diferenca-de-33-anos-com-justus/"
-      }
-    ]
-  },
-  {
-    "id": "frota-carro-clonada-rj",
-    "data": "2026-07-02",
-    "titulo": "Polícia investiga esquema de carros roubados e placas clonadas no RJ",
-    "resumo": "A Polícia Civil do Rio de Janeiro investiga um esquema de roubo de carros e clonagem de placas. Uma operação da Delegacia de Roubos e Furtos de Automóveis cumpre mandados de busca e apreensão e efetuou prisões em flagrante, incluindo um suspeito com uma motocicleta roubada em São Gonçalo.",
-    "categoria": "seguranca",
-    "tags": [
-      "polícia",
-      "roubo de veículos",
-      "placa clonada"
-    ],
-    "entidades": [
-      "Polícia Civil"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "São Gonçalo"
+      "Campina Grande"
     ],
     "paises": [
       "Brasil"
@@ -607,212 +443,31 @@
     "importancia": 4,
     "fontes": [
       {
-        "nome": "cnnbrasil.com.br",
-        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-investiga-esquema-de-carros-roubados-e-placas-clonadas-no-rj/"
+        "nome": "G1",
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/03/homem-e-preso-suspeito-de-estrupar-filho-de-9-anos-em-campina-grande.ghtml"
       }
     ]
   },
   {
-    "id": "assedio-eleitoral-prefeito-sp",
-    "data": "2026-07-02",
-    "titulo": "Prefeito de Eldorado (SP) é condenado por assédio eleitoral",
-    "resumo": "O prefeito de Eldorado (SP), Noel Castelo da Costa, foi condenado por assédio eleitoral após publicar um vídeo intimidando um servidor público. A decisão foi proferida pela Justiça do Trabalho de Registro.",
-    "categoria": "justica",
-    "tags": [
-      "assédio eleitoral",
-      "prefeito",
-      "condenação"
-    ],
-    "entidades": [
-      "Justiça do Trabalho"
-    ],
-    "pessoas": [
-      "Noel Castelo da Costa"
-    ],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Eldorado"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/02/prefeito-em-sp-e-condenado-por-assedio-eleitoral-apos-publicar-video-intimidando-servidor-publico.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "onda-calor-franca",
-    "data": "2026-07-02",
-    "titulo": "Onda de calor na França causa incêndios e mortes",
-    "resumo": "Uma intensa onda de calor atinge o sul da França, levando bombeiros a combater incêndios florestais. Autoridades de saúde estimam que as temperaturas extremas podem ter sido responsáveis por cerca de mil mortes no país.",
+    "id": "2026-07-03-tempestade-infernal-sao-paulo",
+    "data": "2026-07-03",
+    "titulo": "Urupema, SC, registra 3°C e estado se prepara para frio intenso",
+    "resumo": "Urupema, conhecida como a Capital Nacional do Frio, registrou 3°C nesta sexta-feira (3), a menor temperatura do estado de Santa Catarina no dia. A região serrana se prepara para um fim de semana com temperaturas que podem chegar a -4°C. A queda na temperatura é esperada em diversas cidades catarinenses.",
     "categoria": "meio-ambiente",
     "tags": [
-      "onda de calor",
-      "incêndios",
-      "mortes"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "França"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "cnnbrasil.com.br",
-        "url": "https://www.cnnbrasil.com.br/internacional/onda-de-calor-na-franca-bombeiros-combatem-incendios-no-sul-do-pais/"
-      }
-    ]
-  },
-  {
-    "id": "homicidio-casal-bh",
-    "data": "2026-07-02",
-    "titulo": "Mulher confessa ter matado casal em BH e roubado pertences das vítimas",
-    "resumo": "Uma mulher confessou ter matado um casal de idosos em um apartamento em Belo Horizonte e, em seguida, roubado relógios, braceletes de ouro e celulares das vítimas. Os itens foram vendidos por R$ 3,3 mil. A suspeita foi presa.",
-    "categoria": "justica",
-    "tags": [
-      "homicidio",
-      "roubo",
-      "belo horizonte"
+      "frio",
+      "temperatura",
+      "clima",
+      "inverno"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [
-      "Minas Gerais"
+      "Santa Catarina"
     ],
     "cidades": [
-      "Belo Horizonte"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/02/mulher-que-confessou-matar-casal-em-bh-roubou-e-vendeu-relogios-braceletes-de-ouro-e-celulares-das-vitimas-por-r-33-mil-diz-delegado.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "piloto-pequeno-aviao-beijing",
-    "data": "2026-07-02",
-    "titulo": "Piloto de avião que atingiu torre em Pequim escreveu sobre 'fim da vida', dizem autoridades",
-    "resumo": "Autoridades chinesas informaram que o piloto de um pequeno avião que colidiu com a torre mais alta de Pequim escreveu em seu diário sobre 'acabar com sua vida'. A declaração busca encerrar especulações sobre o incidente que levantou preocupações com a segurança aérea na capital chinesa.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente aéreo",
-      "pequim",
-      "investigação"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Pequim"
-    ],
-    "paises": [
-      "China"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/en/asia-pacific/20260702-pilot-who-hit-beijing-tallest-tower-wrote-about-ending-his-life-suicide-officials-say"
-      }
-    ]
-  },
-  {
-    "id": "traficante-pessoas-reino-unido",
-    "data": "2026-07-02",
-    "titulo": "Governo do Reino Unido investiga traficante de pessoas vivendo no país",
-    "resumo": "O governo do Reino Unido manifestou compartilhar o 'choque público' após relatos de que um traficante de pessoas condenado estaria vivendo no país. Downing Street está investigando urgentemente as circunstâncias, com informações indicando que o indivíduo seria o 'padrinho' dos campos de migrantes em Calais.",
-    "categoria": "seguranca",
-    "tags": [
-      "tráfico humano",
-      "imigração",
-      "investigação"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Leicestershire"
-    ],
-    "cidades": [
-      "Calais"
-    ],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/02/convicted-people-smuggler-uk-should-deported-tories"
-      }
-    ]
-  },
-  {
-    "id": "resgate-venezuelano-escombros-venezuela",
-    "data": "2026-07-02",
-    "titulo": "Socorristas tentam resgate de venezuelano preso há 7 dias sob escombros",
-    "resumo": "Centenas de socorristas trabalham no resgate de um venezuelano que está preso há uma semana sob os escombros de um shopping em La Guaira, na Venezuela. As equipes de resgate, incluindo bombeiros do Chile, tentam desenterrar o homem em uma operação dramática.",
-    "categoria": "internacional",
-    "tags": [
-      "resgate",
-      "escombros",
-      "venezuela"
-    ],
-    "entidades": [
-      "Corpo de bombeiros do Chile"
-    ],
-    "pessoas": [
-      "Hernán Gil"
-    ],
-    "estados": [],
-    "cidades": [
-      "La Guaira"
-    ],
-    "paises": [
-      "Venezuela",
-      "Chile"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mundo/noticia/2026/07/02/equipes-resgate-tentam-resgate-dramatico-escombros-shopping-terremotos-venezuela.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "comercio-exterior-sorocaba",
-    "data": "2026-07-02",
-    "titulo": "Importlink se consolida em comércio exterior no interior paulista",
-    "resumo": "A empresa Importlink, sediada em Sorocaba, se consolidou como referência em comércio exterior na região, contribuindo para que Sorocaba se torne o 5º maior município exportador do estado de São Paulo. A empresa atua integrando desembaraço aduaneiro e serviços logísticos.",
-    "categoria": "economia",
-    "tags": [
-      "comércio exterior",
-      "exportação",
-      "sorocaba"
-    ],
-    "entidades": [
-      "Importlink"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Sorocaba"
+      "Urupema",
+      "Lages"
     ],
     "paises": [
       "Brasil"
@@ -820,85 +475,126 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/sorocaba-jundiai/especial-publicitario/importlink/noticia/2026/07/02/como-a-importlink-se-tornou-referencia-em-comercio-exterior-no-interior-paulista.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/03/capital-nacional-do-frio-registra-3c.ghtml"
       }
     ]
   },
   {
-    "id": "trump-250-aniversario-eua",
-    "data": "2026-07-02",
-    "titulo": "Reportagem diz que Trump 'sequestrou' aniversário dos EUA para agenda própria",
-    "resumo": "Uma reportagem indica que Donald Trump teria usado o 250º aniversário dos Estados Unidos para promover sua agenda política e projetos pessoais. Um importante democrata da Câmara descreveu a atitude como uma tentativa de 'roubar a celebração da América'.",
-    "categoria": "politica",
-    "tags": [
-      "trump",
-      "aniversário",
-      "política"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Donald Trump"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/live/2026/jul/02/donald-trump-us-politics-250-anniversary-republicans-democrats-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "internet-rn-velocidade-fatura",
-    "data": "2026-07-02",
-    "titulo": "Operadoras de internet no RN terão de informar velocidade real na fatura",
-    "resumo": "Uma nova lei no Rio Grande do Norte determinará que as operadoras de internet informem nas faturas mensais a velocidade real entregue aos clientes. A legislação entrará em vigor em 90 dias e exigirá detalhamento da velocidade média diária.",
-    "categoria": "economia",
-    "tags": [
-      "internet",
-      "consumidor",
-      "lei"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio Grande do Norte"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/02/operadoras-do-rn-terao-de-informar-velocidade-real-da-internet-entregue-aos-clientes-nas-faturas.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "presos-documento-falso-para",
-    "data": "2026-07-30",
-    "titulo": "Dupla é presa ao tentar sacar benefício com documento falso no Pará",
-    "resumo": "Um idoso e uma mulher foram presos em flagrante no Pará por tentativa de estelionato ao tentar sacar um benefício com um documento falso. O caso ocorreu em uma agência bancária em Mãe do Rio na terça-feira (30).",
+    "id": "2026-07-03-ataque-casa-familia-terra-santa",
+    "data": "2026-07-03",
+    "titulo": "Homem denunciado por incendiar casa com família dentro no Pará",
+    "resumo": "Um homem foi denunciado pelo Ministério Público do Estado do Pará (MPPA) por violência contra a mulher e tentativas de homicídio. Ele teria incendiado a casa onde morava com a esposa e os dois filhos, de 5 e 3 anos. A denúncia aponta que ele tentou matar a própria família.",
     "categoria": "justica",
     "tags": [
-      "prisão",
-      "estelionato",
-      "documento falso"
+      "violência doméstica",
+      "tentativa de homicídio",
+      "incêndio",
+      "crime"
     ],
-    "entidades": [],
+    "entidades": [
+      "MPPA"
+    ],
     "pessoas": [],
     "estados": [
       "Pará"
     ],
     "cidades": [
-      "Mãe do Rio"
+      "Terra Santa"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/03/homem-e-denunciado-por-incendiar-casa-com-familia-dentro-em-terra-santa-pa.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-03-homenagem-craques-argentinos",
+    "data": "2026-07-03",
+    "titulo": "Pai batiza filhos com nomes de craques argentinos no Rio Grande do Norte",
+    "resumo": "Um pai no Rio Grande do Norte decidiu batizar seus filhos com nomes de ídolos do futebol argentino: Diego Armando Maradona, Riquelme Crespo Palácios e Lionel Andrés Messi. A escolha foi uma forma de homenagear os jogadores. O caso chamou a atenção na certidão de nascimento.",
+    "categoria": "cultura",
+    "tags": [
+      "futebol",
+      "homenagem",
+      "nomes",
+      "país"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Diego Armando Maradona",
+      "Riquelme Crespo Palácios",
+      "Lionel Andrés Messi"
+    ],
+    "estados": [
+      "Rio Grande do Norte"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil",
+      "Argentina"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/03/maradona-riquelme-messi-pai-filhos-homenagem-argentina.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-03-desemprego-starling-bank",
+    "data": "2026-07-03",
+    "titulo": "Starling Bank anuncia corte de 130 empregos e foca em investimento em IA",
+    "resumo": "O Starling Bank, banco digital com sede em Londres, comunicou o corte de 130 empregos, representando 3% de sua força de trabalho. A reestruturação visa reduzir custos e otimizar funções consideradas duplicadas. A instituição planeja aumentar o investimento em inteligência artificial (IA).",
+    "categoria": "economia",
+    "tags": [
+      "banco",
+      "demissões",
+      "inteligência artificial",
+      "custos"
+    ],
+    "entidades": [
+      "Starling Bank"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/jul/03/starling-bank-cuts-130-jobs-boosts-ai-investment"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-03-pinguim-ipanema",
+    "data": "2026-07-03",
+    "titulo": "Pinguim aparece na Praia de Ipanema, no Rio de Janeiro",
+    "resumo": "Um pinguim foi avistado na manhã desta sexta-feira (3) na Praia de Ipanema, Zona Sul do Rio de Janeiro. A ave chamou a atenção de banhistas e foi filmada caminhando pela areia perto do Posto 9. O animal buscou abrigo em uma cadeira de praia após o passeio.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "animal",
+      "pinguim",
+      "praia",
+      "natureza"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Rio de Janeiro"
     ],
     "paises": [
       "Brasil"
@@ -906,8 +602,229 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pa/para/noticia/2026/07/02/dupla-e-presa-ao-tentar-sacar-beneficio-com-documento-falso-no-para.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/07/03/pinguim-praia-de-ipanema.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-03-entregador-morto-cuiaba",
+    "data": "2026-07-03",
+    "titulo": "Entregador é morto a tiros após reagir a assalto em Cuiabá",
+    "resumo": "Um entregador identificado como Tonny Marcos foi morto a tiros ao reagir a uma tentativa de assalto no bairro Bela Vista, em Cuiabá, nessa quinta-feira (2). Dois suspeitos teriam praticado o crime. A polícia investiga o caso.",
+    "categoria": "justica",
+    "tags": [
+      "assalto",
+      "morte",
+      "crime",
+      "entrega"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Tonny Marcos"
+    ],
+    "estados": [
+      "Mato Grosso"
+    ],
+    "cidades": [
+      "Cuiabá"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/03/entregador-e-morto-a-tiros-apos-reagir-a-assalto-em-cuiaba.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-03-ausentismo-alemanha",
+    "data": "2026-07-03",
+    "titulo": "Trabalhadores alemães registram recorde de atestados médicos; Chanceler Merz anuncia medidas",
+    "resumo": "O número de atestados médicos na Alemanha atingiu um novo recorde, com trabalhadores ausentes por quase 20 dias por ano em média. O Chanceler Merz anunciou medidas para combater o absenteísmo. A Alemanha busca entender como sua taxa se compara a outros países.",
+    "categoria": "economia",
+    "tags": [
+      "absenteísmo",
+      "saúde do trabalhador",
+      "economia",
+      "governo"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Merz"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Alemanha"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "DW",
+        "url": "https://www.dw.com/en/sick-leave-why-german-workers-cant-get-enough/a-77815488?maca=en-rss-en-all-1573-rdf"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-03-spotify-streams-musica-ia",
+    "data": "2026-07-03",
+    "titulo": "Spotify remove milhões de streams de música por suspeita de manipulação",
+    "resumo": "O Spotify removeu mais de meio milhão de reproduções da música \"Earrings\", do cantor Malcolm Todd, após indícios de manipulação em seu desempenho. A faixa havia alcançado o primeiro lugar nas paradas dos Estados Unidos. O Spotify também anunciou que permitirá remixes com IA.",
+    "categoria": "cultura",
+    "tags": [
+      "música",
+      "streaming",
+      "Spotify",
+      "manipulação"
+    ],
+    "entidades": [
+      "Spotify"
+    ],
+    "pessoas": [
+      "Malcolm Todd"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/07/03/spotify-remove-streams-de-musica-no-1-nos-eua-apos-suspeita-de-manipulacao-diz-jornal-britanico.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-03-catastrofe-direitos-humanos-sudan",
+    "data": "2026-07-03",
+    "titulo": "ONU alerta para 'catástrofe de direitos humanos' em al-Obeid, no Sudão",
+    "resumo": "O chefe de direitos humanos da ONU descreveu uma 'catástrofe de direitos humanos' se desenrolando na cidade sudanesa de al-Obeid, cercada por combates. Ele alertou sobre um padrão de atrocidades e pediu ação global. Al-Obeid é a capital do estado de Kordofan do Norte, palco de intensos confrontos.",
+    "categoria": "internacional",
+    "tags": [
+      "direitos humanos",
+      "conflito",
+      "guerra",
+      "ONU"
+    ],
+    "entidades": [
+      "ONU"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Kordofan do Norte"
+    ],
+    "cidades": [
+      "al-Obeid"
+    ],
+    "paises": [
+      "Sudão"
+    ],
+    "importancia": 5,
+    "fontes": [
+      {
+        "nome": "France24",
+        "url": "https://www.france24.com/en/video/20260703-human-rights-catastrophe-unfolding-in-sudan-s-al-obeid-says-un"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-03-festival-vinhos-queijos-garanhuns",
+    "data": "2026-07-03",
+    "titulo": "Garanhuns anuncia programação do Festival de Vinhos e Queijos com Nando Reis e Jorge Vercillo",
+    "resumo": "A cidade de Garanhuns, em Pernambuco, divulgou a programação da primeira edição do Festival de Vinhos e Queijos, que acontecerá entre os dias 28 e 30 de agosto. Entre as atrações confirmadas estão os artistas Nando Reis, Jorge Vercillo e Léo Foguete. O evento busca promover a cultura local.",
+    "categoria": "cultura",
+    "tags": [
+      "festival",
+      "música",
+      "gastronomia",
+      "cultura"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Nando Reis",
+      "Jorge Vercillo",
+      "Léo Foguete"
+    ],
+    "estados": [
+      "Pernambuco"
+    ],
+    "cidades": [
+      "Garanhuns"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/07/03/nando-reis-jorge-vercillo-e-mais-confira-programacao-do-festival-de-vinhos-e-queijos-de-garanhuns.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-03-ligacoes-insistentes-indenizacao",
+    "data": "2026-07-03",
+    "titulo": "Juiz condena operadora a indenizar estudante por ligações insistentes de telemarketing",
+    "resumo": "Um juiz determinou que uma operadora de telefonia indenize um estudante de direito em Goiânia por ligações insistentes de telemarketing, chegando a 100 chamadas diárias. O magistrado afirmou que a prática viola a paz da pessoa. O consumidor venceu a ação contra a empresa.",
+    "categoria": "justica",
+    "tags": [
+      "telemarketing",
+      "consumidor",
+      "indenização",
+      "direitos"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Caio Aless"
+    ],
+    "estados": [
+      "Goiás"
+    ],
+    "cidades": [
+      "Goiânia"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/go/goias/noticia/2026/07/03/ligacoes-insistentes-para-ofertas-de-produtos-violam-a-paz-diz-juiz-que-ordenou-indenizacao-de-operadora-de-telegonia-a-estudante-de-direito.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-03-efeito-cabo-verde-copa",
+    "data": "2026-07-03",
+    "titulo": "Desempenho de Cabo Verde na Copa do Mundo ultrapassa o futebol",
+    "resumo": "A campanha de Cabo Verde na Copa do Mundo está se tornando um fenômeno que vai além do esporte. O desempenho da seleção nacional tem gerado repercussão internacional e mobilizado o país. As conquistas em campo simbolizam algo maior para os cabo-verdianos.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "Copa do Mundo",
+      "Cabo Verde",
+      "esporte"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Cabo Verde"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/video-the-cape-verde-effect?traffic_source=rss"
       }
     ]
   }
