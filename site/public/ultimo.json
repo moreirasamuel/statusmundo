@@ -1,113 +1,61 @@
 [
   {
-    "id": "2026-07-04-copa-do-mundo",
-    "data": "2026-07-04",
-    "titulo": "Argentina avança na Copa do Mundo, enquanto Marrocos busca feito inédito e Brasil se prepara para jogo das oitavas.",
-    "resumo": "A Argentina garantiu sua vaga nas oitavas de final da Copa do Mundo de 2026 após vencer Cabo Verde em uma partida disputada que foi para a prorrogação. Lionel Messi marcou seu 20º gol em Copas. Enquanto isso, Marrocos busca um feito histórico para o futebol africano ao enfrentar o Canadá, e o Brasil se prepara para seu confronto contra a Noruega, com cidades como Cuiabá e Nova York decorando-se para os jogos.",
+    "id": "2026-07-05-jogo-brasil-altera-funcionamento",
+    "data": "2026-07-05",
+    "titulo": "Jogo do Brasil causa alterações no funcionamento de estabelecimentos em Salvador e Baixada Santista",
+    "resumo": "O jogo da seleção brasileira contra a Noruega, realizado nos Estados Unidos, levou à alteração nos horários de funcionamento de shoppings, zoológico e outros estabelecimentos em Salvador e sua região metropolitana. Na Baixada Santista, shoppings e pontos turísticos também tiveram seus horários modificados devido à partida. O jogo ocorreu no domingo, 5 de julho.",
     "categoria": "esportes",
     "tags": [
       "Copa do Mundo",
-      "futebol",
-      "Argentina",
-      "Cabo Verde",
-      "Marrocos",
-      "Brasil",
-      "Noruega"
-    ],
-    "entidades": [
-      "Copa do Mundo FIFA"
-    ],
-    "pessoas": [
-      "Lionel Messi"
-    ],
-    "estados": [
-      "Nova York",
-      "Nova Jersey"
-    ],
-    "cidades": [
-      "Cuiabá"
-    ],
-    "paises": [
-      "Argentina",
-      "Cabo Verde",
-      "Marrocos",
-      "Canadá",
-      "Brasil",
-      "Noruega"
-    ],
-    "importancia": 5,
-    "fontes": [
-      {
-        "nome": "France24",
-        "url": "https://www.france24.com/en/tv-shows/sports/20260704-argentina-spirited-cape-verde-qualify-for-world-cup-last-16"
-      },
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/brasil-x-noruega-ancelotti-reencontra-astro-que-dispensou-do-real-madrid/"
-      },
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/marrocos-busca-alcancar-feito-inedito-para-o-futebol-africano-em-copas/"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/04/brasil-x-noruega-veja-onde-assistir-ao-jogo-da-copa-em-cuiaba-neste-domingo-5.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-04-conflito-ucrania",
-    "data": "2026-07-04",
-    "titulo": "Zelensky nega captura russa de cidade chave no leste; Rússia afirma controle.",
-    "resumo": "O Presidente ucraniano Volodymyr Zelensky negou alegações russas de que a cidade estratégica de Kostiantynivka, no leste da Ucrânia, teria sido capturada. Segundo Zelensky e o Estado-Maior da Ucrânia, o controle da cidade ainda pertence às forças ucranianas. A Rússia informou ao Presidente Vladimir Putin na sexta-feira que suas tropas haviam assumido o controle da localidade.",
-    "categoria": "internacional",
-    "tags": [
-      "guerra",
-      "Ucrânia",
-      "Rússia",
-      "conflito",
-      "Kostiantynivka"
+      "horário de funcionamento",
+      "fim de semana"
     ],
     "entidades": [],
-    "pessoas": [
-      "Volodymyr Zelensky",
-      "Vladimir Putin"
+    "pessoas": [],
+    "estados": [
+      "Bahia",
+      "São Paulo"
     ],
-    "estados": [],
     "cidades": [
-      "Kostiantynivka"
+      "Salvador",
+      "Santos"
     ],
     "paises": [
-      "Ucrânia",
-      "Rússia"
+      "Brasil",
+      "Noruega",
+      "Estados Unidos"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "France24",
-        "url": "https://www.france24.com/en/zelensky-denies-russian-capture-of-key-eastern-city"
+        "nome": "G1",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/07/05/jogo-do-brasil-provoca-alteracoes-no-funcionamento.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/05/veja-o-que-abre-e-fecha-na-baixada-santista-durante-o-jogo-do-brasil-na-copa-do-mundo.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-04-politica-eua-trump",
-    "data": "2026-07-04",
-    "titulo": "Trump discursa em Mount Rushmore em meio a celebrações de independência e críticas.",
-    "resumo": "O Presidente Donald Trump fez um discurso em Mount Rushmore, marcando o 250º aniversário da independência americana, com retórica sobre o excepcionalismo dos EUA. Ele também abordou o que chamou de ameaça comunista, evocando um período sombrio da história do país. Especialistas observam que o discurso foi político, deixando claro 'quem está dentro e quem está fora'.",
+    "id": "2026-07-05-eua-celebra-independencia",
+    "data": "2026-07-05",
+    "titulo": "Estados Unidos celebram 250 anos de independência em meio a polarização política e onda de calor",
+    "resumo": "Os Estados Unidos celebraram o seu 250º aniversário de independência. As comemorações ocorreram em meio a um cenário de forte polarização política no país e a uma onda de calor que afetou milhões de pessoas em diversos estados. O ex-presidente Donald Trump elogiou as forças armadas americanas durante as celebrações.",
     "categoria": "politica",
     "tags": [
-      "EUA",
-      "Donald Trump",
-      "Mount Rushmore",
       "independência",
-      "discurso"
+      "celebração",
+      "política"
     ],
     "entidades": [],
     "pessoas": [
       "Donald Trump"
     ],
     "estados": [
-      "Dakota do Sul"
+      "California",
+      "Texas",
+      "Arizona"
     ],
     "cidades": [],
     "paises": [
@@ -117,70 +65,88 @@
     "fontes": [
       {
         "nome": "France24",
-        "url": "https://www.france24.com/en/trump-speech-at-mount-rushmore-making-it-clear-who-s-in-and-who-s-out-expert-says"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-04-acidentes-transito",
-    "data": "2026-07-04",
-    "titulo": "Acidentes de trânsito em Santarém (PA) e no Paraná resultam em mortes.",
-    "resumo": "Um grave acidente envolvendo uma moto e um ônibus em Santarém, no Pará, deixou uma pessoa morta e outra ferida. No Paraná, um motorista de furgão morreu após uma colisão frontal com um caminhão na rodovia PR-466, em Ivaiporã, região Norte do estado.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente",
-      "trânsito",
-      "morte",
-      "Pará",
-      "Paraná"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Pará",
-      "Paraná"
-    ],
-    "cidades": [
-      "Santarém",
-      "Ivaiporã"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/04/acidente-entre-moto-e-onibus-deixa-um-morto-e-um-ferido-grave-em-santarem-no-para.ghtml"
+        "url": "https://www.france24.com/en/us-celebrates-250-years-of-independence-amid-polarising-political-landscape"
       },
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/07/04/acidente-furgao-caminhao-pr.html"
+        "nome": "Aljazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/trump-praises-us-military-as-it-marks-250-years-of-independence?traffic_source=rss"
       }
     ]
   },
   {
-    "id": "2026-07-04-cesta-basica-manaus",
-    "data": "2026-07-04",
-    "titulo": "Cesta básica em Manaus sobe em julho apesar da queda no tomate; batata e feijão puxam alta.",
-    "resumo": "A cesta básica em Manaus registrou um aumento de 4,52% em julho, alcançando o preço médio de R$ 293,98. A alta foi impulsionada principalmente pelos preços da batata e do feijão. Apesar disso, o tomate apresentou uma queda de quase 40% em seu valor.",
-    "categoria": "economia",
+    "id": "2026-07-05-justica-reino-unido-taxa-asilo",
+    "data": "2026-07-05",
+    "titulo": "Reino Unido considera taxa para solicitantes de asilo",
+    "resumo": "O Reino Unido pode implementar uma taxa de 10 mil euros para solicitantes de asilo. Segundo a proposta de lei, o pagamento seria uma forma de os imigrantes retribuírem a hospitalidade britânica. A medida visa gerar recursos e regular o processo de imigração.",
+    "categoria": "politica",
     "tags": [
-      "economia",
-      "cesta básica",
-      "inflação",
-      "preços",
-      "Manaus"
+      "imigração",
+      "política migratória",
+      "taxa"
     ],
-    "entidades": [
-      "Procon Manaus"
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
     ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/reino-unido-pode-aplicar-taxa-de-10-mil-euros-para-solicitantes-de-asilo/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-05-recuperacao-piloto-papua",
+    "data": "2026-07-05",
+    "titulo": "Exército indonésio recupera corpo de piloto americano na Papua",
+    "resumo": "As tropas indonésias recuperaram o corpo do piloto americano Nicholas Goselin na região de Papua. A região é conhecida por instabilidade social e política. A operação militar marcou o fim de uma busca pelo corpo.",
+    "categoria": "internacional",
+    "tags": [
+      "recuperação de corpo",
+      "piloto",
+      "região remota"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Nicholas Goselin"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Indonésia",
+      "Estados Unidos"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "Aljazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/indonesian-army-recovers-us-pilots-body-from-papua?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-05-cirurgias-vesicula-campinas",
+    "data": "2026-07-05",
+    "titulo": "Região de Campinas realiza alta demanda de cirurgias de vesícula",
+    "resumo": "A região de Campinas realizou 4.661 cirurgias eletivas de vesícula em 2025, o que representa uma média de quase 13 procedimentos por dia. Este volume se mantém acima do registrado no período pré-pandemia. As cirurgias são realizadas pelo Sistema Único de Saúde (SUS).",
+    "categoria": "saude",
+    "tags": [
+      "cirurgia",
+      "SUS",
+      "saúde pública",
+      "pandemia"
+    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [
-      "Amazonas"
+      "São Paulo"
     ],
     "cidades": [
-      "Manaus"
+      "Campinas"
     ],
     "paises": [
       "Brasil"
@@ -189,30 +155,31 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/04/tomate-cai-quase-40percent-mas-batata-e-feijao-puxam-alta-da-cesta-basica-que-chega-a-r-29398-em-julho-em-manaus.html"
+        "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/05/regiao-de-campinas-faz-quase-13-cirurgias-eletivas-de-vesicula-de-dia-em-meio-a-alta-pos-pandemia.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-04-romaria-trindade",
-    "data": "2026-07-04",
-    "titulo": "Medalhão de 185 anos inspira Romaria do Divino Pai Eterno em Trindade.",
-    "resumo": "A Romaria do Divino Pai Eterno, que atrai milhões de peregrinos anualmente em Trindade, Goiás, tem sua origem em um medalhão de barro com nove centímetros encontrado há 185 anos. O objeto, descoberto em 1840 por um casal de lavradores, deu início à tradicional festividade religiosa.",
-    "categoria": "cultura",
+    "id": "2026-07-05-riscos-cerol-amapa",
+    "data": "2026-07-05",
+    "titulo": "Juiz alerta para riscos de cerol e linha chilena durante férias escolares no Amapá",
+    "resumo": "O juiz Augusto Leite, do Juizado Especial Criminal de Macapá, alertou sobre os perigos e crimes associados ao uso de cerol e linha chilena em pipas. O aviso ocorre durante o período de férias escolares. O uso desses materiais pode colocar vidas em risco.",
+    "categoria": "seguranca",
     "tags": [
-      "religião",
-      "peregrinação",
-      "Trindade",
-      "Goiás",
-      "história"
+      "alerta",
+      "férias escolares",
+      "cerol",
+      "linha chilena"
     ],
     "entidades": [],
-    "pessoas": [],
+    "pessoas": [
+      "Augusto Leite"
+    ],
     "estados": [
-      "Goiás"
+      "Amapá"
     ],
     "cidades": [
-      "Trindade"
+      "Macapá"
     ],
     "paises": [
       "Brasil"
@@ -221,27 +188,276 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/go/goias/noticia/2026/07/04/encontrado-ha-185-anos-medalhao-deu-origem-a-romaria-do-divino-pai-eterno-conheca-a-historia.ghtml"
+        "url": "https://g1.globo.com/ap/amapa/noticia/2026/07/05/ferias-escolares-juiz-alerta-para-riscos-e-crimes-ligados-ao-uso-de-cerol-e-linha-chilena-no-amapa.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-04-sao-joao-maranhao",
-    "data": "2026-07-04",
-    "titulo": "São João de São Luís celebra o último fim de semana com bumba meu boi e shows.",
-    "resumo": "São Luís, no Maranhão, encerra as celebrações juninas com um último fim de semana repleto de atrações. A programação inclui apresentações de grupos de bumba meu boi e shows de artistas como Alcione e Péricles. As festividades juninas são consideradas uma das mais tradicionais e aguardadas do estado.",
+    "id": "2026-07-05-plano-safra-setor-agro",
+    "data": "2026-07-05",
+    "titulo": "Presidente da Abag critica Plano Safra por não contemplar setor",
+    "resumo": "O presidente da Associação Brasileira do Agronegócio (Abag), Ingo Plöger, declarou que o Plano Safra não atendeu às demandas do setor. Ele criticou as altas taxas de juros e apontou o risco de os recursos não serem totalmente utilizados na safra 2026/2027. A declaração indica insatisfação com as políticas de crédito rural.",
+    "categoria": "economia",
+    "tags": [
+      "Plano Safra",
+      "agronegócio",
+      "crédito rural",
+      "juros"
+    ],
+    "entidades": [
+      "Abag"
+    ],
+    "pessoas": [
+      "Ingo Plöger"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/agro/plano-safra-nao-contemplou-pleito-do-setor-diz-presidente-da-abag/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-05-morte-motociclista-df",
+    "data": "2026-07-05",
+    "titulo": "Motociclista morre após colisão com mureta na BR-020, no DF",
+    "resumo": "Um motociclista faleceu após colidir contra uma mureta de proteção na BR-020, no Distrito Federal, na noite de sábado (4). O acidente ocorreu próximo ao Taquari, sentido Sobradinho. As circunstâncias exatas da colisão estão sob investigação.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente",
+      "morte",
+      "rodovia"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Distrito Federal"
+    ],
+    "cidades": [
+      "Sobradinho"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/07/05/motociclista-morre-apos-colidir-contra-mureta-de-protecao-na-br-020-no-df.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-05-nascimento-neta-zeze-di-camargo",
+    "data": "2026-07-05",
+    "titulo": "Zezé di Camargo comemora nascimento da neta Florença",
+    "resumo": "O cantor Zezé di Camargo celebrou o nascimento de sua neta, Florença. Ele descreveu o momento como um privilégio. Florença é filha de Igor, o terceiro filho do cantor, com Amabylle Eiroa. A família expressou alegria com a chegada da nova integrante.",
     "categoria": "cultura",
     "tags": [
-      "festas juninas",
-      "São João",
-      "Maranhão",
-      "cultura popular",
+      "nascimento",
+      "família",
+      "celebridade"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Zezé di Camargo",
+      "Igor",
+      "Amabylle Eiroa"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/pop/celebridades/zeze-di-camargo-comemora-nascimento-da-neta-com-declaracao-privilegio/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-05-cristo-redentor-iluminado-eua",
+    "data": "2026-07-05",
+    "titulo": "Cristo Redentor é iluminado em homenagem à independência dos EUA",
+    "resumo": "O Cristo Redentor, no Rio de Janeiro, foi iluminado em celebração à independência dos Estados Unidos. A homenagem foi realizada pelo Consulado-Geral americano em parceria com a Arquidiocese do Rio de Janeiro. O evento marcou a efeméride americana no Brasil.",
+    "categoria": "internacional",
+    "tags": [
+      "homenagem",
+      "independência dos EUA",
+      "Cristo Redentor"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Rio de Janeiro"
+    ],
+    "paises": [
+      "Estados Unidos",
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/cristo-redentor-e-iluminado-em-homenagem-a-independencia-dos-eua/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-05-prisao-drogas-sao-jose-dos-campos",
+    "data": "2026-07-05",
+    "titulo": "Homem é preso com grande quantidade de drogas em São José dos Campos",
+    "resumo": "Um homem foi detido em flagrante com 2,6 mil porções de drogas na noite de sábado (4), no Jardim Pararangaba, em São José dos Campos. Durante a abordagem, foram apreendidos 502 pinos de cocaína e outras substâncias ilícitas. A Polícia Militar efetuou a prisão.",
+    "categoria": "seguranca",
+    "tags": [
+      "prisão",
+      "drogas",
+      "flagrante"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "São José dos Campos"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/05/homem-e-preso-com-26-mil-porcoes-de-drogas-no-pararangaba-em-sao-jose-dos-campos.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-05-frio-sao-paulo-jogo-brasil",
+    "data": "2026-07-05",
+    "titulo": "São Paulo registra frio e muitas nuvens no domingo do jogo do Brasil",
+    "resumo": "A cidade de São Paulo experimentou um dia frio e com muitas nuvens no domingo (5), coincidindo com a realização do jogo da seleção brasileira. A previsão meteorológica indicou a necessidade de agasalhos para quem acompanhou a partida. As temperaturas baixas foram acompanhadas por um céu encoberto.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "previsão do tempo",
+      "frio",
+      "São Paulo",
+      "clima"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "São Paulo"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/05/domingo-de-jogo-do-brasil-sera-de-frio-e-muitas-nuvens-em-sp-veja-a-previsao-para-os-proximos-dias.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-05-pf-prende-mulher-medicamentos-galeao",
+    "data": "2026-07-05",
+    "titulo": "PF prende mulher com medicamentos irregulares no Aeroporto do Galeão",
+    "resumo": "A Polícia Federal efetuou a prisão em flagrante de uma mulher no Aeroporto do Galeão, no Rio de Janeiro, na noite de sábado (4). Ela transportava medicamentos para emagrecimento e anabolizantes sem a devida documentação. Os produtos não possuíam autorização para importação regular.",
+    "categoria": "seguranca",
+    "tags": [
+      "prisão",
+      "medicamentos",
+      "anabolizantes",
+      "aeroporto"
+    ],
+    "entidades": [
+      "Polícia Federal"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Rio de Janeiro"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/05/pf-prende-mulher-com-medicamentos-no-aeroporto-do-galeao.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-05-assassinato-teresina",
+    "data": "2026-07-05",
+    "titulo": "Homem é assassinado em bar na Zona Sudeste de Teresina",
+    "resumo": "Um homem, identificado como Paulo da Cunha Magalhães, foi morto a tiros em um bar na Zona Sudeste de Teresina na noite de sábado (4). A Polícia Militar foi acionada e encontrou a vítima já sem vida no local. A Polícia Civil investiga o caso para determinar as circunstâncias do crime.",
+    "categoria": "seguranca",
+    "tags": [
+      "assassinato",
+      "homicídio",
+      "investigação policial"
+    ],
+    "entidades": [
+      "Polícia Militar do Piauí",
+      "Polícia Civil"
+    ],
+    "pessoas": [
+      "Paulo da Cunha Magalhães"
+    ],
+    "estados": [
+      "Piauí"
+    ],
+    "cidades": [
+      "Teresina"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/05/homem-assassinado-teresina.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-05-queda-alcione-show-sao-luis",
+    "data": "2026-07-05",
+    "titulo": "Cantora Alcione cai no palco durante show em São Luís",
+    "resumo": "A cantora Alcione se desequilibrou e caiu no palco durante um show em São Luís, no Maranhão, na noite de sábado (4). O incidente ocorreu enquanto ela participava da programação junina do evento. Apesar da queda, a artista, de 78 anos, continuou a apresentação.",
+    "categoria": "cultura",
+    "tags": [
+      "show",
+      "queda",
+      "cantora",
       "música"
     ],
     "entidades": [],
     "pessoas": [
-      "Alcione",
-      "Péricles"
+      "Alcione"
     ],
     "estados": [
       "Maranhão"
@@ -256,548 +472,338 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/saojoao/noticia/2026/07/04/ultimo-fim-de-semana-do-sao-joao-reune-grupos-de-bumba-meu-boi-shows-de-alcione-e-pericles-em-sao-luis.html"
+        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/05/cantora-alcione-se-desequilibra-e-cai-durante-show-em-sao-luis.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-04-droga-mg",
-    "data": "2026-07-04",
-    "titulo": "Homem é preso com 17 kg de pasta base de cocaína em carro na Grande BH.",
-    "resumo": "Um homem de 29 anos foi preso em flagrante por tráfico de drogas em Betim, na região metropolitana de Belo Horizonte. A Polícia Rodoviária Federal apreendeu 17,6 quilos de pasta base de cocaína escondidos em um compartimento secreto de um carro na BR-381. O homem foi detido na noite de sexta-feira (3).",
-    "categoria": "seguranca",
-    "tags": [
-      "tráfico de drogas",
-      "cocaína",
-      "prisão",
-      "Minas Gerais"
-    ],
-    "entidades": [
-      "Polícia Rodoviária Federal"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Betim"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/04/homem-e-preso-com-17-kg-de-pasta-base-de-cocaina-escondidos-em-carro-na-grande-bh-video.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-04-dependencia-quimica-al",
-    "data": "2026-07-04",
-    "titulo": "Álcool lidera tratamentos de dependência química em Alagoas nos primeiros meses de 2026.",
-    "resumo": "A dependência química do álcool foi o principal motivo para os 2.342 atendimentos realizados pela Rede Acolhe em Alagoas entre janeiro e maio de 2026. Os dados divulgados indicam que o álcool é a substância que mais afeta pessoas com transtornos relacionados à dependência química no estado, conforme informações divulgadas na quinta-feira (2).",
-    "categoria": "saude",
-    "tags": [
-      "saúde",
-      "dependência química",
-      "álcool",
-      "Alagoas"
-    ],
-    "entidades": [
-      "Rede Acolhe"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Alagoas"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/al/alagoas/noticia/2026/07/04/alcool-lidera-os-mais-de-23-mil-casos-de-tratamento-de-dependencia-quimia-em-al-nos-primeiros-meses-de-2026.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-04-turismo-sp",
-    "data": "2026-07-04",
-    "titulo": "Passeio gratuito com dinossauros e grutas atrai visitantes no interior de SP.",
-    "resumo": "Um passeio gratuito no interior de São Paulo, no Vale dos Dinossauros em Presidente Epitácio, está chamando a atenção de famílias em busca de lazer durante o mês de julho. O local oferece réplicas de dinossauros gigantes, grutas, parede de escalada e entrada liberada, configurando uma opção de entretenimento.",
-    "categoria": "cultura",
-    "tags": [
-      "turismo",
-      "lazer",
-      "São Paulo",
-      "dinossauros",
-      "Presidente Epitácio"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Presidente Epitácio"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/07/04/entre-dinossauros-gigantes-e-grutas-passeio-gratuito-chama-atencao-no-interior-de-sp.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-04-tentativa-homicidio-ba",
-    "data": "2026-07-04",
-    "titulo": "Pai é preso na Bahia suspeito de tentar matar homem por dívida; filho está foragido.",
-    "resumo": "Um homem foi preso em flagrante em Santo Antônio de Jesus, na Bahia, por suspeita de tentativa de homicídio. Ele é acusado de tentar matar outro homem de 53 anos durante uma cobrança de dívida de R$ 500. O filho do suspeito, também envolvido no crime, encontra-se foragido.",
-    "categoria": "justica",
-    "tags": [
-      "crime",
-      "tentativa de homicídio",
-      "dívida",
-      "prisão",
-      "Bahia"
-    ],
-    "entidades": [
-      "Polícia Civil"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Bahia"
-    ],
-    "cidades": [
-      "Santo Antônio de Jesus"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/04/pai-suspeito-de-tentar-matar-homem-com-punhal-por-cobranca-de-divida-de-r-500-e-preso-na-bahia-filho-esta-foragido.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-04-migrantes-papa",
-    "data": "2026-07-04",
-    "titulo": "Papa visita Lampedusa e pede mais ações para migrantes; elogia história de acolhimento dos EUA.",
-    "resumo": "O Papa fez um apelo à Europa para que intensifique seus esforços no acolhimento de migrantes durante uma visita à ilha de Lampedusa, na Itália, onde prestou homenagem às vítimas que perderam suas vidas no mar. Em um discurso nos Estados Unidos, ele elogiou a história americana de receber imigrantes, instando o país a honrar os ideais da Declaração de Independência.",
+    "id": "2026-07-05-condicao-medica-hospital-gaza",
+    "data": "2026-07-05",
+    "titulo": "Chefe de hospital em Gaza em condição crítica, diz grupo de direitos humanos",
+    "resumo": "Um grupo de direitos humanos informou que o diretor de um hospital em Gaza está em condição de risco à vida. Elyas Abu Safia relatou que seu pai, Hussam, tem dificuldades para respirar e falar após mais de 555 dias de prisão em Israel. A alegação levanta preocupações sobre o tratamento de prisioneiros.",
     "categoria": "internacional",
     "tags": [
-      "migração",
-      "Papa",
-      "Europa",
-      "Estados Unidos",
-      "Lampedusa"
+      "saúde",
+      "prisão",
+      "direitos humanos",
+      "Gaza"
     ],
     "entidades": [],
     "pessoas": [
-      "Papa Francisco"
+      "Elyas Abu Safia",
+      "Hussam"
     ],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Itália",
-      "Estados Unidos"
+      "Israel",
+      "Palestina"
     ],
-    "importancia": 4,
+    "importancia": 3,
     "fontes": [
       {
-        "nome": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jul/03/pope-leo-lampedusa-visit-us-250th-anniversary-trump"
+        "nome": "Aljazeera",
+        "url": "https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says?traffic_source=rss"
       }
     ]
   },
   {
-    "id": "2026-07-04-seguranca-alemanh-afeganistao",
-    "data": "2026-07-04",
-    "titulo": "Alemanha adota nova política de Afeganistão que permite entrada de diplomatas do Talibã.",
-    "resumo": "O governo alemão está implementando uma nova política em relação ao Afeganistão que permite a entrada de diplomatas do Talibã no país. A medida visa facilitar a deportação de criminosos afegãos de volta ao seu país de origem. A decisão gerou debate sobre a postura da Alemanha em relação ao regime.",
-    "categoria": "politica",
+    "id": "2026-07-05-coreia-sul-fundo-chip",
+    "data": "2026-07-05",
+    "titulo": "Coreia do Sul planeja fundo com receita da indústria de semicondutores",
+    "resumo": "A Coreia do Sul planeja criar um novo fundo de fomento futuro, financiado pela receita proveniente de seu próspero setor de semicondutores. O objetivo é financiar grandes projetos industriais e apoiar as gerações mais jovens. A medida visa capitalizar o boom da indústria de chips.",
+    "categoria": "economia",
     "tags": [
-      "política externa",
-      "Afeganistão",
-      "Talibã",
-      "Alemanha",
-      "deportação"
+      "indústria",
+      "semicondutores",
+      "fundo de investimento",
+      "tecnologia"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Alemanha",
-      "Afeganistão"
+      "Coreia do Sul"
     ],
     "importancia": 3,
     "fontes": [
       {
         "nome": "DW",
-        "url": "https://www.dw.com/en/welcoming-the-taliban-germany-s-new-afghanistan-policy/a-77786384?maca=en-rss-en-all-1573-rdf"
+        "url": "https://www.dw.com/en/south-korea-plans-future-fund-fueled-by-chip-boom/a-77836747?maca=en-rss-en-all-1573-rdf"
       }
     ]
   },
   {
-    "id": "2026-07-04-protestos-germania",
-    "data": "2026-07-04",
-    "titulo": "Milhares protestam na Alemanha contra partido de extrema-direita AfD.",
-    "resumo": "Milhares de pessoas foram às ruas da Alemanha para protestar contra o partido de extrema-direita Alternativa para a Alemanha (AfD). Manifestantes de sindicatos, sociedade civil e partidos de esquerda organizaram atos para interromper a conferência anual do partido em Erfurt. Os protestos refletem a crescente oposição à agenda da AfD.",
-    "categoria": "politica",
-    "tags": [
-      "protestos",
-      "Alemanha",
-      "extrema-direita",
-      "AfD",
-      "manifestação"
-    ],
-    "entidades": [
-      "Alternativa para a Alemanha (AfD)"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Erfurt"
-    ],
-    "paises": [
-      "Alemanha"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/7/4/thousands-protest-in-germany-as-far-right-afd-party-meets?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-04-clima-eua",
-    "data": "2026-07-04",
-    "titulo": "Onda de calor nos EUA ameaça celebrações do 4 de Julho e 250º aniversário.",
-    "resumo": "Uma intensa onda de calor afeta diversas regiões dos Estados Unidos, desde Washington até Los Angeles, representando um desafio para as celebrações do 4 de Julho e do 250º aniversário da independência do país. O clima extremo pode impactar planos e eventos programados para a data comemorativa.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "clima",
-      "onda de calor",
-      "EUA",
-      "4 de Julho",
-      "aniversário"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Washington",
-      "California"
-    ],
-    "cidades": [
-      "Los Angeles"
-    ],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/7/4/america250-how-the-us-heatwave-will-affect-fourth-of-july-celebrations?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-04-conflito-sudao",
-    "data": "2026-07-04",
-    "titulo": "Ataques de drones intensificam crise humanitária em El Obeid, Sudão.",
-    "resumo": "A cidade de El Obeid, no Sudão, tem sido palco de intensos ataques de drones nos últimos dias, descritos por trabalhadores humanitários como 'terríveis'. A situação agrava a crise humanitária na região, que se tornou um ponto de batalha entre as forças armadas sudanesas e os combatentes paramilitares do RSF.",
+    "id": "2026-07-05-terremotos-venezuela-vitimas",
+    "data": "2026-07-05",
+    "titulo": "Venezuela: Número de mortos em terremotos pode ser muito maior",
+    "resumo": "As autoridades venezuelanas indicaram que o número de mortos pelos terremotos gêmeos no país pode ser consideravelmente maior do que os dados oficiais divulgados. Quase 3.000 pessoas morreram até sábado (4), enquanto equipes de resgate internacionais começaram a encerrar as operações de busca por sobreviventes. A magnitude exata da tragédia ainda está sendo apurada.",
     "categoria": "internacional",
     "tags": [
-      "guerra",
-      "Sudão",
-      "crise humanitária",
-      "ataques aéreos",
-      "El Obeid"
-    ],
-    "entidades": [
-      "RSF (Rapid Support Forces)"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "El Obeid"
-    ],
-    "paises": [
-      "Sudão"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-04-acidente-onibus-ceara",
-    "data": "2026-07-04",
-    "titulo": "Ônibus de romeiros tomba no Ceará, deixando mortos e feridos.",
-    "resumo": "Um ônibus transportando mais de 40 romeiros tombou na CE-456, na zona rural de Canindé, no Ceará, na manhã deste sábado (4). O acidente resultou na morte de duas pessoas e deixou vários feridos. O Corpo de Bombeiros atua no local para resgatar e prestar socorro às vítimas.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente",
-      "ônibus",
-      "romeiros",
-      "morte",
-      "Ceará"
-    ],
-    "entidades": [
-      "Corpo de Bombeiros"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Ceará"
-    ],
-    "cidades": [
-      "Canindé"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ce/ceara/noticia/2026/07/04/onibus-com-romeiros-tomba-deixando-mortos-e-feridos-no-ceara.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-04-economia-brasil",
-    "data": "2026-07-04",
-    "titulo": "Investidor estrangeiro não vê Brasil como prioridade, aponta CIO da Nau Capital.",
-    "resumo": "O investidor estrangeiro não considera o Brasil uma prioridade no momento, segundo avaliação do CIO da Nau Capital, Mauricio Valadares. Os juros elevados, a composição do índice e a incerteza fiscal são apontados como os principais fatores que restringem o mercado brasileiro e afastam o capital internacional.",
-    "categoria": "economia",
-    "tags": [
-      "economia",
-      "investimento",
-      "Brasil",
-      "mercado financeiro",
-      "juros"
-    ],
-    "entidades": [
-      "Nau Capital"
-    ],
-    "pessoas": [
-      "Mauricio Valadares"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/economia/mercado/estrangeiro-nao-ve-brasil-como-prioridade-diz-cio-da-nau-capital/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-04-ciencia-insetos",
-    "data": "2026-07-04",
-    "titulo": "Besouro desenvolve adaptação para 'enganar' colônias de cupins.",
-    "resumo": "Uma curiosa adaptação em um tipo de besouro permite que ele se passe por um cupim, enganando colônias inteiras. A característica, que aparenta ser um operário de cupim nas costas do inseto, representa uma das mais intrigantes estratégias de sobrevivência registradas no reino dos insetos.",
-    "categoria": "ciencia",
-    "tags": [
-      "ciência",
-      "insetos",
-      "cupins",
-      "besouros",
-      "adaptação"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/04/como-este-besouro-pode-enganar-uma-colonia-inteira-de-cupins.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-04-fitness-nanismo",
-    "data": "2026-07-04",
-    "titulo": "Atleta com nanismo vira sucesso fitness e planeja competir no fisiculturismo.",
-    "resumo": "João Paulo Mangini dos Santos, conhecido como 'Grande Anão', tem conquistado sucesso nas redes sociais como influenciador fitness. O morador de São Roque (SP), que tem nanismo, está quebrando barreiras e planeja competir profissionalmente no fisiculturismo. Ele viralizou com seus vídeos de musculação e inspira milhares de seguidores.",
-    "categoria": "esportes",
-    "tags": [
-      "fitness",
-      "nanismo",
-      "fisiculturismo",
-      "influenciador",
-      "São Paulo"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "São Roque"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/04/conhecido-como-grande-anao-atleta-com-nanismo-vira-sucesso-fitness-na-web-e-planeja-competir-no-fisiculturismo.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-04-tecnologia-nuvem",
-    "data": "2026-07-04",
-    "titulo": "Entenda o que acontece com arquivos apagados na nuvem.",
-    "resumo": "O simples ato de apertar 'excluir' em arquivos na nuvem não significa o fim imediato dos dados. Matérias explicam os prazos de retenção em serviços como Google Fotos, iCloud e Google Drive, e como cópias de backup podem manter informações por mais tempo. A Lei Geral de Proteção de Dados (LGPD) também garante direitos sobre a remoção definitiva de dados.",
-    "categoria": "ciencia",
-    "tags": [
-      "tecnologia",
-      "nuvem",
-      "arquivos digitais",
-      "LGPD",
-      "privacidade"
-    ],
-    "entidades": [
-      "Google Fotos",
-      "iCloud",
-      "Google Drive"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/tecnologia/o-que-realmente-acontece-com-arquivos-apagados-da-nuvem/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-04-historia-copa-mexico",
-    "data": "2026-07-04",
-    "titulo": "Terremoto quase cancelou a Copa do Mundo de 1986 no México.",
-    "resumo": "A Copa do Mundo de 1986, sediada no México, esteve perto de ser cancelada devido a um devastador terremoto que atingiu a capital do país meses antes do início do torneio. O desastre natural causou milhares de mortes e extensos danos à Cidade do México, levantando dúvidas sobre a viabilidade de o país sediar a competição.",
-    "categoria": "esportes",
-    "tags": [
-      "Copa do Mundo",
-      "México",
       "terremoto",
-      "história",
-      "esportes"
+      "vítimas",
+      "desastre natural",
+      "Venezuela"
     ],
-    "entidades": [
-      "Copa do Mundo FIFA"
-    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [],
-    "cidades": [
-      "Cidade do México"
-    ],
+    "cidades": [],
     "paises": [
-      "México"
+      "Venezuela"
     ],
-    "importancia": 3,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/04/how-the-1986-mexico-world-cup-was-almost-cancelled-after-earthquake-1986"
+        "nome": "France24",
+        "url": "https://www.france24.com/en/venezuela-quakes-final-death-toll-expected-to-be-much-higher"
       }
     ]
   },
   {
-    "id": "2026-07-04-palmeiras-copa",
-    "data": "2026-07-04",
-    "titulo": "Palmeiras faz história na Copa do Mundo com gol de Arias.",
-    "resumo": "O Palmeiras atingiu um marco histórico na Copa do Mundo de 2026 com um gol marcado por Arias. Pela primeira vez na história do torneio, dois atletas do clube conseguiram balançar as redes em uma mesma edição da competição. Este feito celebra a participação e o desempenho dos jogadores do clube no mundial.",
+    "id": "2026-07-05-marine-le-pen-corte-paris",
+    "data": "2026-07-05",
+    "titulo": "Decisão judicial em Paris pode afetar candidatura presidencial de Marine Le Pen",
+    "resumo": "A corte de apelações de Paris emitirá um parecer sobre o caso de apropriação indébita envolvendo Marine Le Pen. A decisão, prevista para terça-feira, pode determinar se a política, uma das figuras proeminentes na França, poderá concorrer às eleições presidenciais do próximo ano. O julgamento aborda alegações de irregularidades financeiras.",
+    "categoria": "politica",
+    "tags": [
+      "eleições",
+      "justiça",
+      "política francesa",
+      "candidatura"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Marine Le Pen"
+    ],
+    "estados": [
+      "Île-de-France"
+    ],
+    "cidades": [
+      "Paris"
+    ],
+    "paises": [
+      "França"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "France24",
+        "url": "https://www.france24.com/en/paris-appeals-court-ruling-could-upend-marine-le-pen-s-2027-presidential-bid"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-05-receita-clube-rural",
+    "data": "2026-07-05",
+    "titulo": "Clube Rural ensina receita de creme de galinha",
+    "resumo": "O programa Clube Rural apresentou neste domingo (5) uma receita de creme de galinha elaborada pelo chef João Constantino. O prato, tradicional em celebrações populares no Piauí, foi destacado por seu sabor e cremosidade. A receita busca valorizar a culinária regional.",
+    "categoria": "cultura",
+    "tags": [
+      "culinária",
+      "receita",
+      "regional"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "João Constantino"
+    ],
+    "estados": [
+      "Piauí"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pi/piaui/cluberural/noticia/2026/07/05/creme-de-galinha-clube-rural.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-05-recorde-jovem-india-cricket",
+    "data": "2026-07-05",
+    "titulo": "Vaibhav Sooryavanshi se torna o jogador mais jovem da Índia em partida internacional",
+    "resumo": "Vaibhav Sooryavanshi, de 15 anos, estabeleceu um novo recorde ao se tornar o jogador mais jovem a representar a Índia em uma partida internacional de críquete T20. A estreia ocorreu durante a derrota da equipe contra a Inglaterra no Old Trafford. A proeza destaca o surgimento de um novo talento no esporte indiano.",
     "categoria": "esportes",
     "tags": [
-      "futebol",
-      "Palmeiras",
-      "Copa do Mundo",
-      "história",
-      "gol"
+      "críquete",
+      "recorde",
+      "jovem atleta",
+      "Índia"
     ],
-    "entidades": [
-      "Copa do Mundo FIFA"
-    ],
+    "entidades": [],
     "pessoas": [
-      "Arias"
+      "Vaibhav Sooryavanshi"
     ],
     "estados": [],
     "cidades": [],
-    "paises": [],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/palmeiras-faz-historia-na-copa-do-mundo-com-apos-gol-de-arias/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-04-fifa-world-cup-england-mexico",
-    "data": "2026-07-04",
-    "titulo": "Inglaterra x México na Copa do Mundo: informações sobre o jogo no Azteca.",
-    "resumo": "A partida entre Inglaterra e México na Copa do Mundo de 2026, que acontecerá no Estádio Azteca, tem detalhes importantes a serem considerados. A altitude da Cidade do México, onde o estádio está localizado, é de 2.240 metros acima do nível do mar, o que torna o ar mais rarefeito e pode dificultar a respiração dos jogadores.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "Copa do Mundo",
-      "Inglaterra",
-      "México",
-      "Estádio Azteca",
-      "altitude"
-    ],
-    "entidades": [
-      "Copa do Mundo FIFA"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Cidade do México"
-    ],
     "paises": [
-      "Inglaterra",
-      "México"
+      "Índia",
+      "Inglaterra"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/7/4/england-mexico-fifa-world-cup-azteca-kickoff-altitude-weather-explained?traffic_source=rss"
+        "nome": "Aljazeera",
+        "url": "https://www.aljazeera.com/sports/2026/7/5/sooryavanshi-sets-record-for-youngest-india-player-in-international-match?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-05-vazamento-chorume-seropedica",
+    "data": "2026-07-05",
+    "titulo": "Inea confirma vazamento de chorume em aterro sanitário de Seropédica",
+    "resumo": "O Instituto Estadual do Ambiente (Inea-RJ) confirmou um vazamento de chorume no aterro sanitário de Seropédica, que recebe grande parte do lixo do Rio de Janeiro. Moradores relataram contaminação de poços e córregos na região. O Inea orientou a população a não utilizar água dessas fontes.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "vazamento",
+      "chorume",
+      "aterro sanitário",
+      "meio ambiente",
+      "contaminação"
+    ],
+    "entidades": [
+      "Inea-RJ"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Seropédica"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/05/inea-confirma-vazamento-de-chorume-no-aterro-sanitario-de-seropedica-que-recebe-a-maior-parte-do-lixo-do-rio.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-05-robbe-versatilidade-vestuario",
+    "data": "2026-07-05",
+    "titulo": "O robe se consolida como peça versátil no vestuário",
+    "resumo": "O robe tem se destacado como uma peça de vestuário cada vez mais versátil. Originalmente associado ao uso em casa, ele tem transitado para outras ocasiões, oferecendo conforto e estilo. Sua adaptação a diferentes momentos do dia o torna um item valioso no guarda-roupa moderno.",
+    "categoria": "cultura",
+    "tags": [
+      "moda",
+      "vestuário",
+      "tendência",
+      "versatilidade"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Paraná"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pr/parana/especial-publicitario/recco-guia-de-moda-e-bem-estar/noticia/2026/07/05/muito-alem-do-quarto-por-que-o-robe-virou-uma-das-pecas-mais-versateis-do-vestuario.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-05-expoacre-jurua-e-transporte-acre",
+    "data": "2026-07-05",
+    "titulo": "Destaques do Acre: Expoacre Juruá e crise no transporte coletivo",
+    "resumo": "As principais notícias do Acre entre 28 de junho e 4 de julho incluem a Expoacre Juruá e a crise no transporte coletivo. A justiça determinou a apreensão de ônibus do transporte público. Outros destaques locais foram compilados pelo portal g1 AC. A região busca soluções para os problemas de mobilidade.",
+    "categoria": "internacional",
+    "tags": [
+      "notícias locais",
+      "transporte público",
+      "eventos"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Acre"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ac/acre/noticia/2026/07/05/voce-viu-expoacre-jurua-crise-no-transporte-coletivo-dom-joaquin-renuncia-e-mais.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-05-real-madrid-contrata-dumfries",
+    "data": "2026-07-05",
+    "titulo": "Real Madrid anuncia contratação do lateral holandês Dumfries",
+    "resumo": "O Real Madrid oficializou a contratação do lateral direito holandês Denzel Dumfries para as próximas quatro temporadas. O jogador chega vindo da Inter de Milão, onde atuou por cinco anos. A transferência reforça a defesa do clube espanhol.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "contratação",
+      "Real Madrid",
+      "La Liga"
+    ],
+    "entidades": [
+      "Real Madrid",
+      "Inter de Milão"
+    ],
+    "pessoas": [
+      "Denzel Dumfries"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Espanha",
+      "Países Baixos",
+      "Itália"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/real-madrid-anuncia-contratacao-de-dumfries-por-quatro-temporadas/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-05-brasil-mata-mata-copa",
+    "data": "2026-07-05",
+    "titulo": "Brasil pode igualar marca de vitórias em mata-matas de Copa do Mundo",
+    "resumo": "A seleção brasileira tem a oportunidade de vencer dois jogos de mata-mata em uma Copa do Mundo pela primeira vez desde 2014. O Brasil enfrentará a Noruega nas oitavas de final. Alcançar essa marca representaria um avanço significativo para a equipe no torneio.",
+    "categoria": "esportes",
+    "tags": [
+      "Copa do Mundo",
+      "futebol",
+      "mata-mata",
+      "seleção brasileira"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil",
+      "Noruega"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/brasil-pode-vencer-dois-mata-matas-em-copas-pela-primeira-vez-desde-2014/"
       }
     ]
   }
