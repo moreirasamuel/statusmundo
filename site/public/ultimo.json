@@ -1,62 +1,230 @@
 [
   {
-    "id": "2026-07-05-jogo-brasil-altera-funcionamento",
-    "data": "2026-07-05",
-    "titulo": "Jogo do Brasil causa alterações no funcionamento de estabelecimentos em Salvador e Baixada Santista",
-    "resumo": "O jogo da seleção brasileira contra a Noruega, realizado nos Estados Unidos, levou à alteração nos horários de funcionamento de shoppings, zoológico e outros estabelecimentos em Salvador e sua região metropolitana. Na Baixada Santista, shoppings e pontos turísticos também tiveram seus horários modificados devido à partida. O jogo ocorreu no domingo, 5 de julho.",
-    "categoria": "esportes",
+    "id": "2026-07-06-rebeliao-prisao-sri-lanka",
+    "data": "2026-07-06",
+    "titulo": "Rebelião em prisão no Sri Lanka deixa 26 mortos e mais de 100 feridos",
+    "resumo": "Violentos confrontos em uma prisão no Sri Lanka resultaram na morte de pelo menos 26 detentos e quatro guardas. Mais de 100 pessoas ficaram feridas durante os incidentes. A violência na prisão de Negombo é a pior registrada no país em anos.",
+    "categoria": "justica",
     "tags": [
-      "Copa do Mundo",
-      "horário de funcionamento",
-      "fim de semana"
+      "rebelião",
+      "prisão",
+      "conflito",
+      "mortos",
+      "feridos"
     ],
     "entidades": [],
     "pessoas": [],
-    "estados": [
-      "Bahia",
-      "São Paulo"
-    ],
+    "estados": [],
     "cidades": [
-      "Salvador",
-      "Santos"
+      "Negombo",
+      "Colombo"
     ],
     "paises": [
-      "Brasil",
-      "Noruega",
-      "Estados Unidos"
+      "Sri Lanka"
+    ],
+    "importancia": 5,
+    "fontes": [
+      {
+        "nome": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cvg77klne3yo"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mundo/noticia/2026/07/06/rebeliao-em-penitenciaria-do-sri-lanka-deixa-25-mortos.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-06-ataques-russia-ucrania",
+    "data": "2026-07-06",
+    "titulo": "Ataques russos matam 19 em Kyiv e expõem lacunas na defesa aérea",
+    "resumo": "Uma onda de mísseis e drones russos atingiu Kyiv, capital da Ucrânia, matando 19 pessoas e danificando edifícios. Este é o segundo ataque à capital e região em poucos dias, ocorrendo na véspera de uma cúpula da OTAN. A Ucrânia pede decisões fortes na cúpula.",
+    "categoria": "internacional",
+    "tags": [
+      "guerra",
+      "ataque",
+      "mísseis",
+      "drones",
+      "OTAN",
+      "defesa aérea"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Zelenskyy"
+    ],
+    "estados": [],
+    "cidades": [
+      "Kyiv"
+    ],
+    "paises": [
+      "Ucrânia",
+      "Rússia"
+    ],
+    "importancia": 5,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/jul/06/ukraine-russia-zelenskyy-nato-summit-strikes-kyiv-europe-latest-news-updates"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/jul/06/russia-launches-deadly-missile-drone-attacks-kyiv-ukraine"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-06-trump-fifa-cartao-vermelho",
+    "data": "2026-07-06",
+    "titulo": "Trump critica árbitro e pede revisão de cartão vermelho na Copa do Mundo",
+    "resumo": "Donald Trump criticou a atuação de um árbitro em uma partida da Copa do Mundo e agradeceu à FIFA por reverter um cartão vermelho. A federação belga de futebol também solicitou explicações da FIFA sobre a decisão. A notícia menciona o jogador Folarin Balogun.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "Copa do Mundo",
+      "FIFA",
+      "árbitro",
+      "cartão vermelho"
+    ],
+    "entidades": [
+      "FIFA"
+    ],
+    "pessoas": [
+      "Donald Trump",
+      "Folarin Balogun"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos",
+      "Bélgica"
     ],
     "importancia": 4,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/07/05/jogo-do-brasil-provoca-alteracoes-no-funcionamento.ghtml"
+        "url": "https://g1.globo.com/mundo/noticia/2026/07/06/trump-diz-que-arbitro-que-aplicou-cartao-vermelho-era-um-pouco-suspeito.ghtml"
       },
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/05/veja-o-que-abre-e-fecha-na-baixada-santista-durante-o-jogo-do-brasil-na-copa-do-mundo.ghtml"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/live/2026/jul/06/donald-trump-democrats-michigan-mallory-mcmorrow-us-politics-latest-news-updates"
       }
     ]
   },
   {
-    "id": "2026-07-05-eua-celebra-independencia",
-    "data": "2026-07-05",
-    "titulo": "Estados Unidos celebram 250 anos de independência em meio a polarização política e onda de calor",
-    "resumo": "Os Estados Unidos celebraram o seu 250º aniversário de independência. As comemorações ocorreram em meio a um cenário de forte polarização política no país e a uma onda de calor que afetou milhões de pessoas em diversos estados. O ex-presidente Donald Trump elogiou as forças armadas americanas durante as celebrações.",
+    "id": "2026-07-06-operacao-policial-drogas-amazonas",
+    "data": "2026-07-06",
+    "titulo": "Sargento da PM é preso no AM suspeito de escoltar mais de 600 kg de drogas",
+    "resumo": "A Justiça do Amazonas decretou a prisão preventiva de um sargento da Polícia Militar suspeito de escoltar 603 quilos de maconha tipo skunk. O militar foi preso na última sexta-feira. Mais de 600 quilos de drogas foram apreendidas na operação.",
+    "categoria": "seguranca",
+    "tags": [
+      "polícia",
+      "prisão",
+      "drogas",
+      "apreensão",
+      "tráfico"
+    ],
+    "entidades": [
+      "Polícia Militar do Amazonas"
+    ],
+    "pessoas": [
+      "Diego de Franco Guedes"
+    ],
+    "estados": [
+      "Amazonas"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/06/justica-decreta-prisao-preventiva-de-sargento-da-pm-suspeito-de-escoltar-mais-de-600-kg-de-drogas-no-am.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-06-operacao-policial-drogas-paraiba",
+    "data": "2026-07-06",
+    "titulo": "Grupo suspeito de simular roubos de cargas e tráfico de drogas é preso na PB",
+    "resumo": "A Polícia Civil prendeu quatro pessoas na Paraíba suspeitas de simular roubos de cargas e de atuar no tráfico de drogas. A prisão ocorreu após uma investigação policial. As operações foram realizadas no Agreste paraibano.",
+    "categoria": "seguranca",
+    "tags": [
+      "polícia",
+      "prisão",
+      "tráfico de drogas",
+      "roubo de carga",
+      "investigação"
+    ],
+    "entidades": [
+      "Polícia Civil da Paraíba"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Paraíba"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/06/policia-civil-prende-grupo-suspeito-de-simular-roubos-de-cargas-e-trafico-de-drogas-na-pb.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-06-condicao-analogia-escravidao-parana",
+    "data": "2026-07-06",
+    "titulo": "Dono de pedreira é investigado por manter trabalhadores em condição análoga à escravidão no Paraná",
+    "resumo": "Um dono de pedreira no Paraná é investigado por manter trabalhadores em condição análoga à escravidão. Os trabalhadores relataram à polícia serem impedidos de deixar o local devido a dívidas alegadas pelo empregador. A polícia resgatou os trabalhadores.",
+    "categoria": "justica",
+    "tags": [
+      "escravidão moderna",
+      "trabalho análogo à escravidão",
+      "investigação policial",
+      "resgate"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Paraná"
+    ],
+    "cidades": [
+      "Virmond"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/07/06/escravidao-moderna-no-parana-dono-de-pedreira-mantinha-trabalhadores-presos-ao-servico-alegando-dividas-por-alimenta-los-diz-policia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-06-supremacistas-eua-dia-independencia",
+    "data": "2026-07-06",
+    "titulo": "Supremacistas brancos marcharam nos EUA durante celebrações do Dia da Independência",
+    "resumo": "Supremacistas brancos realizaram marchas nos Estados Unidos durante as comemorações do 250º aniversário da independência do país. O evento foi descrito como uma 'guerra cultural'. Os grupos usaram uma versão moderna da Ku Klux Klan em suas manifestações.",
     "categoria": "politica",
     "tags": [
-      "independência",
-      "celebração",
-      "política"
+      "supremacia branca",
+      "Ku Klux Klan",
+      "Dia da Independência",
+      "protesto",
+      "discurso de ódio"
     ],
     "entidades": [],
     "pessoas": [
       "Donald Trump"
     ],
-    "estados": [
-      "California",
-      "Texas",
-      "Arizona"
-    ],
+    "estados": [],
     "cidades": [],
     "paises": [
       "Estados Unidos"
@@ -64,28 +232,121 @@
     "importancia": 4,
     "fontes": [
       {
-        "nome": "France24",
-        "url": "https://www.france24.com/en/us-celebrates-250-years-of-independence-amid-polarising-political-landscape"
-      },
-      {
-        "nome": "Aljazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/trump-praises-us-military-as-it-marks-250-years-of-independence?traffic_source=rss"
+        "nome": "G1",
+        "url": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/07/06/protegidos-trump-supremacistas-brancos-marcharam-livremente-dia-independencia-eua.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-05-justica-reino-unido-taxa-asilo",
-    "data": "2026-07-05",
-    "titulo": "Reino Unido considera taxa para solicitantes de asilo",
-    "resumo": "O Reino Unido pode implementar uma taxa de 10 mil euros para solicitantes de asilo. Segundo a proposta de lei, o pagamento seria uma forma de os imigrantes retribuírem a hospitalidade britânica. A medida visa gerar recursos e regular o processo de imigração.",
-    "categoria": "politica",
+    "id": "2026-07-06-financiamento-escola-israel-britanica",
+    "data": "2026-07-06",
+    "titulo": "Caridade britânica financia escola em assentamento israelense na Cisjordânia",
+    "resumo": "Uma caridade britânica, Friends of Yeshivat Shavei Hevron, enviou quase £200.000 para uma escola em Hebron, na Cisjordânia. Israel tem sido acusado de impor apartheid na cidade. A escola faz parte dos planos de expansão do assentamento israelense na cidade palestina.",
+    "categoria": "internacional",
+    "tags": [
+      "assentamento israelense",
+      "Cisjordânia",
+      "financiamento",
+      "caridade",
+      "direitos humanos"
+    ],
+    "entidades": [
+      "Friends of Yeshivat Shavei Hevron"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Hebron"
+    ],
+    "paises": [
+      "Israel",
+      "Reino Unido",
+      "Palestina"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/jul/06/british-charity-friends-of-yeshivat-shavei-illegal-settlement-hebron"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-06-imigrantes-alemanha",
+    "data": "2026-07-06",
+    "titulo": "Muitos imigrantes deixam a Alemanha após buscarem oportunidades de trabalho",
+    "resumo": "A Alemanha tem atraído muitos trabalhadores qualificados para seu mercado de trabalho. No entanto, um número significativo desses imigrantes não permanece no país a longo prazo. As razões para essa saída ainda estão sendo investigadas.",
+    "categoria": "internacional",
     "tags": [
       "imigração",
-      "política migratória",
-      "taxa"
+      "mercado de trabalho",
+      "Alemanha",
+      "trabalhadores qualificados",
+      "retorno"
     ],
     "entidades": [],
     "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Alemanha"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "DW",
+        "url": "https://www.dw.com/en/why-many-immigrants-leave-germany-again/a-77853162"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-06-el-nino-africa",
+    "data": "2026-07-06",
+    "titulo": "África se prepara para os impactos do fenômeno El Niño",
+    "resumo": "Um forte El Niño é esperado para os próximos meses e pode trazer secas, inundações e deslocamentos para partes da África. Especialistas alertam sobre a necessidade de ação governamental antes que desastres ocorram. A preparação do continente para esses eventos é questionada.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "El Niño",
+      "clima",
+      "secas",
+      "inundações",
+      "África",
+      "desastres naturais"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "África"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "DW",
+        "url": "https://www.dw.com/en/el-nino-is-africa-ready-for-the-perfect-storm/a-77826694"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-06-investimento-combustiveis-fossil-gb-news",
+    "data": "2026-07-06",
+    "titulo": "Críticos acusam co-proprietário do GB News de lucrar com 'caos climático' em investimentos fósseis",
+    "resumo": "Críticos afirmam que o fundo de investimento gerido pelo co-proprietário do GB News, Sir Paul Marshall, quase triplicou seus investimentos em empresas de combustíveis fósseis no primeiro trimestre de 2026. Os críticos argumentam que os ataques do canal à ação climática servem a interesses financeiros.",
+    "categoria": "economia",
+    "tags": [
+      "investimento",
+      "combustíveis fósseis",
+      "crise climática",
+      "GB News",
+      "finanças"
+    ],
+    "entidades": [
+      "GB News"
+    ],
+    "pessoas": [
+      "Sir Paul Marshall"
+    ],
     "estados": [],
     "cidades": [],
     "paises": [
@@ -94,53 +355,191 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/reino-unido-pode-aplicar-taxa-de-10-mil-euros-para-solicitantes-de-asilo/"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2026/jul/06/gb-news-co-owner-cashing-in-on-climate-chaos-after-leap-in-fossil-fuel-investments-critics-say"
       }
     ]
   },
   {
-    "id": "2026-07-05-recuperacao-piloto-papua",
-    "data": "2026-07-05",
-    "titulo": "Exército indonésio recupera corpo de piloto americano na Papua",
-    "resumo": "As tropas indonésias recuperaram o corpo do piloto americano Nicholas Goselin na região de Papua. A região é conhecida por instabilidade social e política. A operação militar marcou o fim de uma busca pelo corpo.",
-    "categoria": "internacional",
+    "id": "2026-07-06-acidente-transito-minas-gerais",
+    "data": "2026-07-06",
+    "titulo": "Motorista morre em colisão frontal de carros em rodovia de Minas Gerais",
+    "resumo": "Um motorista de 46 anos morreu em um acidente envolvendo dois carros na LMG-625, em Berizal, Minas Gerais. Segundo a Polícia Militar, o condutor do outro veículo fugiu do local sem prestar socorro e ainda não foi localizado.",
+    "categoria": "seguranca",
     "tags": [
-      "recuperação de corpo",
-      "piloto",
-      "região remota"
+      "acidente de trânsito",
+      "colisão",
+      "morte",
+      "fuga",
+      "rodovia"
     ],
-    "entidades": [],
-    "pessoas": [
-      "Nicholas Goselin"
+    "entidades": [
+      "Polícia Militar"
     ],
-    "estados": [],
-    "cidades": [],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Berizal"
+    ],
     "paises": [
-      "Indonésia",
-      "Estados Unidos"
+      "Brasil"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "Aljazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/indonesian-army-recovers-us-pilots-body-from-papua?traffic_source=rss"
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/06/motorista-morre-em-colisao-frontal-entre-dois-carros-na-lmg-625-em-berizal.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-05-cirurgias-vesicula-campinas",
-    "data": "2026-07-05",
-    "titulo": "Região de Campinas realiza alta demanda de cirurgias de vesícula",
-    "resumo": "A região de Campinas realizou 4.661 cirurgias eletivas de vesícula em 2025, o que representa uma média de quase 13 procedimentos por dia. Este volume se mantém acima do registrado no período pré-pandemia. As cirurgias são realizadas pelo Sistema Único de Saúde (SUS).",
-    "categoria": "saude",
+    "id": "2026-07-06-acidente-transito-recife",
+    "data": "2026-07-06",
+    "titulo": "Caminhão de gás tomba em ponte do Recife e motorista fica ferido",
+    "resumo": "Um caminhão carregado com botijões de gás tombou e bateu em um poste na Ponte do Limoeiro, no Centro do Recife, Pernambuco. O motorista sofreu traumatismo e foi socorrido. O acidente ocorreu na manhã desta segunda-feira.",
+    "categoria": "seguranca",
     "tags": [
-      "cirurgia",
-      "SUS",
-      "saúde pública",
-      "pandemia"
+      "acidente de trânsito",
+      "tombamento",
+      "caminhão",
+      "ferido",
+      "Recife"
     ],
     "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Pernambuco"
+    ],
+    "cidades": [
+      "Recife"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/07/06/caminhao-com-botijoes-de-gas-tomba-em-ponte-do-recife-e-bate-em-poste-motorista-tem-traumatismo-e-e-socorrido.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-06-agressao-mulher-pinheiral",
+    "data": "2026-07-06",
+    "titulo": "Jovem é autuado por suspeita de agredir mulher em Pinheiral (RJ)",
+    "resumo": "Um jovem de 24 anos foi autuado pela Polícia Civil por suspeita de agredir uma mulher de 43 anos em Pinheiral, Rio de Janeiro. O incidente ocorreu na Praça Brasil, no bairro Rolamão, na noite de domingo. Os agentes realizavam patrulhamento na área.",
+    "categoria": "justica",
+    "tags": [
+      "agressão",
+      "violência contra mulher",
+      "autuação",
+      "polícia"
+    ],
+    "entidades": [
+      "Polícia Civil"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Pinheiral"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/06/violencia-contra-mulher-em-pinheiral.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-06-crise-pre-campanha-flavio-bolsonaro",
+    "data": "2026-07-06",
+    "titulo": "Pré-campanha de Flávio Bolsonaro enfrenta resistência e 'fogo amigo'",
+    "resumo": "A pré-campanha de Flávio Bolsonaro à Presidência da República tem enfrentado resistência de aliados, com críticas à articulação de sua candidatura. Há tensões internas e divergências sobre a condução do processo eleitoral. O senador Rogério Marinho é citado como responsável pela articulação.",
+    "categoria": "politica",
+    "tags": [
+      "eleições",
+      "pré-campanha",
+      "política",
+      "resistência",
+      "aliados"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Flávio Bolsonaro",
+      "Rogério Marinho"
+    ],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/07/06/fogo-amigo-na-pre-campanha-de-flavio-bolsonaro.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-06-eslavidão-moderna-parana",
+    "data": "2026-07-06",
+    "titulo": "Trabalhadores resgatados de condição análoga à escravidão em pedreira no Paraná",
+    "resumo": "Trabalhadores foram resgatados de uma pedreira em Virmond, no Paraná, onde eram mantidos em condição análoga à escravidão. Segundo a polícia, o dono da pedreira alegava dívidas para impedir que os trabalhadores saíssem. A polícia investiga o caso como escravidão moderna.",
+    "categoria": "justica",
+    "tags": [
+      "escravidão moderna",
+      "trabalho análogo à escravidão",
+      "resgate",
+      "investigação policial",
+      "dívida"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Paraná"
+    ],
+    "cidades": [
+      "Virmond"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/07/06/escravidao-moderna-no-parana-dono-de-pedreira-mantinha-trabalhadores-presos-ao-servico-alegando-dividas-por-alimenta-los-diz-policia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-06-novas-especies-mosca-vespa",
+    "data": "2026-07-06",
+    "titulo": "Nova espécie de mosca que vive entre vespas intriga cientistas",
+    "resumo": "Pesquisadores do Museu de Zoologia da USP descreveram uma nova espécie de mosca com um hábito incomum: ela vive associada aos ninhos de vespas. A mosca consegue conviver em ambientes com até um milhão de vespas sem ser atacada. A descoberta chamou a atenção da comunidade científica.",
+    "categoria": "ciencia",
+    "tags": [
+      "nova espécie",
+      "mosca",
+      "vespa",
+      "zoologia",
+      "comportamento animal"
+    ],
+    "entidades": [
+      "Museu de Zoologia da USP"
+    ],
     "pessoas": [],
     "estados": [
       "São Paulo"
@@ -151,97 +550,35 @@
     "paises": [
       "Brasil"
     ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/05/regiao-de-campinas-faz-quase-13-cirurgias-eletivas-de-vesicula-de-dia-em-meio-a-alta-pos-pandemia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-05-riscos-cerol-amapa",
-    "data": "2026-07-05",
-    "titulo": "Juiz alerta para riscos de cerol e linha chilena durante férias escolares no Amapá",
-    "resumo": "O juiz Augusto Leite, do Juizado Especial Criminal de Macapá, alertou sobre os perigos e crimes associados ao uso de cerol e linha chilena em pipas. O aviso ocorre durante o período de férias escolares. O uso desses materiais pode colocar vidas em risco.",
-    "categoria": "seguranca",
-    "tags": [
-      "alerta",
-      "férias escolares",
-      "cerol",
-      "linha chilena"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Augusto Leite"
-    ],
-    "estados": [
-      "Amapá"
-    ],
-    "cidades": [
-      "Macapá"
-    ],
-    "paises": [
-      "Brasil"
-    ],
     "importancia": 2,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/ap/amapa/noticia/2026/07/05/ferias-escolares-juiz-alerta-para-riscos-e-crimes-ligados-ao-uso-de-cerol-e-linha-chilena-no-amapa.ghtml"
+        "url": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/06/nova-especie-de-mosca-pode-viver-entre-1-milhao-de-vespas-sem-ser-atacada.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-05-plano-safra-setor-agro",
-    "data": "2026-07-05",
-    "titulo": "Presidente da Abag critica Plano Safra por não contemplar setor",
-    "resumo": "O presidente da Associação Brasileira do Agronegócio (Abag), Ingo Plöger, declarou que o Plano Safra não atendeu às demandas do setor. Ele criticou as altas taxas de juros e apontou o risco de os recursos não serem totalmente utilizados na safra 2026/2027. A declaração indica insatisfação com as políticas de crédito rural.",
-    "categoria": "economia",
+    "id": "2026-07-06-ibge-prorrogacao-inscricoes",
+    "data": "2026-07-06",
+    "titulo": "IBGE prorroga inscrições para seleção com mais de 150 vagas",
+    "resumo": "As inscrições para o processo seletivo simplificado do Instituto Brasileiro de Geografia e Estatística (IBGE) foram prorrogadas até a próxima quinta-feira (9). O processo seletivo oferece mais de 150 vagas. Os interessados devem se inscrever pela internet.",
+    "categoria": "educacao",
     "tags": [
-      "Plano Safra",
-      "agronegócio",
-      "crédito rural",
-      "juros"
+      "IBGE",
+      "seleção",
+      "vagas",
+      "inscrições",
+      "prorrogação"
     ],
     "entidades": [
-      "Abag"
+      "IBGE"
     ],
-    "pessoas": [
-      "Ingo Plöger"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/agro/plano-safra-nao-contemplou-pleito-do-setor-diz-presidente-da-abag/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-05-morte-motociclista-df",
-    "data": "2026-07-05",
-    "titulo": "Motociclista morre após colisão com mureta na BR-020, no DF",
-    "resumo": "Um motociclista faleceu após colidir contra uma mureta de proteção na BR-020, no Distrito Federal, na noite de sábado (4). O acidente ocorreu próximo ao Taquari, sentido Sobradinho. As circunstâncias exatas da colisão estão sob investigação.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente",
-      "morte",
-      "rodovia"
-    ],
-    "entidades": [],
     "pessoas": [],
     "estados": [
-      "Distrito Federal"
+      "Minas Gerais"
     ],
-    "cidades": [
-      "Sobradinho"
-    ],
+    "cidades": [],
     "paises": [
       "Brasil"
     ],
@@ -249,487 +586,63 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/07/05/motociclista-morre-apos-colidir-contra-mureta-de-protecao-na-br-020-no-df.ghtml"
+        "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/07/06/perdeu-o-prazo-ibge-prorroga-inscricoes-para-selecao-com-mais-de-150-vagas-na-regiao.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-05-nascimento-neta-zeze-di-camargo",
-    "data": "2026-07-05",
-    "titulo": "Zezé di Camargo comemora nascimento da neta Florença",
-    "resumo": "O cantor Zezé di Camargo celebrou o nascimento de sua neta, Florença. Ele descreveu o momento como um privilégio. Florença é filha de Igor, o terceiro filho do cantor, com Amabylle Eiroa. A família expressou alegria com a chegada da nova integrante.",
-    "categoria": "cultura",
-    "tags": [
-      "nascimento",
-      "família",
-      "celebridade"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Zezé di Camargo",
-      "Igor",
-      "Amabylle Eiroa"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/pop/celebridades/zeze-di-camargo-comemora-nascimento-da-neta-com-declaracao-privilegio/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-05-cristo-redentor-iluminado-eua",
-    "data": "2026-07-05",
-    "titulo": "Cristo Redentor é iluminado em homenagem à independência dos EUA",
-    "resumo": "O Cristo Redentor, no Rio de Janeiro, foi iluminado em celebração à independência dos Estados Unidos. A homenagem foi realizada pelo Consulado-Geral americano em parceria com a Arquidiocese do Rio de Janeiro. O evento marcou a efeméride americana no Brasil.",
+    "id": "2026-07-06- Organizacao-escola-assentamento-israelense",
+    "data": "2026-07-06",
+    "titulo": "Escola em assentamento israelense em Hebron é financiada por caridade britânica",
+    "resumo": "Uma caridade britânica está financiando uma escola religiosa no coração dos planos de expansão do assentamento israelense em Hebron. A organização Friends of Yeshivat Shavei Hevron enviou quase £200.000 para a instituição entre 2019 e 2024. Israel tem sido acusado de impor apartheid na cidade.",
     "categoria": "internacional",
     "tags": [
-      "homenagem",
-      "independência dos EUA",
-      "Cristo Redentor"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Rio de Janeiro"
-    ],
-    "paises": [
-      "Estados Unidos",
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/cristo-redentor-e-iluminado-em-homenagem-a-independencia-dos-eua/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-05-prisao-drogas-sao-jose-dos-campos",
-    "data": "2026-07-05",
-    "titulo": "Homem é preso com grande quantidade de drogas em São José dos Campos",
-    "resumo": "Um homem foi detido em flagrante com 2,6 mil porções de drogas na noite de sábado (4), no Jardim Pararangaba, em São José dos Campos. Durante a abordagem, foram apreendidos 502 pinos de cocaína e outras substâncias ilícitas. A Polícia Militar efetuou a prisão.",
-    "categoria": "seguranca",
-    "tags": [
-      "prisão",
-      "drogas",
-      "flagrante"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "São José dos Campos"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/05/homem-e-preso-com-26-mil-porcoes-de-drogas-no-pararangaba-em-sao-jose-dos-campos.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-05-frio-sao-paulo-jogo-brasil",
-    "data": "2026-07-05",
-    "titulo": "São Paulo registra frio e muitas nuvens no domingo do jogo do Brasil",
-    "resumo": "A cidade de São Paulo experimentou um dia frio e com muitas nuvens no domingo (5), coincidindo com a realização do jogo da seleção brasileira. A previsão meteorológica indicou a necessidade de agasalhos para quem acompanhou a partida. As temperaturas baixas foram acompanhadas por um céu encoberto.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "previsão do tempo",
-      "frio",
-      "São Paulo",
-      "clima"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "São Paulo"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/05/domingo-de-jogo-do-brasil-sera-de-frio-e-muitas-nuvens-em-sp-veja-a-previsao-para-os-proximos-dias.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-05-pf-prende-mulher-medicamentos-galeao",
-    "data": "2026-07-05",
-    "titulo": "PF prende mulher com medicamentos irregulares no Aeroporto do Galeão",
-    "resumo": "A Polícia Federal efetuou a prisão em flagrante de uma mulher no Aeroporto do Galeão, no Rio de Janeiro, na noite de sábado (4). Ela transportava medicamentos para emagrecimento e anabolizantes sem a devida documentação. Os produtos não possuíam autorização para importação regular.",
-    "categoria": "seguranca",
-    "tags": [
-      "prisão",
-      "medicamentos",
-      "anabolizantes",
-      "aeroporto"
+      "assentamento israelense",
+      "Hebron",
+      "financiamento",
+      "caridade",
+      "Cisjordânia"
     ],
     "entidades": [
-      "Polícia Federal"
+      "Friends of Yeshivat Shavei Hevron"
     ],
     "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Rio de Janeiro"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/05/pf-prende-mulher-com-medicamentos-no-aeroporto-do-galeao.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-05-assassinato-teresina",
-    "data": "2026-07-05",
-    "titulo": "Homem é assassinado em bar na Zona Sudeste de Teresina",
-    "resumo": "Um homem, identificado como Paulo da Cunha Magalhães, foi morto a tiros em um bar na Zona Sudeste de Teresina na noite de sábado (4). A Polícia Militar foi acionada e encontrou a vítima já sem vida no local. A Polícia Civil investiga o caso para determinar as circunstâncias do crime.",
-    "categoria": "seguranca",
-    "tags": [
-      "assassinato",
-      "homicídio",
-      "investigação policial"
-    ],
-    "entidades": [
-      "Polícia Militar do Piauí",
-      "Polícia Civil"
-    ],
-    "pessoas": [
-      "Paulo da Cunha Magalhães"
-    ],
-    "estados": [
-      "Piauí"
-    ],
-    "cidades": [
-      "Teresina"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/05/homem-assassinado-teresina.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-05-queda-alcione-show-sao-luis",
-    "data": "2026-07-05",
-    "titulo": "Cantora Alcione cai no palco durante show em São Luís",
-    "resumo": "A cantora Alcione se desequilibrou e caiu no palco durante um show em São Luís, no Maranhão, na noite de sábado (4). O incidente ocorreu enquanto ela participava da programação junina do evento. Apesar da queda, a artista, de 78 anos, continuou a apresentação.",
-    "categoria": "cultura",
-    "tags": [
-      "show",
-      "queda",
-      "cantora",
-      "música"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Alcione"
-    ],
-    "estados": [
-      "Maranhão"
-    ],
-    "cidades": [
-      "São Luís"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/05/cantora-alcione-se-desequilibra-e-cai-durante-show-em-sao-luis.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-05-condicao-medica-hospital-gaza",
-    "data": "2026-07-05",
-    "titulo": "Chefe de hospital em Gaza em condição crítica, diz grupo de direitos humanos",
-    "resumo": "Um grupo de direitos humanos informou que o diretor de um hospital em Gaza está em condição de risco à vida. Elyas Abu Safia relatou que seu pai, Hussam, tem dificuldades para respirar e falar após mais de 555 dias de prisão em Israel. A alegação levanta preocupações sobre o tratamento de prisioneiros.",
-    "categoria": "internacional",
-    "tags": [
-      "saúde",
-      "prisão",
-      "direitos humanos",
-      "Gaza"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Elyas Abu Safia",
-      "Hussam"
-    ],
     "estados": [],
-    "cidades": [],
+    "cidades": [
+      "Hebron"
+    ],
     "paises": [
       "Israel",
+      "Reino Unido",
       "Palestina"
     ],
-    "importancia": 3,
+    "importancia": 2,
     "fontes": [
       {
-        "nome": "Aljazeera",
-        "url": "https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says?traffic_source=rss"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/jul/06/british-charity-friends-of-yeshivat-shavei-illegal-settlement-hebron"
       }
     ]
   },
   {
-    "id": "2026-07-05-coreia-sul-fundo-chip",
-    "data": "2026-07-05",
-    "titulo": "Coreia do Sul planeja fundo com receita da indústria de semicondutores",
-    "resumo": "A Coreia do Sul planeja criar um novo fundo de fomento futuro, financiado pela receita proveniente de seu próspero setor de semicondutores. O objetivo é financiar grandes projetos industriais e apoiar as gerações mais jovens. A medida visa capitalizar o boom da indústria de chips.",
-    "categoria": "economia",
-    "tags": [
-      "indústria",
-      "semicondutores",
-      "fundo de investimento",
-      "tecnologia"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Coreia do Sul"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "DW",
-        "url": "https://www.dw.com/en/south-korea-plans-future-fund-fueled-by-chip-boom/a-77836747?maca=en-rss-en-all-1573-rdf"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-05-terremotos-venezuela-vitimas",
-    "data": "2026-07-05",
-    "titulo": "Venezuela: Número de mortos em terremotos pode ser muito maior",
-    "resumo": "As autoridades venezuelanas indicaram que o número de mortos pelos terremotos gêmeos no país pode ser consideravelmente maior do que os dados oficiais divulgados. Quase 3.000 pessoas morreram até sábado (4), enquanto equipes de resgate internacionais começaram a encerrar as operações de busca por sobreviventes. A magnitude exata da tragédia ainda está sendo apurada.",
-    "categoria": "internacional",
-    "tags": [
-      "terremoto",
-      "vítimas",
-      "desastre natural",
-      "Venezuela"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Venezuela"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "France24",
-        "url": "https://www.france24.com/en/venezuela-quakes-final-death-toll-expected-to-be-much-higher"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-05-marine-le-pen-corte-paris",
-    "data": "2026-07-05",
-    "titulo": "Decisão judicial em Paris pode afetar candidatura presidencial de Marine Le Pen",
-    "resumo": "A corte de apelações de Paris emitirá um parecer sobre o caso de apropriação indébita envolvendo Marine Le Pen. A decisão, prevista para terça-feira, pode determinar se a política, uma das figuras proeminentes na França, poderá concorrer às eleições presidenciais do próximo ano. O julgamento aborda alegações de irregularidades financeiras.",
+    "id": "2026-07-06-faleceu-ex-deputado-acre",
+    "data": "2026-07-06",
+    "titulo": "Morre ex-deputado do Acre Ariosto Pires Miguéis aos 90 anos",
+    "resumo": "O ex-deputado acreano Ariosto Pires Miguéis faleceu aos 90 anos neste domingo (5). O político foi um dos fundadores do Movimento Democrático Brasileiro (MDB) no estado. O velório ocorreu na Assembleia Legislativa do Acre.",
     "categoria": "politica",
     "tags": [
-      "eleições",
-      "justiça",
-      "política francesa",
-      "candidatura"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Marine Le Pen"
-    ],
-    "estados": [
-      "Île-de-France"
-    ],
-    "cidades": [
-      "Paris"
-    ],
-    "paises": [
-      "França"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "France24",
-        "url": "https://www.france24.com/en/paris-appeals-court-ruling-could-upend-marine-le-pen-s-2027-presidential-bid"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-05-receita-clube-rural",
-    "data": "2026-07-05",
-    "titulo": "Clube Rural ensina receita de creme de galinha",
-    "resumo": "O programa Clube Rural apresentou neste domingo (5) uma receita de creme de galinha elaborada pelo chef João Constantino. O prato, tradicional em celebrações populares no Piauí, foi destacado por seu sabor e cremosidade. A receita busca valorizar a culinária regional.",
-    "categoria": "cultura",
-    "tags": [
-      "culinária",
-      "receita",
-      "regional"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "João Constantino"
-    ],
-    "estados": [
-      "Piauí"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pi/piaui/cluberural/noticia/2026/07/05/creme-de-galinha-clube-rural.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-05-recorde-jovem-india-cricket",
-    "data": "2026-07-05",
-    "titulo": "Vaibhav Sooryavanshi se torna o jogador mais jovem da Índia em partida internacional",
-    "resumo": "Vaibhav Sooryavanshi, de 15 anos, estabeleceu um novo recorde ao se tornar o jogador mais jovem a representar a Índia em uma partida internacional de críquete T20. A estreia ocorreu durante a derrota da equipe contra a Inglaterra no Old Trafford. A proeza destaca o surgimento de um novo talento no esporte indiano.",
-    "categoria": "esportes",
-    "tags": [
-      "críquete",
-      "recorde",
-      "jovem atleta",
-      "Índia"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Vaibhav Sooryavanshi"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Índia",
-      "Inglaterra"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "Aljazeera",
-        "url": "https://www.aljazeera.com/sports/2026/7/5/sooryavanshi-sets-record-for-youngest-india-player-in-international-match?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-05-vazamento-chorume-seropedica",
-    "data": "2026-07-05",
-    "titulo": "Inea confirma vazamento de chorume em aterro sanitário de Seropédica",
-    "resumo": "O Instituto Estadual do Ambiente (Inea-RJ) confirmou um vazamento de chorume no aterro sanitário de Seropédica, que recebe grande parte do lixo do Rio de Janeiro. Moradores relataram contaminação de poços e córregos na região. O Inea orientou a população a não utilizar água dessas fontes.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "vazamento",
-      "chorume",
-      "aterro sanitário",
-      "meio ambiente",
-      "contaminação"
+      "falecimento",
+      "político",
+      "deputado",
+      "Acre",
+      "MDB"
     ],
     "entidades": [
-      "Inea-RJ"
+      "Movimento Democrático Brasileiro (MDB)"
     ],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
+    "pessoas": [
+      "Ariosto Pires Miguéis"
     ],
-    "cidades": [
-      "Seropédica"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/05/inea-confirma-vazamento-de-chorume-no-aterro-sanitario-de-seropedica-que-recebe-a-maior-parte-do-lixo-do-rio.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-05-robbe-versatilidade-vestuario",
-    "data": "2026-07-05",
-    "titulo": "O robe se consolida como peça versátil no vestuário",
-    "resumo": "O robe tem se destacado como uma peça de vestuário cada vez mais versátil. Originalmente associado ao uso em casa, ele tem transitado para outras ocasiões, oferecendo conforto e estilo. Sua adaptação a diferentes momentos do dia o torna um item valioso no guarda-roupa moderno.",
-    "categoria": "cultura",
-    "tags": [
-      "moda",
-      "vestuário",
-      "tendência",
-      "versatilidade"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Paraná"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pr/parana/especial-publicitario/recco-guia-de-moda-e-bem-estar/noticia/2026/07/05/muito-alem-do-quarto-por-que-o-robe-virou-uma-das-pecas-mais-versateis-do-vestuario.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-05-expoacre-jurua-e-transporte-acre",
-    "data": "2026-07-05",
-    "titulo": "Destaques do Acre: Expoacre Juruá e crise no transporte coletivo",
-    "resumo": "As principais notícias do Acre entre 28 de junho e 4 de julho incluem a Expoacre Juruá e a crise no transporte coletivo. A justiça determinou a apreensão de ônibus do transporte público. Outros destaques locais foram compilados pelo portal g1 AC. A região busca soluções para os problemas de mobilidade.",
-    "categoria": "internacional",
-    "tags": [
-      "notícias locais",
-      "transporte público",
-      "eventos"
-    ],
-    "entidades": [],
-    "pessoas": [],
     "estados": [
       "Acre"
     ],
@@ -741,55 +654,248 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/ac/acre/noticia/2026/07/05/voce-viu-expoacre-jurua-crise-no-transporte-coletivo-dom-joaquin-renuncia-e-mais.ghtml"
+        "url": "https://g1.globo.com/ac/acre/noticia/2026/07/06/ex-deputado-do-acre-ariosto-pires-migueis-morre-aos-88-anos.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-05-real-madrid-contrata-dumfries",
-    "data": "2026-07-05",
-    "titulo": "Real Madrid anuncia contratação do lateral holandês Dumfries",
-    "resumo": "O Real Madrid oficializou a contratação do lateral direito holandês Denzel Dumfries para as próximas quatro temporadas. O jogador chega vindo da Inter de Milão, onde atuou por cinco anos. A transferência reforça a defesa do clube espanhol.",
+    "id": "2026-07-06-celebracoes-sao-joao-campina-grande",
+    "data": "2026-07-06",
+    "titulo": "São João de Campina Grande: shows, estreias e momentos marcantes",
+    "resumo": "O São João de Campina Grande, na Paraíba, chegou ao fim após 33 dias de festa. O evento foi marcado por grandes shows, incluindo apresentações com estilo de Michael Jackson, e momentos que chamaram a atenção do público. Jogos da Copa do Mundo também foram destaque.",
+    "categoria": "cultura",
+    "tags": [
+      "São João",
+      "festa junina",
+      "cultura popular",
+      "shows",
+      "Campina Grande"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Michael Jackson"
+    ],
+    "estados": [
+      "Paraíba"
+    ],
+    "cidades": [
+      "Campina Grande"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pb/paraiba/sao-joao/noticia/2026/07/06/abertura-de-show-no-estilo-michael-jackson-estreantes-e-jogos-da-copa-veja-os-destaques-do-sao-joao-2026-de-campina-grande.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-06-construcao-predio-maceio",
+    "data": "2026-07-06",
+    "titulo": "Construção de prédio de luxo em Maceió bloqueia vista do mar e gera críticas",
+    "resumo": "A construção de um prédio à beira-mar na praia de Guaxuma, em Maceió, Alagoas, gerou repercussão negativa após bloquear a vista do mar na região. Um vídeo comparando o antes e depois da construção viralizou nas redes sociais, provocando críticas.",
+    "categoria": "urbanismo",
+    "tags": [
+      "construção civil",
+      "imóvel de luxo",
+      "vista para o mar",
+      "críticas",
+      "Maceió"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Alagoas"
+    ],
+    "cidades": [
+      "Maceió"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/al/alagoas/noticia/2026/07/06/construcao-de-predio-de-luxo-bloqueia-vista-do-mar-em-maceio-e-gera-criticas-veja-antes-e-depois.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-06-assassinato-familiares-piaui",
+    "data": "2026-07-06",
+    "titulo": "Homem é preso suspeito de esfaquear tios no Piauí",
+    "resumo": "Um homem foi preso no Piauí suspeito de esfaquear dois tios na zona rural do município de Elesbão Veloso. A polícia apontou sinais de embriaguez no suspeito. O ataque ocorreu na tarde de domingo. A identidade do suspeito não foi divulgada.",
+    "categoria": "justica",
+    "tags": [
+      "violência",
+      "ataque com faca",
+      "prisão",
+      "embriaguez",
+      "Piauí"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Piauí"
+    ],
+    "cidades": [
+      "Elesbão Veloso"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/06/homem-suspeito-esfaquear-tios.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-06-khamenei-funeral-ira",
+    "data": "2026-07-06",
+    "titulo": "Milhões participam do cortejo fúnebre do Líder Supremo do Irã, Ali Khamenei",
+    "resumo": "Milhões de pessoas participaram do cortejo fúnebre do Líder Supremo do Irã, Ali Khamenei, na capital Teerã. Khamenei foi morto em ataques aéreos dos EUA-Israel em fevereiro. A mídia estatal libanesa informou sobre um ataque israelense que matou quatro pessoas no sul do Líbano.",
+    "categoria": "internacional",
+    "tags": [
+      "Irã",
+      "funerária",
+      "Líder Supremo",
+      "mortes",
+      "conflito no Oriente Médio"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Ali Khamenei"
+    ],
+    "estados": [],
+    "cidades": [
+      "Teerã"
+    ],
+    "paises": [
+      "Irã",
+      "Estados Unidos",
+      "Israel",
+      "Líbano"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/jul/06/iran-middle-east-crisis-funeral-supreme-leader-ali-khamenei-tehran-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-06-noticias-locais-bahia",
+    "data": "2026-07-06",
+    "titulo": "TV Subaé exibe o telejornal 'Bahia Meio Dia'",
+    "resumo": "O telejornal 'Bahia Meio Dia', exibido pela TV Subaé, foi disponibilizado para assistir. A notícia é um aviso para que os espectadores possam acompanhar a programação local.",
+    "categoria": "informacao",
+    "tags": [
+      "telejornal",
+      "notícias locais",
+      "Bahia",
+      "TV Subaé"
+    ],
+    "entidades": [
+      "TV Subaé"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Bahia"
+    ],
+    "cidades": [
+      "Feira de Santana"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-06-noticias-locais-para",
+    "data": "2026-07-06",
+    "titulo": "Vídeos do telejornal BDP de segunda-feira, 6 de julho de 2026",
+    "resumo": "Estão disponíveis os vídeos do telejornal BDP (Balanço do Dia) de segunda-feira, 6 de julho de 2026. A apresentadora Fábia Sepêda comanda o noticiário. A notícia indica a disponibilidade do conteúdo.",
+    "categoria": "informacao",
+    "tags": [
+      "telejornal",
+      "vídeos",
+      "notícias locais",
+      "Pará",
+      "BDP"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Fábia Sepêda"
+    ],
+    "estados": [
+      "Pará"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pa/para/edicao/2026/07/06/videos-bdp-de-segunda-feira-6-de-julho-de-2026.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-06-botafogo-sp-x-avai",
+    "data": "2026-07-06",
+    "titulo": "Botafogo-SP x Avaí: horário e onde assistir ao jogo da Série B do Brasileirão",
+    "resumo": "A partida entre Botafogo-SP e Avaí, válida pela 16ª rodada do Brasileirão Série B, acontecerá nesta segunda-feira (6), às 19h (horário de Brasília). A notícia informa o horário e os canais onde o jogo poderá ser assistido.",
     "categoria": "esportes",
     "tags": [
       "futebol",
-      "contratação",
-      "Real Madrid",
-      "La Liga"
+      "Brasileirão Série B",
+      "jogo",
+      "horário",
+      "transmissão"
     ],
-    "entidades": [
-      "Real Madrid",
-      "Inter de Milão"
-    ],
-    "pessoas": [
-      "Denzel Dumfries"
-    ],
+    "entidades": [],
+    "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Espanha",
-      "Países Baixos",
-      "Itália"
+      "Brasil"
     ],
-    "importancia": 3,
+    "importancia": 1,
     "fontes": [
       {
         "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/real-madrid-anuncia-contratacao-de-dumfries-por-quatro-temporadas/"
+        "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/botafogo-sp-x-avai-horario-e-onde-assistir-ao-brasileirao-serie-b/"
       }
     ]
   },
   {
-    "id": "2026-07-05-brasil-mata-mata-copa",
-    "data": "2026-07-05",
-    "titulo": "Brasil pode igualar marca de vitórias em mata-matas de Copa do Mundo",
-    "resumo": "A seleção brasileira tem a oportunidade de vencer dois jogos de mata-mata em uma Copa do Mundo pela primeira vez desde 2014. O Brasil enfrentará a Noruega nas oitavas de final. Alcançar essa marca representaria um avanço significativo para a equipe no torneio.",
+    "id": "2026-07-06-torcida-noruega-copa",
+    "data": "2026-07-06",
+    "titulo": "Torcida brasileira promete torcer para a Noruega na Copa do Mundo",
+    "resumo": "Parte da torcida brasileira manifestou que torcerá para a seleção da Noruega na Copa do Mundo. Eles elogiaram a atuação dos europeus e pediram para que a equipe elimine a Argentina do mundial. A notícia destaca uma possível 'rivalidade' ou preferência inesperada.",
     "categoria": "esportes",
     "tags": [
-      "Copa do Mundo",
       "futebol",
-      "mata-mata",
-      "seleção brasileira"
+      "Copa do Mundo",
+      "torcida",
+      "Noruega",
+      "Argentina"
     ],
     "entidades": [],
     "pessoas": [],
@@ -797,13 +903,81 @@
     "cidades": [],
     "paises": [
       "Brasil",
-      "Noruega"
+      "Noruega",
+      "Argentina"
     ],
-    "importancia": 4,
+    "importancia": 1,
     "fontes": [
       {
         "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/brasil-pode-vencer-dois-mata-matas-em-copas-pela-primeira-vez-desde-2014/"
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/rivalidade-brasileiros-prometem-torcer-para-a-noruega-na-copa/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-06-democratas-michigan",
+    "data": "2026-07-06",
+    "titulo": "Democratas de Michigan escolhem entre candidato progressista e do 'establishment'",
+    "resumo": "Os Democratas de Michigan se preparam para escolher entre um candidato progressista e outro alinhado ao 'establishment'. A candidata Mallory McMorrow se retirou da corrida, emergindo Abdul El-Sayed como o provável favorito na campanha primária. A escolha ocorrerá na política do estado.",
+    "categoria": "politica",
+    "tags": [
+      "eleições",
+      "Democratas",
+      "Michigan",
+      "primárias",
+      "candidato progressista"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Mallory McMorrow",
+      "Abdul El-Sayed"
+    ],
+    "estados": [
+      "Michigan"
+    ],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/live/2026/jul/06/donald-trump-democrats-michigan-mallory-mcmorrow-us-politics-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-06-farage-uk-politics",
+    "data": "2026-07-06",
+    "titulo": "Nigel Farage é alertado sobre punição mais severa por presentes não registrados",
+    "resumo": "Nigel Farage, líder do Reform UK, foi alertado de que pode enfrentar punições mais severas em relação a presentes não registrados. O comissário parlamentar de padrões está investigando uma doação de £5 milhões. Farage afirma ser vítima de um 'golpe'.",
+    "categoria": "politica",
+    "tags": [
+      "política britânica",
+      "Nigel Farage",
+      "presentes não registrados",
+      "investigação parlamentar",
+      "Reform UK"
+    ],
+    "entidades": [
+      "Reform UK"
+    ],
+    "pessoas": [
+      "Nigel Farage",
+      "Keir Starmer",
+      "Andy Burnham"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/06/nigel-farage-reform-unregistered-gift-crypto-christopher-harborne-keir-starmer-labour-andy-burnham-uk-politics-live"
       }
     ]
   }
