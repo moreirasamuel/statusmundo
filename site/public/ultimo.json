@@ -1,288 +1,755 @@
 [
   {
-    "id": "2026-07-06-rebeliao-prisao-sri-lanka",
-    "data": "2026-07-06",
-    "titulo": "Rebelião em prisão no Sri Lanka deixa 26 mortos e mais de 100 feridos",
-    "resumo": "Violentos confrontos em uma prisão no Sri Lanka resultaram na morte de pelo menos 26 detentos e quatro guardas. Mais de 100 pessoas ficaram feridas durante os incidentes. A violência na prisão de Negombo é a pior registrada no país em anos.",
-    "categoria": "justica",
+    "id": "marine-le-pen-eleicoes-franca",
+    "data": "2026-07-07",
+    "titulo": "Tribunal francês permite que Marine Le Pen concorra à presidência, mas com condições",
+    "resumo": "Um tribunal de apelação francês removeu uma proibição para que Marine Le Pen concorra à presidência em 2027. No entanto, a decisão está condicionada ao uso de uma tornozeleira eletrônica, o que ela já indicou que não aceitaria. A decisão abre a possibilidade de sua candidatura, mas deixa a decisão final em suas mãos.",
+    "categoria": "politica",
     "tags": [
-      "rebelião",
-      "prisão",
-      "conflito",
-      "mortos",
-      "feridos"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Negombo",
-      "Colombo"
-    ],
-    "paises": [
-      "Sri Lanka"
-    ],
-    "importancia": 5,
-    "fontes": [
-      {
-        "nome": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cvg77klne3yo"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/07/06/rebeliao-em-penitenciaria-do-sri-lanka-deixa-25-mortos.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-ataques-russia-ucrania",
-    "data": "2026-07-06",
-    "titulo": "Ataques russos matam 19 em Kyiv e expõem lacunas na defesa aérea",
-    "resumo": "Uma onda de mísseis e drones russos atingiu Kyiv, capital da Ucrânia, matando 19 pessoas e danificando edifícios. Este é o segundo ataque à capital e região em poucos dias, ocorrendo na véspera de uma cúpula da OTAN. A Ucrânia pede decisões fortes na cúpula.",
-    "categoria": "internacional",
-    "tags": [
-      "guerra",
-      "ataque",
-      "mísseis",
-      "drones",
-      "OTAN",
-      "defesa aérea"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Zelenskyy"
-    ],
-    "estados": [],
-    "cidades": [
-      "Kyiv"
-    ],
-    "paises": [
-      "Ucrânia",
-      "Rússia"
-    ],
-    "importancia": 5,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jul/06/ukraine-russia-zelenskyy-nato-summit-strikes-kyiv-europe-latest-news-updates"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jul/06/russia-launches-deadly-missile-drone-attacks-kyiv-ukraine"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-trump-fifa-cartao-vermelho",
-    "data": "2026-07-06",
-    "titulo": "Trump critica árbitro e pede revisão de cartão vermelho na Copa do Mundo",
-    "resumo": "Donald Trump criticou a atuação de um árbitro em uma partida da Copa do Mundo e agradeceu à FIFA por reverter um cartão vermelho. A federação belga de futebol também solicitou explicações da FIFA sobre a decisão. A notícia menciona o jogador Folarin Balogun.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "Copa do Mundo",
-      "FIFA",
-      "árbitro",
-      "cartão vermelho"
+      "eleições",
+      "França",
+      "Marine Le Pen",
+      "justiça"
     ],
     "entidades": [
-      "FIFA"
+      "National Rally"
+    ],
+    "pessoas": [
+      "Marine Le Pen"
+    ],
+    "estados": [],
+    "cidades": [
+      "Paris"
+    ],
+    "paises": [
+      "França"
+    ],
+    "importancia": 5,
+    "fontes": [
+      {
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/marine-le-pen-branding-as-victim-of-judicial-harassment-would-be-political-stretch"
+      },
+      {
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/decision-time-for-far-right-national-rally-as-ruling-clears-le-pen-s-way-for-election-run"
+      },
+      {
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/world/live/2026/jul/07/nato-summit-zelenskyy-trump-ukraine-rutte-defence-eu-spending-turkey-france-macron-le-pen-europe-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "trump-otan-comentarios-ira",
+    "data": "2026-07-07",
+    "titulo": "Trump afirma que estava 'testando' aliados da Otan durante guerra no Irã",
+    "resumo": "O presidente dos Estados Unidos, Donald Trump, declarou em uma cúpula da Otan que estava \"testando\" os aliados europeus durante a guerra no Irã, expressando decepção com a falta de apoio. Trump fez as declarações em uma coletiva de imprensa conjunta com o presidente da Turquia, Recep Tayyip Erdogan. Ele reiterou que não desejava ajuda dos aliados na guerra americana contra o Irã.",
+    "categoria": "internacional",
+    "tags": [
+      "Otan",
+      "Estados Unidos",
+      "Irã",
+      "alianças militares"
+    ],
+    "entidades": [
+      "Otan"
     ],
     "pessoas": [
       "Donald Trump",
-      "Folarin Balogun"
+      "Recep Tayyip Erdogan"
     ],
     "estados": [],
     "cidades": [],
     "paises": [
       "Estados Unidos",
-      "Bélgica"
+      "Turquia",
+      "Irã"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/07/06/trump-diz-que-arbitro-que-aplicou-cartao-vermelho-era-um-pouco-suspeito.ghtml"
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/live/2026/jul/07/graham-platner-democrats-senate-maine-trump-nato-us-politics-latest-news-updates"
       },
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/live/2026/jul/06/donald-trump-democrats-michigan-mallory-mcmorrow-us-politics-latest-news-updates"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mundo/noticia/2026/07/07/na-otan-trump-diz-que-estava-testando-aliados-europeus-durante-guerra-no-ira-muito-desapontado.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-06-operacao-policial-drogas-amazonas",
-    "data": "2026-07-06",
-    "titulo": "Sargento da PM é preso no AM suspeito de escoltar mais de 600 kg de drogas",
-    "resumo": "A Justiça do Amazonas decretou a prisão preventiva de um sargento da Polícia Militar suspeito de escoltar 603 quilos de maconha tipo skunk. O militar foi preso na última sexta-feira. Mais de 600 quilos de drogas foram apreendidas na operação.",
-    "categoria": "seguranca",
+    "id": "copa-do-mundo-belgica-eua",
+    "data": "2026-07-07",
+    "titulo": "Bélgica goleia Estados Unidos e avança para as quartas de final da Copa do Mundo",
+    "resumo": "A seleção da Bélgica venceu os Estados Unidos com uma goleada nas oitavas de final da Copa do Mundo e garantiu sua vaga nas quartas de final. Apesar de a Fifa ter anulado a expulsão de um jogador americano a pedido do presidente Donald Trump, a equipe dos EUA não conseguiu reverter o resultado. A Suíça também busca avançar na competição.",
+    "categoria": "esportes",
     "tags": [
-      "polícia",
-      "prisão",
-      "drogas",
-      "apreensão",
-      "tráfico"
+      "Copa do Mundo",
+      "futebol",
+      "Bélgica",
+      "Estados Unidos"
     ],
     "entidades": [
-      "Polícia Militar do Amazonas"
+      "Fifa"
     ],
-    "pessoas": [
-      "Diego de Franco Guedes"
-    ],
-    "estados": [
-      "Amazonas"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/06/justica-decreta-prisao-preventiva-de-sargento-da-pm-suspeito-de-escoltar-mais-de-600-kg-de-drogas-no-am.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-operacao-policial-drogas-paraiba",
-    "data": "2026-07-06",
-    "titulo": "Grupo suspeito de simular roubos de cargas e tráfico de drogas é preso na PB",
-    "resumo": "A Polícia Civil prendeu quatro pessoas na Paraíba suspeitas de simular roubos de cargas e de atuar no tráfico de drogas. A prisão ocorreu após uma investigação policial. As operações foram realizadas no Agreste paraibano.",
-    "categoria": "seguranca",
-    "tags": [
-      "polícia",
-      "prisão",
-      "tráfico de drogas",
-      "roubo de carga",
-      "investigação"
-    ],
-    "entidades": [
-      "Polícia Civil da Paraíba"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Paraíba"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/06/policia-civil-prende-grupo-suspeito-de-simular-roubos-de-cargas-e-trafico-de-drogas-na-pb.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-condicao-analogia-escravidao-parana",
-    "data": "2026-07-06",
-    "titulo": "Dono de pedreira é investigado por manter trabalhadores em condição análoga à escravidão no Paraná",
-    "resumo": "Um dono de pedreira no Paraná é investigado por manter trabalhadores em condição análoga à escravidão. Os trabalhadores relataram à polícia serem impedidos de deixar o local devido a dívidas alegadas pelo empregador. A polícia resgatou os trabalhadores.",
-    "categoria": "justica",
-    "tags": [
-      "escravidão moderna",
-      "trabalho análogo à escravidão",
-      "investigação policial",
-      "resgate"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Paraná"
-    ],
-    "cidades": [
-      "Virmond"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/07/06/escravidao-moderna-no-parana-dono-de-pedreira-mantinha-trabalhadores-presos-ao-servico-alegando-dividas-por-alimenta-los-diz-policia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-supremacistas-eua-dia-independencia",
-    "data": "2026-07-06",
-    "titulo": "Supremacistas brancos marcharam nos EUA durante celebrações do Dia da Independência",
-    "resumo": "Supremacistas brancos realizaram marchas nos Estados Unidos durante as comemorações do 250º aniversário da independência do país. O evento foi descrito como uma 'guerra cultural'. Os grupos usaram uma versão moderna da Ku Klux Klan em suas manifestações.",
-    "categoria": "politica",
-    "tags": [
-      "supremacia branca",
-      "Ku Klux Klan",
-      "Dia da Independência",
-      "protesto",
-      "discurso de ódio"
-    ],
-    "entidades": [],
     "pessoas": [
       "Donald Trump"
     ],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Estados Unidos"
+      "Bélgica",
+      "Estados Unidos",
+      "Suíça"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/07/06/protegidos-trump-supremacistas-brancos-marcharam-livremente-dia-independencia-eua.ghtml"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/jornal-da-globo/noticia/2026/07/07/chaveamento-da-copa-do-mundo-belgica-goleia-os-estados-unidos-e-avanca-as-quartas-de-final.ghtml"
+      },
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/suica-tenta-encerrar-jejum-de-72-anos-contra-colombia-na-copa/"
       }
     ]
   },
   {
-    "id": "2026-07-06-financiamento-escola-israel-britanica",
-    "data": "2026-07-06",
-    "titulo": "Caridade britânica financia escola em assentamento israelense na Cisjordânia",
-    "resumo": "Uma caridade britânica, Friends of Yeshivat Shavei Hevron, enviou quase £200.000 para uma escola em Hebron, na Cisjordânia. Israel tem sido acusado de impor apartheid na cidade. A escola faz parte dos planos de expansão do assentamento israelense na cidade palestina.",
-    "categoria": "internacional",
+    "id": "ataque-paquistao-policiais",
+    "data": "2026-07-07",
+    "titulo": "Ataque no sudoeste do Paquistão mata pelo menos nove policiais",
+    "resumo": "Pelo menos nove policiais foram mortos em um ataque ocorrido no sudoeste do Paquistão. As autoridades relataram que, em operações de \"limpeza\" subsequentes, 15 agressores foram mortos. Detalhes sobre o grupo responsável pelo ataque não foram divulgados.",
+    "categoria": "seguranca",
     "tags": [
-      "assentamento israelense",
-      "Cisjordânia",
-      "financiamento",
-      "caridade",
-      "direitos humanos"
+      "ataque",
+      "polícia",
+      "Paquistão",
+      "violência"
     ],
-    "entidades": [
-      "Friends of Yeshivat Shavei Hevron"
-    ],
+    "entidades": [],
     "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Hebron"
+    "estados": [
+      "Balochistan"
     ],
+    "cidades": [],
     "paises": [
-      "Israel",
-      "Reino Unido",
-      "Palestina"
+      "Paquistão"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jul/06/british-charity-friends-of-yeshivat-shavei-illegal-settlement-hebron"
+        "nome": "aljazeera.com",
+        "url": "https://www.aljazeera.com/news/2026/7/7/at-least-nine-police-officers-killed-in-southwestern-pakistan-attack?traffic_source=rss"
       }
     ]
   },
   {
-    "id": "2026-07-06-imigrantes-alemanha",
-    "data": "2026-07-06",
-    "titulo": "Muitos imigrantes deixam a Alemanha após buscarem oportunidades de trabalho",
-    "resumo": "A Alemanha tem atraído muitos trabalhadores qualificados para seu mercado de trabalho. No entanto, um número significativo desses imigrantes não permanece no país a longo prazo. As razões para essa saída ainda estão sendo investigadas.",
+    "id": "investigacao-contrato-grama-tocantins",
+    "data": "2026-07-07",
+    "titulo": "MP investiga superfaturamento em contrato para plantio de grama em Cariri do Tocantins",
+    "resumo": "O Ministério Público está investigando a prefeitura de Cariri do Tocantins por improbidade administrativa em um contrato de quase R$ 2 milhões para plantio de grama. Há indícios de superfaturamento nos serviços contratados pela gestão municipal. A investigação busca apurar irregularidades na aplicação dos recursos públicos.",
+    "categoria": "justica",
+    "tags": [
+      "improbidade administrativa",
+      "contrato público",
+      "investigação",
+      "Tocantins"
+    ],
+    "entidades": [
+      "Ministério Público"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Tocantins"
+    ],
+    "cidades": [
+      "Cariri do Tocantins"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/07/mp-investiga-superfaturamento-em-contrato-de-r-19-milhao-para-plantio-de-grama-em-cariri-do-tocantins.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "prisao-estupro-vulneravel-sp",
+    "data": "2026-07-07",
+    "titulo": "Dois homens presos por estupro de vulnerável no interior de São Paulo",
+    "resumo": "Dois homens foram presos na região central de Capão Bonito, São Paulo, sob suspeita de estupro de vulnerável. Os suspeitos, de 21 e 30 anos, foram localizados com menores dentro de um carro. Ambos foram encaminhados à delegacia e ficaram à disposição da Justiça. O caso está sendo investigado pelas autoridades.",
+    "categoria": "justica",
+    "tags": [
+      "estupro de vulnerável",
+      "prisão",
+      "São Paulo",
+      "crime"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Capão Bonito"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/07/07/dois-homens-sao-localizados-com-menores-dentro-de-carro-e-presos-por-estupro-de-vulneravel-no-interior-de-sp.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "ativista-amazonas-rio",
+    "data": "2026-07-07",
+    "titulo": "Ativista colombiano que nada no rio Amazonas chega a Santarém",
+    "resumo": "O ativista ambiental colombiano Wilber Honório Muñoz, conhecido como \"Homem-Peixe\", tem chegada prevista à cidade de Santarém, no oeste do Pará. Ele está realizando uma expedição nadando pelo rio Amazonas. A iniciativa visa chamar atenção para questões ambientais na região amazônica.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "ativismo ambiental",
+      "rio Amazonas",
+      "Colômbia",
+      "expedição"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Wilber Honório Muñoz"
+    ],
+    "estados": [
+      "Pará"
+    ],
+    "cidades": [
+      "Santarém"
+    ],
+    "paises": [
+      "Colômbia",
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/07/ativista-colombiano-que-percorre-o-rio-amazonas-a-nado-chega-a-santarem-nesta-quarta-feira-8.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "gaza-agricultores-deslocados",
+    "data": "2026-07-07",
+    "titulo": "Agricultores deslocados em Gaza cultivam terra perto de tendas",
+    "resumo": "Agricultores deslocados na Faixa de Gaza estão recorrendo ao cultivo de terra perto de suas tendas para produzir alimentos. Especialistas alertam que Israel devastou 95% das áreas agrícolas de Gaza. Essa situação agrava a fome e a dependência de ajuda na região.",
     "categoria": "internacional",
     "tags": [
-      "imigração",
-      "mercado de trabalho",
-      "Alemanha",
-      "trabalhadores qualificados",
-      "retorno"
+      "Gaza",
+      "agricultura",
+      "deslocamento",
+      "conflito"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Israel",
+      "Gaza"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "aljazeera.com",
+        "url": "https://www.aljazeera.com/economy/2026/7/7/displaced-gaza-farmers-turn-to-dirt-near-tents-to-grow-crops?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "gaza-mae-filho-foto-prisioneiro",
+    "data": "2026-07-07",
+    "titulo": "Duas mães palestinas acreditam que foto de prisioneiro em Gaza mostra seus filhos",
+    "resumo": "Duas mães palestinas afirmam ter certeza de que uma foto viral de um detento algemado em Gaza mostra seus filhos desaparecidos. A imagem gerou comoção e levanta questões sobre a identidade dos detidos e a situação humanitária na região. Não há confirmação oficial sobre as identidades.",
+    "categoria": "internacional",
+    "tags": [
+      "Gaza",
+      "prisioneiros",
+      "identidade",
+      "conflito"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Gaza"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "aljazeera.com",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/two-mothers-each-certain-a-viral-gaza-prisoner-photo-shows-her-son?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "prince-harry-tribunal-uk",
+    "data": "2026-07-07",
+    "titulo": "Príncipe Harry aguarda decisão judicial em processo contra jornal no Reino Unido",
+    "resumo": "O Príncipe Harry iniciou uma visita ao Reino Unido e aguarda uma decisão judicial em um processo contra a editora do jornal Daily Mail. O julgamento trata de alegações de invasão de privacidade. A sentença, que será publicada online, pode ter repercussões significativas para o caso.",
+    "categoria": "justica",
+    "tags": [
+      "Príncipe Harry",
+      "Reino Unido",
+      "processo judicial",
+      "imprensa"
+    ],
+    "entidades": [
+      "Associated Newspapers Limited"
+    ],
+    "pessoas": [
+      "Príncipe Harry"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/live/2026/jul/07/prince-harry-duke-duchess-sussex-daily-mail-associated-newspapers-meghan-high-court-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "farage-declaracao-futuro-politica",
+    "data": "2026-07-07",
+    "titulo": "Nigel Farage fará declaração sobre seu futuro na vida pública",
+    "resumo": "Nigel Farage, líder do Reform UK, anunciou que fará uma declaração pública sobre seu futuro na vida política. A declaração ocorre após o Partido Trabalhista solicitar uma investigação da Comissão Eleitoral sobre supostas violações da lei eleitoral. Farage foi questionado sobre a divulgação de presentes recebidos.",
+    "categoria": "politica",
+    "tags": [
+      "Nigel Farage",
+      "Reino Unido",
+      "política",
+      "investigação"
+    ],
+    "entidades": [
+      "Reform UK",
+      "Electoral Commission"
+    ],
+    "pessoas": [
+      "Nigel Farage"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/07/nigel-farage-reform-uk-donations-investigations-parliament-electoral-commission-defence-nato-keir-starmer-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "jacarei-reducao-obitos-transito",
+    "data": "2026-07-07",
+    "titulo": "Jacareí registra queda superior a 70% nos óbitos de trânsito",
+    "resumo": "Jacareí apresentou uma redução de mais de 70% nos óbitos registrados no trânsito em vias municipais entre janeiro e maio de 2026, comparado ao mesmo período do ano anterior. Os dados, divulgados pelo portal Infosiga do Detran, indicam uma melhora significativa na segurança viária da cidade. A prefeitura tem investido em segurança e infraestrutura.",
+    "categoria": "seguranca",
+    "tags": [
+      "segurança viária",
+      "trânsito",
+      "redução de mortes",
+      "Jacareí"
+    ],
+    "entidades": [
+      "Detran"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Jacareí"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-jacarei/noticia/2026/07/07/jacarei-tem-queda-de-mais-de-70percent-nos-obitos-de-transito-de-janeiro-a-maio.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "jacarei-parque-centro-paula-souza",
+    "data": "2026-07-07",
+    "titulo": "Prefeitura de Jacareí anuncia parque em área do Centro Paula Souza",
+    "resumo": "A Prefeitura de Jacareí obteve o direito de uso de uma área de 250 mil metros quadrados pertencente ao Centro Paula Souza. A iniciativa possibilitará a criação de um grande parque público ambiental na cidade. A autorização foi concedida pelo Governo do Estado de São Paulo.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "parque público",
+      "meio ambiente",
+      "Jacareí",
+      "urbanismo"
+    ],
+    "entidades": [
+      "Centro Paula Souza"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Jacareí"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-jacarei/noticia/2026/07/07/prefeitura-obtem-direito-de-uso-em-area-do-centro-paula-souza-e-anuncia-parque.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "jacarei-seguranca-totem",
+    "data": "2026-07-07",
+    "titulo": "Jacareí reforça segurança com totem de monitoramento",
+    "resumo": "A cidade de Jacareí iniciou a operação de um novo sistema de monitoramento para ampliar a segurança pública. Um totem de 7 metros de altura e outros 70 de menor porte foram instalados em pontos estratégicos. A iniciativa visa reforçar o acompanhamento e a vigilância na cidade.",
+    "categoria": "seguranca",
+    "tags": [
+      "segurança pública",
+      "monitoramento",
+      "tecnologia",
+      "Jacareí"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Jacareí"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-jacarei/noticia/2026/07/07/smart-jacarei-prefeitura-reforca-seguranca-com-totem-de-7-metros-de-altura.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "jacarei-investimento-saude",
+    "data": "2026-07-07",
+    "titulo": "Prefeitura de Jacareí realiza investimentos em obras de saúde",
+    "resumo": "A Prefeitura de Jacareí tem investido em melhorias na área da saúde, com quatro Unidades Municipais de Saúde da Família em obras nos bairros Jardim Marquês, Jardim Luiza, Parque Imperial e Jardim Sanches. As obras visam ampliar o acesso e a qualidade dos serviços de saúde oferecidos à população.",
+    "categoria": "saude",
+    "tags": [
+      "saúde",
+      "investimento público",
+      "obras",
+      "Jacareí"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Jacareí"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-jacarei/noticia/2026/07/07/prefeitura-de-jacarei-realiza-grandes-investimentos-na-saude-saiba-mais.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "jacarei-uniformes-escolares",
+    "data": "2026-07-07",
+    "titulo": "Prefeitura de Jacareí distribui uniformes escolares para mais de 12 mil crianças",
+    "resumo": "A Prefeitura de Jacareí está avançando na distribuição de novos uniformes escolares para mais de 12 mil crianças da rede municipal. Após a apresentação do novo modelo, a distribuição do kit com peças de inverno visa ampliar o conforto e a proteção dos estudantes. A iniciativa faz parte de investimentos na educação.",
+    "categoria": "educacao",
+    "tags": [
+      "educação",
+      "uniformes escolares",
+      "distribuição",
+      "Jacareí"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Jacareí"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-jacarei/noticia/2026/07/07/prefeitura-avanca-com-entregas-de-uniformes-para-mais-de-12-mil-criancas.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "prisao-furto-volta-redonda",
+    "data": "2026-07-07",
+    "titulo": "Homem é preso por suspeita de furto em Volta Redonda",
+    "resumo": "Um homem foi preso em Volta Redonda, Rio de Janeiro, por suspeita de ter furtado materiais de funilaria e pintura. O crime ocorreu no bairro Conforto. A prisão foi realizada pela Operação Segurança Presente. O suspeito foi encaminhado à delegacia para as providências legais.",
+    "categoria": "justica",
+    "tags": [
+      "furto",
+      "prisão",
+      "Volta Redonda",
+      "crime"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Volta Redonda"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/07/homem-e-preso-por-suspeita-de-furto-em-volta-redonda.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "acao-policia-civil-operacao-pf",
+    "data": "2026-07-07",
+    "titulo": "Corregedoria da Polícia Civil investiga ex-secretário alvo de operação da PF",
+    "resumo": "A Corregedoria da Polícia Civil instaurou uma investigação disciplinar contra o ex-secretário e delegado Marcus Vinícius Amim. Ele foi um dos alvos da 6ª fase da Operação Unha e Carne da Polícia Federal. A investigação visa apurar possíveis irregularidades em sua conduta profissional.",
+    "categoria": "justica",
+    "tags": [
+      "investigação",
+      "polícia civil",
+      "polícia federal",
+      "corrupção"
+    ],
+    "entidades": [
+      "Polícia Civil",
+      "Polícia Federal"
+    ],
+    "pessoas": [
+      "Marcus Vinícius Amim"
+    ],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Belford Roxo"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/07/corregedoria-policia-civil-investiga-ex-secretario.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "mulher-cega-pub-id-cachorro-guia",
+    "data": "2026-07-07",
+    "titulo": "Mulher cega relata constrangimento em pub que pediu ID de seu cão-guia",
+    "resumo": "Uma mulher cega relatou ter se sentido constrangida e \"livida\" após funcionários de um pub Wetherspoons em Hartlepool pedirem a identidade de seu cão-guia. A rede se desculpou pelo incidente, que ocorreu quando a mulher tentava entrar no estabelecimento com seu animal. A exigência é considerada inadequada para cães-guia.",
+    "categoria": "sociedade",
+    "tags": [
+      "pessoa com deficiência",
+      "cão-guia",
+      "acessibilidade",
+      "publico"
+    ],
+    "entidades": [
+      "Wetherspoons"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Hartlepool"
+    ],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/society/2026/jul/07/blind-woman-wetherspoons-pub-guide-dogs-hartlepool"
+      }
+    ]
+  },
+  {
+    "id": "audiencia-tarifaco-eua-brasil",
+    "data": "2026-07-07",
+    "titulo": "Audiência sobre tarifas dos EUA contra importações brasileiras recebe críticas técnicas",
+    "resumo": "O primeiro dia de audiências públicas sobre o \"tarifaço\" proposto pelos Estados Unidos contra importações do Brasil foi marcado por críticas técnicas. Empresários e economistas brasileiros concluíram que mesmo técnicos americanos reconhecem a falta de justificativa para novas taxações. A decisão final sobre a adoção das tarifas deve ser política.",
+    "categoria": "economia",
+    "tags": [
+      "tarifas",
+      "comércio internacional",
+      "Estados Unidos",
+      "Brasil",
+      "economia"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos",
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/07/tarifaco-dos-eua-primeiro-dia-de-audiencia-tem-criticas-tecnicas-a-novas-sancoes-mas-decisao-sera-politica.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "protesto-sede-cbf-copa",
+    "data": "2026-07-07",
+    "titulo": "Sede da CBF é alvo de protesto após eliminação do Brasil na Copa",
+    "resumo": "A sede da Confederação Brasileira de Futebol (CBF), no Rio de Janeiro, foi alvo de protestos por parte de uma torcida organizada. Os manifestantes estenderam faixas criticando a gestão da entidade após a eliminação do Brasil na Copa do Mundo. A eliminação para a Noruega gerou insatisfação entre os torcedores.",
+    "categoria": "esportes",
+    "tags": [
+      "CBF",
+      "protesto",
+      "Copa do Mundo",
+      "futebol brasileiro"
+    ],
+    "entidades": [
+      "CBF"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/sede-da-cbf-e-alvo-de-protesto-apos-queda-do-brasil-na-copa-fraudulenta/"
+      }
+    ]
+  },
+  {
+    "id": "copa-inglaterra-mexico-audiencia",
+    "data": "2026-07-07",
+    "titulo": "Vitória da Inglaterra sobre o México na Copa quebra recordes de audiência",
+    "resumo": "A partida da Copa do Mundo entre Inglaterra e México, apesar de ter começado às 2h da manhã no Reino Unido, registrou recordes de audiência na BBC. O jogo atraiu um pico de 9,1 milhões de espectadores ao vivo na BBC One e BBC iPlayer. O conteúdo digital relacionado à partida também teve alta demanda.",
+    "categoria": "esportes",
+    "tags": [
+      "Copa do Mundo",
+      "audiência",
+      "recorde",
+      "futebol",
+      "Inglaterra",
+      "México"
+    ],
+    "entidades": [
+      "BBC"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido",
+      "México",
+      "Inglaterra"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/media/2026/jul/07/england-world-cup-win-mexico-breaks-viewing-records-bbc"
+      }
+    ]
+  },
+  {
+    "id": "morre-jovem-apos-avc",
+    "data": "2026-07-07",
+    "titulo": "Mãe lamenta morte de jovem após AVC",
+    "resumo": "A mãe de uma jovem que faleceu quase dois anos após sofrer um acidente vascular cerebral (AVC) expressou sua dor nas redes sociais. A estudante Ana Júlia Servato, de 20 anos, lutou contra as sequelas do AVC antes de sua morte. A mãe destacou que o legado de sua filha será sempre lembrado.",
+    "categoria": "saude",
+    "tags": [
+      "AVC",
+      "morte",
+      "sequelas",
+      "saúde"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Goiás"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/go/goias/noticia/2026/07/07/mae-de-jovem-que-morreu-quase-dois-anos-apos-avc-diz-que-coracao-esta-despedacado-legado-sera-sempre-lembrado.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "adaptacao-casas-calor",
+    "data": "2026-07-07",
+    "titulo": "Moradias resistentes ao calor: como adaptar nossas casas às ondas de calor",
+    "resumo": "A necessidade de adaptar moradias às ondas de calor cresce, especialmente na Alemanha, onde muitas construções não foram projetadas para altas temperaturas. Existem maneiras de adaptar edifícios existentes para lidar com as mudanças climáticas, mas o uso de ar condicionado não é a solução ideal. A discussão foca em repensar e reconstruir.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "mudanças climáticas",
+      "ondas de calor",
+      "arquitetura",
+      "habitação"
     ],
     "entidades": [],
     "pessoas": [],
@@ -291,650 +758,31 @@
     "paises": [
       "Alemanha"
     ],
-    "importancia": 3,
+    "importancia": 1,
     "fontes": [
       {
-        "nome": "DW",
-        "url": "https://www.dw.com/en/why-many-immigrants-leave-germany-again/a-77853162"
+        "nome": "rss.dw.com",
+        "url": "https://www.dw.com/en/heat-resistant-housing-how-we-need-to-adapt-our-homes/a-77861704?maca=en-rss-en-all-1573-rdf"
       }
     ]
   },
   {
-    "id": "2026-07-06-el-nino-africa",
-    "data": "2026-07-06",
-    "titulo": "África se prepara para os impactos do fenômeno El Niño",
-    "resumo": "Um forte El Niño é esperado para os próximos meses e pode trazer secas, inundações e deslocamentos para partes da África. Especialistas alertam sobre a necessidade de ação governamental antes que desastres ocorram. A preparação do continente para esses eventos é questionada.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "El Niño",
-      "clima",
-      "secas",
-      "inundações",
-      "África",
-      "desastres naturais"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "África"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "DW",
-        "url": "https://www.dw.com/en/el-nino-is-africa-ready-for-the-perfect-storm/a-77826694"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-investimento-combustiveis-fossil-gb-news",
-    "data": "2026-07-06",
-    "titulo": "Críticos acusam co-proprietário do GB News de lucrar com 'caos climático' em investimentos fósseis",
-    "resumo": "Críticos afirmam que o fundo de investimento gerido pelo co-proprietário do GB News, Sir Paul Marshall, quase triplicou seus investimentos em empresas de combustíveis fósseis no primeiro trimestre de 2026. Os críticos argumentam que os ataques do canal à ação climática servem a interesses financeiros.",
+    "id": "united-airlines-assentos-sem-janelas",
+    "data": "2026-07-07",
+    "titulo": "United Airlines enfrenta processo por vender assentos 'com janela' sem janelas",
+    "resumo": "A United Airlines deve enfrentar um processo movido por passageiros que pagaram extra por assentos \"com janela\", mas descobriram que estes não possuíam janelas visíveis. Um juiz federal rejeitou o pedido da companhia aérea para arquivar a ação. Os passageiros alegam ter sido enganados sobre a vista de seus assentos.",
     "categoria": "economia",
     "tags": [
-      "investimento",
-      "combustíveis fósseis",
-      "crise climática",
-      "GB News",
-      "finanças"
+      "United Airlines",
+      "processo judicial",
+      "direitos do consumidor",
+      "viagens aéreas"
     ],
     "entidades": [
-      "GB News"
-    ],
-    "pessoas": [
-      "Sir Paul Marshall"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/environment/2026/jul/06/gb-news-co-owner-cashing-in-on-climate-chaos-after-leap-in-fossil-fuel-investments-critics-say"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-acidente-transito-minas-gerais",
-    "data": "2026-07-06",
-    "titulo": "Motorista morre em colisão frontal de carros em rodovia de Minas Gerais",
-    "resumo": "Um motorista de 46 anos morreu em um acidente envolvendo dois carros na LMG-625, em Berizal, Minas Gerais. Segundo a Polícia Militar, o condutor do outro veículo fugiu do local sem prestar socorro e ainda não foi localizado.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente de trânsito",
-      "colisão",
-      "morte",
-      "fuga",
-      "rodovia"
-    ],
-    "entidades": [
-      "Polícia Militar"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Berizal"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/06/motorista-morre-em-colisao-frontal-entre-dois-carros-na-lmg-625-em-berizal.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-acidente-transito-recife",
-    "data": "2026-07-06",
-    "titulo": "Caminhão de gás tomba em ponte do Recife e motorista fica ferido",
-    "resumo": "Um caminhão carregado com botijões de gás tombou e bateu em um poste na Ponte do Limoeiro, no Centro do Recife, Pernambuco. O motorista sofreu traumatismo e foi socorrido. O acidente ocorreu na manhã desta segunda-feira.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente de trânsito",
-      "tombamento",
-      "caminhão",
-      "ferido",
-      "Recife"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Pernambuco"
-    ],
-    "cidades": [
-      "Recife"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/07/06/caminhao-com-botijoes-de-gas-tomba-em-ponte-do-recife-e-bate-em-poste-motorista-tem-traumatismo-e-e-socorrido.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-agressao-mulher-pinheiral",
-    "data": "2026-07-06",
-    "titulo": "Jovem é autuado por suspeita de agredir mulher em Pinheiral (RJ)",
-    "resumo": "Um jovem de 24 anos foi autuado pela Polícia Civil por suspeita de agredir uma mulher de 43 anos em Pinheiral, Rio de Janeiro. O incidente ocorreu na Praça Brasil, no bairro Rolamão, na noite de domingo. Os agentes realizavam patrulhamento na área.",
-    "categoria": "justica",
-    "tags": [
-      "agressão",
-      "violência contra mulher",
-      "autuação",
-      "polícia"
-    ],
-    "entidades": [
-      "Polícia Civil"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Pinheiral"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/06/violencia-contra-mulher-em-pinheiral.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-crise-pre-campanha-flavio-bolsonaro",
-    "data": "2026-07-06",
-    "titulo": "Pré-campanha de Flávio Bolsonaro enfrenta resistência e 'fogo amigo'",
-    "resumo": "A pré-campanha de Flávio Bolsonaro à Presidência da República tem enfrentado resistência de aliados, com críticas à articulação de sua candidatura. Há tensões internas e divergências sobre a condução do processo eleitoral. O senador Rogério Marinho é citado como responsável pela articulação.",
-    "categoria": "politica",
-    "tags": [
-      "eleições",
-      "pré-campanha",
-      "política",
-      "resistência",
-      "aliados"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Flávio Bolsonaro",
-      "Rogério Marinho"
-    ],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/07/06/fogo-amigo-na-pre-campanha-de-flavio-bolsonaro.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-eslavidão-moderna-parana",
-    "data": "2026-07-06",
-    "titulo": "Trabalhadores resgatados de condição análoga à escravidão em pedreira no Paraná",
-    "resumo": "Trabalhadores foram resgatados de uma pedreira em Virmond, no Paraná, onde eram mantidos em condição análoga à escravidão. Segundo a polícia, o dono da pedreira alegava dívidas para impedir que os trabalhadores saíssem. A polícia investiga o caso como escravidão moderna.",
-    "categoria": "justica",
-    "tags": [
-      "escravidão moderna",
-      "trabalho análogo à escravidão",
-      "resgate",
-      "investigação policial",
-      "dívida"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Paraná"
-    ],
-    "cidades": [
-      "Virmond"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/07/06/escravidao-moderna-no-parana-dono-de-pedreira-mantinha-trabalhadores-presos-ao-servico-alegando-dividas-por-alimenta-los-diz-policia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-novas-especies-mosca-vespa",
-    "data": "2026-07-06",
-    "titulo": "Nova espécie de mosca que vive entre vespas intriga cientistas",
-    "resumo": "Pesquisadores do Museu de Zoologia da USP descreveram uma nova espécie de mosca com um hábito incomum: ela vive associada aos ninhos de vespas. A mosca consegue conviver em ambientes com até um milhão de vespas sem ser atacada. A descoberta chamou a atenção da comunidade científica.",
-    "categoria": "ciencia",
-    "tags": [
-      "nova espécie",
-      "mosca",
-      "vespa",
-      "zoologia",
-      "comportamento animal"
-    ],
-    "entidades": [
-      "Museu de Zoologia da USP"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Campinas"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/06/nova-especie-de-mosca-pode-viver-entre-1-milhao-de-vespas-sem-ser-atacada.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-ibge-prorrogacao-inscricoes",
-    "data": "2026-07-06",
-    "titulo": "IBGE prorroga inscrições para seleção com mais de 150 vagas",
-    "resumo": "As inscrições para o processo seletivo simplificado do Instituto Brasileiro de Geografia e Estatística (IBGE) foram prorrogadas até a próxima quinta-feira (9). O processo seletivo oferece mais de 150 vagas. Os interessados devem se inscrever pela internet.",
-    "categoria": "educacao",
-    "tags": [
-      "IBGE",
-      "seleção",
-      "vagas",
-      "inscrições",
-      "prorrogação"
-    ],
-    "entidades": [
-      "IBGE"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/07/06/perdeu-o-prazo-ibge-prorroga-inscricoes-para-selecao-com-mais-de-150-vagas-na-regiao.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06- Organizacao-escola-assentamento-israelense",
-    "data": "2026-07-06",
-    "titulo": "Escola em assentamento israelense em Hebron é financiada por caridade britânica",
-    "resumo": "Uma caridade britânica está financiando uma escola religiosa no coração dos planos de expansão do assentamento israelense em Hebron. A organização Friends of Yeshivat Shavei Hevron enviou quase £200.000 para a instituição entre 2019 e 2024. Israel tem sido acusado de impor apartheid na cidade.",
-    "categoria": "internacional",
-    "tags": [
-      "assentamento israelense",
-      "Hebron",
-      "financiamento",
-      "caridade",
-      "Cisjordânia"
-    ],
-    "entidades": [
-      "Friends of Yeshivat Shavei Hevron"
+      "United Airlines"
     ],
     "pessoas": [],
     "estados": [],
-    "cidades": [
-      "Hebron"
-    ],
-    "paises": [
-      "Israel",
-      "Reino Unido",
-      "Palestina"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jul/06/british-charity-friends-of-yeshivat-shavei-illegal-settlement-hebron"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-faleceu-ex-deputado-acre",
-    "data": "2026-07-06",
-    "titulo": "Morre ex-deputado do Acre Ariosto Pires Miguéis aos 90 anos",
-    "resumo": "O ex-deputado acreano Ariosto Pires Miguéis faleceu aos 90 anos neste domingo (5). O político foi um dos fundadores do Movimento Democrático Brasileiro (MDB) no estado. O velório ocorreu na Assembleia Legislativa do Acre.",
-    "categoria": "politica",
-    "tags": [
-      "falecimento",
-      "político",
-      "deputado",
-      "Acre",
-      "MDB"
-    ],
-    "entidades": [
-      "Movimento Democrático Brasileiro (MDB)"
-    ],
-    "pessoas": [
-      "Ariosto Pires Miguéis"
-    ],
-    "estados": [
-      "Acre"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ac/acre/noticia/2026/07/06/ex-deputado-do-acre-ariosto-pires-migueis-morre-aos-88-anos.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-celebracoes-sao-joao-campina-grande",
-    "data": "2026-07-06",
-    "titulo": "São João de Campina Grande: shows, estreias e momentos marcantes",
-    "resumo": "O São João de Campina Grande, na Paraíba, chegou ao fim após 33 dias de festa. O evento foi marcado por grandes shows, incluindo apresentações com estilo de Michael Jackson, e momentos que chamaram a atenção do público. Jogos da Copa do Mundo também foram destaque.",
-    "categoria": "cultura",
-    "tags": [
-      "São João",
-      "festa junina",
-      "cultura popular",
-      "shows",
-      "Campina Grande"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Michael Jackson"
-    ],
-    "estados": [
-      "Paraíba"
-    ],
-    "cidades": [
-      "Campina Grande"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pb/paraiba/sao-joao/noticia/2026/07/06/abertura-de-show-no-estilo-michael-jackson-estreantes-e-jogos-da-copa-veja-os-destaques-do-sao-joao-2026-de-campina-grande.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-construcao-predio-maceio",
-    "data": "2026-07-06",
-    "titulo": "Construção de prédio de luxo em Maceió bloqueia vista do mar e gera críticas",
-    "resumo": "A construção de um prédio à beira-mar na praia de Guaxuma, em Maceió, Alagoas, gerou repercussão negativa após bloquear a vista do mar na região. Um vídeo comparando o antes e depois da construção viralizou nas redes sociais, provocando críticas.",
-    "categoria": "urbanismo",
-    "tags": [
-      "construção civil",
-      "imóvel de luxo",
-      "vista para o mar",
-      "críticas",
-      "Maceió"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Alagoas"
-    ],
-    "cidades": [
-      "Maceió"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/al/alagoas/noticia/2026/07/06/construcao-de-predio-de-luxo-bloqueia-vista-do-mar-em-maceio-e-gera-criticas-veja-antes-e-depois.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-assassinato-familiares-piaui",
-    "data": "2026-07-06",
-    "titulo": "Homem é preso suspeito de esfaquear tios no Piauí",
-    "resumo": "Um homem foi preso no Piauí suspeito de esfaquear dois tios na zona rural do município de Elesbão Veloso. A polícia apontou sinais de embriaguez no suspeito. O ataque ocorreu na tarde de domingo. A identidade do suspeito não foi divulgada.",
-    "categoria": "justica",
-    "tags": [
-      "violência",
-      "ataque com faca",
-      "prisão",
-      "embriaguez",
-      "Piauí"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Piauí"
-    ],
-    "cidades": [
-      "Elesbão Veloso"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/06/homem-suspeito-esfaquear-tios.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-khamenei-funeral-ira",
-    "data": "2026-07-06",
-    "titulo": "Milhões participam do cortejo fúnebre do Líder Supremo do Irã, Ali Khamenei",
-    "resumo": "Milhões de pessoas participaram do cortejo fúnebre do Líder Supremo do Irã, Ali Khamenei, na capital Teerã. Khamenei foi morto em ataques aéreos dos EUA-Israel em fevereiro. A mídia estatal libanesa informou sobre um ataque israelense que matou quatro pessoas no sul do Líbano.",
-    "categoria": "internacional",
-    "tags": [
-      "Irã",
-      "funerária",
-      "Líder Supremo",
-      "mortes",
-      "conflito no Oriente Médio"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Ali Khamenei"
-    ],
-    "estados": [],
-    "cidades": [
-      "Teerã"
-    ],
-    "paises": [
-      "Irã",
-      "Estados Unidos",
-      "Israel",
-      "Líbano"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jul/06/iran-middle-east-crisis-funeral-supreme-leader-ali-khamenei-tehran-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-noticias-locais-bahia",
-    "data": "2026-07-06",
-    "titulo": "TV Subaé exibe o telejornal 'Bahia Meio Dia'",
-    "resumo": "O telejornal 'Bahia Meio Dia', exibido pela TV Subaé, foi disponibilizado para assistir. A notícia é um aviso para que os espectadores possam acompanhar a programação local.",
-    "categoria": "informacao",
-    "tags": [
-      "telejornal",
-      "notícias locais",
-      "Bahia",
-      "TV Subaé"
-    ],
-    "entidades": [
-      "TV Subaé"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Bahia"
-    ],
-    "cidades": [
-      "Feira de Santana"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-noticias-locais-para",
-    "data": "2026-07-06",
-    "titulo": "Vídeos do telejornal BDP de segunda-feira, 6 de julho de 2026",
-    "resumo": "Estão disponíveis os vídeos do telejornal BDP (Balanço do Dia) de segunda-feira, 6 de julho de 2026. A apresentadora Fábia Sepêda comanda o noticiário. A notícia indica a disponibilidade do conteúdo.",
-    "categoria": "informacao",
-    "tags": [
-      "telejornal",
-      "vídeos",
-      "notícias locais",
-      "Pará",
-      "BDP"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Fábia Sepêda"
-    ],
-    "estados": [
-      "Pará"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pa/para/edicao/2026/07/06/videos-bdp-de-segunda-feira-6-de-julho-de-2026.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-botafogo-sp-x-avai",
-    "data": "2026-07-06",
-    "titulo": "Botafogo-SP x Avaí: horário e onde assistir ao jogo da Série B do Brasileirão",
-    "resumo": "A partida entre Botafogo-SP e Avaí, válida pela 16ª rodada do Brasileirão Série B, acontecerá nesta segunda-feira (6), às 19h (horário de Brasília). A notícia informa o horário e os canais onde o jogo poderá ser assistido.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "Brasileirão Série B",
-      "jogo",
-      "horário",
-      "transmissão"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/botafogo-sp-x-avai-horario-e-onde-assistir-ao-brasileirao-serie-b/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-torcida-noruega-copa",
-    "data": "2026-07-06",
-    "titulo": "Torcida brasileira promete torcer para a Noruega na Copa do Mundo",
-    "resumo": "Parte da torcida brasileira manifestou que torcerá para a seleção da Noruega na Copa do Mundo. Eles elogiaram a atuação dos europeus e pediram para que a equipe elimine a Argentina do mundial. A notícia destaca uma possível 'rivalidade' ou preferência inesperada.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "Copa do Mundo",
-      "torcida",
-      "Noruega",
-      "Argentina"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil",
-      "Noruega",
-      "Argentina"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/rivalidade-brasileiros-prometem-torcer-para-a-noruega-na-copa/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-democratas-michigan",
-    "data": "2026-07-06",
-    "titulo": "Democratas de Michigan escolhem entre candidato progressista e do 'establishment'",
-    "resumo": "Os Democratas de Michigan se preparam para escolher entre um candidato progressista e outro alinhado ao 'establishment'. A candidata Mallory McMorrow se retirou da corrida, emergindo Abdul El-Sayed como o provável favorito na campanha primária. A escolha ocorrerá na política do estado.",
-    "categoria": "politica",
-    "tags": [
-      "eleições",
-      "Democratas",
-      "Michigan",
-      "primárias",
-      "candidato progressista"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Mallory McMorrow",
-      "Abdul El-Sayed"
-    ],
-    "estados": [
-      "Michigan"
-    ],
     "cidades": [],
     "paises": [
       "Estados Unidos"
@@ -942,42 +790,8 @@
     "importancia": 1,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/live/2026/jul/06/donald-trump-democrats-michigan-mallory-mcmorrow-us-politics-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-06-farage-uk-politics",
-    "data": "2026-07-06",
-    "titulo": "Nigel Farage é alertado sobre punição mais severa por presentes não registrados",
-    "resumo": "Nigel Farage, líder do Reform UK, foi alertado de que pode enfrentar punições mais severas em relação a presentes não registrados. O comissário parlamentar de padrões está investigando uma doação de £5 milhões. Farage afirma ser vítima de um 'golpe'.",
-    "categoria": "politica",
-    "tags": [
-      "política britânica",
-      "Nigel Farage",
-      "presentes não registrados",
-      "investigação parlamentar",
-      "Reform UK"
-    ],
-    "entidades": [
-      "Reform UK"
-    ],
-    "pessoas": [
-      "Nigel Farage",
-      "Keir Starmer",
-      "Andy Burnham"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/06/nigel-farage-reform-unregistered-gift-crypto-christopher-harborne-keir-starmer-labour-andy-burnham-uk-politics-live"
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/business/2026/jul/07/united-airlines-window-seat-lawsuit"
       }
     ]
   }
