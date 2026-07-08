@@ -1,170 +1,266 @@
 [
   {
-    "id": "marine-le-pen-eleicoes-franca",
-    "data": "2026-07-07",
-    "titulo": "Tribunal francês permite que Marine Le Pen concorra à presidência, mas com condições",
-    "resumo": "Um tribunal de apelação francês removeu uma proibição para que Marine Le Pen concorra à presidência em 2027. No entanto, a decisão está condicionada ao uso de uma tornozeleira eletrônica, o que ela já indicou que não aceitaria. A decisão abre a possibilidade de sua candidatura, mas deixa a decisão final em suas mãos.",
-    "categoria": "politica",
+    "id": "2026-07-08-ataque-escola-alemanha",
+    "data": "2026-07-08",
+    "titulo": "Ataque em escola na Alemanha deixa feridos e leva à prisão de suspeito",
+    "resumo": "Um ataque em uma escola de Ensino Médio no estado da Baviera, sul da Alemanha, resultou em várias pessoas feridas. A polícia local informou que um suspeito foi preso após o incidente. Detalhes sobre o número de envolvidos ainda estão sendo apurados.",
+    "categoria": "seguranca",
     "tags": [
-      "eleições",
-      "França",
-      "Marine Le Pen",
-      "justiça"
+      "ataque",
+      "escola",
+      "Alemanha",
+      "Baviera"
     ],
     "entidades": [
-      "National Rally"
+      "Polícia Alemã"
     ],
-    "pessoas": [
-      "Marine Le Pen"
+    "pessoas": [],
+    "estados": [
+      "Baviera"
     ],
-    "estados": [],
-    "cidades": [
-      "Paris"
-    ],
-    "paises": [
-      "França"
-    ],
-    "importancia": 5,
-    "fontes": [
-      {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/en/marine-le-pen-branding-as-victim-of-judicial-harassment-would-be-political-stretch"
-      },
-      {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/en/decision-time-for-far-right-national-rally-as-ruling-clears-le-pen-s-way-for-election-run"
-      },
-      {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/world/live/2026/jul/07/nato-summit-zelenskyy-trump-ukraine-rutte-defence-eu-spending-turkey-france-macron-le-pen-europe-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "trump-otan-comentarios-ira",
-    "data": "2026-07-07",
-    "titulo": "Trump afirma que estava 'testando' aliados da Otan durante guerra no Irã",
-    "resumo": "O presidente dos Estados Unidos, Donald Trump, declarou em uma cúpula da Otan que estava \"testando\" os aliados europeus durante a guerra no Irã, expressando decepção com a falta de apoio. Trump fez as declarações em uma coletiva de imprensa conjunta com o presidente da Turquia, Recep Tayyip Erdogan. Ele reiterou que não desejava ajuda dos aliados na guerra americana contra o Irã.",
-    "categoria": "internacional",
-    "tags": [
-      "Otan",
-      "Estados Unidos",
-      "Irã",
-      "alianças militares"
-    ],
-    "entidades": [
-      "Otan"
-    ],
-    "pessoas": [
-      "Donald Trump",
-      "Recep Tayyip Erdogan"
-    ],
-    "estados": [],
     "cidades": [],
     "paises": [
-      "Estados Unidos",
-      "Turquia",
-      "Irã"
+      "Alemanha"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/live/2026/jul/07/graham-platner-democrats-senate-maine-trump-nato-us-politics-latest-news-updates"
-      },
-      {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/mundo/noticia/2026/07/07/na-otan-trump-diz-que-estava-testando-aliados-europeus-durante-guerra-no-ira-muito-desapontado.ghtml"
+        "url": "https://g1.globo.com/mundo/noticia/2026/07/08/ataque-escola-alemanha-deixa-feridos.ghtml"
       }
     ]
   },
   {
-    "id": "copa-do-mundo-belgica-eua",
-    "data": "2026-07-07",
-    "titulo": "Bélgica goleia Estados Unidos e avança para as quartas de final da Copa do Mundo",
-    "resumo": "A seleção da Bélgica venceu os Estados Unidos com uma goleada nas oitavas de final da Copa do Mundo e garantiu sua vaga nas quartas de final. Apesar de a Fifa ter anulado a expulsão de um jogador americano a pedido do presidente Donald Trump, a equipe dos EUA não conseguiu reverter o resultado. A Suíça também busca avançar na competição.",
-    "categoria": "esportes",
+    "id": "2026-07-08-trump-otan-espanha-groenlandia",
+    "data": "2026-07-08",
+    "titulo": "Trump critica aliados da OTAN e reitera desejo pela Groenlândia em cúpula em Ancara",
+    "resumo": "O presidente dos Estados Unidos, Donald Trump, expressou insatisfação com aliados da OTAN durante uma cúpula em Ancara, na Turquia. Ele reiterou seu interesse pela aquisição da Groenlândia e classificou a Espanha como uma parceira \"terrível\" na aliança. Trump também mencionou a ameaça de cortar o comércio com a Espanha.",
+    "categoria": "internacional",
     "tags": [
-      "Copa do Mundo",
-      "futebol",
-      "Bélgica",
-      "Estados Unidos"
+      "Trump",
+      "OTAN",
+      "Groenlândia",
+      "Espanha",
+      "Turquia"
     ],
     "entidades": [
-      "Fifa"
+      "OTAN"
     ],
     "pessoas": [
       "Donald Trump"
     ],
     "estados": [],
+    "cidades": [
+      "Ancara"
+    ],
+    "paises": [
+      "Estados Unidos",
+      "Espanha",
+      "Turquia"
+    ],
+    "importancia": 5,
+    "fontes": [
+      {
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/europe/20260708-trump-lashes-nato-allies-during-key-summit-ankara"
+      },
+      {
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/world/live/2026/jul/08/trump-nato-summit-greenland-us-turkey-rutte-marine-le-pen-europe-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-08-pf-investigacao-bolsonaro",
+    "data": "2026-07-08",
+    "titulo": "Polícia Federal realiza busca na casa de Jair Bolsonaro por armas",
+    "resumo": "A Polícia Federal realizou buscas na residência do ex-presidente Jair Bolsonaro, com foco na apreensão de armas e munições. Segundo a defesa de Bolsonaro, nenhum material ilícito foi encontrado durante a operação. A ação faz parte de investigações em andamento.",
+    "categoria": "justica",
+    "tags": [
+      "PF",
+      "Bolsonaro",
+      "armas",
+      "busca"
+    ],
+    "entidades": [
+      "Polícia Federal"
+    ],
+    "pessoas": [
+      "Jair Bolsonaro"
+    ],
+    "estados": [],
     "cidades": [],
     "paises": [
-      "Bélgica",
-      "Estados Unidos",
-      "Suíça"
+      "Brasil"
     ],
     "importancia": 4,
     "fontes": [
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/jornal-da-globo/noticia/2026/07/07/chaveamento-da-copa-do-mundo-belgica-goleia-os-estados-unidos-e-avanca-as-quartas-de-final.ghtml"
-      },
-      {
-        "nome": "cnnbrasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/suica-tenta-encerrar-jejum-de-72-anos-contra-colombia-na-copa/"
+        "url": "https://g1.globo.com/politica/noticia/2026/07/08/pf-faz-buscas-por-armas-na-casa-de-bolsonaro-diz-defesa.ghtml"
       }
     ]
   },
   {
-    "id": "ataque-paquistao-policiais",
-    "data": "2026-07-07",
-    "titulo": "Ataque no sudoeste do Paquistão mata pelo menos nove policiais",
-    "resumo": "Pelo menos nove policiais foram mortos em um ataque ocorrido no sudoeste do Paquistão. As autoridades relataram que, em operações de \"limpeza\" subsequentes, 15 agressores foram mortos. Detalhes sobre o grupo responsável pelo ataque não foram divulgados.",
+    "id": "2026-07-08-pf-operacao-trafico-lavagem-dinheiro",
+    "data": "2026-07-08",
+    "titulo": "PF deflagra operação contra tráfico e lavagem de dinheiro em 14 estados",
+    "resumo": "Uma operação integrada da Polícia Federal e das Forças Integradas de Combate ao Crime Organizado (FICCOs) foi deflagrada em 14 estados brasileiros. A ação visa combater facções criminosas envolvidas com tráfico de drogas e armas, além de lavagem de dinheiro. Mandados de busca e apreensão estão sendo cumpridos em diversas cidades.",
     "categoria": "seguranca",
     "tags": [
-      "ataque",
-      "polícia",
-      "Paquistão",
-      "violência"
+      "PF",
+      "operação",
+      "tráfico",
+      "lavagem de dinheiro",
+      "crime organizado"
     ],
-    "entidades": [],
+    "entidades": [
+      "Polícia Federal",
+      "Forças Integradas de Combate ao Crime Organizado"
+    ],
     "pessoas": [],
-    "estados": [
-      "Balochistan"
+    "estados": [],
+    "cidades": [
+      "Uberlândia",
+      "Uberaba"
     ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ce/ceara/noticia/2026/07/08/pf-faz-operacao-de-combate-ao-trafico-e-lavagem-de-dinheiro-no-ceara-e-em-outros-13-estados.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/08/uberlandia-e-uberaba-entram-na-mira-de-operacao-integrada-da-pf-contra-trafico-e-lavagem-de-dinheiro-em-14-estados.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-08-mundial-messi-artilharia",
+    "data": "2026-07-08",
+    "titulo": "Messi retoma liderança da artilharia da Copa do Mundo",
+    "resumo": "Lionel Messi, da Argentina, marcou um gol na vitória contra o Egito, reassumindo a liderança isolada na artilharia da Copa do Mundo de 2026. O jogador argentino agora soma oito gols na competição. Kylian Mbappé, da França, está em segundo lugar com sete gols.",
+    "categoria": "esportes",
+    "tags": [
+      "Copa do Mundo",
+      "Messi",
+      "artilharia",
+      "futebol"
+    ],
+    "entidades": [
+      "Copa do Mundo FIFA"
+    ],
+    "pessoas": [
+      "Lionel Messi",
+      "Kylian Mbappé"
+    ],
+    "estados": [],
     "cidades": [],
+    "paises": [
+      "Argentina",
+      "Egito",
+      "França"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/07/08/messi-retoma-lideranca-da-artilharia-da-copa-do-mundo.ghtml"
+      },
+      {
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260708-world-cup-2026-argentina-steal-stunning-comeback-as-egypt-complain-about-refering"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-08-milei-paralisar-estado",
+    "data": "2026-07-08",
+    "titulo": "Milei propõe 'paralisar o Estado' se Congresso não aprovar orçamento",
+    "resumo": "O presidente da Argentina, Javier Milei, anunciou a intenção de criar um projeto de lei para \"paralisar\" o Poder Executivo, inspirado no sistema dos Estados Unidos. A medida seria aplicada caso o Congresso argentino não aprove o orçamento proposto pelo governo. Milei afirmou que, em sua gestão, os números econômicos melhoram, mas a classe média continua em dificuldades.",
+    "categoria": "politica",
+    "tags": [
+      "Milei",
+      "Argentina",
+      "Congresso",
+      "orçamento",
+      "Estado"
+    ],
+    "entidades": [
+      "Congresso Argentino"
+    ],
+    "pessoas": [
+      "Javier Milei"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Argentina",
+      "Estados Unidos"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mundo/noticia/2026/07/08/milei-quer-imitar-eua-e-paralisar-o-estado-caso-congresso-nao-aprove-orcamento-do-governo.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-08-transporte-aereo-paquistao",
+    "data": "2026-07-08",
+    "titulo": "Buscas por avião de carga desaparecido no Paquistão enfrentam mar revolto",
+    "resumo": "Equipes de resgate buscam por destroços de um avião de carga Boeing 737 que desapareceu perto de Karachi, no Paquistão. O mar revolto está dificultando os trabalhos de localização da aeronave, que teve os sistemas de radar perdidos enquanto descia rapidamente. A aeronave tinha 27 anos de fabricação.",
+    "categoria": "internacional",
+    "tags": [
+      "avião",
+      "carga",
+      "desaparecido",
+      "Paquistão",
+      "resgate"
+    ],
+    "entidades": [
+      "Boeing 737"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Karachi"
+    ],
     "paises": [
       "Paquistão"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "aljazeera.com",
-        "url": "https://www.aljazeera.com/news/2026/7/7/at-least-nine-police-officers-killed-in-southwestern-pakistan-attack?traffic_source=rss"
+        "nome": "rss.dw.com",
+        "url": "https://www.dw.com/en/pakistan-rescuers-scour-sea-for-crashed-plane-off-karachi/a-77869075?maca=en-rss-en-all-1573-rdf"
       }
     ]
   },
   {
-    "id": "investigacao-contrato-grama-tocantins",
-    "data": "2026-07-07",
-    "titulo": "MP investiga superfaturamento em contrato para plantio de grama em Cariri do Tocantins",
-    "resumo": "O Ministério Público está investigando a prefeitura de Cariri do Tocantins por improbidade administrativa em um contrato de quase R$ 2 milhões para plantio de grama. Há indícios de superfaturamento nos serviços contratados pela gestão municipal. A investigação busca apurar irregularidades na aplicação dos recursos públicos.",
-    "categoria": "justica",
+    "id": "2026-07-08-incendio-carros-santos",
+    "data": "2026-07-08",
+    "titulo": "Carros de vidraçaria pegam fogo em Santos; suspeita de incêndio criminoso",
+    "resumo": "Dois veículos de uma vidraçaria foram encontrados em chamas em Santos, litoral de São Paulo. O Corpo de Bombeiros suspeita que o incêndio tenha sido criminoso. O caso ocorreu próximo ao estabelecimento comercial. Um dos carros ficou totalmente destruído.",
+    "categoria": "seguranca",
     "tags": [
-      "improbidade administrativa",
-      "contrato público",
-      "investigação",
-      "Tocantins"
+      "incêndio",
+      "carros",
+      "Santos",
+      "criminoso"
     ],
     "entidades": [
-      "Ministério Público"
+      "Corpo de Bombeiros"
     ],
     "pessoas": [],
-    "estados": [
-      "Tocantins"
-    ],
+    "estados": [],
     "cidades": [
-      "Cariri do Tocantins"
+      "Santos"
     ],
     "paises": [
       "Brasil"
@@ -173,625 +269,546 @@
     "fontes": [
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/07/mp-investiga-superfaturamento-em-contrato-de-r-19-milhao-para-plantio-de-grama-em-cariri-do-tocantins.ghtml"
+        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/08/carros-de-empresa-pegam-fogo-e-bombeiros-suspeitam-de-incendio-criminoso.ghtml"
       }
     ]
   },
   {
-    "id": "prisao-estupro-vulneravel-sp",
-    "data": "2026-07-07",
-    "titulo": "Dois homens presos por estupro de vulnerável no interior de São Paulo",
-    "resumo": "Dois homens foram presos na região central de Capão Bonito, São Paulo, sob suspeita de estupro de vulnerável. Os suspeitos, de 21 e 30 anos, foram localizados com menores dentro de um carro. Ambos foram encaminhados à delegacia e ficaram à disposição da Justiça. O caso está sendo investigado pelas autoridades.",
-    "categoria": "justica",
+    "id": "2026-07-08-lei-animais-comunitarios-rn",
+    "data": "2026-07-08",
+    "titulo": "Rio Grande do Norte sanciona lei que protege animais comunitários",
+    "resumo": "O governo do Rio Grande do Norte sancionou uma lei que proíbe a captura, expulsão e extermínio de cães e gatos considerados animais comunitários. A legislação foi motivada por um caso ocorrido em Mossoró, onde uma moradora protestou após a morte de um animal. A lei visa garantir a proteção desses animais.",
+    "categoria": "politica",
     "tags": [
-      "estupro de vulnerável",
-      "prisão",
-      "São Paulo",
-      "crime"
+      "lei",
+      "animais",
+      "Rio Grande do Norte",
+      "proteção animal"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [
+      "Rio Grande do Norte"
+    ],
+    "cidades": [
+      "Mossoró"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/08/lei-lucy-protecao-animais-comunitarios.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-08-concurso-gastronomico-montes-claros",
+    "data": "2026-07-08",
+    "titulo": "Vencedor do Comida di Buteco em Montes Claros participa da fase nacional",
+    "resumo": "O restaurante Liu Casa Bar, vencedor da etapa de Montes Claros do concurso Comida di Buteco 2026 com o prato \"Dobradinha com toque de alho-poró\", participa da fase nacional do evento. A competição nacional está sendo realizada em São Paulo.",
+    "categoria": "cultura",
+    "tags": [
+      "gastronomia",
+      "concurso",
+      "Comida di Buteco",
+      "Montes Claros"
+    ],
+    "entidades": [
+      "Comida di Buteco"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Montes Claros",
       "São Paulo"
     ],
-    "cidades": [
-      "Capão Bonito"
-    ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 3,
+    "importancia": 2,
     "fontes": [
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/07/07/dois-homens-sao-localizados-com-menores-dentro-de-carro-e-presos-por-estupro-de-vulneravel-no-interior-de-sp.ghtml"
+        "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/08/dobradinha-com-toque-de-alho-poro-vencedor-do-comida-di-buteco-em-montes-claros-participa-da-fase-nacional-do-concurso.ghtml"
       }
     ]
   },
   {
-    "id": "ativista-amazonas-rio",
-    "data": "2026-07-07",
-    "titulo": "Ativista colombiano que nada no rio Amazonas chega a Santarém",
-    "resumo": "O ativista ambiental colombiano Wilber Honório Muñoz, conhecido como \"Homem-Peixe\", tem chegada prevista à cidade de Santarém, no oeste do Pará. Ele está realizando uma expedição nadando pelo rio Amazonas. A iniciativa visa chamar atenção para questões ambientais na região amazônica.",
-    "categoria": "meio-ambiente",
+    "id": "2026-07-08-pf-apreensao-droga-para",
+    "data": "2026-07-08",
+    "titulo": "Polícia apreende droga escondida em encomenda em Santarém, Pará",
+    "resumo": "A Polícia Militar do Pará apreendeu skunk escondido em uma encomenda dentro de um ônibus na BR-163, em Santarém. A droga foi encontrada durante uma fiscalização na rodovia. Um homem foi preso em flagrante.",
+    "categoria": "seguranca",
     "tags": [
-      "ativismo ambiental",
-      "rio Amazonas",
-      "Colômbia",
-      "expedição"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Wilber Honório Muñoz"
-    ],
-    "estados": [
+      "PF",
+      "apreensão",
+      "droga",
+      "Santarém",
       "Pará"
     ],
+    "entidades": [
+      "Polícia Militar"
+    ],
+    "pessoas": [],
+    "estados": [],
     "cidades": [
       "Santarém"
     ],
     "paises": [
-      "Colômbia",
       "Brasil"
     ],
-    "importancia": 2,
+    "importancia": 3,
     "fontes": [
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/07/ativista-colombiano-que-percorre-o-rio-amazonas-a-nado-chega-a-santarem-nesta-quarta-feira-8.ghtml"
+        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/08/policia-apreende-droga-escondida-em-encomenda-dentro-de-onibus-na-br-163-em-santarem-no-para.ghtml"
       }
     ]
   },
   {
-    "id": "gaza-agricultores-deslocados",
-    "data": "2026-07-07",
-    "titulo": "Agricultores deslocados em Gaza cultivam terra perto de tendas",
-    "resumo": "Agricultores deslocados na Faixa de Gaza estão recorrendo ao cultivo de terra perto de suas tendas para produzir alimentos. Especialistas alertam que Israel devastou 95% das áreas agrícolas de Gaza. Essa situação agrava a fome e a dependência de ajuda na região.",
-    "categoria": "internacional",
+    "id": "2026-07-08-fernanda-torres-oscar",
+    "data": "2026-07-08",
+    "titulo": "Fernanda Torres relembra polêmica com Karla Sofía Gascón no Oscar",
+    "resumo": "A atriz Fernanda Torres recordou uma polêmica envolvendo a atriz espanhola Karla Sofía Gascón durante a campanha do filme \"Ainda Estou Aqui\" ao Oscar de 2025. Em entrevista, Torres mencionou o episódio, que ocorreu no tapete vermelho da premiação em Los Angeles, e a possibilidade de ter sofrido \"cancelamento\".",
+    "categoria": "cultura",
     "tags": [
-      "Gaza",
-      "agricultura",
-      "deslocamento",
-      "conflito"
+      "Fernanda Torres",
+      "Karla Sofía Gascón",
+      "Oscar",
+      "cinema"
     ],
     "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Israel",
-      "Gaza"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "aljazeera.com",
-        "url": "https://www.aljazeera.com/economy/2026/7/7/displaced-gaza-farmers-turn-to-dirt-near-tents-to-grow-crops?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "gaza-mae-filho-foto-prisioneiro",
-    "data": "2026-07-07",
-    "titulo": "Duas mães palestinas acreditam que foto de prisioneiro em Gaza mostra seus filhos",
-    "resumo": "Duas mães palestinas afirmam ter certeza de que uma foto viral de um detento algemado em Gaza mostra seus filhos desaparecidos. A imagem gerou comoção e levanta questões sobre a identidade dos detidos e a situação humanitária na região. Não há confirmação oficial sobre as identidades.",
-    "categoria": "internacional",
-    "tags": [
-      "Gaza",
-      "prisioneiros",
-      "identidade",
-      "conflito"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Gaza"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "aljazeera.com",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/two-mothers-each-certain-a-viral-gaza-prisoner-photo-shows-her-son?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "prince-harry-tribunal-uk",
-    "data": "2026-07-07",
-    "titulo": "Príncipe Harry aguarda decisão judicial em processo contra jornal no Reino Unido",
-    "resumo": "O Príncipe Harry iniciou uma visita ao Reino Unido e aguarda uma decisão judicial em um processo contra a editora do jornal Daily Mail. O julgamento trata de alegações de invasão de privacidade. A sentença, que será publicada online, pode ter repercussões significativas para o caso.",
-    "categoria": "justica",
-    "tags": [
-      "Príncipe Harry",
-      "Reino Unido",
-      "processo judicial",
-      "imprensa"
-    ],
-    "entidades": [
-      "Associated Newspapers Limited"
-    ],
     "pessoas": [
-      "Príncipe Harry"
+      "Fernanda Torres",
+      "Karla Sofía Gascón"
     ],
     "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
+    "cidades": [
+      "Los Angeles"
     ],
-    "importancia": 2,
+    "paises": [
+      "Estados Unidos",
+      "Espanha"
+    ],
+    "importancia": 3,
     "fontes": [
       {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/uk-news/live/2026/jul/07/prince-harry-duke-duchess-sussex-daily-mail-associated-newspapers-meghan-high-court-latest-news-updates"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pop-arte/cinema/noticia/2026/07/08/fernanda-torres-relembra-polemica-com-karla-sofia-gascon-no-oscar-cancelamento-na-certa.ghtml"
       }
     ]
   },
   {
-    "id": "farage-declaracao-futuro-politica",
-    "data": "2026-07-07",
-    "titulo": "Nigel Farage fará declaração sobre seu futuro na vida pública",
-    "resumo": "Nigel Farage, líder do Reform UK, anunciou que fará uma declaração pública sobre seu futuro na vida política. A declaração ocorre após o Partido Trabalhista solicitar uma investigação da Comissão Eleitoral sobre supostas violações da lei eleitoral. Farage foi questionado sobre a divulgação de presentes recebidos.",
-    "categoria": "politica",
-    "tags": [
-      "Nigel Farage",
-      "Reino Unido",
-      "política",
-      "investigação"
-    ],
-    "entidades": [
-      "Reform UK",
-      "Electoral Commission"
-    ],
-    "pessoas": [
-      "Nigel Farage"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/07/nigel-farage-reform-uk-donations-investigations-parliament-electoral-commission-defence-nato-keir-starmer-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "jacarei-reducao-obitos-transito",
-    "data": "2026-07-07",
-    "titulo": "Jacareí registra queda superior a 70% nos óbitos de trânsito",
-    "resumo": "Jacareí apresentou uma redução de mais de 70% nos óbitos registrados no trânsito em vias municipais entre janeiro e maio de 2026, comparado ao mesmo período do ano anterior. Os dados, divulgados pelo portal Infosiga do Detran, indicam uma melhora significativa na segurança viária da cidade. A prefeitura tem investido em segurança e infraestrutura.",
+    "id": "2026-07-08-furto-aliancas-sp",
+    "data": "2026-07-08",
+    "titulo": "Cidade de SP registra média de 20 roubos ou furtos de aliança por hora no 1º semestre",
+    "resumo": "Um levantamento indica que a cidade de São Paulo registrou uma média de 20 roubos ou furtos de alianças por hora durante o primeiro semestre de 2026. Apesar de uma queda de 24,1% em relação ao ano anterior no estado de São Paulo, o volume de casos permanece elevado.",
     "categoria": "seguranca",
     "tags": [
-      "segurança viária",
-      "trânsito",
-      "redução de mortes",
-      "Jacareí"
-    ],
-    "entidades": [
-      "Detran"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Jacareí"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-jacarei/noticia/2026/07/07/jacarei-tem-queda-de-mais-de-70percent-nos-obitos-de-transito-de-janeiro-a-maio.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "jacarei-parque-centro-paula-souza",
-    "data": "2026-07-07",
-    "titulo": "Prefeitura de Jacareí anuncia parque em área do Centro Paula Souza",
-    "resumo": "A Prefeitura de Jacareí obteve o direito de uso de uma área de 250 mil metros quadrados pertencente ao Centro Paula Souza. A iniciativa possibilitará a criação de um grande parque público ambiental na cidade. A autorização foi concedida pelo Governo do Estado de São Paulo.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "parque público",
-      "meio ambiente",
-      "Jacareí",
-      "urbanismo"
-    ],
-    "entidades": [
-      "Centro Paula Souza"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Jacareí"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-jacarei/noticia/2026/07/07/prefeitura-obtem-direito-de-uso-em-area-do-centro-paula-souza-e-anuncia-parque.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "jacarei-seguranca-totem",
-    "data": "2026-07-07",
-    "titulo": "Jacareí reforça segurança com totem de monitoramento",
-    "resumo": "A cidade de Jacareí iniciou a operação de um novo sistema de monitoramento para ampliar a segurança pública. Um totem de 7 metros de altura e outros 70 de menor porte foram instalados em pontos estratégicos. A iniciativa visa reforçar o acompanhamento e a vigilância na cidade.",
-    "categoria": "seguranca",
-    "tags": [
-      "segurança pública",
-      "monitoramento",
-      "tecnologia",
-      "Jacareí"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Jacareí"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-jacarei/noticia/2026/07/07/smart-jacarei-prefeitura-reforca-seguranca-com-totem-de-7-metros-de-altura.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "jacarei-investimento-saude",
-    "data": "2026-07-07",
-    "titulo": "Prefeitura de Jacareí realiza investimentos em obras de saúde",
-    "resumo": "A Prefeitura de Jacareí tem investido em melhorias na área da saúde, com quatro Unidades Municipais de Saúde da Família em obras nos bairros Jardim Marquês, Jardim Luiza, Parque Imperial e Jardim Sanches. As obras visam ampliar o acesso e a qualidade dos serviços de saúde oferecidos à população.",
-    "categoria": "saude",
-    "tags": [
-      "saúde",
-      "investimento público",
-      "obras",
-      "Jacareí"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Jacareí"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-jacarei/noticia/2026/07/07/prefeitura-de-jacarei-realiza-grandes-investimentos-na-saude-saiba-mais.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "jacarei-uniformes-escolares",
-    "data": "2026-07-07",
-    "titulo": "Prefeitura de Jacareí distribui uniformes escolares para mais de 12 mil crianças",
-    "resumo": "A Prefeitura de Jacareí está avançando na distribuição de novos uniformes escolares para mais de 12 mil crianças da rede municipal. Após a apresentação do novo modelo, a distribuição do kit com peças de inverno visa ampliar o conforto e a proteção dos estudantes. A iniciativa faz parte de investimentos na educação.",
-    "categoria": "educacao",
-    "tags": [
-      "educação",
-      "uniformes escolares",
-      "distribuição",
-      "Jacareí"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Jacareí"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-jacarei/noticia/2026/07/07/prefeitura-avanca-com-entregas-de-uniformes-para-mais-de-12-mil-criancas.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "prisao-furto-volta-redonda",
-    "data": "2026-07-07",
-    "titulo": "Homem é preso por suspeita de furto em Volta Redonda",
-    "resumo": "Um homem foi preso em Volta Redonda, Rio de Janeiro, por suspeita de ter furtado materiais de funilaria e pintura. O crime ocorreu no bairro Conforto. A prisão foi realizada pela Operação Segurança Presente. O suspeito foi encaminhado à delegacia para as providências legais.",
-    "categoria": "justica",
-    "tags": [
+      "roubo",
       "furto",
-      "prisão",
-      "Volta Redonda",
-      "crime"
+      "alianças",
+      "São Paulo"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [
-      "Rio de Janeiro"
+      "São Paulo"
     ],
     "cidades": [
-      "Volta Redonda"
+      "São Paulo"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 1,
+    "importancia": 3,
     "fontes": [
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/07/homem-e-preso-por-suspeita-de-furto-em-volta-redonda.ghtml"
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/08/cidade-de-sp-tem-20-roubos-ou-furtos-de-alianca-por-hora-no-1o-semestre-deste-ano-aponta-levantamento.ghtml"
       }
     ]
   },
   {
-    "id": "acao-policia-civil-operacao-pf",
-    "data": "2026-07-07",
-    "titulo": "Corregedoria da Polícia Civil investiga ex-secretário alvo de operação da PF",
-    "resumo": "A Corregedoria da Polícia Civil instaurou uma investigação disciplinar contra o ex-secretário e delegado Marcus Vinícius Amim. Ele foi um dos alvos da 6ª fase da Operação Unha e Carne da Polícia Federal. A investigação visa apurar possíveis irregularidades em sua conduta profissional.",
-    "categoria": "justica",
-    "tags": [
-      "investigação",
-      "polícia civil",
-      "polícia federal",
-      "corrupção"
-    ],
-    "entidades": [
-      "Polícia Civil",
-      "Polícia Federal"
-    ],
-    "pessoas": [
-      "Marcus Vinícius Amim"
-    ],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Belford Roxo"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/07/corregedoria-policia-civil-investiga-ex-secretario.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "mulher-cega-pub-id-cachorro-guia",
-    "data": "2026-07-07",
-    "titulo": "Mulher cega relata constrangimento em pub que pediu ID de seu cão-guia",
-    "resumo": "Uma mulher cega relatou ter se sentido constrangida e \"livida\" após funcionários de um pub Wetherspoons em Hartlepool pedirem a identidade de seu cão-guia. A rede se desculpou pelo incidente, que ocorreu quando a mulher tentava entrar no estabelecimento com seu animal. A exigência é considerada inadequada para cães-guia.",
-    "categoria": "sociedade",
-    "tags": [
-      "pessoa com deficiência",
-      "cão-guia",
-      "acessibilidade",
-      "publico"
-    ],
-    "entidades": [
-      "Wetherspoons"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Hartlepool"
-    ],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/society/2026/jul/07/blind-woman-wetherspoons-pub-guide-dogs-hartlepool"
-      }
-    ]
-  },
-  {
-    "id": "audiencia-tarifaco-eua-brasil",
-    "data": "2026-07-07",
-    "titulo": "Audiência sobre tarifas dos EUA contra importações brasileiras recebe críticas técnicas",
-    "resumo": "O primeiro dia de audiências públicas sobre o \"tarifaço\" proposto pelos Estados Unidos contra importações do Brasil foi marcado por críticas técnicas. Empresários e economistas brasileiros concluíram que mesmo técnicos americanos reconhecem a falta de justificativa para novas taxações. A decisão final sobre a adoção das tarifas deve ser política.",
+    "id": "2026-07-08-turismo-verao-europa",
+    "data": "2026-07-08",
+    "titulo": "Tendências de turismo para o verão europeu em 2026",
+    "resumo": "O CEO da lastminute.com, Alessandro Petazzi, discutiu as tendências de viagem para o verão de 2026 na Europa. A conversa abordou os destinos mais procurados, hábitos de consumo dos turistas franceses e novas tendências no setor. A empresa é uma das líderes em viagens online na Europa.",
     "categoria": "economia",
     "tags": [
-      "tarifas",
-      "comércio internacional",
-      "Estados Unidos",
-      "Brasil",
+      "turismo",
+      "verão",
+      "Europa",
+      "tendências"
+    ],
+    "entidades": [
+      "lastminute.com"
+    ],
+    "pessoas": [
+      "Alessandro Petazzi"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "França"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/tv-shows/entre-nous/20260708-summer-2026-top-destinations-spending-habits-and-emerging-trends"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-08-khamenei-funeral-iraque",
+    "data": "2026-07-08",
+    "titulo": "Corpo de Ayatoallah Ali Khamenei cruza fronteira para o Iraque em cortejo fúnebre",
+    "resumo": "Milhares de pessoas acompanharam o cortejo fúnebre do líder iraniano Ayatoallah Ali Khamenei em sua passagem pelo Iraque. A procissão, que já durou seis dias e atraiu grandes multidões em seu país de origem, cruzou a fronteira para a cidade sagrada de Najaf. O líder foi morto em circunstâncias não detalhadas.",
+    "categoria": "internacional",
+    "tags": [
+      "Khamenei",
+      "Irã",
+      "Iraque",
+      "cortejo fúnebre"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Ayatoallah Ali Khamenei"
+    ],
+    "estados": [],
+    "cidades": [
+      "Najaf"
+    ],
+    "paises": [
+      "Irã",
+      "Iraque"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/video/20260708-thousands-of-mourners-march-as-khamenei-s-funeral-procession-crosses-into-iraq"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-08-ufg-inscricoes-remanescentes",
+    "data": "2026-07-08",
+    "titulo": "UEMASUL abre inscrições para vagas remanescentes do PAES 2026 em Imperatriz e Açailândia",
+    "resumo": "A Universidade Estadual da Região Tocantina do Maranhão (UEMASUL) abriu inscrições para vagas remanescentes do Processo Seletivo de Acesso à Educação Superior (PAES) 2026. São oferecidas 28 oportunidades nos campi de Imperatriz e Açailândia. O processo seletivo é simplificado.",
+    "categoria": "educacao",
+    "tags": [
+      "UEMASUL",
+      "inscrições",
+      "vagas remanescentes",
+      "PAES"
+    ],
+    "entidades": [
+      "UEMASUL"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Imperatriz",
+      "Açailândia"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ma/maranhao/educacao/noticia/2026/07/08/uemasul-abre-inscricoes-para-vagas-remanescentes-do-paes-2026-em-imperatriz-e-acailandia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-08-empresas-tecnologia-recomendacao-compra",
+    "data": "2026-07-08",
+    "titulo": "Grandes bancos recomendam compra de ações da SpaceX",
+    "resumo": "Instituições financeiras como Citi, Morgan Stanley e Bank of America se juntaram ao BTG Pactual na recomendação de compra de ações da SpaceX. Apesar do otimismo compartilhado, cada casa financeira estabeleceu um preço-alvo diferente para a companhia. A recomendação indica uma perspectiva positiva para o desempenho da empresa.",
+    "categoria": "economia",
+    "tags": [
+      "SpaceX",
+      "ações",
+      "recomendação",
+      "mercado financeiro"
+    ],
+    "entidades": [
+      "SpaceX",
+      "Citi",
+      "Morgan Stanley",
+      "Bank of America",
+      "BTG Pactual"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/economia/negocios/citi-morgan-e-bofa-se-unem-ao-btg-ao-recomendar-compra-de-spacex/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-08-desvio-medicamentos-acre",
+    "data": "2026-07-08",
+    "titulo": "Polícia tenta identificar clientes de esquema que desviou R$ 10 milhões em medicamentos no Acre",
+    "resumo": "A Polícia Civil do Acre está na fase final da investigação de um esquema que desviou cerca de R$ 10 milhões em medicamentos e insumos hospitalares. O foco atual é identificar os clientes que adquiriram os produtos desviados. A investigação começou há seis meses em Rio Branco.",
+    "categoria": "justica",
+    "tags": [
+      "polícia",
+      "esquema",
+      "medicamentos",
+      "desvio",
+      "Acre"
+    ],
+    "entidades": [
+      "Polícia Civil"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Acre"
+    ],
+    "cidades": [
+      "Rio Branco"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ac/acre/noticia/2026/07/08/policia-tenta-identificar-clientes-de-esquema-que-desviou-medicamentos-no-acre.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-08-roubo-farmacias-indaiatuba",
+    "data": "2026-07-08",
+    "titulo": "Guarda Civil prende sete suspeitos de roubo a farmácias em Indaiatuba (SP)",
+    "resumo": "Sete pessoas foram detidas pela Guarda Civil de Indaiatuba, São Paulo, por suspeita de envolvimento em roubos a farmácias. Os suspeitos foram flagrados em duas ocorrências distintas na noite de terça-feira. A ação visa coibir crimes na região.",
+    "categoria": "seguranca",
+    "tags": [
+      "prissão",
+      "roubo",
+      "farmácias",
+      "Indaiatuba",
+      "Guarda Civil"
+    ],
+    "entidades": [
+      "Guarda Civil Municipal"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Indaiatuba"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/08/guarda-civil-prende-sete-suspeitos-de-roubo-a-farmacias-em-indaiatuba.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-08-golfe-rio-preto",
+    "data": "2026-07-08",
+    "titulo": "São José do Rio Preto sedia primeira etapa do Tour Profissional CBGolfe 2026",
+    "resumo": "São José do Rio Preto, em São Paulo, será sede da primeira etapa do Tour Profissional CBGolfe 2026. O evento, chamado JCB Rocester Quinta do Golfe Pro-Am 2026, marca o início de uma série de cinco competições do circuito nacional de golfe. A competição terá a participação de atletas profissionais.",
+    "categoria": "esportes",
+    "tags": [
+      "golfe",
+      "torneio",
+      "Rio Preto",
+      "CBGolfe"
+    ],
+    "entidades": [
+      "CBGolfe"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "São José do Rio Preto"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/08/rio-preto-recebe-primeira-etapa-do-tour-profissional-cbgolfe-2026-nesta-semana.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-08-dolar-petroleo-oriente-medio",
+    "data": "2026-07-08",
+    "titulo": "Dólar abre em alta com atenção a petróleo e tensões no Oriente Médio",
+    "resumo": "O dólar abriu a sessão em alta nesta quarta-feira, com investidores atentos às tensões no Oriente Médio e ao preço do petróleo. A moeda americana avançou 0,57% e era cotada a R$ 5,1818. Enquanto isso, o Ibovespa, índice da bolsa brasileira, iniciou as negociações com cautela.",
+    "categoria": "economia",
+    "tags": [
+      "dólar",
+      "petróleo",
+      "Oriente Médio",
       "economia"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
-    "paises": [
-      "Estados Unidos",
-      "Brasil"
-    ],
-    "importancia": 1,
+    "paises": [],
+    "importancia": 3,
     "fontes": [
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/07/tarifaco-dos-eua-primeiro-dia-de-audiencia-tem-criticas-tecnicas-a-novas-sancoes-mas-decisao-sera-politica.ghtml"
+        "url": "https://g1.globo.com/economia/noticia/2026/07/08/dolar-ibovespa.ghtml"
       }
     ]
   },
   {
-    "id": "protesto-sede-cbf-copa",
-    "data": "2026-07-07",
-    "titulo": "Sede da CBF é alvo de protesto após eliminação do Brasil na Copa",
-    "resumo": "A sede da Confederação Brasileira de Futebol (CBF), no Rio de Janeiro, foi alvo de protestos por parte de uma torcida organizada. Os manifestantes estenderam faixas criticando a gestão da entidade após a eliminação do Brasil na Copa do Mundo. A eliminação para a Noruega gerou insatisfação entre os torcedores.",
-    "categoria": "esportes",
+    "id": "2026-07-08-trump-iran-ceasefire",
+    "data": "2026-07-08",
+    "titulo": "Trump declara fim de cessar-fogo com o Irã e critica líderes iranianos",
+    "resumo": "O presidente dos Estados Unidos, Donald Trump, declarou que o cessar-fogo entre EUA e Irã está \"encerrado\", classificando os líderes iranianos como \"vermes\" e \"pessoas viciosas e violentas\". As hostilidades entre os dois países foram retomadas após o Irã acusar os EUA de violar o acordo. As declarações ocorreram em meio a uma cúpula da OTAN.",
+    "categoria": "internacional",
     "tags": [
-      "CBF",
-      "protesto",
-      "Copa do Mundo",
-      "futebol brasileiro"
+      "Trump",
+      "Irã",
+      "cessar-fogo",
+      "hostilidades"
     ],
-    "entidades": [
-      "CBF"
+    "entidades": [],
+    "pessoas": [
+      "Donald Trump"
     ],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "cnnbrasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/sede-da-cbf-e-alvo-de-protesto-apos-queda-do-brasil-na-copa-fraudulenta/"
-      }
-    ]
-  },
-  {
-    "id": "copa-inglaterra-mexico-audiencia",
-    "data": "2026-07-07",
-    "titulo": "Vitória da Inglaterra sobre o México na Copa quebra recordes de audiência",
-    "resumo": "A partida da Copa do Mundo entre Inglaterra e México, apesar de ter começado às 2h da manhã no Reino Unido, registrou recordes de audiência na BBC. O jogo atraiu um pico de 9,1 milhões de espectadores ao vivo na BBC One e BBC iPlayer. O conteúdo digital relacionado à partida também teve alta demanda.",
-    "categoria": "esportes",
-    "tags": [
-      "Copa do Mundo",
-      "audiência",
-      "recorde",
-      "futebol",
-      "Inglaterra",
-      "México"
-    ],
-    "entidades": [
-      "BBC"
-    ],
-    "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Reino Unido",
-      "México",
-      "Inglaterra"
+      "Estados Unidos",
+      "Irã"
     ],
-    "importancia": 1,
+    "importancia": 4,
     "fontes": [
       {
         "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/media/2026/jul/07/england-world-cup-win-mexico-breaks-viewing-records-bbc"
+        "url": "https://www.theguardian.com/us-news/2026/jul/08/first-thing-trump-iran-leaders-scum-ceasefire-over"
+      },
+      {
+        "nome": "france24.com",
+        "url": "https://www.france24.com/en/video/20260708-from-spain-trade-to-greenland-threats-key-points-from-trump-s-nato-comments"
       }
     ]
   },
   {
-    "id": "morre-jovem-apos-avc",
-    "data": "2026-07-07",
-    "titulo": "Mãe lamenta morte de jovem após AVC",
-    "resumo": "A mãe de uma jovem que faleceu quase dois anos após sofrer um acidente vascular cerebral (AVC) expressou sua dor nas redes sociais. A estudante Ana Júlia Servato, de 20 anos, lutou contra as sequelas do AVC antes de sua morte. A mãe destacou que o legado de sua filha será sempre lembrado.",
-    "categoria": "saude",
+    "id": "2026-07-08-fraude-saude-mato-grosso-do-sul",
+    "data": "2026-07-08",
+    "titulo": "Fraude em MS: liberação de exames e cirurgias dependia de compra de livros",
+    "resumo": "Investigações no Mato Grosso do Sul apontam que a liberação de exames, cirurgias e vagas em hospitais da rede estadual estava condicionada à compra de livros vendidos por um grupo criminoso. O esquema é suspeito de ter desviado R$ 27 milhões em fraudes na compra de materiais. A Polícia Civil busca identificar todos os envolvidos e clientes.",
+    "categoria": "justica",
     "tags": [
-      "AVC",
-      "morte",
-      "sequelas",
-      "saúde"
+      "fraude",
+      "saúde",
+      "Mato Grosso do Sul",
+      "medicamentos",
+      "investigação"
     ],
-    "entidades": [],
+    "entidades": [
+      "Polícia Civil"
+    ],
     "pessoas": [],
     "estados": [
-      "Goiás"
+      "Mato Grosso do Sul"
     ],
     "cidades": [],
     "paises": [
       "Brasil"
     ],
-    "importancia": 1,
+    "importancia": 4,
     "fontes": [
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/go/goias/noticia/2026/07/07/mae-de-jovem-que-morreu-quase-dois-anos-apos-avc-diz-que-coracao-esta-despedacado-legado-sera-sempre-lembrado.ghtml"
+        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/08/liberacao-de-exames-e-cirurgias-da-rede-estadual-dependia-da-compra-de-livros-vendidos-por-grupo-criminoso.ghtml"
       }
     ]
   },
   {
-    "id": "adaptacao-casas-calor",
-    "data": "2026-07-07",
-    "titulo": "Moradias resistentes ao calor: como adaptar nossas casas às ondas de calor",
-    "resumo": "A necessidade de adaptar moradias às ondas de calor cresce, especialmente na Alemanha, onde muitas construções não foram projetadas para altas temperaturas. Existem maneiras de adaptar edifícios existentes para lidar com as mudanças climáticas, mas o uso de ar condicionado não é a solução ideal. A discussão foca em repensar e reconstruir.",
-    "categoria": "meio-ambiente",
+    "id": "2026-07-08-pf-apreensao-drogas-amazonas",
+    "data": "2026-07-08",
+    "titulo": "Polícia apreende 1,5 tonelada de drogas e coletes em Manaus após troca de tiros",
+    "resumo": "Uma operação policial em Manaus, Amazonas, resultou na apreensão de mais de 1,5 tonelada de drogas e 60 coletes balísticos com símbolos da Polícia Civil. A ação ocorreu após uma troca de tiros entre suspeitos e policiais no bairro São Francisco. Um homem de 22 anos foi preso.",
+    "categoria": "seguranca",
     "tags": [
-      "mudanças climáticas",
-      "ondas de calor",
-      "arquitetura",
-      "habitação"
+      "PF",
+      "apreensão",
+      "drogas",
+      "coletes",
+      "Manaus",
+      "Amazonas"
+    ],
+    "entidades": [
+      "Polícia Militar"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Amazonas"
+    ],
+    "cidades": [
+      "Manaus"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/08/apos-troca-de-tiros-policia-apreende-15-tonelada-de-drogas-e-60-coletes-com-simbolos-da-policia-civil-no-am.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-08-omicidio-georgia-1985",
+    "data": "2026-07-08",
+    "titulo": "Análise forense moderna leva à prisão em caso de assassinato arquivado na Geórgia (EUA)",
+    "resumo": "Uma análise forense moderna de itens descartados levou à prisão de um suspeito em um caso de assassinato arquivado de 1985 na Geórgia, Estados Unidos. Os itens encontrados atrás de um restaurante Cracker Barrel foram analisados e resultaram em acusações relacionadas a um homicídio ocorrido na mesma época em Ohio. Investigações continuam para conectar os crimes.",
+    "categoria": "justica",
+    "tags": [
+      "forense",
+      "assassinato",
+      "Geórgia",
+      "Ohio",
+      "prisão"
     ],
     "entidades": [],
     "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Alemanha"
+    "estados": [
+      "Geórgia",
+      "Ohio"
     ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "rss.dw.com",
-        "url": "https://www.dw.com/en/heat-resistant-housing-how-we-need-to-adapt-our-homes/a-77861704?maca=en-rss-en-all-1573-rdf"
-      }
-    ]
-  },
-  {
-    "id": "united-airlines-assentos-sem-janelas",
-    "data": "2026-07-07",
-    "titulo": "United Airlines enfrenta processo por vender assentos 'com janela' sem janelas",
-    "resumo": "A United Airlines deve enfrentar um processo movido por passageiros que pagaram extra por assentos \"com janela\", mas descobriram que estes não possuíam janelas visíveis. Um juiz federal rejeitou o pedido da companhia aérea para arquivar a ação. Os passageiros alegam ter sido enganados sobre a vista de seus assentos.",
-    "categoria": "economia",
-    "tags": [
-      "United Airlines",
-      "processo judicial",
-      "direitos do consumidor",
-      "viagens aéreas"
-    ],
-    "entidades": [
-      "United Airlines"
-    ],
-    "pessoas": [],
-    "estados": [],
     "cidades": [],
     "paises": [
       "Estados Unidos"
     ],
-    "importancia": 1,
+    "importancia": 3,
     "fontes": [
       {
         "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/business/2026/jul/07/united-airlines-window-seat-lawsuit"
+        "url": "https://www.theguardian.com/us-news/2026/jul/08/modern-forensic-evidence-1985-georgia-murder"
       }
     ]
   }
