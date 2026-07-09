@@ -1,95 +1,162 @@
 [
   {
-    "id": "2026-07-08-ataque-escola-alemanha",
-    "data": "2026-07-08",
-    "titulo": "Ataque em escola na Alemanha deixa feridos e leva à prisão de suspeito",
-    "resumo": "Um ataque em uma escola de Ensino Médio no estado da Baviera, sul da Alemanha, resultou em várias pessoas feridas. A polícia local informou que um suspeito foi preso após o incidente. Detalhes sobre o número de envolvidos ainda estão sendo apurados.",
-    "categoria": "seguranca",
-    "tags": [
-      "ataque",
-      "escola",
-      "Alemanha",
-      "Baviera"
-    ],
-    "entidades": [
-      "Polícia Alemã"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Baviera"
-    ],
-    "cidades": [],
-    "paises": [
-      "Alemanha"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mundo/noticia/2026/07/08/ataque-escola-alemanha-deixa-feridos.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-08-trump-otan-espanha-groenlandia",
-    "data": "2026-07-08",
-    "titulo": "Trump critica aliados da OTAN e reitera desejo pela Groenlândia em cúpula em Ancara",
-    "resumo": "O presidente dos Estados Unidos, Donald Trump, expressou insatisfação com aliados da OTAN durante uma cúpula em Ancara, na Turquia. Ele reiterou seu interesse pela aquisição da Groenlândia e classificou a Espanha como uma parceira \"terrível\" na aliança. Trump também mencionou a ameaça de cortar o comércio com a Espanha.",
+    "id": "2026-07-09-conflito-ira-eua",
+    "data": "2026-07-09",
+    "titulo": "Escalada de tensões entre Irã e Estados Unidos com trocas de ataques",
+    "resumo": "O Irã lançou novos ataques após acusar os Estados Unidos de bombardearem áreas próximas a uma planta nuclear. Centcom relatou ter atingido 90 alvos iranianos nas últimas ações. O Ministério da Saúde iraniano informou 14 mortes desde terça-feira. O Irã e os EUA trocaram fogo, com a mídia iraniana reportando ataques perto da instalação em Bushehr.",
     "categoria": "internacional",
     "tags": [
-      "Trump",
-      "OTAN",
-      "Groenlândia",
-      "Espanha",
-      "Turquia"
+      "conflito",
+      "ataques",
+      "iran",
+      "eua",
+      "nucleares"
     ],
     "entidades": [
-      "OTAN"
+      "Centcom",
+      "Ministério da Saúde iraniano"
     ],
     "pessoas": [
       "Donald Trump"
     ],
     "estados": [],
-    "cidades": [
-      "Ancara"
-    ],
+    "cidades": [],
     "paises": [
+      "Irã",
       "Estados Unidos",
-      "Espanha",
-      "Turquia"
+      "Kuwait"
     ],
     "importancia": 5,
     "fontes": [
       {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/en/europe/20260708-trump-lashes-nato-allies-during-key-summit-ankara"
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/analise-trump-tem-poucas-opcoes-em-relacao-ao-ira-e-todas-sao-ruins/"
       },
       {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/world/live/2026/jul/08/trump-nato-summit-greenland-us-turkey-rutte-marine-le-pen-europe-latest-news-updates"
+        "nome": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/jul/09/iran-us-middle-east-strikes-centcom-bahrain-kuwait-qatar-strait-of-hormuz-latest-news-updates"
       }
     ]
   },
   {
-    "id": "2026-07-08-pf-investigacao-bolsonaro",
-    "data": "2026-07-08",
-    "titulo": "Polícia Federal realiza busca na casa de Jair Bolsonaro por armas",
-    "resumo": "A Polícia Federal realizou buscas na residência do ex-presidente Jair Bolsonaro, com foco na apreensão de armas e munições. Segundo a defesa de Bolsonaro, nenhum material ilícito foi encontrado durante a operação. A ação faz parte de investigações em andamento.",
-    "categoria": "justica",
+    "id": "2026-07-09-politica-reino-unido",
+    "data": "2026-07-09",
+    "titulo": "Escândalo financeiro e movimentações políticas do Reform UK no Reino Unido",
+    "resumo": "O partido Reform UK enfrenta escrutínio crescente sobre suas finanças, com questionamentos sobre a origem de doações e empréstimos. Ativistas do partido foram instruídos a focar na disputa eleitoral de Nigel Farage em Clacton, desviando o foco de Manchester. Nigel Farage lançou um ataque preventivo ao comitê de padrões da Câmara dos Comuns, alegando que não será julgado de forma justa.",
+    "categoria": "politica",
     "tags": [
-      "PF",
-      "Bolsonaro",
-      "armas",
-      "busca"
+      "politica",
+      "reino unido",
+      "finanças",
+      "eleições"
     ],
     "entidades": [
-      "Polícia Federal"
+      "Reform UK",
+      "Câmara dos Comuns"
     ],
     "pessoas": [
-      "Jair Bolsonaro"
+      "Nigel Farage"
     ],
     "estados": [],
-    "cidades": [],
+    "cidades": [
+      "Manchester",
+      "Clacton"
+    ],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/politics/2026/jul/09/five-pressing-questions-farage-reform-uk-finances"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/politics/2026/jul/09/reform-activists-manchester-farage-clacton-byelection-contest"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/09/andy-burnham-keir-starmer-labour-nigel-farage-binface-reform-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-09-cultura-eventos-brasil",
+    "data": "2026-07-09",
+    "titulo": "Exposições e eventos culturais em São Paulo e Feira de Santana",
+    "resumo": "A sambista Alcione inaugurou uma exposição em São Paulo celebrando seus 50 anos de carreira no Museu das Favelas. Em Feira de Santana, a 19ª edição do Flifs apresenta destaques como a escritora Thalita Rebouças, o jornalista Xico Sá, o sociólogo Jessé Souza e a cantora Agnes Nunes.",
+    "categoria": "cultura",
+    "tags": [
+      "cultura",
+      "exposições",
+      "música",
+      "literatura"
+    ],
+    "entidades": [
+      "Museu das Favelas",
+      "Flifs"
+    ],
+    "pessoas": [
+      "Alcione",
+      "Thalita Rebouças",
+      "Xico Sá",
+      "Jessé Souza",
+      "Agnes Nunes"
+    ],
+    "estados": [
+      "São Paulo",
+      "Bahia"
+    ],
+    "cidades": [
+      "São Paulo",
+      "Feira de Santana"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/pop/celebridades/alcione-estreia-exposicao-em-sao-paulo-veja-fotos/"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/09/flifs-feira-de-santana.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-09-justica-crimes-brasil",
+    "data": "2026-07-09",
+    "titulo": "Condenações e prisões relacionadas a crimes graves em diferentes estados do Brasil",
+    "resumo": "Um homem foi condenado a 22 anos de prisão pelo envolvimento na morte do ator Jeff Machado. Um suspeito de uma série de estupros foi preso em Pernambuco após investigação de roupas usadas nos crimes. Em Rondônia, dois servidores foram presos e 11 afastados em uma operação que investiga \"rachadinha\" na Assembleia Legislativa.",
+    "categoria": "justica",
+    "tags": [
+      "justiça",
+      "crime",
+      "prisão",
+      "condenação"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Jeff Machado",
+      "Jeander Vinícius da Silva Braga",
+      "André de Almeida Godoi"
+    ],
+    "estados": [
+      "Santa Catarina",
+      "Pernambuco",
+      "Rondônia"
+    ],
+    "cidades": [
+      "Caetés"
+    ],
     "paises": [
       "Brasil"
     ],
@@ -97,201 +164,284 @@
     "fontes": [
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/politica/noticia/2026/07/08/pf-faz-buscas-por-armas-na-casa-de-bolsonaro-diz-defesa.ghtml"
+        "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/09/mae-de-jeff-machado-desabafa-apos-condenacao-de-1a-acusado-da-morte-do-filho-missao-cumprida.html"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/07/09/suspeito-de-serie-de-estupros-e-preso-em-caetes-apos-investigacao-identificar-roupas-usadas-nos-crimes.html"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ro/rondonia/noticia/2026/07/09/servidores-sao-presos-e-afastados-em-operacao-na-ale-ro-que-investiga-rachadinha.html"
       }
     ]
   },
   {
-    "id": "2026-07-08-pf-operacao-trafico-lavagem-dinheiro",
-    "data": "2026-07-08",
-    "titulo": "PF deflagra operação contra tráfico e lavagem de dinheiro em 14 estados",
-    "resumo": "Uma operação integrada da Polícia Federal e das Forças Integradas de Combate ao Crime Organizado (FICCOs) foi deflagrada em 14 estados brasileiros. A ação visa combater facções criminosas envolvidas com tráfico de drogas e armas, além de lavagem de dinheiro. Mandados de busca e apreensão estão sendo cumpridos em diversas cidades.",
-    "categoria": "seguranca",
+    "id": "2026-07-09-clima-temperaturas-extremo",
+    "data": "2026-07-09",
+    "titulo": "Onda de calor atinge a Europa com recordes de temperatura e paralisação de reator nuclear",
+    "resumo": "Barcelona registrou a temperatura mais alta em 112 anos durante uma onda de calor que afetou a Europa. Um reator nuclear na França foi desligado devido ao calor extremo. Algumas estações na Espanha registraram até 44°C após um junho recorde na Europa Ocidental. Um alerta de alta temperatura foi emitido para condados na República da Irlanda.",
+    "categoria": "meio-ambiente",
     "tags": [
-      "PF",
-      "operação",
-      "tráfico",
-      "lavagem de dinheiro",
-      "crime organizado"
+      "clima",
+      "calor",
+      "recorde",
+      "onda de calor",
+      "nuclear"
     ],
-    "entidades": [
-      "Polícia Federal",
-      "Forças Integradas de Combate ao Crime Organizado"
-    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [
-      "Uberlândia",
-      "Uberaba"
+      "Barcelona"
     ],
     "paises": [
+      "Espanha",
+      "França",
+      "Irlanda"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/jul/09/europe-heatwave-uk-spain-barcelona-france-italy-hungary-france-macron-orban-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-09-seguranca-violencia-chad",
+    "data": "2026-07-09",
+    "titulo": "Aumento da violência intercomunitária no Chade e surgimento de movimentos semelhantes a milícias",
+    "resumo": "O Chade tem testemunhado um aumento significativo na violência intercomunitária, com autoridades registrando cinco incidentes no último mês, resultando em mais de 300 mortes em dois anos. A ONU alertou para a escalada da violência em toda a bacia do Lago Chade, com 5.700 mortes desde novembro passado.",
+    "categoria": "seguranca",
+    "tags": [
+      "segurança",
+      "violência",
+      "chade",
+      "conflito intercomunitário"
+    ],
+    "entidades": [
+      "ONU"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Chade"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "france24.com",
+        "url": "https://www.france24.com/militia-like-movements-appear-in-chad-amid-surge-in-intercommunal-violence"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-09-economia-juros-eua",
+    "data": "2026-07-09",
+    "titulo": "Especialista avalia futuro da taxa de juros nos EUA em meio à inflação",
+    "resumo": "Um especialista analisa o cenário econômico americano após a divulgação da ata do banco central dos EUA. A discussão gira em torno do futuro da taxa de juros no país, com a inflação sendo um fator relevante no radar.",
+    "categoria": "economia",
+    "tags": [
+      "economia",
+      "juros",
+      "inflação",
+      "eua"
+    ],
+    "entidades": [
+      "Banco Central dos EUA"
+    ],
+    "pessoas": [
+      "Gilvan Bueno"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/economia/especialista-avalia-futuro-da-taxa-de-juros-nos-eua-com-inflacao-no-radar/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-09-justica-doacao-orgaos-rs",
+    "data": "2026-07-09",
+    "titulo": "Órgãos de menino espancado no RS são doados; pai missionário americano é preso",
+    "resumo": "Os órgãos do menino Oliver Golden Grayson, de 3 anos, que morreu após ser espancado pelo pai, foram doados. O pai, missionário nos EUA, confessou o crime e foi preso no Rio Grande do Sul. A agressão teria ocorrido porque a criança não deu 'bom dia' ao pai.",
+    "categoria": "justica",
+    "tags": [
+      "justiça",
+      "morte",
+      "espancamento",
+      "doação de órgãos"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Oliver Golden Grayson"
+    ],
+    "estados": [
+      "Rio Grande do Sul"
+    ],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos",
       "Brasil"
     ],
     "importancia": 4,
     "fontes": [
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/ce/ceara/noticia/2026/07/08/pf-faz-operacao-de-combate-ao-trafico-e-lavagem-de-dinheiro-no-ceara-e-em-outros-13-estados.ghtml"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/08/uberlandia-e-uberaba-entram-na-mira-de-operacao-integrada-da-pf-contra-trafico-e-lavagem-de-dinheiro-em-14-estados.ghtml"
+        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/09/orgaos-de-menino-de-3-anos-que-morreu-apos-ser-espancado-pelo-pai-sao-doados.html"
       }
     ]
   },
   {
-    "id": "2026-07-08-mundial-messi-artilharia",
-    "data": "2026-07-08",
-    "titulo": "Messi retoma liderança da artilharia da Copa do Mundo",
-    "resumo": "Lionel Messi, da Argentina, marcou um gol na vitória contra o Egito, reassumindo a liderança isolada na artilharia da Copa do Mundo de 2026. O jogador argentino agora soma oito gols na competição. Kylian Mbappé, da França, está em segundo lugar com sete gols.",
+    "id": "2026-07-09-esportes-franca-copa",
+    "data": "2026-07-09",
+    "titulo": "Kylian Mbappé brilha na Copa do Mundo e recupera admiração",
+    "resumo": "Kylian Mbappé, capitão da França, está tendo uma performance espetacular na Copa do Mundo, marcando sete gols e quebrando recordes. Sua atuação fez com que críticos anteriores pedissem perdão e reconhecessem seu talento, mesmo com a mudança de clube para Madrid.",
     "categoria": "esportes",
     "tags": [
-      "Copa do Mundo",
-      "Messi",
-      "artilharia",
-      "futebol"
+      "esportes",
+      "futebol",
+      "copa do mundo",
+      "mbappé"
     ],
-    "entidades": [
-      "Copa do Mundo FIFA"
-    ],
+    "entidades": [],
     "pessoas": [
-      "Lionel Messi",
       "Kylian Mbappé"
     ],
     "estados": [],
-    "cidades": [],
+    "cidades": [
+      "Paris",
+      "Madrid"
+    ],
     "paises": [
-      "Argentina",
-      "Egito",
       "França"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/07/08/messi-retoma-lideranca-da-artilharia-da-copa-do-mundo.ghtml"
-      },
-      {
         "nome": "france24.com",
-        "url": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260708-world-cup-2026-argentina-steal-stunning-comeback-as-egypt-complain-about-refering"
+        "url": "https://www.france24.com/video/20260709-kylian-forgive-us-how-the-world-cup-turned-mbapp%C3%A9-s-reputation-around"
       }
     ]
   },
   {
-    "id": "2026-07-08-milei-paralisar-estado",
-    "data": "2026-07-08",
-    "titulo": "Milei propõe 'paralisar o Estado' se Congresso não aprovar orçamento",
-    "resumo": "O presidente da Argentina, Javier Milei, anunciou a intenção de criar um projeto de lei para \"paralisar\" o Poder Executivo, inspirado no sistema dos Estados Unidos. A medida seria aplicada caso o Congresso argentino não aprove o orçamento proposto pelo governo. Milei afirmou que, em sua gestão, os números econômicos melhoram, mas a classe média continua em dificuldades.",
-    "categoria": "politica",
+    "id": "2026-07-09-meio-ambiente-mauritania",
+    "data": "2026-07-09",
+    "titulo": "Patrimônio pesqueiro da Mauritânia ameaçado por mudanças climáticas e sobrepesca",
+    "resumo": "O patrimônio pesqueiro da Mauritânia, baseado em métodos tradicionais e embarcações a vento, está sob ameaça. As mudanças climáticas, a sobrepesca e a perda gradual de conhecimento ancestral colocam em risco os meios de subsistência e um ecossistema único.",
+    "categoria": "meio-ambiente",
     "tags": [
-      "Milei",
-      "Argentina",
-      "Congresso",
-      "orçamento",
-      "Estado"
+      "meio ambiente",
+      "pesca",
+      "mudanças climáticas",
+      "sobrepesca"
     ],
-    "entidades": [
-      "Congresso Argentino"
-    ],
+    "entidades": [],
     "pessoas": [
-      "Javier Milei"
+      "Imraguen"
     ],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Argentina",
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mundo/noticia/2026/07/08/milei-quer-imitar-eua-e-paralisar-o-estado-caso-congresso-nao-aprove-orcamento-do-governo.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-08-transporte-aereo-paquistao",
-    "data": "2026-07-08",
-    "titulo": "Buscas por avião de carga desaparecido no Paquistão enfrentam mar revolto",
-    "resumo": "Equipes de resgate buscam por destroços de um avião de carga Boeing 737 que desapareceu perto de Karachi, no Paquistão. O mar revolto está dificultando os trabalhos de localização da aeronave, que teve os sistemas de radar perdidos enquanto descia rapidamente. A aeronave tinha 27 anos de fabricação.",
-    "categoria": "internacional",
-    "tags": [
-      "avião",
-      "carga",
-      "desaparecido",
-      "Paquistão",
-      "resgate"
-    ],
-    "entidades": [
-      "Boeing 737"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Karachi"
-    ],
-    "paises": [
-      "Paquistão"
+      "Mauritânia"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "rss.dw.com",
-        "url": "https://www.dw.com/en/pakistan-rescuers-scour-sea-for-crashed-plane-off-karachi/a-77869075?maca=en-rss-en-all-1573-rdf"
+        "nome": "france24.com",
+        "url": "https://www.france24.com/video/20260709-mauritania-s-fishing-heritage-threatened-by-climate-change-and-overfishing"
       }
     ]
   },
   {
-    "id": "2026-07-08-incendio-carros-santos",
-    "data": "2026-07-08",
-    "titulo": "Carros de vidraçaria pegam fogo em Santos; suspeita de incêndio criminoso",
-    "resumo": "Dois veículos de uma vidraçaria foram encontrados em chamas em Santos, litoral de São Paulo. O Corpo de Bombeiros suspeita que o incêndio tenha sido criminoso. O caso ocorreu próximo ao estabelecimento comercial. Um dos carros ficou totalmente destruído.",
-    "categoria": "seguranca",
+    "id": "2026-07-09-transporte-uberlandia",
+    "data": "2026-07-09",
+    "titulo": "Nova linha de ônibus atende terminal do Aeroporto de Uberlândia",
+    "resumo": "Uma nova linha de transporte coletivo passa a atender os usuários do novo terminal do Aeroporto Tenente-Coronel Aviador César Bombonato, em Uberlândia. A mudança ocorre após a alteração do acesso principal à estrutura aeroportuária.",
+    "categoria": "economia",
     "tags": [
-      "incêndio",
-      "carros",
-      "Santos",
-      "criminoso"
+      "transporte",
+      "aeroporto",
+      "ônibus",
+      "uberlândia"
     ],
-    "entidades": [
-      "Corpo de Bombeiros"
-    ],
+    "entidades": [],
     "pessoas": [],
-    "estados": [],
+    "estados": [
+      "Minas Gerais"
+    ],
     "cidades": [
-      "Santos"
+      "Uberlândia"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 3,
+    "importancia": 2,
     "fontes": [
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/08/carros-de-empresa-pegam-fogo-e-bombeiros-suspeitam-de-incendio-criminoso.ghtml"
+        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/09/linha-de-onibus-passa-a-atender-novo-terminal-do-aeroporto-de-uberlandia.html"
       }
     ]
   },
   {
-    "id": "2026-07-08-lei-animais-comunitarios-rn",
-    "data": "2026-07-08",
-    "titulo": "Rio Grande do Norte sanciona lei que protege animais comunitários",
-    "resumo": "O governo do Rio Grande do Norte sancionou uma lei que proíbe a captura, expulsão e extermínio de cães e gatos considerados animais comunitários. A legislação foi motivada por um caso ocorrido em Mossoró, onde uma moradora protestou após a morte de um animal. A lei visa garantir a proteção desses animais.",
-    "categoria": "politica",
+    "id": "2026-07-09-cultura-musica-argentina",
+    "data": "2026-07-09",
+    "titulo": "Música de Bonnie Tyler embalou título da Argentina na Copa de 1986",
+    "resumo": "A canção \"Holding Out for a Hero\" de Bonnie Tyler é lembrada por ter embalado o título da Argentina na Copa do Mundo de 1986. A cantora, que faleceu aos 75 anos, teve sua música associada a um momento marcante do futebol argentino.",
+    "categoria": "cultura",
     "tags": [
-      "lei",
-      "animais",
-      "Rio Grande do Norte",
-      "proteção animal"
+      "cultura",
+      "música",
+      "futebol",
+      "copa do mundo"
     ],
     "entidades": [],
+    "pessoas": [
+      "Bonnie Tyler"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Argentina"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/cancao-de-bonnie-tyler-embalou-titulo-da-argentina-na-copa-de-1986/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-09-justica-acidente-natal",
+    "data": "2026-07-09",
+    "titulo": "Motorista condenado por fugir de acidente e tentar enganar a PRF com irmão gêmeo",
+    "resumo": "Um motorista foi condenado a pagar mais de R$ 11 mil em indenizações após causar um acidente de trânsito, fugir do local e enviar o irmão gêmeo para tentar enganar a Polícia Rodoviária Federal. O caso ocorreu na BR-101, em Natal.",
+    "categoria": "justica",
+    "tags": [
+      "justiça",
+      "acidente",
+      "fraude",
+      "prf"
+    ],
+    "entidades": [
+      "PRF"
+    ],
     "pessoas": [],
     "estados": [
       "Rio Grande do Norte"
     ],
     "cidades": [
-      "Mossoró"
+      "Natal"
     ],
     "paises": [
       "Brasil"
@@ -300,221 +450,32 @@
     "fontes": [
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/08/lei-lucy-protecao-animais-comunitarios.ghtml"
+        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/09/homem-foge-apos-acidente-em-natal-e-envia-irmao-gemeo-para-tentar-enganar-a-prf-motorista-foi-condenado.html"
       }
     ]
   },
   {
-    "id": "2026-07-08-concurso-gastronomico-montes-claros",
-    "data": "2026-07-08",
-    "titulo": "Vencedor do Comida di Buteco em Montes Claros participa da fase nacional",
-    "resumo": "O restaurante Liu Casa Bar, vencedor da etapa de Montes Claros do concurso Comida di Buteco 2026 com o prato \"Dobradinha com toque de alho-poró\", participa da fase nacional do evento. A competição nacional está sendo realizada em São Paulo.",
-    "categoria": "cultura",
-    "tags": [
-      "gastronomia",
-      "concurso",
-      "Comida di Buteco",
-      "Montes Claros"
-    ],
-    "entidades": [
-      "Comida di Buteco"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Montes Claros",
-      "São Paulo"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/08/dobradinha-com-toque-de-alho-poro-vencedor-do-comida-di-buteco-em-montes-claros-participa-da-fase-nacional-do-concurso.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-08-pf-apreensao-droga-para",
-    "data": "2026-07-08",
-    "titulo": "Polícia apreende droga escondida em encomenda em Santarém, Pará",
-    "resumo": "A Polícia Militar do Pará apreendeu skunk escondido em uma encomenda dentro de um ônibus na BR-163, em Santarém. A droga foi encontrada durante uma fiscalização na rodovia. Um homem foi preso em flagrante.",
+    "id": "2026-07-09-seguranca-incendio-iracemapolis",
+    "data": "2026-07-09",
+    "titulo": "Homem com deficiência é resgatado de incêndio em residência em Iracemápolis",
+    "resumo": "Um homem com deficiência física foi resgatado de um incêndio em uma residência em Iracemápolis, interior de São Paulo. A ocorrência mobilizou equipes policiais e o Corpo de Bombeiros na madrugada de terça-feira.",
     "categoria": "seguranca",
     "tags": [
-      "PF",
-      "apreensão",
-      "droga",
-      "Santarém",
-      "Pará"
+      "segurança",
+      "incêndio",
+      "resgate",
+      "iracemápolis"
     ],
     "entidades": [
+      "Corpo de Bombeiros",
       "Polícia Militar"
     ],
     "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Santarém"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/08/policia-apreende-droga-escondida-em-encomenda-dentro-de-onibus-na-br-163-em-santarem-no-para.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-08-fernanda-torres-oscar",
-    "data": "2026-07-08",
-    "titulo": "Fernanda Torres relembra polêmica com Karla Sofía Gascón no Oscar",
-    "resumo": "A atriz Fernanda Torres recordou uma polêmica envolvendo a atriz espanhola Karla Sofía Gascón durante a campanha do filme \"Ainda Estou Aqui\" ao Oscar de 2025. Em entrevista, Torres mencionou o episódio, que ocorreu no tapete vermelho da premiação em Los Angeles, e a possibilidade de ter sofrido \"cancelamento\".",
-    "categoria": "cultura",
-    "tags": [
-      "Fernanda Torres",
-      "Karla Sofía Gascón",
-      "Oscar",
-      "cinema"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Fernanda Torres",
-      "Karla Sofía Gascón"
-    ],
-    "estados": [],
-    "cidades": [
-      "Los Angeles"
-    ],
-    "paises": [
-      "Estados Unidos",
-      "Espanha"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pop-arte/cinema/noticia/2026/07/08/fernanda-torres-relembra-polemica-com-karla-sofia-gascon-no-oscar-cancelamento-na-certa.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-08-furto-aliancas-sp",
-    "data": "2026-07-08",
-    "titulo": "Cidade de SP registra média de 20 roubos ou furtos de aliança por hora no 1º semestre",
-    "resumo": "Um levantamento indica que a cidade de São Paulo registrou uma média de 20 roubos ou furtos de alianças por hora durante o primeiro semestre de 2026. Apesar de uma queda de 24,1% em relação ao ano anterior no estado de São Paulo, o volume de casos permanece elevado.",
-    "categoria": "seguranca",
-    "tags": [
-      "roubo",
-      "furto",
-      "alianças",
-      "São Paulo"
-    ],
-    "entidades": [],
-    "pessoas": [],
     "estados": [
       "São Paulo"
     ],
     "cidades": [
-      "São Paulo"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/08/cidade-de-sp-tem-20-roubos-ou-furtos-de-alianca-por-hora-no-1o-semestre-deste-ano-aponta-levantamento.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-08-turismo-verao-europa",
-    "data": "2026-07-08",
-    "titulo": "Tendências de turismo para o verão europeu em 2026",
-    "resumo": "O CEO da lastminute.com, Alessandro Petazzi, discutiu as tendências de viagem para o verão de 2026 na Europa. A conversa abordou os destinos mais procurados, hábitos de consumo dos turistas franceses e novas tendências no setor. A empresa é uma das líderes em viagens online na Europa.",
-    "categoria": "economia",
-    "tags": [
-      "turismo",
-      "verão",
-      "Europa",
-      "tendências"
-    ],
-    "entidades": [
-      "lastminute.com"
-    ],
-    "pessoas": [
-      "Alessandro Petazzi"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "França"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/en/tv-shows/entre-nous/20260708-summer-2026-top-destinations-spending-habits-and-emerging-trends"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-08-khamenei-funeral-iraque",
-    "data": "2026-07-08",
-    "titulo": "Corpo de Ayatoallah Ali Khamenei cruza fronteira para o Iraque em cortejo fúnebre",
-    "resumo": "Milhares de pessoas acompanharam o cortejo fúnebre do líder iraniano Ayatoallah Ali Khamenei em sua passagem pelo Iraque. A procissão, que já durou seis dias e atraiu grandes multidões em seu país de origem, cruzou a fronteira para a cidade sagrada de Najaf. O líder foi morto em circunstâncias não detalhadas.",
-    "categoria": "internacional",
-    "tags": [
-      "Khamenei",
-      "Irã",
-      "Iraque",
-      "cortejo fúnebre"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Ayatoallah Ali Khamenei"
-    ],
-    "estados": [],
-    "cidades": [
-      "Najaf"
-    ],
-    "paises": [
-      "Irã",
-      "Iraque"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/en/video/20260708-thousands-of-mourners-march-as-khamenei-s-funeral-procession-crosses-into-iraq"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-08-ufg-inscricoes-remanescentes",
-    "data": "2026-07-08",
-    "titulo": "UEMASUL abre inscrições para vagas remanescentes do PAES 2026 em Imperatriz e Açailândia",
-    "resumo": "A Universidade Estadual da Região Tocantina do Maranhão (UEMASUL) abriu inscrições para vagas remanescentes do Processo Seletivo de Acesso à Educação Superior (PAES) 2026. São oferecidas 28 oportunidades nos campi de Imperatriz e Açailândia. O processo seletivo é simplificado.",
-    "categoria": "educacao",
-    "tags": [
-      "UEMASUL",
-      "inscrições",
-      "vagas remanescentes",
-      "PAES"
-    ],
-    "entidades": [
-      "UEMASUL"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Imperatriz",
-      "Açailândia"
+      "Iracemápolis"
     ],
     "paises": [
       "Brasil"
@@ -523,246 +484,23 @@
     "fontes": [
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/ma/maranhao/educacao/noticia/2026/07/08/uemasul-abre-inscricoes-para-vagas-remanescentes-do-paes-2026-em-imperatriz-e-acailandia.ghtml"
+        "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/09/homem-e-resgatado-de-incendio-em-casa-em-iracemapolis.html"
       }
     ]
   },
   {
-    "id": "2026-07-08-empresas-tecnologia-recomendacao-compra",
-    "data": "2026-07-08",
-    "titulo": "Grandes bancos recomendam compra de ações da SpaceX",
-    "resumo": "Instituições financeiras como Citi, Morgan Stanley e Bank of America se juntaram ao BTG Pactual na recomendação de compra de ações da SpaceX. Apesar do otimismo compartilhado, cada casa financeira estabeleceu um preço-alvo diferente para a companhia. A recomendação indica uma perspectiva positiva para o desempenho da empresa.",
-    "categoria": "economia",
-    "tags": [
-      "SpaceX",
-      "ações",
-      "recomendação",
-      "mercado financeiro"
-    ],
-    "entidades": [
-      "SpaceX",
-      "Citi",
-      "Morgan Stanley",
-      "Bank of America",
-      "BTG Pactual"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "cnnbrasil",
-        "url": "https://www.cnnbrasil.com.br/economia/negocios/citi-morgan-e-bofa-se-unem-ao-btg-ao-recomendar-compra-de-spacex/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-08-desvio-medicamentos-acre",
-    "data": "2026-07-08",
-    "titulo": "Polícia tenta identificar clientes de esquema que desviou R$ 10 milhões em medicamentos no Acre",
-    "resumo": "A Polícia Civil do Acre está na fase final da investigação de um esquema que desviou cerca de R$ 10 milhões em medicamentos e insumos hospitalares. O foco atual é identificar os clientes que adquiriram os produtos desviados. A investigação começou há seis meses em Rio Branco.",
-    "categoria": "justica",
-    "tags": [
-      "polícia",
-      "esquema",
-      "medicamentos",
-      "desvio",
-      "Acre"
-    ],
-    "entidades": [
-      "Polícia Civil"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Acre"
-    ],
-    "cidades": [
-      "Rio Branco"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/ac/acre/noticia/2026/07/08/policia-tenta-identificar-clientes-de-esquema-que-desviou-medicamentos-no-acre.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-08-roubo-farmacias-indaiatuba",
-    "data": "2026-07-08",
-    "titulo": "Guarda Civil prende sete suspeitos de roubo a farmácias em Indaiatuba (SP)",
-    "resumo": "Sete pessoas foram detidas pela Guarda Civil de Indaiatuba, São Paulo, por suspeita de envolvimento em roubos a farmácias. Os suspeitos foram flagrados em duas ocorrências distintas na noite de terça-feira. A ação visa coibir crimes na região.",
+    "id": "2026-07-09-seguranca-transito-manaus",
+    "data": "2026-07-09",
+    "titulo": "Caminhão com contêiner tomba em cruzamento na Zona Norte de Manaus",
+    "resumo": "Um caminhão que transportava um contêiner tombou em um cruzamento na Zona Norte de Manaus. O incidente ocorreu na manhã desta quinta-feira (9) no bairro Nova Cidade. Não havia registro de feridos até a última atualização.",
     "categoria": "seguranca",
     "tags": [
-      "prissão",
-      "roubo",
-      "farmácias",
-      "Indaiatuba",
-      "Guarda Civil"
-    ],
-    "entidades": [
-      "Guarda Civil Municipal"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Indaiatuba"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/08/guarda-civil-prende-sete-suspeitos-de-roubo-a-farmacias-em-indaiatuba.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-08-golfe-rio-preto",
-    "data": "2026-07-08",
-    "titulo": "São José do Rio Preto sedia primeira etapa do Tour Profissional CBGolfe 2026",
-    "resumo": "São José do Rio Preto, em São Paulo, será sede da primeira etapa do Tour Profissional CBGolfe 2026. O evento, chamado JCB Rocester Quinta do Golfe Pro-Am 2026, marca o início de uma série de cinco competições do circuito nacional de golfe. A competição terá a participação de atletas profissionais.",
-    "categoria": "esportes",
-    "tags": [
-      "golfe",
-      "torneio",
-      "Rio Preto",
-      "CBGolfe"
-    ],
-    "entidades": [
-      "CBGolfe"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "São José do Rio Preto"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/08/rio-preto-recebe-primeira-etapa-do-tour-profissional-cbgolfe-2026-nesta-semana.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-08-dolar-petroleo-oriente-medio",
-    "data": "2026-07-08",
-    "titulo": "Dólar abre em alta com atenção a petróleo e tensões no Oriente Médio",
-    "resumo": "O dólar abriu a sessão em alta nesta quarta-feira, com investidores atentos às tensões no Oriente Médio e ao preço do petróleo. A moeda americana avançou 0,57% e era cotada a R$ 5,1818. Enquanto isso, o Ibovespa, índice da bolsa brasileira, iniciou as negociações com cautela.",
-    "categoria": "economia",
-    "tags": [
-      "dólar",
-      "petróleo",
-      "Oriente Médio",
-      "economia"
+      "segurança",
+      "acidente",
+      "trânsito",
+      "manaus"
     ],
     "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/economia/noticia/2026/07/08/dolar-ibovespa.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-08-trump-iran-ceasefire",
-    "data": "2026-07-08",
-    "titulo": "Trump declara fim de cessar-fogo com o Irã e critica líderes iranianos",
-    "resumo": "O presidente dos Estados Unidos, Donald Trump, declarou que o cessar-fogo entre EUA e Irã está \"encerrado\", classificando os líderes iranianos como \"vermes\" e \"pessoas viciosas e violentas\". As hostilidades entre os dois países foram retomadas após o Irã acusar os EUA de violar o acordo. As declarações ocorreram em meio a uma cúpula da OTAN.",
-    "categoria": "internacional",
-    "tags": [
-      "Trump",
-      "Irã",
-      "cessar-fogo",
-      "hostilidades"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Donald Trump"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos",
-      "Irã"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/08/first-thing-trump-iran-leaders-scum-ceasefire-over"
-      },
-      {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/en/video/20260708-from-spain-trade-to-greenland-threats-key-points-from-trump-s-nato-comments"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-08-fraude-saude-mato-grosso-do-sul",
-    "data": "2026-07-08",
-    "titulo": "Fraude em MS: liberação de exames e cirurgias dependia de compra de livros",
-    "resumo": "Investigações no Mato Grosso do Sul apontam que a liberação de exames, cirurgias e vagas em hospitais da rede estadual estava condicionada à compra de livros vendidos por um grupo criminoso. O esquema é suspeito de ter desviado R$ 27 milhões em fraudes na compra de materiais. A Polícia Civil busca identificar todos os envolvidos e clientes.",
-    "categoria": "justica",
-    "tags": [
-      "fraude",
-      "saúde",
-      "Mato Grosso do Sul",
-      "medicamentos",
-      "investigação"
-    ],
-    "entidades": [
-      "Polícia Civil"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Mato Grosso do Sul"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/08/liberacao-de-exames-e-cirurgias-da-rede-estadual-dependia-da-compra-de-livros-vendidos-por-grupo-criminoso.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-08-pf-apreensao-drogas-amazonas",
-    "data": "2026-07-08",
-    "titulo": "Polícia apreende 1,5 tonelada de drogas e coletes em Manaus após troca de tiros",
-    "resumo": "Uma operação policial em Manaus, Amazonas, resultou na apreensão de mais de 1,5 tonelada de drogas e 60 coletes balísticos com símbolos da Polícia Civil. A ação ocorreu após uma troca de tiros entre suspeitos e policiais no bairro São Francisco. Um homem de 22 anos foi preso.",
-    "categoria": "seguranca",
-    "tags": [
-      "PF",
-      "apreensão",
-      "drogas",
-      "coletes",
-      "Manaus",
-      "Amazonas"
-    ],
-    "entidades": [
-      "Polícia Militar"
-    ],
     "pessoas": [],
     "estados": [
       "Amazonas"
@@ -773,32 +511,36 @@
     "paises": [
       "Brasil"
     ],
-    "importancia": 4,
+    "importancia": 2,
     "fontes": [
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/08/apos-troca-de-tiros-policia-apreende-15-tonelada-de-drogas-e-60-coletes-com-simbolos-da-policia-civil-no-am.ghtml"
+        "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/09/caminhao-com-conteiner-tomba-em-cruzamento-na-zona-norte-de-manaus-video.html"
       }
     ]
   },
   {
-    "id": "2026-07-08-omicidio-georgia-1985",
-    "data": "2026-07-08",
-    "titulo": "Análise forense moderna leva à prisão em caso de assassinato arquivado na Geórgia (EUA)",
-    "resumo": "Uma análise forense moderna de itens descartados levou à prisão de um suspeito em um caso de assassinato arquivado de 1985 na Geórgia, Estados Unidos. Os itens encontrados atrás de um restaurante Cracker Barrel foram analisados e resultaram em acusações relacionadas a um homicídio ocorrido na mesma época em Ohio. Investigações continuam para conectar os crimes.",
-    "categoria": "justica",
+    "id": "2026-07-09-politica-maine-democratas",
+    "data": "2026-07-09",
+    "titulo": "Democratas de Maine planejam convenção para substituir candidato atingido por escândalo",
+    "resumo": "Os Democratas de Maine estão planejando uma convenção para substituir o candidato Graham Platner, que renunciou após um escândalo. Platner acusou o partido e a mídia de agirem como \"juiz, júri e executor\". Republicanos escreveram uma carta à WNBA pedindo proteção para atletas.",
+    "categoria": "politica",
     "tags": [
-      "forense",
-      "assassinato",
-      "Geórgia",
-      "Ohio",
-      "prisão"
+      "politica",
+      "eleições",
+      "escândalo",
+      "maine"
     ],
-    "entidades": [],
-    "pessoas": [],
+    "entidades": [
+      "WNBA"
+    ],
+    "pessoas": [
+      "Graham Platner",
+      "Donald Trump",
+      "Mitch McConnell"
+    ],
     "estados": [
-      "Geórgia",
-      "Ohio"
+      "Maine"
     ],
     "cidades": [],
     "paises": [
@@ -807,8 +549,188 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/08/modern-forensic-evidence-1985-georgia-murder"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/live/2026/jul/09/donald-trump-graham-platner-mitch-mcconnell-iran-midterms-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-09-economia-leilao-rn",
+    "data": "2026-07-09",
+    "titulo": "Detran e Governo do RN realizam leilões de veículos com preços atrativos",
+    "resumo": "O Departamento de Trânsito do Rio Grande do Norte, em parceria com a Polícia Civil e a Secretaria de Estado da Administração, realizará leilões de veículos, sucatas e itens. Entre os destaques estão um Renegade a R$ 20 mil e um Ford Fiesta a R$ 8 mil.",
+    "categoria": "economia",
+    "tags": [
+      "economia",
+      "leilão",
+      "veículos",
+      "detran"
+    ],
+    "entidades": [
+      "Detran",
+      "Polícia Civil"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Rio Grande do Norte"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/09/leiloes-veiculos-rn-detran-governo.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-09-saude-apendicite",
+    "data": "2026-07-09",
+    "titulo": "Especialista explica riscos da apendicite e sua evolução para infecção generalizada",
+    "resumo": "Após a notícia da morte da cantora Bonnie Tyler, um especialista detalha como a apendicite pode perfurar o intestino e evoluir para uma infecção generalizada. A cantora faleceu aos 75 anos após complicações de uma apendicite rompida.",
+    "categoria": "saude",
+    "tags": [
+      "saúde",
+      "apendicite",
+      "infecção"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Bonnie Tyler"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Portugal"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/saude/noticia/2026/07/09/caso-bonnie-tyler-como-a-apendicite-pode-perfurar-o-intestino-e-evoluir-para-infeccao-generalizada.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-09-infraestrutura-ananindeua",
+    "data": "2026-07-09",
+    "titulo": "Cratera se abre em avenida de Ananindeua (PA), causando transtornos no trânsito",
+    "resumo": "Uma cratera se abriu na Avenida Independência, em Ananindeua, no Pará, afetando o trânsito local. O problema ocorreu em um trecho entre a rotatória do Curuçambá e a Avenida Zacarias de Assunção.",
+    "categoria": "infraestrutura",
+    "tags": [
+      "infraestrutura",
+      "cratera",
+      "trânsito",
+      "ananindeua"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Pará"
+    ],
+    "cidades": [
+      "Ananindeua"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pa/para/noticia/2026/07/09/cratera-se-abre-na-av-independencia-em-ananindeua-no-para.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-09-cultura-medico-tocantins",
+    "data": "2026-07-09",
+    "titulo": "Médico se emociona com homenagem de crianças em unidade de saúde no Tocantins",
+    "resumo": "Um médico se emocionou após receber uma homenagem surpresa de crianças em uma unidade de saúde rural em Peixe, no sul do Tocantins. A homenagem ocorreu meses após a despedida do profissional, que trabalhou por quatro anos na localidade.",
+    "categoria": "cultura",
+    "tags": [
+      "cultura",
+      "homenagem",
+      "medicina",
+      "tocantins"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Thiago de Moura Arruda"
+    ],
+    "estados": [
+      "Tocantins"
+    ],
+    "cidades": [
+      "Peixe"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/09/chorei-por-semanas-diz-medico-que-recebeu-homenagem-de-criancas-cantando-em-postinho-no-to.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-09-economia-azul-metas",
+    "data": "2026-07-09",
+    "titulo": "Azul estabelece meta de dívida líquida/Ebitda abaixo de 1,5 vez até 2029",
+    "resumo": "A companhia aérea Azul definiu a meta de manter a relação dívida líquida/Ebitda abaixo de 1,5 vez até 2029. A empresa também almeja um crescimento de mais de 150% em seu valor de mercado.",
+    "categoria": "economia",
+    "tags": [
+      "economia",
+      "aviação",
+      "finanças",
+      "azul"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/infra/azul-tem-meta-de-divida-liquida-ebitda-abaixo-de-15-vez-ate-2029/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-09-economia-reforma-tributaria",
+    "data": "2026-07-09",
+    "titulo": "Economistas propõem reforma fiscal radical com fim do imposto de renda e INSS",
+    "resumo": "Economistas, incluindo Jim O’Neill, enviaram uma carta aberta propondo uma reforma fiscal radical que substituiria seis impostos chave por um único tributo. A proposta visa arrecadar fundos para serviços públicos e inclui o fim do imposto de renda e da contribuição nacional de seguro.",
+    "categoria": "economia",
+    "tags": [
+      "economia",
+      "reforma tributária",
+      "impostos"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Andy Burnham",
+      "Jim O’Neill"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/jul/09/andy-burnham-scrap-income-tax-national-insurance-fiscal-overhaul"
       }
     ]
   }
