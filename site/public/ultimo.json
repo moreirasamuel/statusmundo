@@ -1,119 +1,504 @@
 [
   {
-    "id": "2026-07-09-conflito-ira-eua",
-    "data": "2026-07-09",
-    "titulo": "Escalada de tensões entre Irã e Estados Unidos com trocas de ataques",
-    "resumo": "O Irã lançou novos ataques após acusar os Estados Unidos de bombardearem áreas próximas a uma planta nuclear. Centcom relatou ter atingido 90 alvos iranianos nas últimas ações. O Ministério da Saúde iraniano informou 14 mortes desde terça-feira. O Irã e os EUA trocaram fogo, com a mídia iraniana reportando ataques perto da instalação em Bushehr.",
-    "categoria": "internacional",
+    "id": "2026-07-10-desmatamento-amazonia",
+    "data": "2026-07-10",
+    "titulo": "Amazônia registra menor nível de alertas de desmatamento em uma década",
+    "resumo": "A Amazônia apresentou no primeiro semestre de 2026 o menor índice de alertas de desmatamento detectados por satélite em dez anos. Os dados são do sistema Deter, do Inpe. A redução marca um ponto positivo em relação à proteção ambiental.",
+    "categoria": "meio-ambiente",
     "tags": [
-      "conflito",
-      "ataques",
-      "iran",
-      "eua",
-      "nucleares"
+      "desmatamento",
+      "amazônia",
+      "inpe",
+      "sustentabilidade"
     ],
     "entidades": [
-      "Centcom",
-      "Ministério da Saúde iraniano"
+      "Inpe",
+      "Deter"
     ],
-    "pessoas": [
-      "Donald Trump"
-    ],
+    "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Irã",
-      "Estados Unidos",
-      "Kuwait"
-    ],
-    "importancia": 5,
-    "fontes": [
-      {
-        "nome": "cnnbrasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/analise-trump-tem-poucas-opcoes-em-relacao-ao-ira-e-todas-sao-ruins/"
-      },
-      {
-        "nome": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jul/09/iran-us-middle-east-strikes-centcom-bahrain-kuwait-qatar-strait-of-hormuz-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-09-politica-reino-unido",
-    "data": "2026-07-09",
-    "titulo": "Escândalo financeiro e movimentações políticas do Reform UK no Reino Unido",
-    "resumo": "O partido Reform UK enfrenta escrutínio crescente sobre suas finanças, com questionamentos sobre a origem de doações e empréstimos. Ativistas do partido foram instruídos a focar na disputa eleitoral de Nigel Farage em Clacton, desviando o foco de Manchester. Nigel Farage lançou um ataque preventivo ao comitê de padrões da Câmara dos Comuns, alegando que não será julgado de forma justa.",
-    "categoria": "politica",
-    "tags": [
-      "politica",
-      "reino unido",
-      "finanças",
-      "eleições"
-    ],
-    "entidades": [
-      "Reform UK",
-      "Câmara dos Comuns"
-    ],
-    "pessoas": [
-      "Nigel Farage"
-    ],
-    "estados": [],
-    "cidades": [
-      "Manchester",
-      "Clacton"
-    ],
-    "paises": [
-      "Reino Unido"
+      "Brasil"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/2026/jul/09/five-pressing-questions-farage-reform-uk-finances"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/2026/jul/09/reform-activists-manchester-farage-clacton-byelection-contest"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/09/andy-burnham-keir-starmer-labour-nigel-farage-binface-reform-latest-news-updates"
+        "nome": "G1",
+        "url": "https://g1.globo.com/meio-ambiente/noticia/2026/07/10/amazonia-tem-menor-nivel-de-alertas-de-desmatamento-para-o-1o-semestre-em-uma-decada.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-09-cultura-eventos-brasil",
-    "data": "2026-07-09",
-    "titulo": "Exposições e eventos culturais em São Paulo e Feira de Santana",
-    "resumo": "A sambista Alcione inaugurou uma exposição em São Paulo celebrando seus 50 anos de carreira no Museu das Favelas. Em Feira de Santana, a 19ª edição do Flifs apresenta destaques como a escritora Thalita Rebouças, o jornalista Xico Sá, o sociólogo Jessé Souza e a cantora Agnes Nunes.",
-    "categoria": "cultura",
+    "id": "2026-07-10-esportes-copa-mundial",
+    "data": "2026-07-10",
+    "titulo": "Jogos das quartas de final da Copa do Mundo e descanso de jogadores",
+    "resumo": "Notícias sobre os jogos das quartas de final da Copa do Mundo, com destaque para o confronto entre Espanha e Bélgica. Jogadores da Seleção Brasileira aproveitaram para descansar nos Estados Unidos após a eliminação. O confronto entre Noruega e Inglaterra também foi mencionado.",
+    "categoria": "esportes",
     "tags": [
-      "cultura",
-      "exposições",
-      "música",
-      "literatura"
+      "futebol",
+      "copa do mundo",
+      "espanha",
+      "belgica",
+      "noruega",
+      "inglaterra"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Erling Haaland",
+      "Harry Kane"
+    ],
+    "estados": [],
+    "cidades": [
+      "Miami"
+    ],
+    "paises": [
+      "Espanha",
+      "Bélgica",
+      "Brasil",
+      "Estados Unidos",
+      "Noruega",
+      "Inglaterra"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/espanha-x-belgica-quem-esta-pendurado-nas-quartas-da-copa/"
+      },
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/disney-e-mais-o-descanso-dos-jogadores-da-selecao-apos-eliminacao-na-copa/"
+      },
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/7/10/norway-vs-england-world-cup-quarterfinal-haaland-kane-prediction-news?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-10-seguranca-violencia-genero",
+    "data": "2026-07-10",
+    "titulo": "Ações contra violência de gênero e feminicídio em Pernambuco e Paraíba",
+    "resumo": "Uma lei na Paraíba incluiu órfãos de feminicídio no programa 'Paraíba que Acolhe', visando oferecer suporte a crianças e jovens. O Ministério Público da Paraíba também recomendou ações de conscientização sobre violência de gênero em escolas. Em Pernambuco, um homem foi preso suspeito de matar a companheira em Capoeiras.",
+    "categoria": "seguranca",
+    "tags": [
+      "feminicídio",
+      "violência de gênero",
+      "órfãos",
+      "escolas",
+      "prisão"
     ],
     "entidades": [
-      "Museu das Favelas",
-      "Flifs"
+      "Ministério Público da Paraíba"
     ],
     "pessoas": [
-      "Alcione",
-      "Thalita Rebouças",
-      "Xico Sá",
-      "Jessé Souza",
-      "Agnes Nunes"
+      "Rafaela Gonçalves da Silva",
+      "Pedro Macena"
     ],
     "estados": [
-      "São Paulo",
+      "Paraíba",
+      "Pernambuco"
+    ],
+    "cidades": [
+      "Capoeiras"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/10/lei-inclui-orfaos-por-feminicidio-no-programa-paraiba-que-acolhe.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/07/10/policia-civil-prende-suspeito-de-matar-companheira-com-tiros-dentro-de-casa-em-capoeiras.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/10/mp-recomenda-acoes-de-conscientizacao-contra-violencia-de-genero-em-escolas-de-sete-municipios-da-pb.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-10-economia-ipo",
+    "data": "2026-07-10",
+    "titulo": "SK Hynix realiza um dos maiores IPOs da história em Wall Street",
+    "resumo": "A empresa sul-coreana de semicondutores SK Hynix estreou na bolsa de valores de Wall Street com uma oferta pública inicial (IPO) de US$ 26,5 bilhões. Este movimento é considerado um dos maiores IPOs estrangeiros nos EUA e um teste para o setor de inteligência artificial.",
+    "categoria": "economia",
+    "tags": [
+      "ipo",
+      "wall street",
+      "tecnologia",
+      "semicondutores",
+      "inteligência artificial"
+    ],
+    "entidades": [
+      "SK Hynix"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Coreia do Sul",
+      "Estados Unidos"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/negocios/sk-hynix-sul-coreana-estreia-em-wall-street-com-2o-maior-ipo-da-historia/"
+      },
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/mercado/sk-hynix-faz-maior-ipo-estrangeiro-nos-eua-em-teste-para-setor-de-ia/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-10-justica-bolsonaro",
+    "data": "2026-07-10",
+    "titulo": "TSE bloqueia contas de ex-esposa de Bolsonaro",
+    "resumo": "O Tribunal Superior Eleitoral (TSE) determinou o bloqueio das contas de Ana Cristina Valle, ex-esposa do ex-presidente Jair Bolsonaro. A medida se deu devido à falha na prestação de contas referente aos gastos de sua campanha eleitoral em 2022, quando concorreu a deputada distrital.",
+    "categoria": "justica",
+    "tags": [
+      "tse",
+      "bolsonaro",
+      "campanha eleitoral",
+      "prestação de contas"
+    ],
+    "entidades": [
+      "TSE"
+    ],
+    "pessoas": [
+      "Ana Cristina Valle",
+      "Jair Bolsonaro"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/tse-bloqueia-contas-de-ex-esposa-de-bolsonaro/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-10-meio-ambiente-deslizamentos-asia",
+    "data": "2026-07-10",
+    "titulo": "Deslizamentos nas Filipinas e tufão Bavi ameaçam a Ásia",
+    "resumo": "Deslizamentos de terra nas Filipinas causaram a morte de pelo menos 15 pessoas. O tufão Bavi está intensificando as chuvas sazonais na região, representando uma ameaça crescente enquanto se dirige para Taiwan e China. As condições climáticas adversas impactam diversas áreas.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "tufão",
+      "deslizamentos",
+      "chuvas",
+      "clima",
+      "desastres naturais"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Filipinas",
+      "Taiwan",
+      "China"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-10-cultura-festivais-musica",
+    "data": "2026-07-10",
+    "titulo": "Festival na Bahia anuncia lineup com Seu Jorge e outros artistas",
+    "resumo": "O Cidade Jardim Festival, que ocorrerá em uma cidade na Bahia, divulgou sua programação com shows de Seu Jorge, Arnaldo Antunes, BaianaSystem e Edson Gomes. O evento promete diversidade musical para o público.",
+    "categoria": "cultura",
+    "tags": [
+      "festival",
+      "música",
+      "shows",
+      "atrações"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Seu Jorge",
+      "Arnaldo Antunes",
+      "BaianaSystem",
+      "Edson Gomes"
+    ],
+    "estados": [
+      "Bahia"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/10/evento-gratuito-bahia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-10-seguranca-prisao-trafico",
+    "data": "2026-07-10",
+    "titulo": "Mulher foragida por tráfico de drogas é presa no Pará",
+    "resumo": "Uma mulher procurada pela Justiça pelo crime de tráfico de drogas foi detida pela Polícia Rodoviária Federal em Santarém, no Pará. Ela foi encontrada dentro de um ônibus e conduzida à Delegacia de Polícia Civil.",
+    "categoria": "seguranca",
+    "tags": [
+      "prisão",
+      "tráfico de drogas",
+      "foragida",
+      "polícia"
+    ],
+    "entidades": [
+      "Polícia Rodoviária Federal",
+      "Polícia Civil"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Pará"
+    ],
+    "cidades": [
+      "Santarém"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/10/mulher-procurada-por-trafico-e-presa-dentro-de-onibus-na-br-163-em-santarem-no-para.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-10-seguranca-homicidio-sp",
+    "data": "2026-07-10",
+    "titulo": "Foragido por homicídio é preso em bar clandestino no interior de SP",
+    "resumo": "Um homem de 30 anos, foragido da Justiça pelo crime de homicídio, foi capturado em um bar clandestino em Presidente Prudente, interior de São Paulo. Um revólver calibre 38 com munições foi apreendido com ele.",
+    "categoria": "seguranca",
+    "tags": [
+      "homicídio",
+      "prisão",
+      "foragido",
+      "arma de fogo",
+      "polícia"
+    ],
+    "entidades": [
+      "Polícia Civil"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Presidente Prudente"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/07/10/foragido-por-homicidio-e-capturado-armado-no-interior-de-sp.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-10-economia-negocios-raizen",
+    "data": "2026-07-10",
+    "titulo": "Cade aprova venda de ativos da Raízen Energia para Mercuria Energy Group",
+    "resumo": "O Conselho Administrativo de Defesa Econômica (Cade) aprovou a venda de ativos da Raízen Energia para o Mercuria Energy Group. A operação está alinhada à estratégia da Raízen de redução de endividamento.",
+    "categoria": "economia",
+    "tags": [
+      "cade",
+      "fusão e aquisição",
+      "energia",
+      "mercado financeiro"
+    ],
+    "entidades": [
+      "Cade",
+      "Raízen Energia",
+      "Mercuria Energy Group"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/agro/cade-aprova-venda-de-ativos-da-raizen-energia-para-mercuria-energy-group/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-10-internacional-acidente-aereo",
+    "data": "2026-07-10",
+    "titulo": "Passageiro quase é sugado para fora de avião da Ryanair após janela estilhaçar",
+    "resumo": "Um passageiro de um voo da Ryanair esteve perto de ser sugado para fora da aeronave quando uma janela se estilhaçou em pleno ar. O incidente ocorreu durante um voo vindo da Grécia. O homem foi salvo pela esposa.",
+    "categoria": "internacional",
+    "tags": [
+      "acidente aéreo",
+      "ryanair",
+      "incidente",
+      "voo"
+    ],
+    "entidades": [
+      "Ryanair"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Grécia"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/jul/10/ryanair-passenger-almost-sucked-out-of-shattered-window-during-flight"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-10-politica-prestacao-contas",
+    "data": "2026-07-10",
+    "titulo": "Homem desaparecido é encontrado morto em cova rasa no Maranhão",
+    "resumo": "O corpo de Francisco Sousa Silva, desaparecido, foi encontrado enterrado em uma cova rasa em uma área de mata na cidade de Santa Inês, Maranhão. A Polícia Civil está investigando o caso.",
+    "categoria": "seguranca",
+    "tags": [
+      "homicídio",
+      "desaparecido",
+      "cova rasa",
+      "investigação",
+      "polícia"
+    ],
+    "entidades": [
+      "Polícia Civil"
+    ],
+    "pessoas": [
+      "Francisco Sousa Silva"
+    ],
+    "estados": [
+      "Maranhão"
+    ],
+    "cidades": [
+      "Santa Inês"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/10/homem-que-estava-desaparecido-e-encontrado-enterrado-em-cova-rasa-em-area-de-mata-em-santa-ines.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-10-justica-corrupcao",
+    "data": "2026-07-10",
+    "titulo": "Mulher flagrada com R$ 500 mil é presa em investigação de desvio milionário",
+    "resumo": "Uma mulher conhecida como 'Mulher da mala', flagrada com R$ 500 mil em espécie em Teresópolis, foi presa em uma operação que apura um esquema milionário de corrupção. A investigação envolve um ex-fiscal da cidade.",
+    "categoria": "justica",
+    "tags": [
+      "corrupção",
+      "prisão",
+      "desvio de dinheiro",
+      "investigação"
+    ],
+    "entidades": [
+      "Ministério Público"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Teresópolis"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/07/10/mulher-da-mala-suspeita-de-sacar-r-500-mil-em-teresopolis-e-presa-em-investigacao-de-desvio-milionario.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-10-esportes-volei-feminino",
+    "data": "2026-07-10",
+    "titulo": "Brasil vence Polônia e assume liderança da Liga das Nações de Vôlei Feminino",
+    "resumo": "A seleção brasileira de vôlei feminino derrotou a Polônia e assumiu a liderança da Liga das Nações (VNL). A vitória ocorreu em Osaka e coloca a equipe sob o comando de José Roberto Guimarães no topo da competição.",
+    "categoria": "esportes",
+    "tags": [
+      "vôlei",
+      "liga das nações",
+      "seleção brasileira"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "José Roberto Guimarães"
+    ],
+    "estados": [],
+    "cidades": [
+      "Osaka"
+    ],
+    "paises": [
+      "Brasil",
+      "Polônia"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/volei/brasil-vence-polonia-e-assume-lideranca-da-liga-das-nacoes-feminina/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-10-seguranca-homicidio-bahia",
+    "data": "2026-07-10",
+    "titulo": "Paciente é retirado de policlínica e morto a tiros na Bahia",
+    "resumo": "Um jovem de 20 anos foi assassinado a tiros após ser retirado à força de uma policlínica em Feira de Santana, na Bahia. Câmeras de segurança registraram o crime, que está sob investigação.",
+    "categoria": "seguranca",
+    "tags": [
+      "homicídio",
+      "violência",
+      "câmeras de segurança",
+      "investigação"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
       "Bahia"
     ],
     "cidades": [
-      "São Paulo",
       "Feira de Santana"
     ],
     "paises": [
@@ -122,425 +507,30 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "cnnbrasil",
-        "url": "https://www.cnnbrasil.com.br/pop/celebridades/alcione-estreia-exposicao-em-sao-paulo-veja-fotos/"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/09/flifs-feira-de-santana.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/10/jovem-morto-tiros-feira.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-09-justica-crimes-brasil",
-    "data": "2026-07-09",
-    "titulo": "Condenações e prisões relacionadas a crimes graves em diferentes estados do Brasil",
-    "resumo": "Um homem foi condenado a 22 anos de prisão pelo envolvimento na morte do ator Jeff Machado. Um suspeito de uma série de estupros foi preso em Pernambuco após investigação de roupas usadas nos crimes. Em Rondônia, dois servidores foram presos e 11 afastados em uma operação que investiga \"rachadinha\" na Assembleia Legislativa.",
+    "id": "2026-07-10-justica-homicidio-eua",
+    "data": "2026-07-10",
+    "titulo": "Juiz decidirá se caso de Charlie Kirk irá a julgamento por homicídio",
+    "resumo": "Um juiz avaliará se o caso contra Tyler James Robinson, acusado do assassinato do ativista de extrema direita Charlie Kirk, avançará para julgamento. A decisão ocorrerá após uma audiência preliminar de cinco dias.",
     "categoria": "justica",
     "tags": [
-      "justiça",
-      "crime",
-      "prisão",
-      "condenação"
+      "homicídio",
+      "julgamento",
+      "ativismo",
+      "política"
     ],
     "entidades": [],
     "pessoas": [
-      "Jeff Machado",
-      "Jeander Vinícius da Silva Braga",
-      "André de Almeida Godoi"
+      "Charlie Kirk",
+      "Tyler James Robinson"
     ],
     "estados": [
-      "Santa Catarina",
-      "Pernambuco",
-      "Rondônia"
-    ],
-    "cidades": [
-      "Caetés"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/09/mae-de-jeff-machado-desabafa-apos-condenacao-de-1a-acusado-da-morte-do-filho-missao-cumprida.html"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/07/09/suspeito-de-serie-de-estupros-e-preso-em-caetes-apos-investigacao-identificar-roupas-usadas-nos-crimes.html"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/ro/rondonia/noticia/2026/07/09/servidores-sao-presos-e-afastados-em-operacao-na-ale-ro-que-investiga-rachadinha.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-09-clima-temperaturas-extremo",
-    "data": "2026-07-09",
-    "titulo": "Onda de calor atinge a Europa com recordes de temperatura e paralisação de reator nuclear",
-    "resumo": "Barcelona registrou a temperatura mais alta em 112 anos durante uma onda de calor que afetou a Europa. Um reator nuclear na França foi desligado devido ao calor extremo. Algumas estações na Espanha registraram até 44°C após um junho recorde na Europa Ocidental. Um alerta de alta temperatura foi emitido para condados na República da Irlanda.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "clima",
-      "calor",
-      "recorde",
-      "onda de calor",
-      "nuclear"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Barcelona"
-    ],
-    "paises": [
-      "Espanha",
-      "França",
-      "Irlanda"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jul/09/europe-heatwave-uk-spain-barcelona-france-italy-hungary-france-macron-orban-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-09-seguranca-violencia-chad",
-    "data": "2026-07-09",
-    "titulo": "Aumento da violência intercomunitária no Chade e surgimento de movimentos semelhantes a milícias",
-    "resumo": "O Chade tem testemunhado um aumento significativo na violência intercomunitária, com autoridades registrando cinco incidentes no último mês, resultando em mais de 300 mortes em dois anos. A ONU alertou para a escalada da violência em toda a bacia do Lago Chade, com 5.700 mortes desde novembro passado.",
-    "categoria": "seguranca",
-    "tags": [
-      "segurança",
-      "violência",
-      "chade",
-      "conflito intercomunitário"
-    ],
-    "entidades": [
-      "ONU"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Chade"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/militia-like-movements-appear-in-chad-amid-surge-in-intercommunal-violence"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-09-economia-juros-eua",
-    "data": "2026-07-09",
-    "titulo": "Especialista avalia futuro da taxa de juros nos EUA em meio à inflação",
-    "resumo": "Um especialista analisa o cenário econômico americano após a divulgação da ata do banco central dos EUA. A discussão gira em torno do futuro da taxa de juros no país, com a inflação sendo um fator relevante no radar.",
-    "categoria": "economia",
-    "tags": [
-      "economia",
-      "juros",
-      "inflação",
-      "eua"
-    ],
-    "entidades": [
-      "Banco Central dos EUA"
-    ],
-    "pessoas": [
-      "Gilvan Bueno"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "cnnbrasil",
-        "url": "https://www.cnnbrasil.com.br/economia/especialista-avalia-futuro-da-taxa-de-juros-nos-eua-com-inflacao-no-radar/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-09-justica-doacao-orgaos-rs",
-    "data": "2026-07-09",
-    "titulo": "Órgãos de menino espancado no RS são doados; pai missionário americano é preso",
-    "resumo": "Os órgãos do menino Oliver Golden Grayson, de 3 anos, que morreu após ser espancado pelo pai, foram doados. O pai, missionário nos EUA, confessou o crime e foi preso no Rio Grande do Sul. A agressão teria ocorrido porque a criança não deu 'bom dia' ao pai.",
-    "categoria": "justica",
-    "tags": [
-      "justiça",
-      "morte",
-      "espancamento",
-      "doação de órgãos"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Oliver Golden Grayson"
-    ],
-    "estados": [
-      "Rio Grande do Sul"
-    ],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos",
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/09/orgaos-de-menino-de-3-anos-que-morreu-apos-ser-espancado-pelo-pai-sao-doados.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-09-esportes-franca-copa",
-    "data": "2026-07-09",
-    "titulo": "Kylian Mbappé brilha na Copa do Mundo e recupera admiração",
-    "resumo": "Kylian Mbappé, capitão da França, está tendo uma performance espetacular na Copa do Mundo, marcando sete gols e quebrando recordes. Sua atuação fez com que críticos anteriores pedissem perdão e reconhecessem seu talento, mesmo com a mudança de clube para Madrid.",
-    "categoria": "esportes",
-    "tags": [
-      "esportes",
-      "futebol",
-      "copa do mundo",
-      "mbappé"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Kylian Mbappé"
-    ],
-    "estados": [],
-    "cidades": [
-      "Paris",
-      "Madrid"
-    ],
-    "paises": [
-      "França"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/video/20260709-kylian-forgive-us-how-the-world-cup-turned-mbapp%C3%A9-s-reputation-around"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-09-meio-ambiente-mauritania",
-    "data": "2026-07-09",
-    "titulo": "Patrimônio pesqueiro da Mauritânia ameaçado por mudanças climáticas e sobrepesca",
-    "resumo": "O patrimônio pesqueiro da Mauritânia, baseado em métodos tradicionais e embarcações a vento, está sob ameaça. As mudanças climáticas, a sobrepesca e a perda gradual de conhecimento ancestral colocam em risco os meios de subsistência e um ecossistema único.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "meio ambiente",
-      "pesca",
-      "mudanças climáticas",
-      "sobrepesca"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Imraguen"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Mauritânia"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "france24.com",
-        "url": "https://www.france24.com/video/20260709-mauritania-s-fishing-heritage-threatened-by-climate-change-and-overfishing"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-09-transporte-uberlandia",
-    "data": "2026-07-09",
-    "titulo": "Nova linha de ônibus atende terminal do Aeroporto de Uberlândia",
-    "resumo": "Uma nova linha de transporte coletivo passa a atender os usuários do novo terminal do Aeroporto Tenente-Coronel Aviador César Bombonato, em Uberlândia. A mudança ocorre após a alteração do acesso principal à estrutura aeroportuária.",
-    "categoria": "economia",
-    "tags": [
-      "transporte",
-      "aeroporto",
-      "ônibus",
-      "uberlândia"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Uberlândia"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/09/linha-de-onibus-passa-a-atender-novo-terminal-do-aeroporto-de-uberlandia.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-09-cultura-musica-argentina",
-    "data": "2026-07-09",
-    "titulo": "Música de Bonnie Tyler embalou título da Argentina na Copa de 1986",
-    "resumo": "A canção \"Holding Out for a Hero\" de Bonnie Tyler é lembrada por ter embalado o título da Argentina na Copa do Mundo de 1986. A cantora, que faleceu aos 75 anos, teve sua música associada a um momento marcante do futebol argentino.",
-    "categoria": "cultura",
-    "tags": [
-      "cultura",
-      "música",
-      "futebol",
-      "copa do mundo"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Bonnie Tyler"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Argentina"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "cnnbrasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/cancao-de-bonnie-tyler-embalou-titulo-da-argentina-na-copa-de-1986/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-09-justica-acidente-natal",
-    "data": "2026-07-09",
-    "titulo": "Motorista condenado por fugir de acidente e tentar enganar a PRF com irmão gêmeo",
-    "resumo": "Um motorista foi condenado a pagar mais de R$ 11 mil em indenizações após causar um acidente de trânsito, fugir do local e enviar o irmão gêmeo para tentar enganar a Polícia Rodoviária Federal. O caso ocorreu na BR-101, em Natal.",
-    "categoria": "justica",
-    "tags": [
-      "justiça",
-      "acidente",
-      "fraude",
-      "prf"
-    ],
-    "entidades": [
-      "PRF"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Rio Grande do Norte"
-    ],
-    "cidades": [
-      "Natal"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/09/homem-foge-apos-acidente-em-natal-e-envia-irmao-gemeo-para-tentar-enganar-a-prf-motorista-foi-condenado.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-09-seguranca-incendio-iracemapolis",
-    "data": "2026-07-09",
-    "titulo": "Homem com deficiência é resgatado de incêndio em residência em Iracemápolis",
-    "resumo": "Um homem com deficiência física foi resgatado de um incêndio em uma residência em Iracemápolis, interior de São Paulo. A ocorrência mobilizou equipes policiais e o Corpo de Bombeiros na madrugada de terça-feira.",
-    "categoria": "seguranca",
-    "tags": [
-      "segurança",
-      "incêndio",
-      "resgate",
-      "iracemápolis"
-    ],
-    "entidades": [
-      "Corpo de Bombeiros",
-      "Polícia Militar"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Iracemápolis"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/09/homem-e-resgatado-de-incendio-em-casa-em-iracemapolis.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-09-seguranca-transito-manaus",
-    "data": "2026-07-09",
-    "titulo": "Caminhão com contêiner tomba em cruzamento na Zona Norte de Manaus",
-    "resumo": "Um caminhão que transportava um contêiner tombou em um cruzamento na Zona Norte de Manaus. O incidente ocorreu na manhã desta quinta-feira (9) no bairro Nova Cidade. Não havia registro de feridos até a última atualização.",
-    "categoria": "seguranca",
-    "tags": [
-      "segurança",
-      "acidente",
-      "trânsito",
-      "manaus"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Amazonas"
-    ],
-    "cidades": [
-      "Manaus"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/09/caminhao-com-conteiner-tomba-em-cruzamento-na-zona-norte-de-manaus-video.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-09-politica-maine-democratas",
-    "data": "2026-07-09",
-    "titulo": "Democratas de Maine planejam convenção para substituir candidato atingido por escândalo",
-    "resumo": "Os Democratas de Maine estão planejando uma convenção para substituir o candidato Graham Platner, que renunciou após um escândalo. Platner acusou o partido e a mídia de agirem como \"juiz, júri e executor\". Republicanos escreveram uma carta à WNBA pedindo proteção para atletas.",
-    "categoria": "politica",
-    "tags": [
-      "politica",
-      "eleições",
-      "escândalo",
-      "maine"
-    ],
-    "entidades": [
-      "WNBA"
-    ],
-    "pessoas": [
-      "Graham Platner",
-      "Donald Trump",
-      "Mitch McConnell"
-    ],
-    "estados": [
-      "Maine"
+      "Utah"
     ],
     "cidades": [],
     "paises": [
@@ -550,177 +540,90 @@
     "fontes": [
       {
         "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/live/2026/jul/09/donald-trump-graham-platner-mitch-mcconnell-iran-midterms-latest-news-updates"
+        "url": "https://www.theguardian.com/us-news/2026/jul/10/charlie-kirk-shooting-hearing"
       }
     ]
   },
   {
-    "id": "2026-07-09-economia-leilao-rn",
-    "data": "2026-07-09",
-    "titulo": "Detran e Governo do RN realizam leilões de veículos com preços atrativos",
-    "resumo": "O Departamento de Trânsito do Rio Grande do Norte, em parceria com a Polícia Civil e a Secretaria de Estado da Administração, realizará leilões de veículos, sucatas e itens. Entre os destaques estão um Renegade a R$ 20 mil e um Ford Fiesta a R$ 8 mil.",
-    "categoria": "economia",
-    "tags": [
-      "economia",
-      "leilão",
-      "veículos",
-      "detran"
-    ],
-    "entidades": [
-      "Detran",
-      "Polícia Civil"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Rio Grande do Norte"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/09/leiloes-veiculos-rn-detran-governo.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-09-saude-apendicite",
-    "data": "2026-07-09",
-    "titulo": "Especialista explica riscos da apendicite e sua evolução para infecção generalizada",
-    "resumo": "Após a notícia da morte da cantora Bonnie Tyler, um especialista detalha como a apendicite pode perfurar o intestino e evoluir para uma infecção generalizada. A cantora faleceu aos 75 anos após complicações de uma apendicite rompida.",
-    "categoria": "saude",
-    "tags": [
-      "saúde",
-      "apendicite",
-      "infecção"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Bonnie Tyler"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Portugal"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/saude/noticia/2026/07/09/caso-bonnie-tyler-como-a-apendicite-pode-perfurar-o-intestino-e-evoluir-para-infeccao-generalizada.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-09-infraestrutura-ananindeua",
-    "data": "2026-07-09",
-    "titulo": "Cratera se abre em avenida de Ananindeua (PA), causando transtornos no trânsito",
-    "resumo": "Uma cratera se abriu na Avenida Independência, em Ananindeua, no Pará, afetando o trânsito local. O problema ocorreu em um trecho entre a rotatória do Curuçambá e a Avenida Zacarias de Assunção.",
+    "id": "2026-07-10-infraestrutura-rodovia",
+    "data": "2026-07-10",
+    "titulo": "Cratera interdita trecho da BR-324 e causa congestionamento",
+    "resumo": "Um trecho da BR-324 permanece interditado devido à abertura de uma cratera, causando um congestionamento de aproximadamente 4 quilômetros. O incidente ocorreu em Simões Filho, na Região Metropolitana de Salvador.",
     "categoria": "infraestrutura",
     "tags": [
-      "infraestrutura",
+      "rodovia",
+      "interdição",
       "cratera",
-      "trânsito",
-      "ananindeua"
+      "congestionamento"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [
-      "Pará"
+      "Bahia"
     ],
     "cidades": [
-      "Ananindeua"
+      "Simões Filho",
+      "Salvador"
     ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pa/para/noticia/2026/07/09/cratera-se-abre-na-av-independencia-em-ananindeua-no-para.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-09-cultura-medico-tocantins",
-    "data": "2026-07-09",
-    "titulo": "Médico se emociona com homenagem de crianças em unidade de saúde no Tocantins",
-    "resumo": "Um médico se emocionou após receber uma homenagem surpresa de crianças em uma unidade de saúde rural em Peixe, no sul do Tocantins. A homenagem ocorreu meses após a despedida do profissional, que trabalhou por quatro anos na localidade.",
-    "categoria": "cultura",
-    "tags": [
-      "cultura",
-      "homenagem",
-      "medicina",
-      "tocantins"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Thiago de Moura Arruda"
-    ],
-    "estados": [
-      "Tocantins"
-    ],
-    "cidades": [
-      "Peixe"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/09/chorei-por-semanas-diz-medico-que-recebeu-homenagem-de-criancas-cantando-em-postinho-no-to.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-09-economia-azul-metas",
-    "data": "2026-07-09",
-    "titulo": "Azul estabelece meta de dívida líquida/Ebitda abaixo de 1,5 vez até 2029",
-    "resumo": "A companhia aérea Azul definiu a meta de manter a relação dívida líquida/Ebitda abaixo de 1,5 vez até 2029. A empresa também almeja um crescimento de mais de 150% em seu valor de mercado.",
-    "categoria": "economia",
-    "tags": [
-      "economia",
-      "aviação",
-      "finanças",
-      "azul"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
     "paises": [
       "Brasil"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "cnnbrasil",
-        "url": "https://www.cnnbrasil.com.br/infra/azul-tem-meta-de-divida-liquida-ebitda-abaixo-de-15-vez-ate-2029/"
+        "nome": "G1",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/07/10/cratera-mantem-trecho-da-br-324-interditado-e-provoca-congestionamento.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-09-economia-reforma-tributaria",
-    "data": "2026-07-09",
-    "titulo": "Economistas propõem reforma fiscal radical com fim do imposto de renda e INSS",
-    "resumo": "Economistas, incluindo Jim O’Neill, enviaram uma carta aberta propondo uma reforma fiscal radical que substituiria seis impostos chave por um único tributo. A proposta visa arrecadar fundos para serviços públicos e inclui o fim do imposto de renda e da contribuição nacional de seguro.",
-    "categoria": "economia",
+    "id": "2026-07-10-cultura-musica-final-copa",
+    "data": "2026-07-10",
+    "titulo": "Namorada de Lamine Yamal faz apelo após anúncio de Justin Bieber na final da Copa",
+    "resumo": "A namorada do jogador Lamine Yamal fez um apelo para que ele consiga chegar à final da Copa do Mundo, após o anúncio de Justin Bieber como atração do show do intervalo. O desejo é que o jogador esteja presente no evento.",
+    "categoria": "cultura",
     "tags": [
-      "economia",
-      "reforma tributária",
-      "impostos"
+      "música",
+      "copa do mundo",
+      "show",
+      "show do intervalo",
+      "futebol"
     ],
     "entidades": [],
     "pessoas": [
-      "Andy Burnham",
-      "Jim O’Neill"
+      "Lamine Yamal",
+      "Justin Bieber"
     ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Espanha"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pop-arte/noticia/2026/07/10/namorada-de-lamine-yamal-faz-apelo-apos-justin-bieber-ser-anunciado-na-final-da-copa-faca-o-que-for-para-chegar.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-10-economia-fusao-media",
+    "data": "2026-07-10",
+    "titulo": "Fusão Paramount-Warner pode remodelar a indústria da mídia",
+    "resumo": "A possível fusão entre a Paramount e a Warner está em discussão, com o Reino Unido considerando intervir devido a preocupações com a pluralidade da mídia. O acordo pode ter um impacto significativo na configuração do setor.",
+    "categoria": "economia",
+    "tags": [
+      "fusão",
+      "mídia",
+      "entretenimento",
+      "negócios"
+    ],
+    "entidades": [
+      "Paramount",
+      "Warner"
+    ],
+    "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
@@ -729,8 +632,170 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/business/2026/jul/09/andy-burnham-scrap-income-tax-national-insurance-fiscal-overhaul"
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/paramount-warner-merger-could-it-reshape-the-media?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-10-seguranca-violencia-domestica",
+    "data": "2026-07-10",
+    "titulo": "Irmãos mortos após perseguição e confronto são sepultados em Sorocaba",
+    "resumo": "Dois irmãos, de 24 e 28 anos, morreram após serem baleados por policiais militares em Sorocaba, interior de São Paulo. O incidente ocorreu durante uma abordagem que evoluiu para perseguição e confronto. Os corpos foram sepultados.",
+    "categoria": "seguranca",
+    "tags": [
+      "violência policial",
+      "confronto",
+      "perseguição",
+      "morte",
+      "polícia"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Sorocaba"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/10/irmaos-mortos-apos-perseguicao-e-confronto-sao-sepultados-em-sorocaba.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-10-inovacao-startups",
+    "data": "2026-07-10",
+    "titulo": "Startups do Amapá apresentarão soluções em evento de inovação em SC",
+    "resumo": "Treze startups do Amapá participarão do Startup Summit 2026, em Florianópolis, Santa Catarina, um dos maiores eventos de inovação da América Latina. Os empreendimentos apresentarão soluções em áreas como bioindústria e inteligência artificial.",
+    "categoria": "economia",
+    "tags": [
+      "startups",
+      "inovação",
+      "tecnologia",
+      "evento",
+      "amapá"
+    ],
+    "entidades": [
+      "Startup Summit"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Amapá",
+      "Santa Catarina"
+    ],
+    "cidades": [
+      "Florianópolis"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ap/amapa/noticia/2026/07/10/startups-do-ap-vao-apresentar-solucoes-em-um-dos-maiores-eventos-de-inovacao-da-america-latina.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-10-economia-inflacao",
+    "data": "2026-07-10",
+    "titulo": "Dólar abre perto da estabilidade com dados de inflação brasileira em foco",
+    "resumo": "O dólar abriu o dia com cotação próxima à estabilidade, influenciado pelos dados de inflação do Brasil referentes a junho. O Índice de Preços ao Consumidor Amplo (IPCA) registrou uma alta de 0,16% no mês.",
+    "categoria": "economia",
+    "tags": [
+      "dólar",
+      "inflação",
+      "ipca",
+      "mercado financeiro",
+      "ibge"
+    ],
+    "entidades": [
+      "IBGE"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/mercado/mercado-financeiro-ibovespa-dolar-10-julho-2026/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-10-meio-ambiente-animais",
+    "data": "2026-07-10",
+    "titulo": "Morador encontra grupo de sucuris gigantes entrelaçadas em Rondônia",
+    "resumo": "Um morador de Nova Mamoré, em Rondônia, registrou um grupo de sucuris gigantes entrelaçadas às margens de um rio. Um biólogo explicou que as cobras estavam possivelmente em um ritual de acasalamento, um fenômeno natural.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "animais",
+      "cobras",
+      "sucuris",
+      "rondonia",
+      "natureza"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rondônia"
+    ],
+    "cidades": [
+      "Nova Mamoré"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ro/rondonia/noticia/2026/07/10/morador-leva-susto-ao-encontrar-grupo-de-sucuris-gigantes-entrelacadas-em-ro-veja-video.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-10-politica-mobilidade-urbana",
+    "data": "2026-07-10",
+    "titulo": "Nova sede da Secretaria de Mobilidade Urbana em Bragança Paulista amplia atendimento",
+    "resumo": "A Secretaria Municipal de Mobilidade Urbana de Bragança Paulista inaugurou uma nova sede. O espaço visa concentrar os setores responsáveis pelo planejamento, engenharia de tráfego e fiscalização, buscando ampliar o atendimento e reforçar a gestão.",
+    "categoria": "politica",
+    "tags": [
+      "mobilidade urbana",
+      "gestão pública",
+      "atendimento ao cidadão",
+      "administração municipal"
+    ],
+    "entidades": [
+      "Secretaria Municipal de Mobilidade Urbana"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Bragança Paulista"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-braganca-paulista/noticia/2026/07/10/nova-sede-da-secretaria-de-mobilidade-urbana-amplia-atendimento-e-reforca-gestao.ghtml"
       }
     ]
   }
