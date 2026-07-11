@@ -1,314 +1,377 @@
 [
   {
-    "id": "2026-07-10-desmatamento-amazonia",
-    "data": "2026-07-10",
-    "titulo": "Amazônia registra menor nível de alertas de desmatamento em uma década",
-    "resumo": "A Amazônia apresentou no primeiro semestre de 2026 o menor índice de alertas de desmatamento detectados por satélite em dez anos. Os dados são do sistema Deter, do Inpe. A redução marca um ponto positivo em relação à proteção ambiental.",
-    "categoria": "meio-ambiente",
+    "id": "2026-07-11-ataques-ucrania",
+    "data": "2026-07-11",
+    "titulo": "Rússia realiza novos ataques contra cidades ucranianas",
+    "resumo": "A Rússia lançou novos ataques contra as cidades ucranianas de Kyiv e Odesa. Os ataques ocorrem em um momento em que a Ucrânia enfrenta escassez de munições para conter os mísseis balísticos russos. O presidente ucraniano, Volodymyr Zelenskyy, pediu aos membros da OTAN que cumpram as promessas de apoio.",
+    "categoria": "internacional",
     "tags": [
-      "desmatamento",
-      "amazônia",
-      "inpe",
-      "sustentabilidade"
+      "guerra",
+      "ucrania",
+      "russia",
+      "ataques"
     ],
-    "entidades": [
-      "Inpe",
-      "Deter"
+    "entidades": [],
+    "pessoas": [
+      "Volodymyr Zelenskyy"
     ],
-    "pessoas": [],
     "estados": [],
-    "cidades": [],
+    "cidades": [
+      "Kyiv",
+      "Odesa"
+    ],
     "paises": [
-      "Brasil"
+      "Rússia",
+      "Ucrânia"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/meio-ambiente/noticia/2026/07/10/amazonia-tem-menor-nivel-de-alertas-de-desmatamento-para-o-1o-semestre-em-uma-decada.ghtml"
+        "nome": "dw.com",
+        "url": "https://www.dw.com/en/russia-hits-ukraine-s-kyiv-odesa-in-fresh-attacks/a-77915808?maca=en-rss-en-all-1573-rdf"
       }
     ]
   },
   {
-    "id": "2026-07-10-esportes-copa-mundial",
-    "data": "2026-07-10",
-    "titulo": "Jogos das quartas de final da Copa do Mundo e descanso de jogadores",
-    "resumo": "Notícias sobre os jogos das quartas de final da Copa do Mundo, com destaque para o confronto entre Espanha e Bélgica. Jogadores da Seleção Brasileira aproveitaram para descansar nos Estados Unidos após a eliminação. O confronto entre Noruega e Inglaterra também foi mencionado.",
-    "categoria": "esportes",
+    "id": "2026-07-11-retorno-zimbabueanos",
+    "data": "2026-07-11",
+    "titulo": "Zimbabuanos retornam ao país em meio a violência xenófoba na África do Sul",
+    "resumo": "Cidadãos do Zimbábue estão retornando para casa diante do aumento da violência xenófoba na África do Sul. Os incidentes têm levado muitos a buscar refúgio em seu país de origem. A situação reflete tensões sociais e econômicas na região.",
+    "categoria": "internacional",
     "tags": [
-      "futebol",
-      "copa do mundo",
+      "xenofobia",
+      "violencia",
+      "africa-do-sul",
+      "zimbabue"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Zimbábue",
+      "África do Sul"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "aljazeera.com",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zimbabweans-return-home-amid-xenophobic-violence-in-south-africa?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-11-incendio-espanha",
+    "data": "2026-07-11",
+    "titulo": "Incêndio florestal mortal assola o sul da Espanha",
+    "resumo": "Centenas de bombeiros lutam contra um incêndio florestal de grandes proporções no sul da Espanha. A tragédia resultou em mortes, com relatos de sobreviventes que conseguiram escapar enquanto amigos perderam suas vidas. As causas e a extensão total dos danos ainda estão sendo apuradas.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "incendio-florestal",
       "espanha",
-      "belgica",
-      "noruega",
-      "inglaterra"
+      "desastre-natural",
+      "mortes"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Espanha"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "bbc.co.uk",
+        "url": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-11-ataque-rota-sp",
+    "data": "2026-07-11",
+    "titulo": "Polícia de São Paulo mata dois suspeitos em operação",
+    "resumo": "Dois suspeitos de envolvimento em um ataque contra um tenente da Rota foram mortos em uma operação policial na Zona Leste de São Paulo. A ação elevou para seis o número total de mortos em decorrência do caso. As investigações sobre o ataque continuam.",
+    "categoria": "seguranca",
+    "tags": [
+      "policia",
+      "mortes",
+      "operacao",
+      "sao-paulo"
+    ],
+    "entidades": [
+      "Rota"
+    ],
+    "pessoas": [
+      "Ronickson Pimentel dos Santos",
+      "Eloá Pimentel"
+    ],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "São Paulo"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/11/ataque-a-tenente-rota-mata-mais-dois-suspeitos-e-chega-a-seis-o-numero-de-mortos.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-11-acidente-bombeiros-pr",
+    "data": "2026-07-11",
+    "titulo": "Caminhão de bombeiros envolvido em acidente no Paraná",
+    "resumo": "Um caminhão do Corpo de Bombeiros do Paraná foi atingido por um ônibus enquanto se deslocava para atender a um chamado de incêndio em Telêmaco Borba. O acidente ocorreu no cruzamento entre a Alameda Washington Luis e a Rua Quinze de Novembro. Não há informações sobre feridos graves.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente",
+      "bombeiros",
+      "onibus",
+      "parana"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Paraná"
+    ],
+    "cidades": [
+      "Telêmaco Borba"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/07/11/acidente-bombeiros-telemaco-borba.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-11-eua-ira-estreito-hormuz",
+    "data": "2026-07-11",
+    "titulo": "EUA exigem que Irã cesse ataques a navios no Estreito de Ormuz",
+    "resumo": "Os Estados Unidos buscam um compromisso do Irã para interromper os ataques a navios no Estreito de Ormuz. Negociações sobre o tema serão retomadas em Omã neste sábado, com a participação de autoridades americanas. A tensão na região tem sido uma preocupação internacional.",
+    "categoria": "internacional",
+    "tags": [
+      "eua",
+      "ira",
+      "estreito-de-ormuz",
+      "negociacoes"
     ],
     "entidades": [],
     "pessoas": [
-      "Erling Haaland",
-      "Harry Kane"
+      "JD Vance"
     ],
     "estados": [],
-    "cidades": [
-      "Miami"
-    ],
+    "cidades": [],
     "paises": [
-      "Espanha",
-      "Bélgica",
-      "Brasil",
       "Estados Unidos",
-      "Noruega",
-      "Inglaterra"
+      "Irã",
+      "Omã"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/espanha-x-belgica-quem-esta-pendurado-nas-quartas-da-copa/"
-      },
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/disney-e-mais-o-descanso-dos-jogadores-da-selecao-apos-eliminacao-na-copa/"
-      },
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/7/10/norway-vs-england-world-cup-quarterfinal-haaland-kane-prediction-news?traffic_source=rss"
+        "nome": "bbc.co.uk",
+        "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss"
       }
     ]
   },
   {
-    "id": "2026-07-10-seguranca-violencia-genero",
-    "data": "2026-07-10",
-    "titulo": "Ações contra violência de gênero e feminicídio em Pernambuco e Paraíba",
-    "resumo": "Uma lei na Paraíba incluiu órfãos de feminicídio no programa 'Paraíba que Acolhe', visando oferecer suporte a crianças e jovens. O Ministério Público da Paraíba também recomendou ações de conscientização sobre violência de gênero em escolas. Em Pernambuco, um homem foi preso suspeito de matar a companheira em Capoeiras.",
+    "id": "2026-07-11-vinganca-khamenei",
+    "data": "2026-07-11",
+    "titulo": "Líder supremo do Irã promete vingança após morte de Khamenei",
+    "resumo": "O líder supremo do Irã, Mojtaba Khamenei, jurou vingança pela morte de seu pai, o aiatolá Ali Khamenei, em um ataque aéreo. A promessa foi feita após o funeral, realizado nesta semana. Enquanto isso, Donald Trump ameaçou o Irã caso tente assassinar o ex-presidente americano.",
+    "categoria": "internacional",
+    "tags": [
+      "ira",
+      "vinganca",
+      "khamenei",
+      "ataque-aereo",
+      "trump"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Mojtaba Khamenei",
+      "Ali Khamenei",
+      "Donald Trump"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Irã"
+    ],
+    "importancia": 5,
+    "fontes": [
+      {
+        "nome": "dw.com",
+        "url": "https://www.dw.com/en/iran-s-supreme-leader-vows-revenge-for-khamenei-s-killing/live-77913349?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-11-sheinbaum-cartels",
+    "data": "2026-07-11",
+    "titulo": "Presidente do México enfrenta cartéis e desafios sob a sombra de Trump",
+    "resumo": "A presidente do México, Claudia Sheinbaum, busca governar com autonomia enquanto lida com a influência de cartéis, as ameaças de Donald Trump e o legado de seu antecessor, AMLO. Seus primeiros passos na presidência indicam um confronto com o crime organizado e uma tentativa de manter a estabilidade.",
+    "categoria": "politica",
+    "tags": [
+      "mexico",
+      "sheinbaum",
+      "cartels",
+      "trump",
+      "politica-mexicana"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Claudia Sheinbaum",
+      "AMLO",
+      "Trump"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "México"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "aljazeera.com",
+        "url": "https://www.aljazeera.com/features/longform/2026/7/11/sheinbaum-takes-on-cartels-trump-and-the-legacy-of-1968?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-11-acidente-br-226-ma",
+    "data": "2026-07-11",
+    "titulo": "Acidente em viagem de férias causa mortes no Maranhão",
+    "resumo": "Um acidente de trânsito na BR-226, no Maranhão, resultou na morte de quatro amigas que viajavam para celebrar um reencontro e passar férias no litoral do Piauí. Segundo familiares, as vítimas estavam a caminho de um passeio quando ocorreu o ocorrido. As circunstâncias exatas do acidente estão sendo investigadas.",
     "categoria": "seguranca",
     "tags": [
-      "feminicídio",
-      "violência de gênero",
-      "órfãos",
-      "escolas",
-      "prisão"
+      "acidente-transito",
+      "mortes",
+      "ferias",
+      "maranhao",
+      "piaui"
     ],
-    "entidades": [
-      "Ministério Público da Paraíba"
-    ],
+    "entidades": [],
     "pessoas": [
-      "Rafaela Gonçalves da Silva",
-      "Pedro Macena"
+      "Helena Ferreira de Freitas",
+      "Núbia Alves Brito",
+      "Maria de Fátima da Costa Boaventura",
+      "Marinalva Alves da Silva"
     ],
     "estados": [
-      "Paraíba",
-      "Pernambuco"
+      "Maranhão",
+      "Piauí"
     ],
-    "cidades": [
-      "Capoeiras"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/10/lei-inclui-orfaos-por-feminicidio-no-programa-paraiba-que-acolhe.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/07/10/policia-civil-prende-suspeito-de-matar-companheira-com-tiros-dentro-de-casa-em-capoeiras.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/10/mp-recomenda-acoes-de-conscientizacao-contra-violencia-de-genero-em-escolas-de-sete-municipios-da-pb.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-10-economia-ipo",
-    "data": "2026-07-10",
-    "titulo": "SK Hynix realiza um dos maiores IPOs da história em Wall Street",
-    "resumo": "A empresa sul-coreana de semicondutores SK Hynix estreou na bolsa de valores de Wall Street com uma oferta pública inicial (IPO) de US$ 26,5 bilhões. Este movimento é considerado um dos maiores IPOs estrangeiros nos EUA e um teste para o setor de inteligência artificial.",
-    "categoria": "economia",
-    "tags": [
-      "ipo",
-      "wall street",
-      "tecnologia",
-      "semicondutores",
-      "inteligência artificial"
-    ],
-    "entidades": [
-      "SK Hynix"
-    ],
-    "pessoas": [],
-    "estados": [],
     "cidades": [],
     "paises": [
-      "Coreia do Sul",
-      "Estados Unidos"
+      "Brasil"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/economia/negocios/sk-hynix-sul-coreana-estreia-em-wall-street-com-2o-maior-ipo-da-historia/"
-      },
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/economia/mercado/sk-hynix-faz-maior-ipo-estrangeiro-nos-eua-em-teste-para-setor-de-ia/"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/11/amigas-que-morreram-em-acidente-na-br-226-estavam-celebrando-reencontro-em-viagem-de-ferias-diz-familiar.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-10-justica-bolsonaro",
-    "data": "2026-07-10",
-    "titulo": "TSE bloqueia contas de ex-esposa de Bolsonaro",
-    "resumo": "O Tribunal Superior Eleitoral (TSE) determinou o bloqueio das contas de Ana Cristina Valle, ex-esposa do ex-presidente Jair Bolsonaro. A medida se deu devido à falha na prestação de contas referente aos gastos de sua campanha eleitoral em 2022, quando concorreu a deputada distrital.",
-    "categoria": "justica",
+    "id": "2026-07-11-acidente-vietna",
+    "data": "2026-07-11",
+    "titulo": "Acidente com lancha no Vietnã mata 15 turistas indianos",
+    "resumo": "Quinze turistas indianos morreram em um acidente com uma lancha na região sul do Vietnã. A embaixada da Índia informou que estabeleceu salas de controle para auxiliar as famílias das vítimas. As autoridades locais estão investigando as causas da tragédia.",
+    "categoria": "seguranca",
     "tags": [
-      "tse",
-      "bolsonaro",
-      "campanha eleitoral",
-      "prestação de contas"
-    ],
-    "entidades": [
-      "TSE"
-    ],
-    "pessoas": [
-      "Ana Cristina Valle",
-      "Jair Bolsonaro"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/politica/tse-bloqueia-contas-de-ex-esposa-de-bolsonaro/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-10-meio-ambiente-deslizamentos-asia",
-    "data": "2026-07-10",
-    "titulo": "Deslizamentos nas Filipinas e tufão Bavi ameaçam a Ásia",
-    "resumo": "Deslizamentos de terra nas Filipinas causaram a morte de pelo menos 15 pessoas. O tufão Bavi está intensificando as chuvas sazonais na região, representando uma ameaça crescente enquanto se dirige para Taiwan e China. As condições climáticas adversas impactam diversas áreas.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "tufão",
-      "deslizamentos",
-      "chuvas",
-      "clima",
-      "desastres naturais"
+      "acidente",
+      "lancha",
+      "turistas",
+      "vietna",
+      "india"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Filipinas",
-      "Taiwan",
-      "China"
+      "Vietnã",
+      "Índia"
     ],
-    "importancia": 3,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region?traffic_source=rss"
+        "nome": "aljazeera.com",
+        "url": "https://www.aljazeera.com/news/2026/7/11/speedboat-accident-in-southern-vietnam-kills-15-indian-tourists?traffic_source=rss"
       }
     ]
   },
   {
-    "id": "2026-07-10-cultura-festivais-musica",
-    "data": "2026-07-10",
-    "titulo": "Festival na Bahia anuncia lineup com Seu Jorge e outros artistas",
-    "resumo": "O Cidade Jardim Festival, que ocorrerá em uma cidade na Bahia, divulgou sua programação com shows de Seu Jorge, Arnaldo Antunes, BaianaSystem e Edson Gomes. O evento promete diversidade musical para o público.",
-    "categoria": "cultura",
+    "id": "2026-07-11-acidente-brasilia",
+    "data": "2026-07-11",
+    "titulo": "Motorista morre e crianças ficam feridas em acidente em Brasília",
+    "resumo": "Um motorista morreu e duas crianças ficaram feridas após o carro em que estavam bater em uma árvore em Brasília, no Distrito Federal. O acidente ocorreu na noite de sexta-feira. As circunstâncias que levaram à colisão ainda não foram esclarecidas pelas autoridades.",
+    "categoria": "seguranca",
     "tags": [
-      "festival",
-      "música",
-      "shows",
-      "atrações"
+      "acidente-transito",
+      "morte",
+      "feridos",
+      "brasilia"
     ],
     "entidades": [],
-    "pessoas": [
-      "Seu Jorge",
-      "Arnaldo Antunes",
-      "BaianaSystem",
-      "Edson Gomes"
-    ],
-    "estados": [
-      "Bahia"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/10/evento-gratuito-bahia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-10-seguranca-prisao-trafico",
-    "data": "2026-07-10",
-    "titulo": "Mulher foragida por tráfico de drogas é presa no Pará",
-    "resumo": "Uma mulher procurada pela Justiça pelo crime de tráfico de drogas foi detida pela Polícia Rodoviária Federal em Santarém, no Pará. Ela foi encontrada dentro de um ônibus e conduzida à Delegacia de Polícia Civil.",
-    "categoria": "seguranca",
-    "tags": [
-      "prisão",
-      "tráfico de drogas",
-      "foragida",
-      "polícia"
-    ],
-    "entidades": [
-      "Polícia Rodoviária Federal",
-      "Polícia Civil"
-    ],
     "pessoas": [],
     "estados": [
-      "Pará"
+      "Distrito Federal"
     ],
     "cidades": [
-      "Santarém"
+      "Brasília"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 3,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/10/mulher-procurada-por-trafico-e-presa-dentro-de-onibus-na-br-163-em-santarem-no-para.ghtml"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/07/11/motorista-morre-e-2-criancas-ficam-feridas-apos-carro-bater-em-arvore-em-brasilia.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-10-seguranca-homicidio-sp",
-    "data": "2026-07-10",
-    "titulo": "Foragido por homicídio é preso em bar clandestino no interior de SP",
-    "resumo": "Um homem de 30 anos, foragido da Justiça pelo crime de homicídio, foi capturado em um bar clandestino em Presidente Prudente, interior de São Paulo. Um revólver calibre 38 com munições foi apreendido com ele.",
-    "categoria": "seguranca",
+    "id": "2026-07-11-nanocelulose-cnpem",
+    "data": "2026-07-11",
+    "titulo": "CNPEM desenvolve nanocelulose como alternativa a derivados de petróleo",
+    "resumo": "Pesquisadores do CNPEM, em Campinas (SP), criaram uma nova tecnologia para produzir emulsões múltiplas utilizando nanocelulose. A inovação visa substituir derivados de petróleo em cosméticos, medicamentos e alimentos. O desenvolvimento busca alternativas mais sustentáveis na indústria.",
+    "categoria": "ciencia",
     "tags": [
-      "homicídio",
-      "prisão",
-      "foragido",
-      "arma de fogo",
-      "polícia"
+      "ciencia",
+      "inovacao",
+      "nanocelulose",
+      "petroleo",
+      "cnpem",
+      "campinas"
     ],
     "entidades": [
-      "Polícia Civil"
+      "CNPEM"
     ],
     "pessoas": [],
     "estados": [
       "São Paulo"
     ],
     "cidades": [
-      "Presidente Prudente"
+      "Campinas"
     ],
     "paises": [
       "Brasil"
@@ -316,190 +379,156 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/07/10/foragido-por-homicidio-e-capturado-armado-no-interior-de-sp.ghtml"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/11/cnpem-cria-alternativa-com-nanocelulose-para-substituir-derivados-de-petroleo-em-cosmeticos-e-medicamentos.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-10-economia-negocios-raizen",
-    "data": "2026-07-10",
-    "titulo": "Cade aprova venda de ativos da Raízen Energia para Mercuria Energy Group",
-    "resumo": "O Conselho Administrativo de Defesa Econômica (Cade) aprovou a venda de ativos da Raízen Energia para o Mercuria Energy Group. A operação está alinhada à estratégia da Raízen de redução de endividamento.",
-    "categoria": "economia",
-    "tags": [
-      "cade",
-      "fusão e aquisição",
-      "energia",
-      "mercado financeiro"
-    ],
-    "entidades": [
-      "Cade",
-      "Raízen Energia",
-      "Mercuria Energy Group"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/agro/cade-aprova-venda-de-ativos-da-raizen-energia-para-mercuria-energy-group/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-10-internacional-acidente-aereo",
-    "data": "2026-07-10",
-    "titulo": "Passageiro quase é sugado para fora de avião da Ryanair após janela estilhaçar",
-    "resumo": "Um passageiro de um voo da Ryanair esteve perto de ser sugado para fora da aeronave quando uma janela se estilhaçou em pleno ar. O incidente ocorreu durante um voo vindo da Grécia. O homem foi salvo pela esposa.",
-    "categoria": "internacional",
-    "tags": [
-      "acidente aéreo",
-      "ryanair",
-      "incidente",
-      "voo"
-    ],
-    "entidades": [
-      "Ryanair"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Grécia"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/business/2026/jul/10/ryanair-passenger-almost-sucked-out-of-shattered-window-during-flight"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-10-politica-prestacao-contas",
-    "data": "2026-07-10",
-    "titulo": "Homem desaparecido é encontrado morto em cova rasa no Maranhão",
-    "resumo": "O corpo de Francisco Sousa Silva, desaparecido, foi encontrado enterrado em uma cova rasa em uma área de mata na cidade de Santa Inês, Maranhão. A Polícia Civil está investigando o caso.",
-    "categoria": "seguranca",
-    "tags": [
-      "homicídio",
-      "desaparecido",
-      "cova rasa",
-      "investigação",
-      "polícia"
-    ],
-    "entidades": [
-      "Polícia Civil"
-    ],
-    "pessoas": [
-      "Francisco Sousa Silva"
-    ],
-    "estados": [
-      "Maranhão"
-    ],
-    "cidades": [
-      "Santa Inês"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/10/homem-que-estava-desaparecido-e-encontrado-enterrado-em-cova-rasa-em-area-de-mata-em-santa-ines.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-10-justica-corrupcao",
-    "data": "2026-07-10",
-    "titulo": "Mulher flagrada com R$ 500 mil é presa em investigação de desvio milionário",
-    "resumo": "Uma mulher conhecida como 'Mulher da mala', flagrada com R$ 500 mil em espécie em Teresópolis, foi presa em uma operação que apura um esquema milionário de corrupção. A investigação envolve um ex-fiscal da cidade.",
+    "id": "2026-07-11-bloqueio-valdemar-costa-neto",
+    "data": "2026-07-11",
+    "titulo": "STF bloqueia R$ 119 milhões de Valdemar Costa Neto em investigação",
+    "resumo": "O Supremo Tribunal Federal (STF) determinou o bloqueio de R$ 119 milhões de Valdemar Costa Neto, presidente do PL, em uma investigação da Polícia Federal. A apuração busca verificar um suposto esquema clandestino de desvio de verbas de emendas parlamentares. O caso envolve alegações de fraude e corrupção.",
     "categoria": "justica",
     "tags": [
-      "corrupção",
-      "prisão",
-      "desvio de dinheiro",
-      "investigação"
+      "stf",
+      "justica",
+      "corrupcao",
+      "investigacao",
+      "emendas-parlamentares"
     ],
     "entidades": [
-      "Ministério Público"
+      "PL",
+      "STF",
+      "Polícia Federal"
     ],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Teresópolis"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/07/10/mulher-da-mala-suspeita-de-sacar-r-500-mil-em-teresopolis-e-presa-em-investigacao-de-desvio-milionario.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-10-esportes-volei-feminino",
-    "data": "2026-07-10",
-    "titulo": "Brasil vence Polônia e assume liderança da Liga das Nações de Vôlei Feminino",
-    "resumo": "A seleção brasileira de vôlei feminino derrotou a Polônia e assumiu a liderança da Liga das Nações (VNL). A vitória ocorreu em Osaka e coloca a equipe sob o comando de José Roberto Guimarães no topo da competição.",
-    "categoria": "esportes",
-    "tags": [
-      "vôlei",
-      "liga das nações",
-      "seleção brasileira"
-    ],
-    "entidades": [],
     "pessoas": [
-      "José Roberto Guimarães"
+      "Valdemar Costa Neto",
+      "Flávio Dino"
     ],
     "estados": [],
-    "cidades": [
-      "Osaka"
-    ],
+    "cidades": [],
     "paises": [
-      "Brasil",
-      "Polônia"
+      "Brasil"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/volei/brasil-vence-polonia-e-assume-lideranca-da-liga-das-nacoes-feminina/"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/politica/noticia/2026/07/11/bloqueio-de-r-119-milhoes-de-valdemar-costa-neto-entenda-esquema-de-emendas-atribuido-a-presidente-do-pl.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-10-seguranca-homicidio-bahia",
-    "data": "2026-07-10",
-    "titulo": "Paciente é retirado de policlínica e morto a tiros na Bahia",
-    "resumo": "Um jovem de 20 anos foi assassinado a tiros após ser retirado à força de uma policlínica em Feira de Santana, na Bahia. Câmeras de segurança registraram o crime, que está sob investigação.",
+    "id": "2026-07-11-pena-irmao-virginia",
+    "data": "2026-07-11",
+    "titulo": "Irmão de Virginia Fonseca condenado por importunação sexual tem pena convertida",
+    "resumo": "Uma jovem lamentou que a pena de um ano de prisão para o irmão da influenciadora Virginia Fonseca, condenado por importunação sexual, tenha sido revertida em serviço comunitário. A decisão gerou insatisfação. A vítima expressou tristeza com o desfecho do caso.",
+    "categoria": "justica",
+    "tags": [
+      "justica",
+      "importunacao-sexual",
+      "pena",
+      "virginia-fonseca"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Virginia Fonseca",
+      "William Pimenta Gusmão"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/go/goias/noticia/2026/07/11/jovem-lamenta-pena-de-um-ano-revertida-em-servico-comunitario-para-irmao-de-virginia-condenado-por-importunacao-sexual-triste.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-11-selecao-queda-copa",
+    "data": "2026-07-11",
+    "titulo": "Ex-jogador critica falta de personalidade da Seleção Brasileira",
+    "resumo": "O ex-jogador Edílson Capetinha criticou a Seleção Brasileira após sua eliminação em uma competição, atribuindo a queda à falta de personalidade da equipe. Ele analisou os problemas que levaram à derrota para a Noruega no mundial. A declaração reflete a decepção com o desempenho do time.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "selecao-brasileira",
+      "copa-do-mundo",
+      "critica"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Edílson Capetinha"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil",
+      "Noruega"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "cnnbrasil.com.br",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/capetinha-ve-falta-de-personalidade-na-selecao-apos-queda-na-copa/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-11-aviao-janela-voo",
+    "data": "2026-07-11",
+    "titulo": "Passageiro relembra tragédia de homem ejetado de avião em SP",
+    "resumo": "Um passageiro que sobreviveu a uma situação em que foi parcialmente sugado para fora da janela de um avião relembrou a tragédia de um homem que foi ejetado de uma aeronave em São Paulo. O incidente em questão ocorreu há quase 30 anos e é um dos mais marcantes da aviação brasileira. A notícia reaviva memórias de descompressões aéreas.",
     "categoria": "seguranca",
     "tags": [
-      "homicídio",
-      "violência",
-      "câmeras de segurança",
-      "investigação"
+      "aviacao",
+      "acidente-aereo",
+      "seguranca-aerea",
+      "sao-paulo"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [
-      "Bahia"
+      "São Paulo"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/11/passageiro-sugado-durante-voo-relembra-tragedia-em-que-homem-foi-ejetado-de-aviao-em-sp.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-11-fotografo-teresina",
+    "data": "2026-07-11",
+    "titulo": "Fotógrafo superou tiro na cabeça e trabalha em Teresina",
+    "resumo": "O fotógrafo Walefy Alves, de 29 anos, que sobreviveu a um tiro na cabeça, superou as sequelas do ferimento e agora trabalha em ensaios fotográficos em Teresina. Ele ficou mais de dois meses sem conseguir falar após o atentado. Atualmente, ele complementa a renda trabalhando em fins de semana no Parque da Cidadania.",
+    "categoria": "cultura",
+    "tags": [
+      "superacao",
+      "fotografia",
+      "teresina",
+      "violencia"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Walefy Alves"
+    ],
+    "estados": [
+      "Piauí"
     ],
     "cidades": [
-      "Feira de Santana"
+      "Teresina"
     ],
     "paises": [
       "Brasil"
@@ -507,63 +536,163 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/10/jovem-morto-tiros-feira.ghtml"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/11/fotografo-ensaios-em-parque-de-teresina.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-10-justica-homicidio-eua",
-    "data": "2026-07-10",
-    "titulo": "Juiz decidirá se caso de Charlie Kirk irá a julgamento por homicídio",
-    "resumo": "Um juiz avaliará se o caso contra Tyler James Robinson, acusado do assassinato do ativista de extrema direita Charlie Kirk, avançará para julgamento. A decisão ocorrerá após uma audiência preliminar de cinco dias.",
-    "categoria": "justica",
+    "id": "2026-07-11-beyonce-jayz",
+    "data": "2026-07-11",
+    "titulo": "Beyoncé e Blue Ivy fazem participação surpresa em show de Jay-Z",
+    "resumo": "Beyoncé e sua filha, Blue Ivy, fizeram uma participação surpresa em um show do rapper Jay-Z na noite de sexta-feira (10) em Nova York. A aparição conjunta gerou grande repercussão entre os fãs e na mídia especializada em entretenimento.",
+    "categoria": "cultura",
     "tags": [
-      "homicídio",
-      "julgamento",
-      "ativismo",
-      "política"
+      "musica",
+      "celebridades",
+      "beyonce",
+      "jay-z",
+      "nova-york"
     ],
     "entidades": [],
     "pessoas": [
-      "Charlie Kirk",
-      "Tyler James Robinson"
+      "Beyoncé",
+      "Blue Ivy",
+      "Jay-Z"
     ],
-    "estados": [
-      "Utah"
+    "estados": [],
+    "cidades": [
+      "Nova York"
     ],
-    "cidades": [],
     "paises": [
       "Estados Unidos"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/2026/jul/10/charlie-kirk-shooting-hearing"
+        "nome": "cnnbrasil.com.br",
+        "url": "https://www.cnnbrasil.com.br/pop/celebridades/beyonce-e-blue-ivy-fazem-participacao-surpresa-em-show-de-jay-z/"
       }
     ]
   },
   {
-    "id": "2026-07-10-infraestrutura-rodovia",
-    "data": "2026-07-10",
-    "titulo": "Cratera interdita trecho da BR-324 e causa congestionamento",
-    "resumo": "Um trecho da BR-324 permanece interditado devido à abertura de uma cratera, causando um congestionamento de aproximadamente 4 quilômetros. O incidente ocorreu em Simões Filho, na Região Metropolitana de Salvador.",
-    "categoria": "infraestrutura",
+    "id": "2026-07-11-dermot-murnaghan-morto",
+    "data": "2026-07-11",
+    "titulo": "Apresentador de TV Dermot Murnaghan morre aos 67 anos",
+    "resumo": "O apresentador de televisão Dermot Murnaghan faleceu em sua casa em Londres na manhã de sábado, após um período de doença com câncer de próstata. Ele tinha 67 anos. Sua família confirmou a morte em um comunicado. Murnaghan era uma figura conhecida no cenário televisivo britânico.",
+    "categoria": "cultura",
     "tags": [
-      "rodovia",
-      "interdição",
-      "cratera",
-      "congestionamento"
+      "tv",
+      "apresentador",
+      "morte",
+      "londres",
+      "cancer"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Dermot Murnaghan"
+    ],
+    "estados": [],
+    "cidades": [
+      "Londres"
+    ],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/11/tv-presenter-dermot-murnaghan-dies-after-being-ill-with-prostate-cancer"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-11-clinica-odontologica-piracicaba",
+    "data": "2026-07-11",
+    "titulo": "Clínica odontológica fecha e deixa clientes sem tratamento em Piracicaba",
+    "resumo": "Clientes de uma clínica odontológica em Piracicaba denunciam o fechamento repentino da unidade, sem aviso prévio e com tratamentos inacabados, mesmo com pagamentos realizados. A polícia está investigando o caso, que afeta diversos pacientes que buscavam os serviços da QSorriso. As autoridades apuram possíveis irregularidades.",
+    "categoria": "justica",
+    "tags": [
+      "clinica-odontologica",
+      "fraude",
+      "investigacao",
+      "piracicaba"
+    ],
+    "entidades": [
+      "QSorriso"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Piracicaba"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/11/clientes-denunciam-clinica-odontologica-que-fechou-sem-concluir-tratamentos-em-piracicaba-policia-investiga.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-11-harry-kane-trump",
+    "data": "2026-07-11",
+    "titulo": "Harry Kane confirma partida de golfe com Donald Trump",
+    "resumo": "O jogador de futebol Harry Kane confirmou que participou de uma partida de golfe com o ex-presidente Donald Trump. Ele descreveu a experiência como 'surreal' e revelou que aceitou o convite há cerca de um ano e meio em Palm Beach, Flórida. O encontro gerou interesse no mundo dos esportes e da política.",
+    "categoria": "esportes",
+    "tags": [
+      "golfe",
+      "futebol",
+      "trump",
+      "harry-kane"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Harry Kane",
+      "Donald Trump"
+    ],
+    "estados": [
+      "Flórida"
+    ],
+    "cidades": [
+      "Palm Beach"
+    ],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "cnnbrasil.com.br",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/harry-kane-confirma-partida-de-golfe-com-trump-uma-experiencia-surreal/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-11-carros-boi-mg",
+    "data": "2026-07-11",
+    "titulo": "Tradição centenária de carros de boi celebrada em Minas Gerais",
+    "resumo": "Uma tradição centenária foi celebrada com um desfile de mais de 100 carros de boi na cidade de Patrocínio do Muriaé, em Minas Gerais. O evento reuniu cavaleiros, produtores rurais, famílias e visitantes para reviver um importante marco histórico do município. A celebração destacou a cultura local.",
+    "categoria": "cultura",
+    "tags": [
+      "cultura",
+      "tradicao",
+      "carros-de-boi",
+      "minas-gerais"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [
-      "Bahia"
+      "Minas Gerais"
     ],
     "cidades": [
-      "Simões Filho",
-      "Salvador"
+      "Patrocínio do Muriaé"
     ],
     "paises": [
       "Brasil"
@@ -571,59 +700,90 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/07/10/cratera-mantem-trecho-da-br-324-interditado-e-provoca-congestionamento.ghtml"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/07/11/tradicao-centenaria-ganha-vida-com-desfile-de-mais-de-100-carros-de-boi-em-mg-video.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-10-cultura-musica-final-copa",
-    "data": "2026-07-10",
-    "titulo": "Namorada de Lamine Yamal faz apelo após anúncio de Justin Bieber na final da Copa",
-    "resumo": "A namorada do jogador Lamine Yamal fez um apelo para que ele consiga chegar à final da Copa do Mundo, após o anúncio de Justin Bieber como atração do show do intervalo. O desejo é que o jogador esteja presente no evento.",
-    "categoria": "cultura",
+    "id": "2026-07-11-fuvest-unicamp-raciocinio",
+    "data": "2026-07-11",
+    "titulo": "Fuvest e Unicamp cobram mais raciocínio em provas",
+    "resumo": "Os exames da Fuvest e da Unicamp apresentarão menos questões, mas com maior exigência de raciocínio dos candidatos. Essa mudança visa incentivar os estudantes a refletir mais e 'decorar menos' o conteúdo. A alteração na estrutura das provas busca avaliar a capacidade analítica dos estudantes.",
+    "categoria": "educacao",
     "tags": [
-      "música",
-      "copa do mundo",
-      "show",
-      "show do intervalo",
-      "futebol"
+      "educacao",
+      "vestibular",
+      "fuvest",
+      "unicamp",
+      "raciocinio"
     ],
-    "entidades": [],
-    "pessoas": [
-      "Lamine Yamal",
-      "Justin Bieber"
+    "entidades": [
+      "Fuvest",
+      "Unicamp"
     ],
+    "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Espanha"
+      "Brasil"
     ],
-    "importancia": 2,
+    "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pop-arte/noticia/2026/07/10/namorada-de-lamine-yamal-faz-apelo-apos-justin-bieber-ser-anunciado-na-final-da-copa-faca-o-que-for-para-chegar.ghtml"
+        "nome": "cnnbrasil.com.br",
+        "url": "https://www.cnnbrasil.com.br/educacao/com-menos-questoes-fuvest-e-unicamp-cobram-mais-raciocinio-de-candidatos/"
       }
     ]
   },
   {
-    "id": "2026-07-10-economia-fusao-media",
-    "data": "2026-07-10",
-    "titulo": "Fusão Paramount-Warner pode remodelar a indústria da mídia",
-    "resumo": "A possível fusão entre a Paramount e a Warner está em discussão, com o Reino Unido considerando intervir devido a preocupações com a pluralidade da mídia. O acordo pode ter um impacto significativo na configuração do setor.",
-    "categoria": "economia",
+    "id": "2026-07-11-porsche-campinas",
+    "data": "2026-07-11",
+    "titulo": "Batida de Porsche em árvore em Campinas resulta em duas mortes",
+    "resumo": "Um grave acidente em Campinas, São Paulo, resultou na morte de duas pessoas após um Porsche colidir com uma árvore e pegar fogo. A batida ocorreu na Rodovia Francisco von Zuben, na altura do km 93. As vítimas ficaram carbonizadas. As circunstâncias do acidente estão sob investigação.",
+    "categoria": "seguranca",
     "tags": [
-      "fusão",
-      "mídia",
-      "entretenimento",
-      "negócios"
+      "acidente-transito",
+      "morte",
+      "incendio",
+      "porsche",
+      "campinas"
     ],
-    "entidades": [
-      "Paramount",
-      "Warner"
-    ],
+    "entidades": [],
     "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Campinas"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/11/acidente-com-porsche-em-campinas-deixa-dois-mortos-carbonizados.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-11-ann-widdecombe",
+    "data": "2026-07-11",
+    "titulo": "Polícia libera homem preso em investigação sobre a morte de Ann Widdecombe",
+    "resumo": "Um homem de 26 anos, que havia sido preso sob suspeita de envolvimento na morte da ex-parlamentar Ann Widdecombe, foi liberado pela polícia. As investigações continuam com 'inúmeras diligências'. Widdecombe era uma figura conhecida localmente. A polícia segue em busca de pistas.",
+    "categoria": "justica",
+    "tags": [
+      "investigacao",
+      "morte",
+      "policia",
+      "reino-unido"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Ann Widdecombe"
+    ],
     "estados": [],
     "cidades": [],
     "paises": [
@@ -632,31 +792,29 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/paramount-warner-merger-could-it-reshape-the-media?traffic_source=rss"
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/uk-news/live/2026/jul/11/ann-widdecombe-murder-investigation-latest-news-updates"
       }
     ]
   },
   {
-    "id": "2026-07-10-seguranca-violencia-domestica",
-    "data": "2026-07-10",
-    "titulo": "Irmãos mortos após perseguição e confronto são sepultados em Sorocaba",
-    "resumo": "Dois irmãos, de 24 e 28 anos, morreram após serem baleados por policiais militares em Sorocaba, interior de São Paulo. O incidente ocorreu durante uma abordagem que evoluiu para perseguição e confronto. Os corpos foram sepultados.",
+    "id": "2026-07-11-carro-ponte-rs",
+    "data": "2026-07-11",
+    "titulo": "Homem morre após carro cair de ponte no Rio Grande do Sul",
+    "resumo": "Um homem morreu em um acidente de trânsito na noite de sexta-feira (10) no Rio Grande do Sul. O carro que ele dirigia caiu de uma ponte sobre o Rio Jacuizinho, em Campos Borges, na região Noroeste do estado. As causas do acidente estão sendo apuradas pelas autoridades.",
     "categoria": "seguranca",
     "tags": [
-      "violência policial",
-      "confronto",
-      "perseguição",
+      "acidente-transito",
       "morte",
-      "polícia"
+      "rio-grande-do-sul"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [
-      "São Paulo"
+      "Rio Grande do Sul"
     ],
     "cidades": [
-      "Sorocaba"
+      "Campos Borges"
     ],
     "paises": [
       "Brasil"
@@ -664,138 +822,75 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/10/irmaos-mortos-apos-perseguicao-e-confronto-sao-sepultados-em-sorocaba.ghtml"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/11/homem-morre-apos-carro-cair-de-ponte-no-rs.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-10-inovacao-startups",
-    "data": "2026-07-10",
-    "titulo": "Startups do Amapá apresentarão soluções em evento de inovação em SC",
-    "resumo": "Treze startups do Amapá participarão do Startup Summit 2026, em Florianópolis, Santa Catarina, um dos maiores eventos de inovação da América Latina. Os empreendimentos apresentarão soluções em áreas como bioindústria e inteligência artificial.",
-    "categoria": "economia",
+    "id": "2026-07-11-ufc-mcgregor",
+    "data": "2026-07-11",
+    "titulo": "McGregor x Holloway no UFC 329: confira detalhes da luta",
+    "resumo": "O aguardado confronto entre Conor McGregor e Max Holloway no UFC 329 terá transmissão ao vivo. A luta principal do evento, que ocorrerá em Las Vegas, marca o retorno do astro irlandês ao octógono após cinco anos. Informações sobre horário e o card completo estão disponíveis para os fãs de MMA.",
+    "categoria": "esportes",
     "tags": [
-      "startups",
-      "inovação",
+      "ufc",
+      "mma",
+      "mcgregor",
+      "holloway",
+      "luta"
+    ],
+    "entidades": [
+      "UFC"
+    ],
+    "pessoas": [
+      "Conor McGregor",
+      "Max Holloway"
+    ],
+    "estados": [],
+    "cidades": [
+      "Las Vegas"
+    ],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "cnnbrasil.com.br",
+        "url": "https://www.cnnbrasil.com.br/esportes/lutas/mcgregor-x-holloway-no-ufc-329-onde-assitir-ao-vivo-horario-e-card/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-11-emissao-carbono-big-tech",
+    "data": "2026-07-11",
+    "titulo": "Emissões de carbono de big techs aumentam e equivalem a um terço das da França",
+    "resumo": "As emissões de carbono de grandes empresas de tecnologia como Microsoft, Amazon e Google aumentaram quase 20% no último ano, impulsionadas pela construção de data centers. As emissões totais dessas empresas agora correspondem a um terço das da França. As companhias afirmam manter metas de zeragem de emissões.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "meio-ambiente",
+      "carbono",
       "tecnologia",
-      "evento",
-      "amapá"
+      "emissao",
+      "franca"
     ],
     "entidades": [
-      "Startup Summit"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Amapá",
-      "Santa Catarina"
-    ],
-    "cidades": [
-      "Florianópolis"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ap/amapa/noticia/2026/07/10/startups-do-ap-vao-apresentar-solucoes-em-um-dos-maiores-eventos-de-inovacao-da-america-latina.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-10-economia-inflacao",
-    "data": "2026-07-10",
-    "titulo": "Dólar abre perto da estabilidade com dados de inflação brasileira em foco",
-    "resumo": "O dólar abriu o dia com cotação próxima à estabilidade, influenciado pelos dados de inflação do Brasil referentes a junho. O Índice de Preços ao Consumidor Amplo (IPCA) registrou uma alta de 0,16% no mês.",
-    "categoria": "economia",
-    "tags": [
-      "dólar",
-      "inflação",
-      "ipca",
-      "mercado financeiro",
-      "ibge"
-    ],
-    "entidades": [
-      "IBGE"
+      "Microsoft",
+      "Amazon",
+      "Google"
     ],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Brasil"
+      "França"
     ],
-    "importancia": 3,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/economia/mercado/mercado-financeiro-ibovespa-dolar-10-julho-2026/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-10-meio-ambiente-animais",
-    "data": "2026-07-10",
-    "titulo": "Morador encontra grupo de sucuris gigantes entrelaçadas em Rondônia",
-    "resumo": "Um morador de Nova Mamoré, em Rondônia, registrou um grupo de sucuris gigantes entrelaçadas às margens de um rio. Um biólogo explicou que as cobras estavam possivelmente em um ritual de acasalamento, um fenômeno natural.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "animais",
-      "cobras",
-      "sucuris",
-      "rondonia",
-      "natureza"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rondônia"
-    ],
-    "cidades": [
-      "Nova Mamoré"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ro/rondonia/noticia/2026/07/10/morador-leva-susto-ao-encontrar-grupo-de-sucuris-gigantes-entrelacadas-em-ro-veja-video.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-10-politica-mobilidade-urbana",
-    "data": "2026-07-10",
-    "titulo": "Nova sede da Secretaria de Mobilidade Urbana em Bragança Paulista amplia atendimento",
-    "resumo": "A Secretaria Municipal de Mobilidade Urbana de Bragança Paulista inaugurou uma nova sede. O espaço visa concentrar os setores responsáveis pelo planejamento, engenharia de tráfego e fiscalização, buscando ampliar o atendimento e reforçar a gestão.",
-    "categoria": "politica",
-    "tags": [
-      "mobilidade urbana",
-      "gestão pública",
-      "atendimento ao cidadão",
-      "administração municipal"
-    ],
-    "entidades": [
-      "Secretaria Municipal de Mobilidade Urbana"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Bragança Paulista"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-braganca-paulista/noticia/2026/07/10/nova-sede-da-secretaria-de-mobilidade-urbana-amplia-atendimento-e-reforca-gestao.ghtml"
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france"
       }
     ]
   }
