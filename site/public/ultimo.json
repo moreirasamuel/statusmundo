@@ -1,534 +1,106 @@
 [
   {
-    "id": "2026-07-11-ataques-ucrania",
-    "data": "2026-07-11",
-    "titulo": "Rússia realiza novos ataques contra cidades ucranianas",
-    "resumo": "A Rússia lançou novos ataques contra as cidades ucranianas de Kyiv e Odesa. Os ataques ocorrem em um momento em que a Ucrânia enfrenta escassez de munições para conter os mísseis balísticos russos. O presidente ucraniano, Volodymyr Zelenskyy, pediu aos membros da OTAN que cumpram as promessas de apoio.",
-    "categoria": "internacional",
+    "id": "ann-widdecombe-morta-suspeito-preso",
+    "data": "2026-07-12",
+    "titulo": "Ex-ministra britânica Ann Widdecombe morre; suspeito é preso e polícia descarta motivação política",
+    "resumo": "A ex-ministra britânica Ann Widdecombe foi encontrada morta em sua casa. A polícia prendeu um homem de 28 anos como suspeito de assassinato. As autoridades informaram que não há indícios de que o crime tenha motivação política.",
+    "categoria": "justica",
     "tags": [
-      "guerra",
-      "ucrania",
-      "russia",
-      "ataques"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Volodymyr Zelenskyy"
-    ],
-    "estados": [],
-    "cidades": [
-      "Kyiv",
-      "Odesa"
-    ],
-    "paises": [
-      "Rússia",
-      "Ucrânia"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "dw.com",
-        "url": "https://www.dw.com/en/russia-hits-ukraine-s-kyiv-odesa-in-fresh-attacks/a-77915808?maca=en-rss-en-all-1573-rdf"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-retorno-zimbabueanos",
-    "data": "2026-07-11",
-    "titulo": "Zimbabuanos retornam ao país em meio a violência xenófoba na África do Sul",
-    "resumo": "Cidadãos do Zimbábue estão retornando para casa diante do aumento da violência xenófoba na África do Sul. Os incidentes têm levado muitos a buscar refúgio em seu país de origem. A situação reflete tensões sociais e econômicas na região.",
-    "categoria": "internacional",
-    "tags": [
-      "xenofobia",
-      "violencia",
-      "africa-do-sul",
-      "zimbabue"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Zimbábue",
-      "África do Sul"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "aljazeera.com",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zimbabweans-return-home-amid-xenophobic-violence-in-south-africa?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-incendio-espanha",
-    "data": "2026-07-11",
-    "titulo": "Incêndio florestal mortal assola o sul da Espanha",
-    "resumo": "Centenas de bombeiros lutam contra um incêndio florestal de grandes proporções no sul da Espanha. A tragédia resultou em mortes, com relatos de sobreviventes que conseguiram escapar enquanto amigos perderam suas vidas. As causas e a extensão total dos danos ainda estão sendo apuradas.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "incendio-florestal",
-      "espanha",
-      "desastre-natural",
-      "mortes"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Espanha"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "bbc.co.uk",
-        "url": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-ataque-rota-sp",
-    "data": "2026-07-11",
-    "titulo": "Polícia de São Paulo mata dois suspeitos em operação",
-    "resumo": "Dois suspeitos de envolvimento em um ataque contra um tenente da Rota foram mortos em uma operação policial na Zona Leste de São Paulo. A ação elevou para seis o número total de mortos em decorrência do caso. As investigações sobre o ataque continuam.",
-    "categoria": "seguranca",
-    "tags": [
-      "policia",
-      "mortes",
-      "operacao",
-      "sao-paulo"
+      "assassinato",
+      "investigação policial",
+      "política"
     ],
     "entidades": [
-      "Rota"
+      "Polícia Britânica"
     ],
     "pessoas": [
-      "Ronickson Pimentel dos Santos",
-      "Eloá Pimentel"
+      "Ann Widdecombe"
     ],
     "estados": [
-      "São Paulo"
+      "South Yorkshire"
     ],
-    "cidades": [
-      "São Paulo"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/11/ataque-a-tenente-rota-mata-mais-dois-suspeitos-e-chega-a-seis-o-numero-de-mortos.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-acidente-bombeiros-pr",
-    "data": "2026-07-11",
-    "titulo": "Caminhão de bombeiros envolvido em acidente no Paraná",
-    "resumo": "Um caminhão do Corpo de Bombeiros do Paraná foi atingido por um ônibus enquanto se deslocava para atender a um chamado de incêndio em Telêmaco Borba. O acidente ocorreu no cruzamento entre a Alameda Washington Luis e a Rua Quinze de Novembro. Não há informações sobre feridos graves.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente",
-      "bombeiros",
-      "onibus",
-      "parana"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Paraná"
-    ],
-    "cidades": [
-      "Telêmaco Borba"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/07/11/acidente-bombeiros-telemaco-borba.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-eua-ira-estreito-hormuz",
-    "data": "2026-07-11",
-    "titulo": "EUA exigem que Irã cesse ataques a navios no Estreito de Ormuz",
-    "resumo": "Os Estados Unidos buscam um compromisso do Irã para interromper os ataques a navios no Estreito de Ormuz. Negociações sobre o tema serão retomadas em Omã neste sábado, com a participação de autoridades americanas. A tensão na região tem sido uma preocupação internacional.",
-    "categoria": "internacional",
-    "tags": [
-      "eua",
-      "ira",
-      "estreito-de-ormuz",
-      "negociacoes"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "JD Vance"
-    ],
-    "estados": [],
     "cidades": [],
     "paises": [
-      "Estados Unidos",
-      "Irã",
-      "Omã"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "bbc.co.uk",
-        "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-vinganca-khamenei",
-    "data": "2026-07-11",
-    "titulo": "Líder supremo do Irã promete vingança após morte de Khamenei",
-    "resumo": "O líder supremo do Irã, Mojtaba Khamenei, jurou vingança pela morte de seu pai, o aiatolá Ali Khamenei, em um ataque aéreo. A promessa foi feita após o funeral, realizado nesta semana. Enquanto isso, Donald Trump ameaçou o Irã caso tente assassinar o ex-presidente americano.",
-    "categoria": "internacional",
-    "tags": [
-      "ira",
-      "vinganca",
-      "khamenei",
-      "ataque-aereo",
-      "trump"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Mojtaba Khamenei",
-      "Ali Khamenei",
-      "Donald Trump"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Irã"
+      "Reino Unido"
     ],
     "importancia": 5,
     "fontes": [
       {
-        "nome": "dw.com",
-        "url": "https://www.dw.com/en/iran-s-supreme-leader-vows-revenge-for-khamenei-s-killing/live-77913349?maca=en-rss-en-all-1573-rdf"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/12/ann-widdecombe-death-police-investigation"
       },
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/mundo/noticia/2026/07/12/suspeito-matar-ex-ministra-reino-unido-ann-widdecombe-preso-descarta-motivacao-politica.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-11-sheinbaum-cartels",
-    "data": "2026-07-11",
-    "titulo": "Presidente do México enfrenta cartéis e desafios sob a sombra de Trump",
-    "resumo": "A presidente do México, Claudia Sheinbaum, busca governar com autonomia enquanto lida com a influência de cartéis, as ameaças de Donald Trump e o legado de seu antecessor, AMLO. Seus primeiros passos na presidência indicam um confronto com o crime organizado e uma tentativa de manter a estabilidade.",
-    "categoria": "politica",
+    "id": "conflito-iran-golfo-ataques",
+    "data": "2026-07-12",
+    "titulo": "Irã ataca países do Golfo após novos ataques dos EUA; Estreito de Ormuz é fechado",
+    "resumo": "O Irã relatou ataques a países do Golfo como Jordânia, Bahrein, Catar, Omã e Emirados Árabes Unidos após novos ataques dos Estados Unidos. Teerã anunciou o fechamento do Estreito de Ormuz, uma rota marítima estratégica. O número de tráfego marítimo no estreito diminuiu consideravelmente.",
+    "categoria": "internacional",
     "tags": [
-      "mexico",
-      "sheinbaum",
-      "cartels",
-      "trump",
-      "politica-mexicana"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Claudia Sheinbaum",
-      "AMLO",
-      "Trump"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "México"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "aljazeera.com",
-        "url": "https://www.aljazeera.com/features/longform/2026/7/11/sheinbaum-takes-on-cartels-trump-and-the-legacy-of-1968?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-acidente-br-226-ma",
-    "data": "2026-07-11",
-    "titulo": "Acidente em viagem de férias causa mortes no Maranhão",
-    "resumo": "Um acidente de trânsito na BR-226, no Maranhão, resultou na morte de quatro amigas que viajavam para celebrar um reencontro e passar férias no litoral do Piauí. Segundo familiares, as vítimas estavam a caminho de um passeio quando ocorreu o ocorrido. As circunstâncias exatas do acidente estão sendo investigadas.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente-transito",
-      "mortes",
-      "ferias",
-      "maranhao",
-      "piaui"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Helena Ferreira de Freitas",
-      "Núbia Alves Brito",
-      "Maria de Fátima da Costa Boaventura",
-      "Marinalva Alves da Silva"
-    ],
-    "estados": [
-      "Maranhão",
-      "Piauí"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/11/amigas-que-morreram-em-acidente-na-br-226-estavam-celebrando-reencontro-em-viagem-de-ferias-diz-familiar.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-acidente-vietna",
-    "data": "2026-07-11",
-    "titulo": "Acidente com lancha no Vietnã mata 15 turistas indianos",
-    "resumo": "Quinze turistas indianos morreram em um acidente com uma lancha na região sul do Vietnã. A embaixada da Índia informou que estabeleceu salas de controle para auxiliar as famílias das vítimas. As autoridades locais estão investigando as causas da tragédia.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente",
-      "lancha",
-      "turistas",
-      "vietna",
-      "india"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Vietnã",
-      "Índia"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "aljazeera.com",
-        "url": "https://www.aljazeera.com/news/2026/7/11/speedboat-accident-in-southern-vietnam-kills-15-indian-tourists?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-acidente-brasilia",
-    "data": "2026-07-11",
-    "titulo": "Motorista morre e crianças ficam feridas em acidente em Brasília",
-    "resumo": "Um motorista morreu e duas crianças ficaram feridas após o carro em que estavam bater em uma árvore em Brasília, no Distrito Federal. O acidente ocorreu na noite de sexta-feira. As circunstâncias que levaram à colisão ainda não foram esclarecidas pelas autoridades.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente-transito",
-      "morte",
-      "feridos",
-      "brasilia"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Distrito Federal"
-    ],
-    "cidades": [
-      "Brasília"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/07/11/motorista-morre-e-2-criancas-ficam-feridas-apos-carro-bater-em-arvore-em-brasilia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-nanocelulose-cnpem",
-    "data": "2026-07-11",
-    "titulo": "CNPEM desenvolve nanocelulose como alternativa a derivados de petróleo",
-    "resumo": "Pesquisadores do CNPEM, em Campinas (SP), criaram uma nova tecnologia para produzir emulsões múltiplas utilizando nanocelulose. A inovação visa substituir derivados de petróleo em cosméticos, medicamentos e alimentos. O desenvolvimento busca alternativas mais sustentáveis na indústria.",
-    "categoria": "ciencia",
-    "tags": [
-      "ciencia",
-      "inovacao",
-      "nanocelulose",
-      "petroleo",
-      "cnpem",
-      "campinas"
+      "geopolítica",
+      "conflito",
+      "navegação"
     ],
     "entidades": [
-      "CNPEM"
+      "IRGC",
+      "EUA"
     ],
     "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Campinas"
-    ],
+    "estados": [],
+    "cidades": [],
     "paises": [
-      "Brasil"
+      "Irã",
+      "Jordânia",
+      "Bahrein",
+      "Catar",
+      "Omã",
+      "Emirados Árabes Unidos",
+      "Estados Unidos"
     ],
-    "importancia": 3,
+    "importancia": 5,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/11/cnpem-cria-alternativa-com-nanocelulose-para-substituir-derivados-de-petroleo-em-cosmeticos-e-medicamentos.ghtml"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/jul/12/iran-gulf-us-strikes-jordan-qatar-uae-strait-hormuz-latest-news-updates-live"
+      },
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-releases-video-of-retaliatory-missile-strikes?traffic_source=rss"
+      },
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/rota-sul-de-oma-por-ormuz-segue-aberta-diz-orgao-supervisionado-pelos-eua/"
       }
     ]
   },
   {
-    "id": "2026-07-11-bloqueio-valdemar-costa-neto",
-    "data": "2026-07-11",
-    "titulo": "STF bloqueia R$ 119 milhões de Valdemar Costa Neto em investigação",
-    "resumo": "O Supremo Tribunal Federal (STF) determinou o bloqueio de R$ 119 milhões de Valdemar Costa Neto, presidente do PL, em uma investigação da Polícia Federal. A apuração busca verificar um suposto esquema clandestino de desvio de verbas de emendas parlamentares. O caso envolve alegações de fraude e corrupção.",
-    "categoria": "justica",
+    "id": "mega-sena-resultados-estados",
+    "data": "2026-07-12",
+    "titulo": "Apostas de Tocantins e Goiás acertam cinco dezenas na Mega-Sena; Piauí tem 22 ganhadores de quatro números",
+    "resumo": "Duas apostas do Tocantins e duas de Goiás acertaram cinco números na Mega-Sena, cada uma faturando valores entre R$ 42 mil e R$ 85 mil. No Piauí, 22 apostas acertaram quatro números e receberam prêmios entre R$ 960 e R$ 5.760. O prêmio principal não foi ganho neste concurso.",
+    "categoria": "economia",
     "tags": [
-      "stf",
-      "justica",
-      "corrupcao",
-      "investigacao",
-      "emendas-parlamentares"
+      "loteria",
+      "sorteio",
+      "premiação"
     ],
     "entidades": [
-      "PL",
-      "STF",
-      "Polícia Federal"
+      "Caixa Econômica Federal"
     ],
-    "pessoas": [
-      "Valdemar Costa Neto",
-      "Flávio Dino"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/politica/noticia/2026/07/11/bloqueio-de-r-119-milhoes-de-valdemar-costa-neto-entenda-esquema-de-emendas-atribuido-a-presidente-do-pl.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-pena-irmao-virginia",
-    "data": "2026-07-11",
-    "titulo": "Irmão de Virginia Fonseca condenado por importunação sexual tem pena convertida",
-    "resumo": "Uma jovem lamentou que a pena de um ano de prisão para o irmão da influenciadora Virginia Fonseca, condenado por importunação sexual, tenha sido revertida em serviço comunitário. A decisão gerou insatisfação. A vítima expressou tristeza com o desfecho do caso.",
-    "categoria": "justica",
-    "tags": [
-      "justica",
-      "importunacao-sexual",
-      "pena",
-      "virginia-fonseca"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Virginia Fonseca",
-      "William Pimenta Gusmão"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/go/goias/noticia/2026/07/11/jovem-lamenta-pena-de-um-ano-revertida-em-servico-comunitario-para-irmao-de-virginia-condenado-por-importunacao-sexual-triste.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-selecao-queda-copa",
-    "data": "2026-07-11",
-    "titulo": "Ex-jogador critica falta de personalidade da Seleção Brasileira",
-    "resumo": "O ex-jogador Edílson Capetinha criticou a Seleção Brasileira após sua eliminação em uma competição, atribuindo a queda à falta de personalidade da equipe. Ele analisou os problemas que levaram à derrota para a Noruega no mundial. A declaração reflete a decepção com o desempenho do time.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "selecao-brasileira",
-      "copa-do-mundo",
-      "critica"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Edílson Capetinha"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil",
-      "Noruega"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "cnnbrasil.com.br",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/capetinha-ve-falta-de-personalidade-na-selecao-apos-queda-na-copa/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-aviao-janela-voo",
-    "data": "2026-07-11",
-    "titulo": "Passageiro relembra tragédia de homem ejetado de avião em SP",
-    "resumo": "Um passageiro que sobreviveu a uma situação em que foi parcialmente sugado para fora da janela de um avião relembrou a tragédia de um homem que foi ejetado de uma aeronave em São Paulo. O incidente em questão ocorreu há quase 30 anos e é um dos mais marcantes da aviação brasileira. A notícia reaviva memórias de descompressões aéreas.",
-    "categoria": "seguranca",
-    "tags": [
-      "aviacao",
-      "acidente-aereo",
-      "seguranca-aerea",
-      "sao-paulo"
-    ],
-    "entidades": [],
     "pessoas": [],
     "estados": [
-      "São Paulo"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/11/passageiro-sugado-durante-voo-relembra-tragedia-em-que-homem-foi-ejetado-de-aviao-em-sp.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-fotografo-teresina",
-    "data": "2026-07-11",
-    "titulo": "Fotógrafo superou tiro na cabeça e trabalha em Teresina",
-    "resumo": "O fotógrafo Walefy Alves, de 29 anos, que sobreviveu a um tiro na cabeça, superou as sequelas do ferimento e agora trabalha em ensaios fotográficos em Teresina. Ele ficou mais de dois meses sem conseguir falar após o atentado. Atualmente, ele complementa a renda trabalhando em fins de semana no Parque da Cidadania.",
-    "categoria": "cultura",
-    "tags": [
-      "superacao",
-      "fotografia",
-      "teresina",
-      "violencia"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Walefy Alves"
-    ],
-    "estados": [
+      "Tocantins",
+      "Goiás",
       "Piauí"
     ],
     "cidades": [
-      "Teresina"
+      "Palmas",
+      "Gurupi"
     ],
     "paises": [
       "Brasil"
@@ -536,218 +108,29 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/11/fotografo-ensaios-em-parque-de-teresina.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/12/mega-sena-apostas-do-tocantins-faturam-r-84-mil-ao-acertar-cinco-dezenas.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/go/goias/noticia/2026/07/12/mega-sena-duas-apostas-de-goias-acertam-cinco-numeros-e-levam-juntas-quase-r-85-mil.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/12/resultado-mega-sena-3030.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-11-beyonce-jayz",
-    "data": "2026-07-11",
-    "titulo": "Beyoncé e Blue Ivy fazem participação surpresa em show de Jay-Z",
-    "resumo": "Beyoncé e sua filha, Blue Ivy, fizeram uma participação surpresa em um show do rapper Jay-Z na noite de sexta-feira (10) em Nova York. A aparição conjunta gerou grande repercussão entre os fãs e na mídia especializada em entretenimento.",
+    "id": "dia-nacional-funk",
+    "data": "2026-07-12",
+    "titulo": "Dia Nacional do Funk é celebrado com festival inédito em Bauru e discussões sobre a origem do gênero",
+    "resumo": "O Dia Nacional do Funk, celebrado neste domingo (12), destaca a força e a origem do gênero musical que representa a cultura das periferias. Um festival inédito em Bauru reunirá diversos artistas do funk. A data também impulsiona discussões sobre a simbologia por trás das alcunhas utilizadas no funk paulista.",
     "categoria": "cultura",
     "tags": [
-      "musica",
-      "celebridades",
-      "beyonce",
-      "jay-z",
-      "nova-york"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Beyoncé",
-      "Blue Ivy",
-      "Jay-Z"
-    ],
-    "estados": [],
-    "cidades": [
-      "Nova York"
-    ],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "cnnbrasil.com.br",
-        "url": "https://www.cnnbrasil.com.br/pop/celebridades/beyonce-e-blue-ivy-fazem-participacao-surpresa-em-show-de-jay-z/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-dermot-murnaghan-morto",
-    "data": "2026-07-11",
-    "titulo": "Apresentador de TV Dermot Murnaghan morre aos 67 anos",
-    "resumo": "O apresentador de televisão Dermot Murnaghan faleceu em sua casa em Londres na manhã de sábado, após um período de doença com câncer de próstata. Ele tinha 67 anos. Sua família confirmou a morte em um comunicado. Murnaghan era uma figura conhecida no cenário televisivo britânico.",
-    "categoria": "cultura",
-    "tags": [
-      "tv",
-      "apresentador",
-      "morte",
-      "londres",
-      "cancer"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Dermot Murnaghan"
-    ],
-    "estados": [],
-    "cidades": [
-      "Londres"
-    ],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/11/tv-presenter-dermot-murnaghan-dies-after-being-ill-with-prostate-cancer"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-clinica-odontologica-piracicaba",
-    "data": "2026-07-11",
-    "titulo": "Clínica odontológica fecha e deixa clientes sem tratamento em Piracicaba",
-    "resumo": "Clientes de uma clínica odontológica em Piracicaba denunciam o fechamento repentino da unidade, sem aviso prévio e com tratamentos inacabados, mesmo com pagamentos realizados. A polícia está investigando o caso, que afeta diversos pacientes que buscavam os serviços da QSorriso. As autoridades apuram possíveis irregularidades.",
-    "categoria": "justica",
-    "tags": [
-      "clinica-odontologica",
-      "fraude",
-      "investigacao",
-      "piracicaba"
-    ],
-    "entidades": [
-      "QSorriso"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Piracicaba"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/11/clientes-denunciam-clinica-odontologica-que-fechou-sem-concluir-tratamentos-em-piracicaba-policia-investiga.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-harry-kane-trump",
-    "data": "2026-07-11",
-    "titulo": "Harry Kane confirma partida de golfe com Donald Trump",
-    "resumo": "O jogador de futebol Harry Kane confirmou que participou de uma partida de golfe com o ex-presidente Donald Trump. Ele descreveu a experiência como 'surreal' e revelou que aceitou o convite há cerca de um ano e meio em Palm Beach, Flórida. O encontro gerou interesse no mundo dos esportes e da política.",
-    "categoria": "esportes",
-    "tags": [
-      "golfe",
-      "futebol",
-      "trump",
-      "harry-kane"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Harry Kane",
-      "Donald Trump"
-    ],
-    "estados": [
-      "Flórida"
-    ],
-    "cidades": [
-      "Palm Beach"
-    ],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "cnnbrasil.com.br",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/harry-kane-confirma-partida-de-golfe-com-trump-uma-experiencia-surreal/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-carros-boi-mg",
-    "data": "2026-07-11",
-    "titulo": "Tradição centenária de carros de boi celebrada em Minas Gerais",
-    "resumo": "Uma tradição centenária foi celebrada com um desfile de mais de 100 carros de boi na cidade de Patrocínio do Muriaé, em Minas Gerais. O evento reuniu cavaleiros, produtores rurais, famílias e visitantes para reviver um importante marco histórico do município. A celebração destacou a cultura local.",
-    "categoria": "cultura",
-    "tags": [
-      "cultura",
-      "tradicao",
-      "carros-de-boi",
-      "minas-gerais"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Patrocínio do Muriaé"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/07/11/tradicao-centenaria-ganha-vida-com-desfile-de-mais-de-100-carros-de-boi-em-mg-video.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-fuvest-unicamp-raciocinio",
-    "data": "2026-07-11",
-    "titulo": "Fuvest e Unicamp cobram mais raciocínio em provas",
-    "resumo": "Os exames da Fuvest e da Unicamp apresentarão menos questões, mas com maior exigência de raciocínio dos candidatos. Essa mudança visa incentivar os estudantes a refletir mais e 'decorar menos' o conteúdo. A alteração na estrutura das provas busca avaliar a capacidade analítica dos estudantes.",
-    "categoria": "educacao",
-    "tags": [
-      "educacao",
-      "vestibular",
-      "fuvest",
-      "unicamp",
-      "raciocinio"
-    ],
-    "entidades": [
-      "Fuvest",
-      "Unicamp"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "cnnbrasil.com.br",
-        "url": "https://www.cnnbrasil.com.br/educacao/com-menos-questoes-fuvest-e-unicamp-cobram-mais-raciocinio-de-candidatos/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-porsche-campinas",
-    "data": "2026-07-11",
-    "titulo": "Batida de Porsche em árvore em Campinas resulta em duas mortes",
-    "resumo": "Um grave acidente em Campinas, São Paulo, resultou na morte de duas pessoas após um Porsche colidir com uma árvore e pegar fogo. A batida ocorreu na Rodovia Francisco von Zuben, na altura do km 93. As vítimas ficaram carbonizadas. As circunstâncias do acidente estão sob investigação.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente-transito",
-      "morte",
-      "incendio",
-      "porsche",
-      "campinas"
+      "música",
+      "funk",
+      "cultura periférica"
     ],
     "entidades": [],
     "pessoas": [],
@@ -755,66 +138,7 @@
       "São Paulo"
     ],
     "cidades": [
-      "Campinas"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/11/acidente-com-porsche-em-campinas-deixa-dois-mortos-carbonizados.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-ann-widdecombe",
-    "data": "2026-07-11",
-    "titulo": "Polícia libera homem preso em investigação sobre a morte de Ann Widdecombe",
-    "resumo": "Um homem de 26 anos, que havia sido preso sob suspeita de envolvimento na morte da ex-parlamentar Ann Widdecombe, foi liberado pela polícia. As investigações continuam com 'inúmeras diligências'. Widdecombe era uma figura conhecida localmente. A polícia segue em busca de pistas.",
-    "categoria": "justica",
-    "tags": [
-      "investigacao",
-      "morte",
-      "policia",
-      "reino-unido"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Ann Widdecombe"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/uk-news/live/2026/jul/11/ann-widdecombe-murder-investigation-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-carro-ponte-rs",
-    "data": "2026-07-11",
-    "titulo": "Homem morre após carro cair de ponte no Rio Grande do Sul",
-    "resumo": "Um homem morreu em um acidente de trânsito na noite de sexta-feira (10) no Rio Grande do Sul. O carro que ele dirigia caiu de uma ponte sobre o Rio Jacuizinho, em Campos Borges, na região Noroeste do estado. As causas do acidente estão sendo apuradas pelas autoridades.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente-transito",
-      "morte",
-      "rio-grande-do-sul"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio Grande do Sul"
-    ],
-    "cidades": [
-      "Campos Borges"
+      "Bauru"
     ],
     "paises": [
       "Brasil"
@@ -822,75 +146,585 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/11/homem-morre-apos-carro-cair-de-ponte-no-rs.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11-ufc-mcgregor",
-    "data": "2026-07-11",
-    "titulo": "McGregor x Holloway no UFC 329: confira detalhes da luta",
-    "resumo": "O aguardado confronto entre Conor McGregor e Max Holloway no UFC 329 terá transmissão ao vivo. A luta principal do evento, que ocorrerá em Las Vegas, marca o retorno do astro irlandês ao octógono após cinco anos. Informações sobre horário e o card completo estão disponíveis para os fãs de MMA.",
-    "categoria": "esportes",
-    "tags": [
-      "ufc",
-      "mma",
-      "mcgregor",
-      "holloway",
-      "luta"
-    ],
-    "entidades": [
-      "UFC"
-    ],
-    "pessoas": [
-      "Conor McGregor",
-      "Max Holloway"
-    ],
-    "estados": [],
-    "cidades": [
-      "Las Vegas"
-    ],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 3,
-    "fontes": [
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/pop/musica/dia-nacional-do-funk-e-celebrado-neste-domingo-12-entenda-origem-da-data/"
+      },
       {
-        "nome": "cnnbrasil.com.br",
-        "url": "https://www.cnnbrasil.com.br/esportes/lutas/mcgregor-x-holloway-no-ufc-329-onde-assitir-ao-vivo-horario-e-card/"
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/07/12/do-preconceito-ao-topo-das-paradas-musicais-dia-do-funk-celebra-forca-do-genero-que-ganha-festival-inedito-em-bauru.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/12/palhacos-magos-e-bruxas-conheca-a-simbologia-por-tras-das-alcunhas-que-dominam-o-funk.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-11-emissao-carbono-big-tech",
-    "data": "2026-07-11",
-    "titulo": "Emissões de carbono de big techs aumentam e equivalem a um terço das da França",
-    "resumo": "As emissões de carbono de grandes empresas de tecnologia como Microsoft, Amazon e Google aumentaram quase 20% no último ano, impulsionadas pela construção de data centers. As emissões totais dessas empresas agora correspondem a um terço das da França. As companhias afirmam manter metas de zeragem de emissões.",
+    "id": "calor-extremo-coreia-sul",
+    "data": "2026-07-12",
+    "titulo": "Coreia do Sul emite alerta máximo de calor pela primeira vez devido a onda de calor intensa",
+    "resumo": "A Coreia do Sul ativou seu alerta de calor no nível máximo pela primeira vez em resposta a uma onda de calor que afeta o sudeste do país. Este novo sistema de alerta é acionado quando as condições climáticas atingem níveis extremos. A forte onda de calor tem gerado preocupações.",
     "categoria": "meio-ambiente",
     "tags": [
-      "meio-ambiente",
-      "carbono",
-      "tecnologia",
-      "emissao",
-      "franca"
+      "clima",
+      "onda de calor",
+      "alertas meteorológicos"
     ],
-    "entidades": [
-      "Microsoft",
-      "Amazon",
-      "Google"
-    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "França"
+      "Coreia do Sul"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "theguardian.com",
-        "url": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france"
+        "nome": "G1",
+        "url": "https://g1.globo.com/meio-ambiente/noticia/2026/07/12/sob-calor-extremo-coreia-do-sul-aciona-novo-alerta-maximo-pela-primeira-vez.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "focos-queimadas-acre",
+    "data": "2026-07-12",
+    "titulo": "Focos de queimadas no Acre caem 43% no primeiro semestre de 2026",
+    "resumo": "O Acre registrou uma queda de 43% nos focos de queimadas no primeiro semestre de 2026, comparado ao mesmo período do ano anterior. Segundo o Inpe, foram identificados 41 focos de janeiro a junho. Apesar da redução, o período de estiagem ainda exige atenção para incêndios.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "queimadas",
+      "meio ambiente",
+      "incêndios"
+    ],
+    "entidades": [
+      "Inpe"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Acre"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ac/acre/noticia/2026/07/12/focos-de-queimadas-no-acre-caem-43percent-no-primeiro-semestre-de-2026-aponta-inpe.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "acidentes-transito-gravida-filha",
+    "data": "2026-07-12",
+    "titulo": "Mãe e filha morrem em grave acidente de trânsito na Paraíba; buscas por jovem desaparecida após capotamento continuam",
+    "resumo": "Duas mulheres morreram em um grave acidente de trânsito registrado na BR-101, na zona rural de Santa Rita, na Grande João Pessoa. Em Parnaíba, no Piauí, as buscas por uma jovem desaparecida após o capotamento de um carro chegaram ao quarto dia. A polícia recuperou mais de 300 veículos roubados na Paraíba.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente de trânsito",
+      "ocorrência policial",
+      "buscas"
+    ],
+    "entidades": [
+      "Polícia Civil da Paraíba"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Paraíba",
+      "Piauí"
+    ],
+    "cidades": [
+      "João Pessoa",
+      "Santa Rita",
+      "Parnaíba"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/12/mae-e-filha-morrem-em-grave-acidente-de-transito-em-distrito-na-grande-joao-pessoa.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/12/buscas-mulher-desaparecida-apos-capotamento-em-parnaiba.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/12/mais-de-300-veiculos-roubados-sao-recuperados-pela-policia-civil-da-paraiba-em-2026.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "incendio-apartamento-sp",
+    "data": "2026-07-12",
+    "titulo": "Idosa morre após incêndio em apartamento na Zona Sul de São Paulo",
+    "resumo": "Uma idosa de 69 anos morreu em decorrência de um incêndio que atingiu seu apartamento na Zona Sul de São Paulo. As chamas foram controladas pelo Corpo de Bombeiros. O incidente ocorreu na madrugada de domingo.",
+    "categoria": "seguranca",
+    "tags": [
+      "incêndio",
+      "vítima fatal",
+      "combate a incêndios"
+    ],
+    "entidades": [
+      "Corpo de Bombeiros"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "São Paulo"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/12/idosa-morre-apos-incendio-em-apartamento-no-capao-redondo-zona-sul-de-sp.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "replantio-manguezal-guapimirim",
+    "data": "2026-07-12",
+    "titulo": "Projeto de restauração recupera manguezal degradado em Guapimirim e atrai mais de 70 espécies",
+    "resumo": "Uma área degradada de manguezal na APA de Guapimirim passou por um projeto de restauração ambiental iniciado em 2023. O trabalho resultou na recuperação da área e atraiu de volta mais de 70 espécies. O projeto visa a conservação ambiental.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "restauração ambiental",
+      "manguezal",
+      "conservação"
+    ],
+    "entidades": [
+      "Projeto Meros do Brasil"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Guapimirim"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/rio-de-janeiro/globo-comunidade-rj/noticia/2026/07/12/replantio-recupera-area-degradada-de-manguezal-em-guapimirim.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "jovem-prende-mae-plano-matar",
+    "data": "2026-07-12",
+    "titulo": "Jovem descobre plano da mãe para matar mulher e alerta polícia no Paraná; mãe é presa",
+    "resumo": "Um jovem no Paraná descobriu um plano de sua mãe para cometer um assassinato e alertou as autoridades. Ele gravou mensagens da mãe sobre o planejamento do crime, após o que foi ameaçado por ela. A mulher foi presa após a denúncia.",
+    "categoria": "justica",
+    "tags": [
+      "crimes",
+      "polícia",
+      "prisão"
+    ],
+    "entidades": [
+      "Polícia"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Paraná"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/filho-descobre-plano-da-mae-para-matar-mulher-e-alerta-policia-no-parana/"
+      }
+    ]
+  },
+  {
+    "id": "el-nino-agro",
+    "data": "2026-07-12",
+    "titulo": "El Niño pode ser o mais forte desde 1950; efeitos no agronegócio e mercado global são destacados",
+    "resumo": "O fenômeno El Niño pode se tornar o mais forte registrado desde 1950, com potenciais impactos significativos no agronegócio. Os efeitos do El Niño não serão uniformes em todo o país. A situação também deve ser acompanhada no mercado global.",
+    "categoria": "economia",
+    "tags": [
+      "clima",
+      "agronegócio",
+      "fenômeno climático"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/agro/el-nino-pode-ser-o-mais-forte-desde-1950-entenda-efeitos-no-agro/"
+      }
+    ]
+  },
+  {
+    "id": "el-nino-preocupacao",
+    "data": "2026-07-12",
+    "titulo": "Fortes chuvas no Sul e seca no Nordeste marcam efeitos do El Niño",
+    "resumo": "A aproximação de um evento El Niño pode intensificar as chuvas na Região Sul e agravar a seca no Nordeste. Especialistas alertam para impactos significativos no agronegócio, com efeitos que se estenderão ao mercado global. A previsão indica um dos episódios mais fortes desde 1950.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "El Niño",
+      "clima",
+      "agricultura"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio Grande do Sul",
+      "Santa Catarina",
+      "Paraná",
+      "Nordeste"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/agro/el-nino-pode-ser-o-mais-forte-desde-1950-entenda-efeitos-no-agro/"
+      }
+    ]
+  },
+  {
+    "id": "resgate-casal-espanha",
+    "data": "2026-07-12",
+    "titulo": "Casal britânico gravemente queimado é resgatado de ravina durante incêndios na Espanha",
+    "resumo": "Um casal britânico foi resgatado em estado grave de queimaduras após ser encontrado semi-consciente em uma ravina na província de Almeria, na Espanha. As vítimas, com cerca de 40% de queimaduras, ficaram presas durante os incêndios que atingiram a região. Informações locais detalham o resgate.",
+    "categoria": "internacional",
+    "tags": [
+      "incêndios florestais",
+      "resgate",
+      "acidente"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Andaluzia"
+    ],
+    "cidades": [
+      "Almeria"
+    ],
+    "paises": [
+      "Espanha",
+      "Reino Unido"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss"
+      }
+    ]
+  },
+  {
+    "id": "celebracao-dia-nacional-funk",
+    "data": "2026-07-12",
+    "titulo": "Dia do Funk celebra a ascensão do gênero musical com festival inédito e discussões sobre sua simbologia",
+    "resumo": "O Dia Nacional do Funk, celebrado neste domingo (12), destaca a importância cultural do gênero musical, que aborda desde a realidade da periferia até a ostentação. Um festival inédito em Bauru reunirá artistas do funk, evidenciando a força do gênero. Além disso, a data impulsiona reflexões sobre a simbologia das alcunhas utilizadas no funk.",
+    "categoria": "cultura",
+    "tags": [
+      "música",
+      "funk",
+      "cultura urbana"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Bauru"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/07/12/do-preconceito-ao-topo-das-paradas-musicais-dia-do-funk-celebra-forca-do-genero-que-ganha-festival-inedito-em-bauru.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/12/palhacos-magos-e-bruxas-conheca-a-simbologia-por-tras-das-alcunhas-que-dominam-o-funk.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "desaparecimento-jovem-parnaiba",
+    "data": "2026-07-12",
+    "titulo": "Buscas por jovem desaparecida após capotamento em Parnaíba chegam ao quarto dia",
+    "resumo": "As buscas por Renata Araújo Pereira, de 26 anos, que desapareceu após um carro capotar na Estrada em Parnaíba, no litoral do Piauí, completaram quatro dias neste domingo. O Corpo de Bombeiros continua os trabalhos de procura pela jovem.",
+    "categoria": "seguranca",
+    "tags": [
+      "desaparecimento",
+      "buscas",
+      "acidente"
+    ],
+    "entidades": [
+      "Corpo de Bombeiros"
+    ],
+    "pessoas": [
+      "Renata Araújo Pereira"
+    ],
+    "estados": [
+      "Piauí"
+    ],
+    "cidades": [
+      "Parnaíba"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/12/buscas-mulher-desaparecida-apos-capotamento-em-parnaiba.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "festa-integracao-nordestina-pará",
+    "data": "2026-07-12",
+    "titulo": "Festa da Integração Nordestina no Pará encerra com público recorde e show de Joelma",
+    "resumo": "A 14ª Festa da Integração Nordestina, realizada em Mojuí dos Campos, no Pará, foi encerrada com um público recorde. O evento contou com um show da cantora Joelma e consolidou mais uma edição de sucesso. A festa celebra a cultura nordestina.",
+    "categoria": "cultura",
+    "tags": [
+      "evento cultural",
+      "música",
+      "tradição"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Joelma"
+    ],
+    "estados": [
+      "Pará"
+    ],
+    "cidades": [
+      "Mojuí dos Campos"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/12/festa-da-integracao-nordestina-encerra-edicao-com-publico-recorde-e-show-de-joelma-em-mojui-dos-campos.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "peao-mini-touros",
+    "data": "2026-07-12",
+    "titulo": "Aos 10 anos, peão enfrenta mini touros em rodeios e sonha com campeonato mundial",
+    "resumo": "Benjamin Iago, um menino de 10 anos de Olímpia, São Paulo, se destaca nas competições de rodeio ao montar em mini touros de até 400 kg. Ele sonha em se tornar campeão mundial e treina intensamente para alcançar seu objetivo. O jovem demonstra paixão precoce pelo esporte.",
+    "categoria": "esportes",
+    "tags": [
+      "rodeio",
+      "esporte",
+      "juventude"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Benjamin Iago"
+    ],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Olímpia"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/12/aos-10-anos-peao-enfrenta-mini-touros-de-ate-400-kg-em-rodeios-e-sonha-com-campeonato-mundial-treinar-duro-para-montar-facil.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "empreendedor-pimenta-sp",
+    "data": "2026-07-12",
+    "titulo": "Empreendedor supera passado nas ruas e cria marca de pimenta de sucesso no interior de SP",
+    "resumo": "D'jã Diego Cobos Melo, conhecido como Diego El Cabron, superou um passado de dificuldades nas ruas para criar uma marca de pimenta de sucesso no interior de São Paulo. Ele utiliza uma receita guardada há 25 anos e percorre as ruas para divulgar seus produtos. Seu trabalho é descrito como um dia de cada vez.",
+    "categoria": "economia",
+    "tags": [
+      "empreendedorismo",
+      "superação",
+      "negócios"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "D'jã Diego Cobos Melo"
+    ],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Presidente Prudente"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/07/12/com-receita-guardada-ha-25-anos-empreendedor-supera-passado-nas-ruas-e-cria-pimenta-de-sucesso-no-interior-de-sp-um-dia-de-cada-vez.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "canyons-paulistas",
+    "data": "2026-07-12",
+    "titulo": "Cânions Paulistas: paisagens geológicas de milhões de anos formam patrimônio natural no sudoeste de SP",
+    "resumo": "O sudoeste de São Paulo abriga os Cânions Paulistas, formados por paisagens geológicas com milhões de anos. A região, que inclui municípios como Bom Sucesso de Itararé e Itararé, representa um dos maiores patrimônios naturais do estado. A geologia local contribuiu para a formação dessas paisagens únicas.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "geologia",
+      "patrimônio natural",
+      "paisagens"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Bom Sucesso de Itararé",
+      "Itaberá",
+      "Itapeva",
+      "Itararé",
+      "Nova Campina",
+      "Ribeirão Branco",
+      "Taquarivaí"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/07/12/canions-paulistas-como-paisagens-de-milhoes-de-anos-formaram-um-dos-maiores-patrimonios-naturais-do-sudoeste-de-sp.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "brasileirao-semifinalistas-copa",
+    "data": "2026-07-12",
+    "titulo": "Brasileirão tem um único representante entre os semifinalistas da Copa",
+    "resumo": "Apenas um jogador do futebol brasileiro, Flaco López, atacante argentino do Palmeiras, figura entre os semifinalistas da Copa. A notícia destaca a presença solitária do atleta em uma fase tão avançada do torneio. O cenário aponta para a predominância de outros campeonatos nas semifinais.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "Copa",
+      "semifinalistas"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Flaco López"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/brasileirao-tem-um-unico-representante-entre-os-semifinalistas-da-copa/"
+      }
+    ]
+  },
+  {
+    "id": "vida-sheik-hamad-bin-khalifa-al-thani",
+    "data": "2026-07-12",
+    "titulo": "Momentos chave da vida do ex-Emir do Catar, Sheikh Hamad bin Khalifa Al Thani",
+    "resumo": "A reportagem destaca momentos importantes da vida de Sheikh Hamad bin Khalifa Al Thani, ex-Emir do Catar. Seu reinado de 18 anos é creditado por impulsionar o Catar à prosperidade e remodelar sua atuação doméstica, regional e global. A matéria oferece um resumo de sua trajetória.",
+    "categoria": "internacional",
+    "tags": [
+      "política",
+      "história",
+      "Oriente Médio"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Sheikh Hamad bin Khalifa Al Thani"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Catar"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/7/12/key-moments-from-former-qatar-emir-sheikh-hamad-bin-khalifa-al-thanis-life?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "le-pen-khamenei-mbappe-france24",
+    "data": "2026-07-12",
+    "titulo": "Semana em imagens: Le Pen, funeral de Khamenei e gol de Mbappé",
+    "resumo": "A semana foi marcada pela liberação da líder de extrema-direita francesa Marine Le Pen para concorrer às eleições presidenciais, apesar de condenação. Houve também as cerimônias de funeral para o líder supremo do Irã, Ayatollah Ali Khamenei. No esporte, Kylian Mbappé e Lionel Messi foram destaque.",
+    "categoria": "politica",
+    "tags": [
+      "política internacional",
+      "esportes",
+      "eventos notáveis"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Marine Le Pen",
+      "Ayatollah Ali Khamenei",
+      "Kylian Mbappé",
+      "Lionel Messi"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "França",
+      "Irã"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "France24",
+        "url": "https://www.france24.com/en/americas/20260712-the-week-in-pictures-le-pen-s-comeback-khamenei-s-funeral-and-mbapp%C3%A9-s-wondergoal"
       }
     ]
   }
