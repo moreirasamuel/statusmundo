@@ -1,174 +1,184 @@
 [
   {
-    "id": "ann-widdecombe-morta-suspeito-preso",
-    "data": "2026-07-12",
-    "titulo": "Ex-ministra britânica Ann Widdecombe morre; suspeito é preso e polícia descarta motivação política",
-    "resumo": "A ex-ministra britânica Ann Widdecombe foi encontrada morta em sua casa. A polícia prendeu um homem de 28 anos como suspeito de assassinato. As autoridades informaram que não há indícios de que o crime tenha motivação política.",
-    "categoria": "justica",
+    "id": "2026-07-13-conflito-eua-ira",
+    "data": "2026-07-13",
+    "titulo": "Tensão aumenta no Oriente Médio com troca de ataques entre EUA e Irã pelo Estreito de Hormuz",
+    "resumo": "Estados Unidos e Irã trocaram intensos ataques com mísseis e drones durante o fim de semana e nesta segunda-feira, aumentando a pressão por um cessar-fogo. O tráfego pelo Estreito de Hormuz registrou os menores níveis em um mês, com o presidente dos EUA reivindicando o controle como guardião da rota marítima. O Irã afirmou ter atingido bases militares americanas em vários países do Oriente Médio em retaliação.",
+    "categoria": "internacional",
     "tags": [
-      "assassinato",
-      "investigação policial",
-      "política"
+      "Oriente Médio",
+      "EUA",
+      "Irã",
+      "Estreito de Hormuz",
+      "conflito",
+      "ataques"
     ],
     "entidades": [
-      "Polícia Britânica"
+      "Pentágono",
+      "Guarda Revolucionária do Irã"
     ],
     "pessoas": [
-      "Ann Widdecombe"
+      "Donald Trump"
     ],
-    "estados": [
-      "South Yorkshire"
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos",
+      "Irã",
+      "Bahrein"
     ],
+    "importancia": 5,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/jul/13/us-iran-war-missile-strikes-news-attacks-strait-of-hormuz"
+      },
+      {
+        "nome": "France24",
+        "url": "https://www.france24.com/en/video/20260713-middle-east-war-iran-claims-strikes-on-us-bases-in-multiple-countries"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-13-investigacao-morte-ann-widdecombe",
+    "data": "2026-07-13",
+    "titulo": "Polícia antiterrorismo do Reino Unido assume investigação da morte da ex-ministra Ann Widdecombe",
+    "resumo": "A polícia antiterrorismo do Reino Unido assumiu as investigações sobre a morte da ex-ministra britânica Ann Widdecombe, encontrada morta em sua casa. Novas evidências levaram a equipe a assumir o caso. O governo anunciou o proscrito do Corpo da Guarda Revolucionária Islâmica.",
+    "categoria": "seguranca",
+    "tags": [
+      "Reino Unido",
+      "morte",
+      "investigação",
+      "polícia",
+      "terrorismo"
+    ],
+    "entidades": [
+      "Polícia Antiterrorismo do Reino Unido",
+      "Corpo da Guarda Revolucionária Islâmica"
+    ],
+    "pessoas": [
+      "Ann Widdecombe",
+      "Shabana Mahmood"
+    ],
+    "estados": [],
     "cidades": [],
     "paises": [
       "Reino Unido"
     ],
-    "importancia": 5,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/12/ann-widdecombe-death-police-investigation"
+        "nome": "G1",
+        "url": "https://g1.globo.com/mundo/noticia/2026/07/13/policia-antiterrorismo-do-reino-unido-assume-investigacao-da-morte-de-ex-ministra-britanica.ghtml"
       },
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/07/12/suspeito-matar-ex-ministra-reino-unido-ann-widdecombe-preso-descarta-motivacao-politica.ghtml"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/13/shabana-mahmood-migration-rochdale-grooming-gang-pakistan-visas-immigration-andy-burnham-labour"
       }
     ]
   },
   {
-    "id": "conflito-iran-golfo-ataques",
-    "data": "2026-07-12",
-    "titulo": "Irã ataca países do Golfo após novos ataques dos EUA; Estreito de Ormuz é fechado",
-    "resumo": "O Irã relatou ataques a países do Golfo como Jordânia, Bahrein, Catar, Omã e Emirados Árabes Unidos após novos ataques dos Estados Unidos. Teerã anunciou o fechamento do Estreito de Ormuz, uma rota marítima estratégica. O número de tráfego marítimo no estreito diminuiu consideravelmente.",
-    "categoria": "internacional",
+    "id": "2026-07-13-copa-do-mundo-semifinal",
+    "data": "2026-07-13",
+    "titulo": "Semifinais da Copa do Mundo terão confrontos históricos e emoção",
+    "resumo": "A Copa do Mundo se aproxima das semifinais, com confrontos que evocam memórias de duelos passados. Argentina e Inglaterra se reencontram em uma partida que promete ser histórica, lembrando o embate de 1986. Já a França busca uma revanche contra a Espanha após vitórias em suas respectivas quartas de final. O atacante norueguês Sorloth tem recebido ameaças após a eliminação de sua seleção.",
+    "categoria": "esportes",
     "tags": [
-      "geopolítica",
-      "conflito",
-      "navegação"
+      "Copa do Mundo",
+      "futebol",
+      "semifinal",
+      "Argentina",
+      "Inglaterra",
+      "França",
+      "Espanha",
+      "Noruega"
     ],
     "entidades": [
-      "IRGC",
-      "EUA"
+      "FIFA"
     ],
-    "pessoas": [],
+    "pessoas": [
+      "Sorloth"
+    ],
+    "estados": [],
+    "cidades": [
+      "Atlanta"
+    ],
+    "paises": [
+      "Argentina",
+      "Inglaterra",
+      "França",
+      "Espanha",
+      "Noruega",
+      "Marrocos",
+      "Bélgica"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/argentina-x-inglaterra-tera-coincidencia-historica-com-duelo-de-1986/"
+      },
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/sorloth-recebe-ameacas-apos-eliminacao-da-noruega-na-copa-do-mundo/"
+      },
+      {
+        "nome": "France24",
+        "url": "https://www.france24.com/en/world-cup-semifinal-will-france-get-their-revenge-on-spain"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-13-politica-eua-lindsey-graham",
+    "data": "2026-07-13",
+    "titulo": "Morte de Lindsey Graham gera movimentação política nos EUA; Trump pede honras póstumas",
+    "resumo": "A morte súbita do senador republicano Lindsey Graham gerou uma corrida para sua substituição no Congresso americano. O ex-presidente Donald Trump solicitou que todas as bandeiras dos Estados Unidos sejam baixadas em honra ao senador falecido. A ausência de Mitch McConnell também adiciona obstáculos.",
+    "categoria": "politica",
+    "tags": [
+      "EUA",
+      "política",
+      "Congresso",
+      "senador",
+      "morte",
+      "Trump"
+    ],
+    "entidades": [
+      "Congresso dos Estados Unidos"
+    ],
+    "pessoas": [
+      "Lindsey Graham",
+      "Donald Trump",
+      "Mitch McConnell"
+    ],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Irã",
-      "Jordânia",
-      "Bahrein",
-      "Catar",
-      "Omã",
-      "Emirados Árabes Unidos",
       "Estados Unidos"
     ],
-    "importancia": 5,
+    "importancia": 4,
     "fontes": [
       {
         "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jul/12/iran-gulf-us-strikes-jordan-qatar-uae-strait-hormuz-latest-news-updates-live"
-      },
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-releases-video-of-retaliatory-missile-strikes?traffic_source=rss"
-      },
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/rota-sul-de-oma-por-ormuz-segue-aberta-diz-orgao-supervisionado-pelos-eua/"
+        "url": "https://www.theguardian.com/us-news/live/2026/jul/13/congress-capitol-lindsey-graham-trump-republicans-democrats-us-politics-latest-news-updates"
       }
     ]
   },
   {
-    "id": "mega-sena-resultados-estados",
-    "data": "2026-07-12",
-    "titulo": "Apostas de Tocantins e Goiás acertam cinco dezenas na Mega-Sena; Piauí tem 22 ganhadores de quatro números",
-    "resumo": "Duas apostas do Tocantins e duas de Goiás acertaram cinco números na Mega-Sena, cada uma faturando valores entre R$ 42 mil e R$ 85 mil. No Piauí, 22 apostas acertaram quatro números e receberam prêmios entre R$ 960 e R$ 5.760. O prêmio principal não foi ganho neste concurso.",
+    "id": "2026-07-13-economia-coreia-sul-ia",
+    "data": "2026-07-13",
+    "titulo": "Coreia do Sul anuncia orçamento recorde impulsionado por investimentos em Inteligência Artificial",
+    "resumo": "A Coreia do Sul anunciou um orçamento recorde para 2027, no valor de US$ 530,97 bilhões. Grande parte desses recursos será direcionada para três megaprojetos focados em inteligência artificial. O objetivo é impulsionar o desenvolvimento tecnológico e a competitividade do país.",
     "categoria": "economia",
     "tags": [
-      "loteria",
-      "sorteio",
-      "premiação"
-    ],
-    "entidades": [
-      "Caixa Econômica Federal"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Tocantins",
-      "Goiás",
-      "Piauí"
-    ],
-    "cidades": [
-      "Palmas",
-      "Gurupi"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/12/mega-sena-apostas-do-tocantins-faturam-r-84-mil-ao-acertar-cinco-dezenas.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/go/goias/noticia/2026/07/12/mega-sena-duas-apostas-de-goias-acertam-cinco-numeros-e-levam-juntas-quase-r-85-mil.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/12/resultado-mega-sena-3030.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "dia-nacional-funk",
-    "data": "2026-07-12",
-    "titulo": "Dia Nacional do Funk é celebrado com festival inédito em Bauru e discussões sobre a origem do gênero",
-    "resumo": "O Dia Nacional do Funk, celebrado neste domingo (12), destaca a força e a origem do gênero musical que representa a cultura das periferias. Um festival inédito em Bauru reunirá diversos artistas do funk. A data também impulsiona discussões sobre a simbologia por trás das alcunhas utilizadas no funk paulista.",
-    "categoria": "cultura",
-    "tags": [
-      "música",
-      "funk",
-      "cultura periférica"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Bauru"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/pop/musica/dia-nacional-do-funk-e-celebrado-neste-domingo-12-entenda-origem-da-data/"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/07/12/do-preconceito-ao-topo-das-paradas-musicais-dia-do-funk-celebra-forca-do-genero-que-ganha-festival-inedito-em-bauru.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/12/palhacos-magos-e-bruxas-conheca-a-simbologia-por-tras-das-alcunhas-que-dominam-o-funk.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "calor-extremo-coreia-sul",
-    "data": "2026-07-12",
-    "titulo": "Coreia do Sul emite alerta máximo de calor pela primeira vez devido a onda de calor intensa",
-    "resumo": "A Coreia do Sul ativou seu alerta de calor no nível máximo pela primeira vez em resposta a uma onda de calor que afeta o sudeste do país. Este novo sistema de alerta é acionado quando as condições climáticas atingem níveis extremos. A forte onda de calor tem gerado preocupações.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "clima",
-      "onda de calor",
-      "alertas meteorológicos"
+      "Coreia do Sul",
+      "orçamento",
+      "Inteligência Artificial",
+      "tecnologia",
+      "investimento"
     ],
     "entidades": [],
     "pessoas": [],
@@ -177,32 +187,32 @@
     "paises": [
       "Coreia do Sul"
     ],
-    "importancia": 4,
+    "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/meio-ambiente/noticia/2026/07/12/sob-calor-extremo-coreia-do-sul-aciona-novo-alerta-maximo-pela-primeira-vez.ghtml"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/coreia-do-sul-anuncia-orcamento-recorde-para-2027-impulsionada-por-ia/"
       }
     ]
   },
   {
-    "id": "focos-queimadas-acre",
-    "data": "2026-07-12",
-    "titulo": "Focos de queimadas no Acre caem 43% no primeiro semestre de 2026",
-    "resumo": "O Acre registrou uma queda de 43% nos focos de queimadas no primeiro semestre de 2026, comparado ao mesmo período do ano anterior. Segundo o Inpe, foram identificados 41 focos de janeiro a junho. Apesar da redução, o período de estiagem ainda exige atenção para incêndios.",
-    "categoria": "meio-ambiente",
+    "id": "2026-07-13-justica-tokstok",
+    "data": "2026-07-13",
+    "titulo": "Justiça aceita pedido de recuperação judicial da dona da Tok&Stok",
+    "resumo": "A Justiça acatou o pedido de recuperação judicial da empresa dona da Tok&Stok. Como consequência, o Grupo Toky terá que apresentar suas contas mensalmente. Caso contrário, seus controladores e administradores poderão ser destituídos.",
+    "categoria": "justica",
     "tags": [
-      "queimadas",
-      "meio ambiente",
-      "incêndios"
+      "Recuperação Judicial",
+      "Tok&Stok",
+      "empresa",
+      "justiça"
     ],
     "entidades": [
-      "Inpe"
+      "Tok&Stok",
+      "Grupo Toky"
     ],
     "pessoas": [],
-    "estados": [
-      "Acre"
-    ],
+    "estados": [],
     "cidades": [],
     "paises": [
       "Brasil"
@@ -210,521 +220,640 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ac/acre/noticia/2026/07/12/focos-de-queimadas-no-acre-caem-43percent-no-primeiro-semestre-de-2026-aponta-inpe.ghtml"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/negocios/justica-aceita-pedido-de-recuperacao-judicial-da-dona-da-tokstok/"
       }
     ]
   },
   {
-    "id": "acidentes-transito-gravida-filha",
-    "data": "2026-07-12",
-    "titulo": "Mãe e filha morrem em grave acidente de trânsito na Paraíba; buscas por jovem desaparecida após capotamento continuam",
-    "resumo": "Duas mulheres morreram em um grave acidente de trânsito registrado na BR-101, na zona rural de Santa Rita, na Grande João Pessoa. Em Parnaíba, no Piauí, as buscas por uma jovem desaparecida após o capotamento de um carro chegaram ao quarto dia. A polícia recuperou mais de 300 veículos roubados na Paraíba.",
+    "id": "2026-07-13-meio-ambiente-para",
+    "data": "2026-07-13",
+    "titulo": "Vídeo registra canto raro do Uirapuru-da-Guiana em área preservada no Pará",
+    "resumo": "Um vídeo registrou o canto do Uirapuru-da-Guiana em uma área preservada do estado do Pará. O registro foi feito por um biólogo durante uma atividade de monitoramento de aves no município de Oriximiná. A ocorrência do canto em meio à tranquilidade da floresta chamou a atenção.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "Pará",
+      "Uirapuru-da-Guiana",
+      "avifauna",
+      "preservação",
+      "natureza",
+      "vídeo"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Vinicius Costa"
+    ],
+    "estados": [
+      "Pará"
+    ],
+    "cidades": [
+      "Oriximiná"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/13/video-registra-canto-do-uirapuru-da-guiana-em-area-preservada-do-para.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-13-seguranca-mg-cemiterio",
+    "data": "2026-07-13",
+    "titulo": "Prefeitura apura denúncia de churrasco e consumo de álcool em cemitério de Minas Gerais",
+    "resumo": "A Prefeitura de Divinópolis, em Minas Gerais, instaurou uma comissão para investigar denúncias de um churrasco e consumo de bebidas alcoólicas em um cemitério municipal. O caso teria ocorrido no último fim de semana.",
     "categoria": "seguranca",
     "tags": [
-      "acidente de trânsito",
-      "ocorrência policial",
-      "buscas"
+      "Minas Gerais",
+      "Divinópolis",
+      "cemitério",
+      "investigação",
+      "denúncia"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Divinópolis"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/07/13/prefeitura-apura-denuncia-de-churrasco-e-consumo-de-alcool-em-cemiterio-de-mg.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-13-seguranca-acidente-volta-redonda",
+    "data": "2026-07-13",
+    "titulo": "Homem é atropelado por carro na BR-393, em Volta Redonda (RJ)",
+    "resumo": "Um homem de aproximadamente 36 anos foi atropelado por um carro na BR-393, em Volta Redonda, no Rio de Janeiro. O acidente ocorreu no bairro Conforto na manhã desta segunda-feira. A vítima foi socorrida pelo Corpo de Bombeiros.",
+    "categoria": "seguranca",
+    "tags": [
+      "Volta Redonda",
+      "acidente",
+      "atropelamento",
+      "BR-393",
+      "Rio de Janeiro"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Volta Redonda"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/13/acidentes-em-volta-redonda.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-13-seguranca-acidente-brejo-madre-de-deus",
+    "data": "2026-07-13",
+    "titulo": "Jovem morre e outro fica ferido em acidente de motocicleta em Pernambuco",
+    "resumo": "Um jovem de 28 anos morreu e outra pessoa ficou ferida em um grave acidente de motocicleta na PE-145, em Brejo da Madre de Deus, no Agreste de Pernambuco. O acidente aconteceu na madrugada desta segunda-feira. A vítima fatal foi identificada como José Aldair.",
+    "categoria": "seguranca",
+    "tags": [
+      "Pernambuco",
+      "acidente",
+      "motocicleta",
+      "morte",
+      "ferido",
+      "Brejo da Madre de Deus"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "José Aldair"
+    ],
+    "estados": [
+      "Pernambuco"
+    ],
+    "cidades": [
+      "Brejo da Madre de Deus"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/07/13/jovem-morre-e-outro-fica-ferido-em-acidente-de-motocicleta-na-pe-145-em-brejo-da-madre-de-deus.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-13-seguranca-acidente-botucatu",
+    "data": "2026-07-13",
+    "titulo": "Motorista bêbado e sem CNH capota carro em Botucatu (SP)",
+    "resumo": "Um homem sem carteira de habilitação e com sinais de embriaguez foi preso após capotar um carro em Botucatu, São Paulo. O acidente ocorreu na madrugada de domingo após o motorista colidir o veículo contra uma árvore. Ele foi autuado em flagrante.",
+    "categoria": "seguranca",
+    "tags": [
+      "Botucatu",
+      "acidente",
+      "embriaguez",
+      "CNH",
+      "capotamento",
+      "São Paulo"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Botucatu"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/07/13/motorista-sem-cnh-e-alcoolizado-bate-contra-arvore-e-capota-carro-em-botucatu.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-13-economia-emprego-piaui",
+    "data": "2026-07-13",
+    "titulo": "Sine oferta mais de 300 vagas de emprego no Piauí",
+    "resumo": "O Sistema Nacional de Emprego (Sine) está oferecendo 349 vagas de trabalho no Piauí nesta segunda-feira. As oportunidades estão disponíveis em Teresina, Parnaíba, Picos, Floriano e Piripiri. O Sine atua na intermediação de mão de obra para recolocação no mercado de trabalho.",
+    "categoria": "economia",
+    "tags": [
+      "Piauí",
+      "Sine",
+      "vagas de emprego",
+      "trabalho",
+      "oportunidades"
     ],
     "entidades": [
-      "Polícia Civil da Paraíba"
+      "Sine"
     ],
     "pessoas": [],
     "estados": [
-      "Paraíba",
       "Piauí"
     ],
     "cidades": [
-      "João Pessoa",
-      "Santa Rita",
-      "Parnaíba"
+      "Teresina",
+      "Parnaíba",
+      "Picos",
+      "Floriano",
+      "Piripiri"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 4,
+    "importancia": 2,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/12/mae-e-filha-morrem-em-grave-acidente-de-transito-em-distrito-na-grande-joao-pessoa.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/12/buscas-mulher-desaparecida-apos-capotamento-em-parnaiba.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/12/mais-de-300-veiculos-roubados-sao-recuperados-pela-policia-civil-da-paraiba-em-2026.ghtml"
+        "url": "https://g1.globo.com/pi/piaui/trabalho-e-carreira/noticia/2026/07/13/sine-vagas-emprego-teresina-interior.ghtml"
       }
     ]
   },
   {
-    "id": "incendio-apartamento-sp",
-    "data": "2026-07-12",
-    "titulo": "Idosa morre após incêndio em apartamento na Zona Sul de São Paulo",
-    "resumo": "Uma idosa de 69 anos morreu em decorrência de um incêndio que atingiu seu apartamento na Zona Sul de São Paulo. As chamas foram controladas pelo Corpo de Bombeiros. O incidente ocorreu na madrugada de domingo.",
-    "categoria": "seguranca",
+    "id": "2026-07-13-economia-emprego-bahia",
+    "data": "2026-07-13",
+    "titulo": "Feira de Santana e região oferecem vagas de emprego nesta segunda-feira (13)",
+    "resumo": "O SineBahia divulgou as vagas de emprego e estágio disponíveis para Feira de Santana e região nesta segunda-feira. O SineBahia é um órgão estadual que oferece intermediação para o trabalho de forma gratuita. Os interessados podem consultar as oportunidades disponíveis.",
+    "categoria": "economia",
     "tags": [
-      "incêndio",
-      "vítima fatal",
-      "combate a incêndios"
+      "Bahia",
+      "Feira de Santana",
+      "SineBahia",
+      "vagas de emprego",
+      "trabalho",
+      "estágio"
     ],
     "entidades": [
-      "Corpo de Bombeiros"
+      "SineBahia"
     ],
     "pessoas": [],
     "estados": [
-      "São Paulo"
+      "Bahia"
     ],
     "cidades": [
-      "São Paulo"
+      "Feira de Santana"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 4,
+    "importancia": 2,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/12/idosa-morre-apos-incendio-em-apartamento-no-capao-redondo-zona-sul-de-sp.ghtml"
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/13/vagas-de-emprego-disponiveis-em-feira-de-santana-e-regiao.ghtml"
       }
     ]
   },
   {
-    "id": "replantio-manguezal-guapimirim",
-    "data": "2026-07-12",
-    "titulo": "Projeto de restauração recupera manguezal degradado em Guapimirim e atrai mais de 70 espécies",
-    "resumo": "Uma área degradada de manguezal na APA de Guapimirim passou por um projeto de restauração ambiental iniciado em 2023. O trabalho resultou na recuperação da área e atraiu de volta mais de 70 espécies. O projeto visa a conservação ambiental.",
-    "categoria": "meio-ambiente",
+    "id": "2026-07-13-seguranca-afogamento-go",
+    "data": "2026-07-13",
+    "titulo": "Amigo retira corpo de advogado que morreu afogado em pescaria em Goiás",
+    "resumo": "Um advogado morreu durante uma pescaria em Cachoeira Dourada, no sul de Goiás. Segundo o Corpo de Bombeiros, um amigo conseguiu retirá-lo da água e levá-lo para pedras próximas à margem. A suspeita é de afogamento.",
+    "categoria": "seguranca",
     "tags": [
-      "restauração ambiental",
-      "manguezal",
-      "conservação"
+      "Goiás",
+      "afogamento",
+      "pescaria",
+      "advogado",
+      "morte",
+      "Cachoeira Dourada"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Antônio Andriêr da Silva"
+    ],
+    "estados": [
+      "Goiás"
+    ],
+    "cidades": [
+      "Cachoeira Dourada"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/go/goias/noticia/2026/07/13/amigo-de-advogado-que-morreu-em-pescaria-conseguiu-tira-lo-da-agua-e-levar-corpo-para-pedras-proximas-a-margem-dizem-bombeiros.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-13-seguranca-afogamento-to",
+    "data": "2026-07-13",
+    "titulo": "Policial penal morre afogado durante banho no Rio Tocantins",
+    "resumo": "Um policial penal de 32 anos morreu afogado enquanto tomava banho no Rio Tocantins, em Peixe, Tocantins. O incidente ocorreu na Praia do Elias, segundo informações do Corpo de Bombeiros. Testemunhas relataram que a vítima estava nadando no rio.",
+    "categoria": "seguranca",
+    "tags": [
+      "Tocantins",
+      "afogamento",
+      "policial penal",
+      "Rio Tocantins",
+      "morte",
+      "Peixe"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Alessandro de Souza Rodrigues"
+    ],
+    "estados": [
+      "Tocantins"
+    ],
+    "cidades": [
+      "Peixe"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/13/policial-penal-morre-afogado-durante-banho-no-rio-tocantins.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-13-infraestrutura-pb-agua",
+    "data": "2026-07-13",
+    "titulo": "Bairro em Santa Rita (PB) terá fornecimento de água suspenso nesta terça-feira (14)",
+    "resumo": "O bairro Heitel Santiago, em Santa Rita, na Paraíba, terá o fornecimento de água interrompido temporariamente nesta terça-feira (14). A suspensão é necessária para a realização de serviços de manutenção na rede de abastecimento. A interrupção afetará os moradores do bairro.",
+    "categoria": "infraestrutura",
+    "tags": [
+      "Paraíba",
+      "Santa Rita",
+      "água",
+      "abastecimento",
+      "interrupção",
+      "manutenção"
     ],
     "entidades": [
-      "Projeto Meros do Brasil"
+      "ANE"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Paraíba"
+    ],
+    "cidades": [
+      "Santa Rita"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/13/bairro-de-santa-rita-na-pb-tera-fornecimento-de-agua-suspenso-nesta-terca-feira-14.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-13-seguranca-salvamento-ma",
+    "data": "2026-07-13",
+    "titulo": "Nove pessoas são resgatadas após embarcação correr risco de naufrágio no Rio Balsas (MA)",
+    "resumo": "Oito mulheres e uma criança foram resgatadas de uma embarcação que apresentava risco de naufrágio no Rio Balsas, na zona rural de Balsas, Maranhão. O incidente ocorreu no último sábado (11) e ninguém se feriu. As equipes de resgate agiram rapidamente para garantir a segurança dos passageiros.",
+    "categoria": "seguranca",
+    "tags": [
+      "Maranhão",
+      "Rio Balsas",
+      "resgate",
+      "naufrágio",
+      "embarcação",
+      "mulheres",
+      "criança"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Maranhão"
+    ],
+    "cidades": [
+      "Balsas"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/13/oito-mulheres-e-uma-crianca-sao-resgatadas-apos-embarcacao-correr-risco-de-naufragio-no-rio-balsas.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-13-seguranca-tentativa-homicidio-rj",
+    "data": "2026-07-13",
+    "titulo": "Disque Denúncia divulga cartaz para localizar suspeitos de tentativa de homicídio em São Pedro da Aldeia (RJ)",
+    "resumo": "O Disque Denúncia divulgou um cartaz para auxiliar a Polícia Civil na localização de três suspeitos de envolvimento em uma tentativa de homicídio ocorrida em São Pedro da Aldeia, Rio de Janeiro, em abril de 2026. A polícia busca informações que levem à captura dos indivíduos.",
+    "categoria": "seguranca",
+    "tags": [
+      "Rio de Janeiro",
+      "São Pedro da Aldeia",
+      "tentativa de homicídio",
+      "suspeitos",
+      "Disque Denúncia",
+      "polícia"
+    ],
+    "entidades": [
+      "Disque Denúncia",
+      "Polícia Civil"
     ],
     "pessoas": [],
     "estados": [
       "Rio de Janeiro"
     ],
     "cidades": [
-      "Guapimirim"
+      "São Pedro da Aldeia"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 3,
+    "importancia": 2,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/rj/rio-de-janeiro/globo-comunidade-rj/noticia/2026/07/12/replantio-recupera-area-degradada-de-manguezal-em-guapimirim.ghtml"
+        "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/13/disque-denuncia-divulga-cartaz-para-localizar-tres-suspeitos-de-tentativa-de-homicidio-em-sao-pedro-da-aldeia.ghtml"
       }
     ]
   },
   {
-    "id": "jovem-prende-mae-plano-matar",
-    "data": "2026-07-12",
-    "titulo": "Jovem descobre plano da mãe para matar mulher e alerta polícia no Paraná; mãe é presa",
-    "resumo": "Um jovem no Paraná descobriu um plano de sua mãe para cometer um assassinato e alertou as autoridades. Ele gravou mensagens da mãe sobre o planejamento do crime, após o que foi ameaçado por ela. A mulher foi presa após a denúncia.",
-    "categoria": "justica",
-    "tags": [
-      "crimes",
-      "polícia",
-      "prisão"
-    ],
-    "entidades": [
-      "Polícia"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Paraná"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/filho-descobre-plano-da-mae-para-matar-mulher-e-alerta-policia-no-parana/"
-      }
-    ]
-  },
-  {
-    "id": "el-nino-agro",
-    "data": "2026-07-12",
-    "titulo": "El Niño pode ser o mais forte desde 1950; efeitos no agronegócio e mercado global são destacados",
-    "resumo": "O fenômeno El Niño pode se tornar o mais forte registrado desde 1950, com potenciais impactos significativos no agronegócio. Os efeitos do El Niño não serão uniformes em todo o país. A situação também deve ser acompanhada no mercado global.",
-    "categoria": "economia",
-    "tags": [
-      "clima",
-      "agronegócio",
-      "fenômeno climático"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/agro/el-nino-pode-ser-o-mais-forte-desde-1950-entenda-efeitos-no-agro/"
-      }
-    ]
-  },
-  {
-    "id": "el-nino-preocupacao",
-    "data": "2026-07-12",
-    "titulo": "Fortes chuvas no Sul e seca no Nordeste marcam efeitos do El Niño",
-    "resumo": "A aproximação de um evento El Niño pode intensificar as chuvas na Região Sul e agravar a seca no Nordeste. Especialistas alertam para impactos significativos no agronegócio, com efeitos que se estenderão ao mercado global. A previsão indica um dos episódios mais fortes desde 1950.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "El Niño",
-      "clima",
-      "agricultura"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio Grande do Sul",
-      "Santa Catarina",
-      "Paraná",
-      "Nordeste"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/agro/el-nino-pode-ser-o-mais-forte-desde-1950-entenda-efeitos-no-agro/"
-      }
-    ]
-  },
-  {
-    "id": "resgate-casal-espanha",
-    "data": "2026-07-12",
-    "titulo": "Casal britânico gravemente queimado é resgatado de ravina durante incêndios na Espanha",
-    "resumo": "Um casal britânico foi resgatado em estado grave de queimaduras após ser encontrado semi-consciente em uma ravina na província de Almeria, na Espanha. As vítimas, com cerca de 40% de queimaduras, ficaram presas durante os incêndios que atingiram a região. Informações locais detalham o resgate.",
-    "categoria": "internacional",
-    "tags": [
-      "incêndios florestais",
-      "resgate",
-      "acidente"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Andaluzia"
-    ],
-    "cidades": [
-      "Almeria"
-    ],
-    "paises": [
-      "Espanha",
-      "Reino Unido"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss"
-      }
-    ]
-  },
-  {
-    "id": "celebracao-dia-nacional-funk",
-    "data": "2026-07-12",
-    "titulo": "Dia do Funk celebra a ascensão do gênero musical com festival inédito e discussões sobre sua simbologia",
-    "resumo": "O Dia Nacional do Funk, celebrado neste domingo (12), destaca a importância cultural do gênero musical, que aborda desde a realidade da periferia até a ostentação. Um festival inédito em Bauru reunirá artistas do funk, evidenciando a força do gênero. Além disso, a data impulsiona reflexões sobre a simbologia das alcunhas utilizadas no funk.",
-    "categoria": "cultura",
-    "tags": [
-      "música",
-      "funk",
-      "cultura urbana"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Bauru"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/07/12/do-preconceito-ao-topo-das-paradas-musicais-dia-do-funk-celebra-forca-do-genero-que-ganha-festival-inedito-em-bauru.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/12/palhacos-magos-e-bruxas-conheca-a-simbologia-por-tras-das-alcunhas-que-dominam-o-funk.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "desaparecimento-jovem-parnaiba",
-    "data": "2026-07-12",
-    "titulo": "Buscas por jovem desaparecida após capotamento em Parnaíba chegam ao quarto dia",
-    "resumo": "As buscas por Renata Araújo Pereira, de 26 anos, que desapareceu após um carro capotar na Estrada em Parnaíba, no litoral do Piauí, completaram quatro dias neste domingo. O Corpo de Bombeiros continua os trabalhos de procura pela jovem.",
+    "id": "2026-07-13-seguranca-furto-onibus-sp",
+    "data": "2026-07-13",
+    "titulo": "Ônibus furtado bate em muro de supermercado em São Paulo",
+    "resumo": "Um ônibus que havia sido furtado em São Paulo colidiu contra o muro de um supermercado. O veículo estava parado no ponto inicial de sua linha e não havia passageiros no momento do furto e acidente. A SPTrans informou sobre o ocorrido.",
     "categoria": "seguranca",
     "tags": [
-      "desaparecimento",
-      "buscas",
-      "acidente"
+      "São Paulo",
+      "ônibus",
+      "furto",
+      "acidente",
+      "supermercado"
     ],
     "entidades": [
-      "Corpo de Bombeiros"
+      "SPTrans"
     ],
-    "pessoas": [
-      "Renata Araújo Pereira"
-    ],
-    "estados": [
-      "Piauí"
-    ],
-    "cidades": [
-      "Parnaíba"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/12/buscas-mulher-desaparecida-apos-capotamento-em-parnaiba.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "festa-integracao-nordestina-pará",
-    "data": "2026-07-12",
-    "titulo": "Festa da Integração Nordestina no Pará encerra com público recorde e show de Joelma",
-    "resumo": "A 14ª Festa da Integração Nordestina, realizada em Mojuí dos Campos, no Pará, foi encerrada com um público recorde. O evento contou com um show da cantora Joelma e consolidou mais uma edição de sucesso. A festa celebra a cultura nordestina.",
-    "categoria": "cultura",
-    "tags": [
-      "evento cultural",
-      "música",
-      "tradição"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Joelma"
-    ],
-    "estados": [
-      "Pará"
-    ],
-    "cidades": [
-      "Mojuí dos Campos"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/12/festa-da-integracao-nordestina-encerra-edicao-com-publico-recorde-e-show-de-joelma-em-mojui-dos-campos.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "peao-mini-touros",
-    "data": "2026-07-12",
-    "titulo": "Aos 10 anos, peão enfrenta mini touros em rodeios e sonha com campeonato mundial",
-    "resumo": "Benjamin Iago, um menino de 10 anos de Olímpia, São Paulo, se destaca nas competições de rodeio ao montar em mini touros de até 400 kg. Ele sonha em se tornar campeão mundial e treina intensamente para alcançar seu objetivo. O jovem demonstra paixão precoce pelo esporte.",
-    "categoria": "esportes",
-    "tags": [
-      "rodeio",
-      "esporte",
-      "juventude"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Benjamin Iago"
-    ],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Olímpia"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/12/aos-10-anos-peao-enfrenta-mini-touros-de-ate-400-kg-em-rodeios-e-sonha-com-campeonato-mundial-treinar-duro-para-montar-facil.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "empreendedor-pimenta-sp",
-    "data": "2026-07-12",
-    "titulo": "Empreendedor supera passado nas ruas e cria marca de pimenta de sucesso no interior de SP",
-    "resumo": "D'jã Diego Cobos Melo, conhecido como Diego El Cabron, superou um passado de dificuldades nas ruas para criar uma marca de pimenta de sucesso no interior de São Paulo. Ele utiliza uma receita guardada há 25 anos e percorre as ruas para divulgar seus produtos. Seu trabalho é descrito como um dia de cada vez.",
-    "categoria": "economia",
-    "tags": [
-      "empreendedorismo",
-      "superação",
-      "negócios"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "D'jã Diego Cobos Melo"
-    ],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Presidente Prudente"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/07/12/com-receita-guardada-ha-25-anos-empreendedor-supera-passado-nas-ruas-e-cria-pimenta-de-sucesso-no-interior-de-sp-um-dia-de-cada-vez.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "canyons-paulistas",
-    "data": "2026-07-12",
-    "titulo": "Cânions Paulistas: paisagens geológicas de milhões de anos formam patrimônio natural no sudoeste de SP",
-    "resumo": "O sudoeste de São Paulo abriga os Cânions Paulistas, formados por paisagens geológicas com milhões de anos. A região, que inclui municípios como Bom Sucesso de Itararé e Itararé, representa um dos maiores patrimônios naturais do estado. A geologia local contribuiu para a formação dessas paisagens únicas.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "geologia",
-      "patrimônio natural",
-      "paisagens"
-    ],
-    "entidades": [],
     "pessoas": [],
     "estados": [
       "São Paulo"
     ],
-    "cidades": [
-      "Bom Sucesso de Itararé",
-      "Itaberá",
-      "Itapeva",
-      "Itararé",
-      "Nova Campina",
-      "Ribeirão Branco",
-      "Taquarivaí"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/07/12/canions-paulistas-como-paisagens-de-milhoes-de-anos-formaram-um-dos-maiores-patrimonios-naturais-do-sudoeste-de-sp.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "brasileirao-semifinalistas-copa",
-    "data": "2026-07-12",
-    "titulo": "Brasileirão tem um único representante entre os semifinalistas da Copa",
-    "resumo": "Apenas um jogador do futebol brasileiro, Flaco López, atacante argentino do Palmeiras, figura entre os semifinalistas da Copa. A notícia destaca a presença solitária do atleta em uma fase tão avançada do torneio. O cenário aponta para a predominância de outros campeonatos nas semifinais.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "Copa",
-      "semifinalistas"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Flaco López"
-    ],
-    "estados": [],
     "cidades": [],
     "paises": [
       "Brasil"
     ],
-    "importancia": 3,
+    "importancia": 1,
     "fontes": [
       {
         "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/brasileirao-tem-um-unico-representante-entre-os-semifinalistas-da-copa/"
+        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/onibus-furtado-bate-em-muro-de-supermercado-em-sp-veja-video/"
       }
     ]
   },
   {
-    "id": "vida-sheik-hamad-bin-khalifa-al-thani",
-    "data": "2026-07-12",
-    "titulo": "Momentos chave da vida do ex-Emir do Catar, Sheikh Hamad bin Khalifa Al Thani",
-    "resumo": "A reportagem destaca momentos importantes da vida de Sheikh Hamad bin Khalifa Al Thani, ex-Emir do Catar. Seu reinado de 18 anos é creditado por impulsionar o Catar à prosperidade e remodelar sua atuação doméstica, regional e global. A matéria oferece um resumo de sua trajetória.",
-    "categoria": "internacional",
+    "id": "2026-07-13-cultura-pernambuco-serenata",
+    "data": "2026-07-13",
+    "titulo": "27ª Serenata da Recordação em Santa Maria da Boa Vista (PE) começa nesta quarta-feira (15)",
+    "resumo": "A 27ª edição da Serenata da Recordação terá início nesta quarta-feira (15) em Santa Maria da Boa Vista, Pernambuco. A programação inclui a cerimônia de entrega de placas e a apresentação de Zé de Célia. O evento é uma tradição cultural da região.",
+    "categoria": "cultura",
     "tags": [
-      "política",
-      "história",
-      "Oriente Médio"
+      "Pernambuco",
+      "Santa Maria da Boa Vista",
+      "Serenata da Recordação",
+      "cultura",
+      "música",
+      "evento"
     ],
     "entidades": [],
     "pessoas": [
-      "Sheikh Hamad bin Khalifa Al Thani"
+      "Zé de Célia"
     ],
+    "estados": [
+      "Pernambuco"
+    ],
+    "cidades": [
+      "Santa Maria da Boa Vista"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/07/13/27a-serenata-da-recordacao-em-santa-maria-da-boa-vista-comeca-nesta-quarta-veja-a-programacao.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-13-justica-rio-greve-onibus",
+    "data": "2026-07-13",
+    "titulo": "TRT remarca audiência sobre greve de ônibus no Rio de Janeiro",
+    "resumo": "O Tribunal Regional do Trabalho (TRT) remarcou para quarta-feira (15) uma audiência de conciliação referente à greve de ônibus no Rio de Janeiro. A categoria permanece em estado de greve enquanto as negociações avançam. A audiência é parte do processo de mediação.",
+    "categoria": "justica",
+    "tags": [
+      "Rio de Janeiro",
+      "greve",
+      "ônibus",
+      "TRT",
+      "audiência",
+      "conciliação"
+    ],
+    "entidades": [
+      "Tribunal Regional do Trabalho"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/trt-remarca-audiencia-sobre-greve-de-onibus-no-rio-de-janeiro/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-13-economia-paralisacao-caminhoneiros",
+    "data": "2026-07-13",
+    "titulo": "CNN Brasil relembra últimas paralisações de caminhoneiros e seus desfechos",
+    "resumo": "A CNN Brasil relembrou as últimas paralisações da categoria de caminhoneiros e como elas terminaram. Movimentos anteriores resultaram em mudanças na legislação, acordos sobre o preço do óleo diesel e a instituição da tabela de frete. A notícia aborda o histórico das greves.",
+    "categoria": "economia",
+    "tags": [
+      "Caminhoneiros",
+      "greve",
+      "paralisação",
+      "legislação",
+      "combustível",
+      "tabela de frete"
+    ],
+    "entidades": [],
+    "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Catar"
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/paralisacao-dos-caminhoneiros-relembre-ultimas-greves-e-como-acabaram/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-13-internacional-japao-agencia-inteligencia",
+    "data": "2026-07-13",
+    "titulo": "Japão planeja nova agência de inteligência com apoio ocidental",
+    "resumo": "O Japão planeja lançar seu primeiro órgão centralizado de inteligência com o auxílio de aliados ocidentais. A criação da agência visa fortalecer as capacidades de coleta e análise de informações do país em um cenário geopolítico em constante mudança.",
+    "categoria": "internacional",
+    "tags": [
+      "Japão",
+      "agência de inteligência",
+      "segurança nacional",
+      "tecnologia",
+      "cooperação internacional"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Tóquio"
+    ],
+    "paises": [
+      "Japão"
     ],
     "importancia": 3,
     "fontes": [
       {
         "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/7/12/key-moments-from-former-qatar-emir-sheikh-hamad-bin-khalifa-al-thanis-life?traffic_source=rss"
+        "url": "https://www.aljazeera.com/news/2026/7/13/what-is-japans-new-intelligence-agency-and-why-is-tokyo-building-it?traffic_source=rss"
       }
     ]
   },
   {
-    "id": "le-pen-khamenei-mbappe-france24",
-    "data": "2026-07-12",
-    "titulo": "Semana em imagens: Le Pen, funeral de Khamenei e gol de Mbappé",
-    "resumo": "A semana foi marcada pela liberação da líder de extrema-direita francesa Marine Le Pen para concorrer às eleições presidenciais, apesar de condenação. Houve também as cerimônias de funeral para o líder supremo do Irã, Ayatollah Ali Khamenei. No esporte, Kylian Mbappé e Lionel Messi foram destaque.",
-    "categoria": "politica",
+    "id": "2026-07-13-noticias-regionais-amazonia",
+    "data": "2026-07-13",
+    "titulo": "Bom Dia Amazônia desta segunda-feira (13 de julho de 2026)",
+    "resumo": "O telejornal Bom Dia Amazônia exibiu vídeos com as notícias locais da região amazônica na manhã desta segunda-feira, 13 de julho de 2026. O conteúdo abordou os acontecimentos relevantes para o estado.",
+    "categoria": "noticias",
     "tags": [
-      "política internacional",
-      "esportes",
-      "eventos notáveis"
+      "Amazônia",
+      "notícias",
+      "vídeos",
+      "local"
     ],
     "entidades": [],
-    "pessoas": [
-      "Marine Le Pen",
-      "Ayatollah Ali Khamenei",
-      "Kylian Mbappé",
-      "Lionel Messi"
+    "pessoas": [],
+    "estados": [
+      "Amazonas"
     ],
-    "estados": [],
     "cidades": [],
     "paises": [
-      "França",
-      "Irã"
+      "Brasil"
     ],
-    "importancia": 4,
+    "importancia": 1,
     "fontes": [
       {
-        "nome": "France24",
-        "url": "https://www.france24.com/en/americas/20260712-the-week-in-pictures-le-pen-s-comeback-khamenei-s-funeral-and-mbapp%C3%A9-s-wondergoal"
+        "nome": "G1",
+        "url": "https://g1.globo.com/am/amazonas/playlist/videos-bom-dia-amazonia-desta-segunda-feira-13-de-julho-de-2026.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-13-noticias-regionais-rio-janeiro",
+    "data": "2026-07-13",
+    "titulo": "Bom Dia Rio desta segunda-feira (13 de julho de 2026)",
+    "resumo": "O telejornal Bom Dia Rio apresentou os vídeos com as notícias do estado do Rio de Janeiro na manhã desta segunda-feira, 13 de julho de 2026. Os telespectadores puderam acompanhar os destaques regionais.",
+    "categoria": "noticias",
+    "tags": [
+      "Rio de Janeiro",
+      "notícias",
+      "vídeos",
+      "local"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/playlist/videos-bom-dia-rio-de-segunda-13-de-julho-de-2026.ghtml"
       }
     ]
   }
