@@ -1,215 +1,139 @@
 [
   {
-    "id": "2026-07-13-conflito-eua-ira",
-    "data": "2026-07-13",
-    "titulo": "Tensão aumenta no Oriente Médio com troca de ataques entre EUA e Irã pelo Estreito de Hormuz",
-    "resumo": "Estados Unidos e Irã trocaram intensos ataques com mísseis e drones durante o fim de semana e nesta segunda-feira, aumentando a pressão por um cessar-fogo. O tráfego pelo Estreito de Hormuz registrou os menores níveis em um mês, com o presidente dos EUA reivindicando o controle como guardião da rota marítima. O Irã afirmou ter atingido bases militares americanas em vários países do Oriente Médio em retaliação.",
+    "id": "2026-07-14-tensao-ormuz-petroleo",
+    "data": "2026-07-14",
+    "titulo": "Tensão no Estreito de Ormuz: Ataques a petroleiros e reações internacionais impactam mercado de petróleo e câmbio",
+    "resumo": "Ataques a petroleiros no Estreito de Ormuz e o bloqueio de navegação iraniana intensificaram as tensões no Oriente Médio. O preço do petróleo disparou no mercado internacional como reflexo dessa escalada. O dólar abriu em queda no Brasil após a notícia, enquanto o Ibovespa negociava em baixa.",
     "categoria": "internacional",
     "tags": [
       "Oriente Médio",
+      "petróleo",
       "EUA",
       "Irã",
-      "Estreito de Hormuz",
-      "conflito",
-      "ataques"
+      "Estreito de Ormuz",
+      "dólar",
+      "economia"
     ],
     "entidades": [
-      "Pentágono",
-      "Guarda Revolucionária do Irã"
-    ],
-    "pessoas": [
       "Donald Trump"
     ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos",
-      "Irã",
-      "Bahrein"
-    ],
-    "importancia": 5,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jul/13/us-iran-war-missile-strikes-news-attacks-strait-of-hormuz"
-      },
-      {
-        "nome": "France24",
-        "url": "https://www.france24.com/en/video/20260713-middle-east-war-iran-claims-strikes-on-us-bases-in-multiple-countries"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-13-investigacao-morte-ann-widdecombe",
-    "data": "2026-07-13",
-    "titulo": "Polícia antiterrorismo do Reino Unido assume investigação da morte da ex-ministra Ann Widdecombe",
-    "resumo": "A polícia antiterrorismo do Reino Unido assumiu as investigações sobre a morte da ex-ministra britânica Ann Widdecombe, encontrada morta em sua casa. Novas evidências levaram a equipe a assumir o caso. O governo anunciou o proscrito do Corpo da Guarda Revolucionária Islâmica.",
-    "categoria": "seguranca",
-    "tags": [
-      "Reino Unido",
-      "morte",
-      "investigação",
-      "polícia",
-      "terrorismo"
-    ],
-    "entidades": [
-      "Polícia Antiterrorismo do Reino Unido",
-      "Corpo da Guarda Revolucionária Islâmica"
-    ],
-    "pessoas": [
-      "Ann Widdecombe",
-      "Shabana Mahmood"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/07/13/policia-antiterrorismo-do-reino-unido-assume-investigacao-da-morte-de-ex-ministra-britanica.ghtml"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/13/shabana-mahmood-migration-rochdale-grooming-gang-pakistan-visas-immigration-andy-burnham-labour"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-13-copa-do-mundo-semifinal",
-    "data": "2026-07-13",
-    "titulo": "Semifinais da Copa do Mundo terão confrontos históricos e emoção",
-    "resumo": "A Copa do Mundo se aproxima das semifinais, com confrontos que evocam memórias de duelos passados. Argentina e Inglaterra se reencontram em uma partida que promete ser histórica, lembrando o embate de 1986. Já a França busca uma revanche contra a Espanha após vitórias em suas respectivas quartas de final. O atacante norueguês Sorloth tem recebido ameaças após a eliminação de sua seleção.",
-    "categoria": "esportes",
-    "tags": [
-      "Copa do Mundo",
-      "futebol",
-      "semifinal",
-      "Argentina",
-      "Inglaterra",
-      "França",
-      "Espanha",
-      "Noruega"
-    ],
-    "entidades": [
-      "FIFA"
-    ],
-    "pessoas": [
-      "Sorloth"
-    ],
-    "estados": [],
-    "cidades": [
-      "Atlanta"
-    ],
-    "paises": [
-      "Argentina",
-      "Inglaterra",
-      "França",
-      "Espanha",
-      "Noruega",
-      "Marrocos",
-      "Bélgica"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/argentina-x-inglaterra-tera-coincidencia-historica-com-duelo-de-1986/"
-      },
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/sorloth-recebe-ameacas-apos-eliminacao-da-noruega-na-copa-do-mundo/"
-      },
-      {
-        "nome": "France24",
-        "url": "https://www.france24.com/en/world-cup-semifinal-will-france-get-their-revenge-on-spain"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-13-politica-eua-lindsey-graham",
-    "data": "2026-07-13",
-    "titulo": "Morte de Lindsey Graham gera movimentação política nos EUA; Trump pede honras póstumas",
-    "resumo": "A morte súbita do senador republicano Lindsey Graham gerou uma corrida para sua substituição no Congresso americano. O ex-presidente Donald Trump solicitou que todas as bandeiras dos Estados Unidos sejam baixadas em honra ao senador falecido. A ausência de Mitch McConnell também adiciona obstáculos.",
-    "categoria": "politica",
-    "tags": [
-      "EUA",
-      "política",
-      "Congresso",
-      "senador",
-      "morte",
-      "Trump"
-    ],
-    "entidades": [
-      "Congresso dos Estados Unidos"
-    ],
-    "pessoas": [
-      "Lindsey Graham",
-      "Donald Trump",
-      "Mitch McConnell"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/live/2026/jul/13/congress-capitol-lindsey-graham-trump-republicans-democrats-us-politics-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-13-economia-coreia-sul-ia",
-    "data": "2026-07-13",
-    "titulo": "Coreia do Sul anuncia orçamento recorde impulsionado por investimentos em Inteligência Artificial",
-    "resumo": "A Coreia do Sul anunciou um orçamento recorde para 2027, no valor de US$ 530,97 bilhões. Grande parte desses recursos será direcionada para três megaprojetos focados em inteligência artificial. O objetivo é impulsionar o desenvolvimento tecnológico e a competitividade do país.",
-    "categoria": "economia",
-    "tags": [
-      "Coreia do Sul",
-      "orçamento",
-      "Inteligência Artificial",
-      "tecnologia",
-      "investimento"
-    ],
-    "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Coreia do Sul"
+      "Irã",
+      "Estados Unidos",
+      "Emirados Árabes Unidos",
+      "Austrália"
     ],
-    "importancia": 3,
+    "importancia": 5,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/coreia-do-sul-anuncia-orcamento-recorde-para-2027-impulsionada-por-ia/"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/economia/noticia/2026/07/14/dolar-ibovespa.ghtml"
+      },
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/ira-e-eua-trocam-ataques-enquanto-disputa-por-ormuz-se-intensifica-entenda/"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news"
       }
     ]
   },
   {
-    "id": "2026-07-13-justica-tokstok",
-    "data": "2026-07-13",
-    "titulo": "Justiça aceita pedido de recuperação judicial da dona da Tok&Stok",
-    "resumo": "A Justiça acatou o pedido de recuperação judicial da empresa dona da Tok&Stok. Como consequência, o Grupo Toky terá que apresentar suas contas mensalmente. Caso contrário, seus controladores e administradores poderão ser destituídos.",
+    "id": "2026-07-14-crimes-violentos-brasil",
+    "data": "2026-07-14",
+    "titulo": "Casos de homicídio, estelionato e maus-tratos são investigados em diferentes estados brasileiros",
+    "resumo": "Um homem foi morto a facão pelo vizinho no interior de São Paulo, e o suspeito foi preso. No Rio de Janeiro, a polícia investiga um golpe do falso mecânico que lesou uma mulher em mais de R$ 2 mil. Em Piedade (SP), animais foram encontrados mortos e mutilados em um sítio.",
     "categoria": "justica",
     "tags": [
-      "Recuperação Judicial",
-      "Tok&Stok",
-      "empresa",
-      "justiça"
+      "homicídio",
+      "estelionato",
+      "maus-tratos a animais",
+      "polícia",
+      "investigação"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Camila Lima",
+      "Felipe Gabriel Aparecido Alves",
+      "José Vinicius Alvila Cardoso"
+    ],
+    "estados": [
+      "São Paulo",
+      "Rio de Janeiro",
+      "Mato Grosso do Sul",
+      "Minas Gerais",
+      "Rio Grande do Sul",
+      "Piauí",
+      "Amazonas"
+    ],
+    "cidades": [
+      "Leme",
+      "Rio de Janeiro",
+      "Engenheiro Navarro",
+      "Piedade",
+      "Campo Grande",
+      "São João Nepomuceno",
+      "Manaus"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/07/14/video-homem-e-morto-pelo-vizinho-com-golpes-de-facao-no-interior-de-sp.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/14/golpe-do-falso-mecanico-mulher-paga-r-27-mil-por-conserto-que-nunca-foi-feito-no-rio-policia-investiga-o-caso.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/14/animais-sao-encontrados-mortos-e-mutilados-em-sitio-de-piedade-policia-investiga-o-caso.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/14/acidente-envolvendo-tres-caminhoes-deixa-um-motorista-morto-e-outro-ferido-na-br-135-em-engenheiro-navarro.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/14/foragido-do-sistema-prisional-morre-em-confronto-com-o-batalhao-de-choque-em-campo-grande.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/07/14/o-que-fiz-e-imperdoavel-monitor-demitido-de-escola-civico-militar-apos-queixa-de-abuso-contra-alunas-enviou-mensagem-a-familia.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/14/mulher-conduzida-escola-pi.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/14/ponte-na-zona-sul-de-manaus-e-alvo-de-furtos-de-pecas-de-ferro-e-depredacao-moradores-cobram-mais-seguranca.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-14-economia-empresarial-brasil",
+    "data": "2026-07-14",
+    "titulo": "Empresa de fertilizantes e rede de tratamento de câncer buscam renegociação de dívidas",
+    "resumo": "A Mosaic Fertilizantes reduziu sua produção no Brasil devido a restrições globais no fornecimento de enxofre. A Oncoclínicas, rede de tratamento contra o câncer, entrou com pedido de recuperação extrajudicial para renegociar R$ 5,1 bilhões em dívidas.",
+    "categoria": "economia",
+    "tags": [
+      "fertilizantes",
+      "saúde",
+      "dívidas",
+      "recuperação judicial",
+      "produção"
     ],
     "entidades": [
-      "Tok&Stok",
-      "Grupo Toky"
+      "Mosaic Fertilizantes",
+      "Oncoclínicas"
     ],
     "pessoas": [],
     "estados": [],
@@ -220,34 +144,285 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/economia/negocios/justica-aceita-pedido-de-recuperacao-judicial-da-dona-da-tokstok/"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/14/guerra-no-irao-empresa-de-fertilizante-mosaic-reduz-producao-no-brasil-por-falta-de-enxofre.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/economia/noticia/2026/07/14/oncoclinicas-entra-com-pedido-de-recuperacao-extrajudicial-para-renegociar-r-51-bilhoes-em-dividas.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-13-meio-ambiente-para",
-    "data": "2026-07-13",
-    "titulo": "Vídeo registra canto raro do Uirapuru-da-Guiana em área preservada no Pará",
-    "resumo": "Um vídeo registrou o canto do Uirapuru-da-Guiana em uma área preservada do estado do Pará. O registro foi feito por um biólogo durante uma atividade de monitoramento de aves no município de Oriximiná. A ocorrência do canto em meio à tranquilidade da floresta chamou a atenção.",
-    "categoria": "meio-ambiente",
+    "id": "2026-07-14-outras-noticias-brasil",
+    "data": "2026-07-14",
+    "titulo": "Diversos assuntos noticiados no Brasil incluem segurança em praias, resgate de animal e infraestrutura urbana",
+    "resumo": "Em Natal, ambulantes e barraqueiros de praia agora são obrigados a portar apitos para sinalizar afogamentos. Bombeiros resgataram um pinguim ferido no Rio de Janeiro. Em Osasco (SP), a Sabesp fechou uma cratera que causou rachaduras em imóveis. Um prédio que sediava um Centro POP em Rio Branco (AC) segue sem uso.",
+    "categoria": "seguranca",
     "tags": [
-      "Pará",
-      "Uirapuru-da-Guiana",
-      "avifauna",
-      "preservação",
-      "natureza",
-      "vídeo"
+      "segurança",
+      "meio ambiente",
+      "infraestrutura",
+      "cidades",
+      "animais"
+    ],
+    "entidades": [
+      "Sabesp"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro",
+      "Rio Grande do Norte",
+      "São Paulo",
+      "Acre"
+    ],
+    "cidades": [
+      "Rio de Janeiro",
+      "Natal",
+      "Osasco",
+      "Rio Branco"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/14/ambulantes-barraqueiros-praia-apitos-sinalizar-afogamentos-natal.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/14/pinguim-ferido-e-resgatado-pelos-bombeiros-no-piscinao-de-ramos.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/14/sabesp-fecha-cratera-que-causou-rachaduras-em-imoveis-em-osasco-na-grande-sp-3-casas-seguem-interditadas.ghtml"
+      },
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ac/acre/noticia/2026/07/14/mais-de-um-ano-apos-mudanca-predio-que-sediava-centro-pop-segue-sem-uso-em-rio-branco.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-14-conflito-ucrania",
+    "data": "2026-07-14",
+    "titulo": "Junho registra o maior número de civis mortos na Ucrânia desde o início da guerra com a Rússia",
+    "resumo": "A ONU registrou em junho o maior número mensal de mortes de civis na Ucrânia desde abril de 2022. O relatório indica que pelo menos 293 ucranianos morreram durante o mês. A troca de ataques entre os países continua.",
+    "categoria": "internacional",
+    "tags": [
+      "guerra",
+      "Ucrânia",
+      "Rússia",
+      "civis",
+      "ONU",
+      "mortes"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Ucrânia",
+      "Rússia"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/07/14/junho-maior-numero-de-civis-mortos-ucrania-guerra-russia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-14-politica-brasil",
+    "data": "2026-07-14",
+    "titulo": "MP recomenda suspensão de concurso público em João Lisboa por suspeitas de irregularidades",
+    "resumo": "O Ministério Público do Maranhão recomendou a suspensão imediata de um concurso público da Câmara Municipal de João Lisboa. A medida foi tomada após suspeitas de irregularidades no processo. O MP busca garantir a lisura do certame.",
+    "categoria": "politica",
+    "tags": [
+      "concurso público",
+      "Ministério Público",
+      "irregularidades",
+      "suspensão"
+    ],
+    "entidades": [
+      "Ministério Público do Maranhão"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Maranhão"
+    ],
+    "cidades": [
+      "João Lisboa"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/ma/maranhao/regiao-tocantina/noticia/2026/07/14/mp-recomenda-suspensao-de-concurso-publico-da-camara-de-joao-lisboa-apos-suspeita-de-irregularidades.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-14-politica-eua",
+    "data": "2026-07-14",
+    "titulo": "Subsecretário de Estado dos EUA para o Oriente Médio é nomeado; foco em fundo para Armênia",
+    "resumo": "Um doador de eventos de gala do ex-presidente Donald Trump foi nomeado para liderar um fundo de US$ 200 milhões do Departamento de Estado dos EUA destinado à Armênia. Konstantin Sokolov, um investidor de private equity nascido na Rússia e com base em Chicago, chefiará o projeto Tripp+.",
+    "categoria": "politica",
+    "tags": [
+      "Departamento de Estado",
+      "EUA",
+      "Armênia",
+      "investimento",
+      "fundo"
+    ],
+    "entidades": [
+      "Departamento de Estado dos EUA",
+      "Tripp+"
+    ],
+    "pessoas": [
+      "Donald Trump",
+      "Konstantin Sokolov"
+    ],
+    "estados": [
+      "Illinois"
+    ],
+    "cidades": [
+      "Chicago"
+    ],
+    "paises": [
+      "Estados Unidos",
+      "Armênia"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/jul/14/trump-ballroom-donor-central-asia-tripp"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-14-saude-eua",
+    "data": "2026-07-14",
+    "titulo": "Revisão de grupo consultivo sobre tabagismo infantil nos EUA está parada",
+    "resumo": "A revisão de um influente grupo consultivo federal sobre o uso de tabaco por crianças nos Estados Unidos está parada. Membros da força-tarefa de serviços preventivos dos EUA não emitem recomendações vinculativas desde março de 2025. A paralisação impede atualizações sobre novas evidências para ajudar crianças a parar de fumar.",
+    "categoria": "saude",
+    "tags": [
+      "saúde pública",
+      "tabagismo",
+      "crianças",
+      "EUA",
+      "revisão"
     ],
     "entidades": [],
     "pessoas": [
-      "Vinicius Costa"
+      "Robert F Kennedy Jr"
     ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/jul/14/rfk-jr-advisory-group-overhaul-tobacco-use-children"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-14-aviacao-brasil",
+    "data": "2026-07-14",
+    "titulo": "Embraer lança nova versão de jato Phenom 300 com pouso automático em emergências",
+    "resumo": "A Embraer anunciou uma nova versão do jato executivo Phenom 300. O modelo conta com um sistema que realiza pousos automáticos em situações de emergência. A fabricante brasileira de aviões sediada em São José dos Campos apresentou a novidade.",
+    "categoria": "ciencia",
+    "tags": [
+      "aviação",
+      "tecnologia",
+      "segurança",
+      "jato executivo",
+      "Embraer"
+    ],
+    "entidades": [
+      "Embraer"
+    ],
+    "pessoas": [],
     "estados": [
-      "Pará"
+      "São Paulo"
     ],
     "cidades": [
-      "Oriximiná"
+      "São José dos Campos"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/14/embraer-lanca-nova-versao-do-jato-phenom-300-com-sistema-que-faz-pouso-automatico-em-emergencias.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-14-justica-brasil",
+    "data": "2026-07-14",
+    "titulo": "Grupo que forjava vaquinhas online com IA é desarticulado; 12 presos",
+    "resumo": "A Polícia Civil do Rio Grande do Sul desarticulou um grupo criminoso que utilizava inteligência artificial para forjar vaquinhas online. As falsas campanhas usavam imagens de crianças doentes para obter doações. Doze pessoas foram presas em uma operação que abrangeu cinco estados.",
+    "categoria": "justica",
+    "tags": [
+      "golpe",
+      "inteligência artificial",
+      "vaquinha online",
+      "crianças",
+      "prisão"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio Grande do Sul"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/14/policia-prende-suspeitos-golpe-falsa-doacao-criancas-cancer.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-14-cultura-brasil",
+    "data": "2026-07-14",
+    "titulo": "Estreia de 'Wicked' no Rio de Janeiro reúne celebridades",
+    "resumo": "A estreia do musical 'Wicked' no Rio de Janeiro contou com a presença de diversas celebridades. O evento ocorreu na Cidade das Artes, na Barra da Tijuca. O espetáculo ficará em cartaz na cidade até o dia 6 de setembro.",
+    "categoria": "cultura",
+    "tags": [
+      "musical",
+      "estreia",
+      "Rio de Janeiro",
+      "celebridades"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Larissa Manoela",
+      "José Loreto"
+    ],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Rio de Janeiro"
     ],
     "paises": [
       "Brasil"
@@ -255,23 +430,139 @@
     "importancia": 2,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/13/video-registra-canto-do-uirapuru-da-guiana-em-area-preservada-do-para.ghtml"
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/noticias/de-larissa-manoela-a-jose-loreto-veja-famosos-na-estreia-wicked-no-rio/"
       }
     ]
   },
   {
-    "id": "2026-07-13-seguranca-mg-cemiterio",
-    "data": "2026-07-13",
-    "titulo": "Prefeitura apura denúncia de churrasco e consumo de álcool em cemitério de Minas Gerais",
-    "resumo": "A Prefeitura de Divinópolis, em Minas Gerais, instaurou uma comissão para investigar denúncias de um churrasco e consumo de bebidas alcoólicas em um cemitério municipal. O caso teria ocorrido no último fim de semana.",
+    "id": "2026-07-14-gastronomia-china",
+    "data": "2026-07-14",
+    "titulo": "Restaurante na China oferece cardápio exclusivo para cães",
+    "resumo": "Um restaurante na China surpreendeu ao oferecer um cardápio especializado para cães, com pratos como tartar de atum e petit gâteau. O espaço conta com um chef especializado em culinária pet. A iniciativa reflete a tendência do mercado pet no país.",
+    "categoria": "cultura",
+    "tags": [
+      "gastronomia",
+      "pets",
+      "China",
+      "restaurante",
+      "tendência"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "China"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/fantastico/noticia/2026/07/14/petit-gateau-para-caes-restaurante-na-china-surpreende-com-cardapio-exclusivo-para-pets.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-14-politica-brasil",
+    "data": "2026-07-14",
+    "titulo": "Alexandre de Moraes suspende visitas de Flávio Bolsonaro ao pai",
+    "resumo": "O ministro Alexandre de Moraes suspendeu por 90 dias as visitas de Flávio Bolsonaro ao seu pai. O tema gerou debate sobre a legalidade e proporcionalidade da decisão. A medida foi discutida no programa 'O Grande Debate'.",
+    "categoria": "politica",
+    "tags": [
+      "Alexandre de Moraes",
+      "Flávio Bolsonaro",
+      "visitas",
+      "suspensão",
+      "decisão judicial"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Alexandre de Moraes",
+      "Flávio Bolsonaro",
+      "Jair Bolsonaro"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/politica/o-grande-debate-carta-e-motivo-para-negar-visita-de-flavio-a-bolsonaro/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-14-meio-ambiente-alimentacao",
+    "data": "2026-07-14",
+    "titulo": "Estudo sugere que dieta balanceada é mais benéfica que suplementação de micronutrientes",
+    "resumo": "Uma análise sugere que, embora os micronutrientes sejam benéficos, uma dieta balanceada é superior para a saúde. O estudo aborda os efeitos de dietas modernas na diminuição de micronutrientes em frutas e vegetais, e propõe que a nutrição completa é a chave para combater doenças crônicas, doenças cardíacas e obesidade.",
+    "categoria": "saude",
+    "tags": [
+      "nutrição",
+      "dieta",
+      "saúde",
+      "micronutrientes",
+      "alimentação"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "dw.com",
+        "url": "https://www.dw.com/en/micronutrients-are-good-a-balanced-diet-is-better/a-77925409?maca=en-rss-en-all-1573-rdf"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-14-politica-reino-unido",
+    "data": "2026-07-14",
+    "titulo": "Conservadores negam 'expurgo' após perda do 'whip' por Lord Barwell",
+    "resumo": "O Partido Conservador britânico negou estar promovendo um 'expurgo' de membros centristas após Lord Barwell perder o 'whip' (a capacidade de votar com o partido). Um ex-ministro afirmou que a decisão sugere 'intolerância à crítica'. A perda ocorreu após advertências sobre políticas específicas.",
+    "categoria": "politica",
+    "tags": [
+      "Partido Conservador",
+      "Reino Unido",
+      "política",
+      "crítica"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Gavin Barwell",
+      "Kemi Badenoch"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/politics/2026/jul/14/tories-deny-purge-lord-barwell-party-whip"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-14-acidente-rodoviario-brasil",
+    "data": "2026-07-14",
+    "titulo": "Acidente com três caminhões deixa um morto e um ferido em rodovia de Minas Gerais",
+    "resumo": "Um acidente envolvendo três caminhões resultou na morte de um motorista e deixou outro ferido. O ocorrido se deu na BR-135, em Engenheiro Navarro, Minas Gerais. Chovia no momento do acidente e a pista estava molhada.",
     "categoria": "seguranca",
     "tags": [
-      "Minas Gerais",
-      "Divinópolis",
-      "cemitério",
-      "investigação",
-      "denúncia"
+      "acidente",
+      "rodovia",
+      "caminhão",
+      "morte",
+      "ferido"
     ],
     "entidades": [],
     "pessoas": [],
@@ -279,7 +570,7 @@
       "Minas Gerais"
     ],
     "cidades": [
-      "Divinópolis"
+      "Engenheiro Navarro"
     ],
     "paises": [
       "Brasil"
@@ -287,573 +578,37 @@
     "importancia": 2,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/07/13/prefeitura-apura-denuncia-de-churrasco-e-consumo-de-alcool-em-cemiterio-de-mg.ghtml"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/14/acidente-envolvendo-tres-caminhoes-deixa-um-motorista-morto-e-outro-ferido-na-br-135-em-engenheiro-navarro.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-13-seguranca-acidente-volta-redonda",
-    "data": "2026-07-13",
-    "titulo": "Homem é atropelado por carro na BR-393, em Volta Redonda (RJ)",
-    "resumo": "Um homem de aproximadamente 36 anos foi atropelado por um carro na BR-393, em Volta Redonda, no Rio de Janeiro. O acidente ocorreu no bairro Conforto na manhã desta segunda-feira. A vítima foi socorrida pelo Corpo de Bombeiros.",
+    "id": "2026-07-14-incidente-aereo-europa",
+    "data": "2026-07-14",
+    "titulo": "Passageiro da Ryanair quase é sugado para fora da janela durante voo",
+    "resumo": "Uma passageira da Ryanair relatou ter segurado as pernas do seu marido enquanto ele estava parcialmente fora da janela da aeronave durante um voo. Ela descreveu o momento de pânico e a sensação de que 'morreríamos juntos'. O incidente ocorreu em pleno voo.",
     "categoria": "seguranca",
     "tags": [
-      "Volta Redonda",
-      "acidente",
-      "atropelamento",
-      "BR-393",
-      "Rio de Janeiro"
+      "acidente aéreo",
+      "Ryanair",
+      "passageiro",
+      "incidente"
     ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
+    "entidades": [
+      "Ryanair"
     ],
-    "cidades": [
-      "Volta Redonda"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/13/acidentes-em-volta-redonda.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-13-seguranca-acidente-brejo-madre-de-deus",
-    "data": "2026-07-13",
-    "titulo": "Jovem morre e outro fica ferido em acidente de motocicleta em Pernambuco",
-    "resumo": "Um jovem de 28 anos morreu e outra pessoa ficou ferida em um grave acidente de motocicleta na PE-145, em Brejo da Madre de Deus, no Agreste de Pernambuco. O acidente aconteceu na madrugada desta segunda-feira. A vítima fatal foi identificada como José Aldair.",
-    "categoria": "seguranca",
-    "tags": [
-      "Pernambuco",
-      "acidente",
-      "motocicleta",
-      "morte",
-      "ferido",
-      "Brejo da Madre de Deus"
-    ],
-    "entidades": [],
     "pessoas": [
-      "José Aldair"
+      "Svetlana Grković"
     ],
-    "estados": [
-      "Pernambuco"
-    ],
-    "cidades": [
-      "Brejo da Madre de Deus"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/07/13/jovem-morre-e-outro-fica-ferido-em-acidente-de-motocicleta-na-pe-145-em-brejo-da-madre-de-deus.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-13-seguranca-acidente-botucatu",
-    "data": "2026-07-13",
-    "titulo": "Motorista bêbado e sem CNH capota carro em Botucatu (SP)",
-    "resumo": "Um homem sem carteira de habilitação e com sinais de embriaguez foi preso após capotar um carro em Botucatu, São Paulo. O acidente ocorreu na madrugada de domingo após o motorista colidir o veículo contra uma árvore. Ele foi autuado em flagrante.",
-    "categoria": "seguranca",
-    "tags": [
-      "Botucatu",
-      "acidente",
-      "embriaguez",
-      "CNH",
-      "capotamento",
-      "São Paulo"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Botucatu"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/07/13/motorista-sem-cnh-e-alcoolizado-bate-contra-arvore-e-capota-carro-em-botucatu.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-13-economia-emprego-piaui",
-    "data": "2026-07-13",
-    "titulo": "Sine oferta mais de 300 vagas de emprego no Piauí",
-    "resumo": "O Sistema Nacional de Emprego (Sine) está oferecendo 349 vagas de trabalho no Piauí nesta segunda-feira. As oportunidades estão disponíveis em Teresina, Parnaíba, Picos, Floriano e Piripiri. O Sine atua na intermediação de mão de obra para recolocação no mercado de trabalho.",
-    "categoria": "economia",
-    "tags": [
-      "Piauí",
-      "Sine",
-      "vagas de emprego",
-      "trabalho",
-      "oportunidades"
-    ],
-    "entidades": [
-      "Sine"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Piauí"
-    ],
-    "cidades": [
-      "Teresina",
-      "Parnaíba",
-      "Picos",
-      "Floriano",
-      "Piripiri"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pi/piaui/trabalho-e-carreira/noticia/2026/07/13/sine-vagas-emprego-teresina-interior.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-13-economia-emprego-bahia",
-    "data": "2026-07-13",
-    "titulo": "Feira de Santana e região oferecem vagas de emprego nesta segunda-feira (13)",
-    "resumo": "O SineBahia divulgou as vagas de emprego e estágio disponíveis para Feira de Santana e região nesta segunda-feira. O SineBahia é um órgão estadual que oferece intermediação para o trabalho de forma gratuita. Os interessados podem consultar as oportunidades disponíveis.",
-    "categoria": "economia",
-    "tags": [
-      "Bahia",
-      "Feira de Santana",
-      "SineBahia",
-      "vagas de emprego",
-      "trabalho",
-      "estágio"
-    ],
-    "entidades": [
-      "SineBahia"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Bahia"
-    ],
-    "cidades": [
-      "Feira de Santana"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/13/vagas-de-emprego-disponiveis-em-feira-de-santana-e-regiao.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-13-seguranca-afogamento-go",
-    "data": "2026-07-13",
-    "titulo": "Amigo retira corpo de advogado que morreu afogado em pescaria em Goiás",
-    "resumo": "Um advogado morreu durante uma pescaria em Cachoeira Dourada, no sul de Goiás. Segundo o Corpo de Bombeiros, um amigo conseguiu retirá-lo da água e levá-lo para pedras próximas à margem. A suspeita é de afogamento.",
-    "categoria": "seguranca",
-    "tags": [
-      "Goiás",
-      "afogamento",
-      "pescaria",
-      "advogado",
-      "morte",
-      "Cachoeira Dourada"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Antônio Andriêr da Silva"
-    ],
-    "estados": [
-      "Goiás"
-    ],
-    "cidades": [
-      "Cachoeira Dourada"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/go/goias/noticia/2026/07/13/amigo-de-advogado-que-morreu-em-pescaria-conseguiu-tira-lo-da-agua-e-levar-corpo-para-pedras-proximas-a-margem-dizem-bombeiros.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-13-seguranca-afogamento-to",
-    "data": "2026-07-13",
-    "titulo": "Policial penal morre afogado durante banho no Rio Tocantins",
-    "resumo": "Um policial penal de 32 anos morreu afogado enquanto tomava banho no Rio Tocantins, em Peixe, Tocantins. O incidente ocorreu na Praia do Elias, segundo informações do Corpo de Bombeiros. Testemunhas relataram que a vítima estava nadando no rio.",
-    "categoria": "seguranca",
-    "tags": [
-      "Tocantins",
-      "afogamento",
-      "policial penal",
-      "Rio Tocantins",
-      "morte",
-      "Peixe"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Alessandro de Souza Rodrigues"
-    ],
-    "estados": [
-      "Tocantins"
-    ],
-    "cidades": [
-      "Peixe"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/13/policial-penal-morre-afogado-durante-banho-no-rio-tocantins.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-13-infraestrutura-pb-agua",
-    "data": "2026-07-13",
-    "titulo": "Bairro em Santa Rita (PB) terá fornecimento de água suspenso nesta terça-feira (14)",
-    "resumo": "O bairro Heitel Santiago, em Santa Rita, na Paraíba, terá o fornecimento de água interrompido temporariamente nesta terça-feira (14). A suspensão é necessária para a realização de serviços de manutenção na rede de abastecimento. A interrupção afetará os moradores do bairro.",
-    "categoria": "infraestrutura",
-    "tags": [
-      "Paraíba",
-      "Santa Rita",
-      "água",
-      "abastecimento",
-      "interrupção",
-      "manutenção"
-    ],
-    "entidades": [
-      "ANE"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Paraíba"
-    ],
-    "cidades": [
-      "Santa Rita"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/13/bairro-de-santa-rita-na-pb-tera-fornecimento-de-agua-suspenso-nesta-terca-feira-14.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-13-seguranca-salvamento-ma",
-    "data": "2026-07-13",
-    "titulo": "Nove pessoas são resgatadas após embarcação correr risco de naufrágio no Rio Balsas (MA)",
-    "resumo": "Oito mulheres e uma criança foram resgatadas de uma embarcação que apresentava risco de naufrágio no Rio Balsas, na zona rural de Balsas, Maranhão. O incidente ocorreu no último sábado (11) e ninguém se feriu. As equipes de resgate agiram rapidamente para garantir a segurança dos passageiros.",
-    "categoria": "seguranca",
-    "tags": [
-      "Maranhão",
-      "Rio Balsas",
-      "resgate",
-      "naufrágio",
-      "embarcação",
-      "mulheres",
-      "criança"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Maranhão"
-    ],
-    "cidades": [
-      "Balsas"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/13/oito-mulheres-e-uma-crianca-sao-resgatadas-apos-embarcacao-correr-risco-de-naufragio-no-rio-balsas.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-13-seguranca-tentativa-homicidio-rj",
-    "data": "2026-07-13",
-    "titulo": "Disque Denúncia divulga cartaz para localizar suspeitos de tentativa de homicídio em São Pedro da Aldeia (RJ)",
-    "resumo": "O Disque Denúncia divulgou um cartaz para auxiliar a Polícia Civil na localização de três suspeitos de envolvimento em uma tentativa de homicídio ocorrida em São Pedro da Aldeia, Rio de Janeiro, em abril de 2026. A polícia busca informações que levem à captura dos indivíduos.",
-    "categoria": "seguranca",
-    "tags": [
-      "Rio de Janeiro",
-      "São Pedro da Aldeia",
-      "tentativa de homicídio",
-      "suspeitos",
-      "Disque Denúncia",
-      "polícia"
-    ],
-    "entidades": [
-      "Disque Denúncia",
-      "Polícia Civil"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "São Pedro da Aldeia"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/13/disque-denuncia-divulga-cartaz-para-localizar-tres-suspeitos-de-tentativa-de-homicidio-em-sao-pedro-da-aldeia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-13-seguranca-furto-onibus-sp",
-    "data": "2026-07-13",
-    "titulo": "Ônibus furtado bate em muro de supermercado em São Paulo",
-    "resumo": "Um ônibus que havia sido furtado em São Paulo colidiu contra o muro de um supermercado. O veículo estava parado no ponto inicial de sua linha e não havia passageiros no momento do furto e acidente. A SPTrans informou sobre o ocorrido.",
-    "categoria": "seguranca",
-    "tags": [
-      "São Paulo",
-      "ônibus",
-      "furto",
-      "acidente",
-      "supermercado"
-    ],
-    "entidades": [
-      "SPTrans"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/onibus-furtado-bate-em-muro-de-supermercado-em-sp-veja-video/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-13-cultura-pernambuco-serenata",
-    "data": "2026-07-13",
-    "titulo": "27ª Serenata da Recordação em Santa Maria da Boa Vista (PE) começa nesta quarta-feira (15)",
-    "resumo": "A 27ª edição da Serenata da Recordação terá início nesta quarta-feira (15) em Santa Maria da Boa Vista, Pernambuco. A programação inclui a cerimônia de entrega de placas e a apresentação de Zé de Célia. O evento é uma tradição cultural da região.",
-    "categoria": "cultura",
-    "tags": [
-      "Pernambuco",
-      "Santa Maria da Boa Vista",
-      "Serenata da Recordação",
-      "cultura",
-      "música",
-      "evento"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Zé de Célia"
-    ],
-    "estados": [
-      "Pernambuco"
-    ],
-    "cidades": [
-      "Santa Maria da Boa Vista"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/07/13/27a-serenata-da-recordacao-em-santa-maria-da-boa-vista-comeca-nesta-quarta-veja-a-programacao.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-13-justica-rio-greve-onibus",
-    "data": "2026-07-13",
-    "titulo": "TRT remarca audiência sobre greve de ônibus no Rio de Janeiro",
-    "resumo": "O Tribunal Regional do Trabalho (TRT) remarcou para quarta-feira (15) uma audiência de conciliação referente à greve de ônibus no Rio de Janeiro. A categoria permanece em estado de greve enquanto as negociações avançam. A audiência é parte do processo de mediação.",
-    "categoria": "justica",
-    "tags": [
-      "Rio de Janeiro",
-      "greve",
-      "ônibus",
-      "TRT",
-      "audiência",
-      "conciliação"
-    ],
-    "entidades": [
-      "Tribunal Regional do Trabalho"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/trt-remarca-audiencia-sobre-greve-de-onibus-no-rio-de-janeiro/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-13-economia-paralisacao-caminhoneiros",
-    "data": "2026-07-13",
-    "titulo": "CNN Brasil relembra últimas paralisações de caminhoneiros e seus desfechos",
-    "resumo": "A CNN Brasil relembrou as últimas paralisações da categoria de caminhoneiros e como elas terminaram. Movimentos anteriores resultaram em mudanças na legislação, acordos sobre o preço do óleo diesel e a instituição da tabela de frete. A notícia aborda o histórico das greves.",
-    "categoria": "economia",
-    "tags": [
-      "Caminhoneiros",
-      "greve",
-      "paralisação",
-      "legislação",
-      "combustível",
-      "tabela de frete"
-    ],
-    "entidades": [],
-    "pessoas": [],
     "estados": [],
     "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
+    "paises": [],
     "importancia": 2,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/paralisacao-dos-caminhoneiros-relembre-ultimas-greves-e-como-acabaram/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-13-internacional-japao-agencia-inteligencia",
-    "data": "2026-07-13",
-    "titulo": "Japão planeja nova agência de inteligência com apoio ocidental",
-    "resumo": "O Japão planeja lançar seu primeiro órgão centralizado de inteligência com o auxílio de aliados ocidentais. A criação da agência visa fortalecer as capacidades de coleta e análise de informações do país em um cenário geopolítico em constante mudança.",
-    "categoria": "internacional",
-    "tags": [
-      "Japão",
-      "agência de inteligência",
-      "segurança nacional",
-      "tecnologia",
-      "cooperação internacional"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Tóquio"
-    ],
-    "paises": [
-      "Japão"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/7/13/what-is-japans-new-intelligence-agency-and-why-is-tokyo-building-it?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-13-noticias-regionais-amazonia",
-    "data": "2026-07-13",
-    "titulo": "Bom Dia Amazônia desta segunda-feira (13 de julho de 2026)",
-    "resumo": "O telejornal Bom Dia Amazônia exibiu vídeos com as notícias locais da região amazônica na manhã desta segunda-feira, 13 de julho de 2026. O conteúdo abordou os acontecimentos relevantes para o estado.",
-    "categoria": "noticias",
-    "tags": [
-      "Amazônia",
-      "notícias",
-      "vídeos",
-      "local"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Amazonas"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/am/amazonas/playlist/videos-bom-dia-amazonia-desta-segunda-feira-13-de-julho-de-2026.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-13-noticias-regionais-rio-janeiro",
-    "data": "2026-07-13",
-    "titulo": "Bom Dia Rio desta segunda-feira (13 de julho de 2026)",
-    "resumo": "O telejornal Bom Dia Rio apresentou os vídeos com as notícias do estado do Rio de Janeiro na manhã desta segunda-feira, 13 de julho de 2026. Os telespectadores puderam acompanhar os destaques regionais.",
-    "categoria": "noticias",
-    "tags": [
-      "Rio de Janeiro",
-      "notícias",
-      "vídeos",
-      "local"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/playlist/videos-bom-dia-rio-de-segunda-13-de-julho-de-2026.ghtml"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/jul/14/ryanair-passenger-sucked-through-window-flight"
       }
     ]
   }
