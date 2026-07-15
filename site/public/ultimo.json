@@ -1,84 +1,213 @@
 [
   {
-    "id": "2026-07-14-tensao-ormuz-petroleo",
-    "data": "2026-07-14",
-    "titulo": "Tensão no Estreito de Ormuz: Ataques a petroleiros e reações internacionais impactam mercado de petróleo e câmbio",
-    "resumo": "Ataques a petroleiros no Estreito de Ormuz e o bloqueio de navegação iraniana intensificaram as tensões no Oriente Médio. O preço do petróleo disparou no mercado internacional como reflexo dessa escalada. O dólar abriu em queda no Brasil após a notícia, enquanto o Ibovespa negociava em baixa.",
-    "categoria": "internacional",
+    "id": "2026-07-15-franca-eutanasia",
+    "data": "2026-07-15",
+    "titulo": "França Vota para Legalizar Direito à Eutanásia",
+    "resumo": "A França está prestes a aprovar o direito à morte assistida ou eutanásia sob certas condições. A medida, defendida pelo presidente Emmanuel Macron, é considerada uma reforma altamente polêmica. A Câmara Baixa do Parlamento francês votará a adoção da lei.",
+    "categoria": "politica",
     "tags": [
-      "Oriente Médio",
-      "petróleo",
-      "EUA",
-      "Irã",
-      "Estreito de Ormuz",
-      "dólar",
+      "eutanásia",
+      "morte assistida",
+      "direito",
+      "legislação"
+    ],
+    "entidades": [
+      "Parlamento francês"
+    ],
+    "pessoas": [
+      "Emmanuel Macron"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "França"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mundo/noticia/2026/07/15/franca-vota-para-legalizar-direito-a-eutanasia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-apreensao-PRF-Parana",
+    "data": "2026-07-15",
+    "titulo": "Fuga e Apreensão de Carro com Celulares e Medicamentos no Paraná",
+    "resumo": "Um homem fugiu de uma abordagem da Polícia Rodoviária Federal (PRF) no oeste do Paraná após pedir para ir ao banheiro. O suspeito deixou para trás um carro esportivo carregado com celulares e medicamentos sem documentação. A apreensão ocorreu em Céu Azul, às margens da BR-277.",
+    "categoria": "seguranca",
+    "tags": [
+      "PRF",
+      "apreensão",
+      "fuga",
+      "medicamentos",
+      "celulares"
+    ],
+    "entidades": [
+      "Polícia Rodoviária Federal"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Paraná"
+    ],
+    "cidades": [
+      "Céu Azul"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/07/15/homem-foge-abordagem-banheiro-pr.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-acidente-caminhoes-Parana",
+    "data": "2026-07-15",
+    "titulo": "Acidente com Três Caminhões no Paraná Deixa Motorista Preso às Ferragens",
+    "resumo": "Uma tentativa de ultrapassagem causou um grave acidente envolvendo três caminhões na PR-466 em Turvo, região central do Paraná. Um dos motoristas ficou preso às ferragens por quase três horas. Apesar da gravidade, os motoristas não sofreram ferimentos graves.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente",
+      "caminhões",
+      "ultrapassagem",
+      "preso às ferragens"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Paraná"
+    ],
+    "cidades": [
+      "Turvo"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/07/15/tentativa-de-ultrapassagem-causa-acidente-entre-tres-caminhoes-e-deixa-motorista-preso-as-ferragens-por-quase-tres-horas-no-parana.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-festival-mundo-asiatico-Presidente-Prudente",
+    "data": "2026-07-15",
+    "titulo": "Presidente Prudente Recebe Festival Mundo Asiático pela Primeira Vez",
+    "resumo": "A cidade de Presidente Prudente sedia pela primeira vez o Festival Mundo Asiático, apresentando mais de 200 pratos típicos e diversas atrações culturais. O evento busca expandir o interesse pela cultura asiática, impulsionado pela popularidade de produtos como doramas e K-pop.",
+    "categoria": "cultura",
+    "tags": [
+      "festival",
+      "cultura asiática",
+      "gastronomia",
+      "atrações"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Presidente Prudente"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/07/15/com-mais-de-200-pratos-tipicos-e-atracoes-culturais-presidente-prudente-recebe-festival-mundo-asiatico-pela-primeira-vez.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-aprovacao-MP-frete-Senado",
+    "data": "2026-07-15",
+    "titulo": "Governo Evita Greve com Aprovação da MP do Frete no Senado",
+    "resumo": "O governo conseguiu evitar uma nova greve com a aprovação da Medida Provisória do Frete no Senado. A MP foi votada a dois dias de sua caducidade. Analistas avaliam que o acordo firmado não agradou completamente nenhuma das partes envolvidas.",
+    "categoria": "economia",
+    "tags": [
+      "MP do Frete",
+      "greve",
+      "Senado",
+      "transportadores",
       "economia"
     ],
     "entidades": [
-      "Donald Trump"
+      "Senado"
     ],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Irã",
-      "Estados Unidos",
-      "Emirados Árabes Unidos",
-      "Austrália"
+      "Brasil"
     ],
-    "importancia": 5,
+    "importancia": 4,
     "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/economia/noticia/2026/07/14/dolar-ibovespa.ghtml"
-      },
       {
         "nome": "cnnbrasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/ira-e-eua-trocam-ataques-enquanto-disputa-por-ormuz-se-intensifica-entenda/"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news"
+        "url": "https://www.cnnbrasil.com.br/politica/analise-governo-evita-nova-greve-com-aprovacao-da-mp-do-frete-no-senado/"
       }
     ]
   },
   {
-    "id": "2026-07-14-crimes-violentos-brasil",
-    "data": "2026-07-14",
-    "titulo": "Casos de homicídio, estelionato e maus-tratos são investigados em diferentes estados brasileiros",
-    "resumo": "Um homem foi morto a facão pelo vizinho no interior de São Paulo, e o suspeito foi preso. No Rio de Janeiro, a polícia investiga um golpe do falso mecânico que lesou uma mulher em mais de R$ 2 mil. Em Piedade (SP), animais foram encontrados mortos e mutilados em um sítio.",
-    "categoria": "justica",
+    "id": "2026-07-15-intervalo-final-Copa-regra-FIFA",
+    "data": "2026-07-15",
+    "titulo": "Intervalo da Final da Copa Contraria Regra da FIFA Devido a Shows",
+    "resumo": "O intervalo da final da Copa do Mundo terá aproximadamente 30 minutos, o que contraria uma regra da FIFA. A alteração ocorre devido à realização de shows musicais durante a pausa do jogo. A decisão impacta a dinâmica da partida decisiva.",
+    "categoria": "esportes",
     "tags": [
-      "homicídio",
-      "estelionato",
-      "maus-tratos a animais",
-      "polícia",
-      "investigação"
+      "Copa do Mundo",
+      "FIFA",
+      "intervalo",
+      "shows",
+      "regras"
     ],
-    "entidades": [],
+    "entidades": [
+      "FIFA"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/entenda-por-que-o-intervalo-da-final-da-copa-contraria-regra-da-fifa/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-pesquisa-Quaest-eleicoes-governo-Lula",
+    "data": "2026-07-15",
+    "titulo": "Pesquisa Quaest: Lula Lidera Simulação de 2º Turno Contra Flávio Bolsonaro",
+    "resumo": "Uma nova pesquisa da Quaest indica que Luiz Inácio Lula da Silva lidera uma simulação de segundo turno com 45% das intenções de voto contra 37% de Flávio Bolsonaro. A pesquisa também aponta que 48% aprovam e 47% desaprovam o governo Lula. O impacto do caso Jaques Wagner na campanha de Lula também foi avaliado.",
+    "categoria": "politica",
+    "tags": [
+      "pesquisa eleitoral",
+      "Lula",
+      "Flávio Bolsonaro",
+      "governo Lula",
+      "Quaest"
+    ],
+    "entidades": [
+      "Quaest"
+    ],
     "pessoas": [
-      "Camila Lima",
-      "Felipe Gabriel Aparecido Alves",
-      "José Vinicius Alvila Cardoso"
+      "Luiz Inácio Lula da Silva",
+      "Flávio Bolsonaro",
+      "Jaques Wagner",
+      "Michelle Bolsonaro"
     ],
-    "estados": [
-      "São Paulo",
-      "Rio de Janeiro",
-      "Mato Grosso do Sul",
-      "Minas Gerais",
-      "Rio Grande do Sul",
-      "Piauí",
-      "Amazonas"
-    ],
-    "cidades": [
-      "Leme",
-      "Rio de Janeiro",
-      "Engenheiro Navarro",
-      "Piedade",
-      "Campo Grande",
-      "São João Nepomuceno",
-      "Manaus"
-    ],
+    "estados": [],
+    "cidades": [],
     "paises": [
       "Brasil"
     ],
@@ -86,279 +215,123 @@
     "fontes": [
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/07/14/video-homem-e-morto-pelo-vizinho-com-golpes-de-facao-no-interior-de-sp.ghtml"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/14/golpe-do-falso-mecanico-mulher-paga-r-27-mil-por-conserto-que-nunca-foi-feito-no-rio-policia-investiga-o-caso.ghtml"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/14/animais-sao-encontrados-mortos-e-mutilados-em-sitio-de-piedade-policia-investiga-o-caso.ghtml"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/14/acidente-envolvendo-tres-caminhoes-deixa-um-motorista-morto-e-outro-ferido-na-br-135-em-engenheiro-navarro.ghtml"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/14/foragido-do-sistema-prisional-morre-em-confronto-com-o-batalhao-de-choque-em-campo-grande.ghtml"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/07/14/o-que-fiz-e-imperdoavel-monitor-demitido-de-escola-civico-militar-apos-queixa-de-abuso-contra-alunas-enviou-mensagem-a-familia.ghtml"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/14/mulher-conduzida-escola-pi.ghtml"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/14/ponte-na-zona-sul-de-manaus-e-alvo-de-furtos-de-pecas-de-ferro-e-depredacao-moradores-cobram-mais-seguranca.ghtml"
+        "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/07/15/resumao-diario-2061-lula-lidera-com-45percent-contra-37percent-de-flavio-bolsonaro-no-2o-turno-diz-quaest-prazo-para-eua-aplicarem-novo-tarifaco-termina-nesta-quarta-inglaterra-e-argentina-definem-quem-pega-espanha-na-final-da-copa.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-14-economia-empresarial-brasil",
-    "data": "2026-07-14",
-    "titulo": "Empresa de fertilizantes e rede de tratamento de câncer buscam renegociação de dívidas",
-    "resumo": "A Mosaic Fertilizantes reduziu sua produção no Brasil devido a restrições globais no fornecimento de enxofre. A Oncoclínicas, rede de tratamento contra o câncer, entrou com pedido de recuperação extrajudicial para renegociar R$ 5,1 bilhões em dívidas.",
+    "id": "2026-07-15-rio-tinto-mineracao",
+    "data": "2026-07-15",
+    "titulo": "Rio Tinto Amplia Venda de Minério de Ferro e Eleva Produção de Lítio",
+    "resumo": "A empresa Rio Tinto anunciou a ampliação de suas vendas de minério de ferro e um aumento na produção de lítio. A produção de lítio cresceu 20% em relação ao ano anterior no segundo trimestre. A companhia foca em expandir sua atuação em minerais estratégicos.",
     "categoria": "economia",
     "tags": [
-      "fertilizantes",
-      "saúde",
-      "dívidas",
-      "recuperação judicial",
-      "produção"
+      "Rio Tinto",
+      "minério de ferro",
+      "lítio",
+      "produção",
+      "mineração"
     ],
     "entidades": [
-      "Mosaic Fertilizantes",
-      "Oncoclínicas"
+      "Rio Tinto"
     ],
     "pessoas": [],
     "estados": [],
     "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
+    "paises": [],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/14/guerra-no-irao-empresa-de-fertilizante-mosaic-reduz-producao-no-brasil-por-falta-de-enxofre.ghtml"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/economia/noticia/2026/07/14/oncoclinicas-entra-com-pedido-de-recuperacao-extrajudicial-para-renegociar-r-51-bilhoes-em-dividas.ghtml"
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/infra/rio-tinto-amplia-venda-de-minerario-de-ferro-e-eleva-producao-de-litio/"
       }
     ]
   },
   {
-    "id": "2026-07-14-outras-noticias-brasil",
-    "data": "2026-07-14",
-    "titulo": "Diversos assuntos noticiados no Brasil incluem segurança em praias, resgate de animal e infraestrutura urbana",
-    "resumo": "Em Natal, ambulantes e barraqueiros de praia agora são obrigados a portar apitos para sinalizar afogamentos. Bombeiros resgataram um pinguim ferido no Rio de Janeiro. Em Osasco (SP), a Sabesp fechou uma cratera que causou rachaduras em imóveis. Um prédio que sediava um Centro POP em Rio Branco (AC) segue sem uso.",
-    "categoria": "seguranca",
+    "id": "2026-07-15-mega-sena-Atibaia",
+    "data": "2026-07-15",
+    "titulo": "Aposta de Atibaia (SP) Acerta Quina na Mega-Sena e Ganha R$ 63,8 Mil",
+    "resumo": "Uma aposta realizada em Atibaia, no estado de São Paulo, chegou perto de ganhar o prêmio principal da Mega-Sena ao acertar a quina. O apostador faturou R$ 63.791,87. O prêmio principal acumulou e está estimado em cerca de R$ 30 milhões para o próximo sorteio.",
+    "categoria": "economia",
     "tags": [
-      "segurança",
-      "meio ambiente",
-      "infraestrutura",
-      "cidades",
-      "animais"
+      "Mega-Sena",
+      "loteria",
+      "aposta",
+      "Atibaia",
+      "prêmio"
     ],
     "entidades": [
-      "Sabesp"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro",
-      "Rio Grande do Norte",
-      "São Paulo",
-      "Acre"
-    ],
-    "cidades": [
-      "Rio de Janeiro",
-      "Natal",
-      "Osasco",
-      "Rio Branco"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/14/ambulantes-barraqueiros-praia-apitos-sinalizar-afogamentos-natal.ghtml"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/14/pinguim-ferido-e-resgatado-pelos-bombeiros-no-piscinao-de-ramos.ghtml"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/14/sabesp-fecha-cratera-que-causou-rachaduras-em-imoveis-em-osasco-na-grande-sp-3-casas-seguem-interditadas.ghtml"
-      },
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/ac/acre/noticia/2026/07/14/mais-de-um-ano-apos-mudanca-predio-que-sediava-centro-pop-segue-sem-uso-em-rio-branco.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-14-conflito-ucrania",
-    "data": "2026-07-14",
-    "titulo": "Junho registra o maior número de civis mortos na Ucrânia desde o início da guerra com a Rússia",
-    "resumo": "A ONU registrou em junho o maior número mensal de mortes de civis na Ucrânia desde abril de 2022. O relatório indica que pelo menos 293 ucranianos morreram durante o mês. A troca de ataques entre os países continua.",
-    "categoria": "internacional",
-    "tags": [
-      "guerra",
-      "Ucrânia",
-      "Rússia",
-      "civis",
-      "ONU",
-      "mortes"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Ucrânia",
-      "Rússia"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/07/14/junho-maior-numero-de-civis-mortos-ucrania-guerra-russia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-14-politica-brasil",
-    "data": "2026-07-14",
-    "titulo": "MP recomenda suspensão de concurso público em João Lisboa por suspeitas de irregularidades",
-    "resumo": "O Ministério Público do Maranhão recomendou a suspensão imediata de um concurso público da Câmara Municipal de João Lisboa. A medida foi tomada após suspeitas de irregularidades no processo. O MP busca garantir a lisura do certame.",
-    "categoria": "politica",
-    "tags": [
-      "concurso público",
-      "Ministério Público",
-      "irregularidades",
-      "suspensão"
-    ],
-    "entidades": [
-      "Ministério Público do Maranhão"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Maranhão"
-    ],
-    "cidades": [
-      "João Lisboa"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/ma/maranhao/regiao-tocantina/noticia/2026/07/14/mp-recomenda-suspensao-de-concurso-publico-da-camara-de-joao-lisboa-apos-suspeita-de-irregularidades.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-14-politica-eua",
-    "data": "2026-07-14",
-    "titulo": "Subsecretário de Estado dos EUA para o Oriente Médio é nomeado; foco em fundo para Armênia",
-    "resumo": "Um doador de eventos de gala do ex-presidente Donald Trump foi nomeado para liderar um fundo de US$ 200 milhões do Departamento de Estado dos EUA destinado à Armênia. Konstantin Sokolov, um investidor de private equity nascido na Rússia e com base em Chicago, chefiará o projeto Tripp+.",
-    "categoria": "politica",
-    "tags": [
-      "Departamento de Estado",
-      "EUA",
-      "Armênia",
-      "investimento",
-      "fundo"
-    ],
-    "entidades": [
-      "Departamento de Estado dos EUA",
-      "Tripp+"
-    ],
-    "pessoas": [
-      "Donald Trump",
-      "Konstantin Sokolov"
-    ],
-    "estados": [
-      "Illinois"
-    ],
-    "cidades": [
-      "Chicago"
-    ],
-    "paises": [
-      "Estados Unidos",
-      "Armênia"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/2026/jul/14/trump-ballroom-donor-central-asia-tripp"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-14-saude-eua",
-    "data": "2026-07-14",
-    "titulo": "Revisão de grupo consultivo sobre tabagismo infantil nos EUA está parada",
-    "resumo": "A revisão de um influente grupo consultivo federal sobre o uso de tabaco por crianças nos Estados Unidos está parada. Membros da força-tarefa de serviços preventivos dos EUA não emitem recomendações vinculativas desde março de 2025. A paralisação impede atualizações sobre novas evidências para ajudar crianças a parar de fumar.",
-    "categoria": "saude",
-    "tags": [
-      "saúde pública",
-      "tabagismo",
-      "crianças",
-      "EUA",
-      "revisão"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Robert F Kennedy Jr"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/2026/jul/14/rfk-jr-advisory-group-overhaul-tobacco-use-children"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-14-aviacao-brasil",
-    "data": "2026-07-14",
-    "titulo": "Embraer lança nova versão de jato Phenom 300 com pouso automático em emergências",
-    "resumo": "A Embraer anunciou uma nova versão do jato executivo Phenom 300. O modelo conta com um sistema que realiza pousos automáticos em situações de emergência. A fabricante brasileira de aviões sediada em São José dos Campos apresentou a novidade.",
-    "categoria": "ciencia",
-    "tags": [
-      "aviação",
-      "tecnologia",
-      "segurança",
-      "jato executivo",
-      "Embraer"
-    ],
-    "entidades": [
-      "Embraer"
+      "Caixa Econômica Federal"
     ],
     "pessoas": [],
     "estados": [
       "São Paulo"
     ],
     "cidades": [
-      "São José dos Campos"
+      "Atibaia"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/15/mega-sena-aposta-de-atibaia-faz-a-quina-e-fatura-r-638-mil.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-bom-dia-Santa-Catarina",
+    "data": "2026-07-15",
+    "titulo": "Notícias de Santa Catarina no Bom Dia SC (15/07/2026)",
+    "resumo": "O telejornal Bom Dia Santa Catarina apresentou os vídeos das principais notícias do estado nesta quarta-feira, 15 de julho de 2026. A edição cobre os acontecimentos relevantes para a região.",
+    "categoria": "politica",
+    "tags": [
+      "notícias locais",
+      "Santa Catarina",
+      "telejornal",
+      "Bom Dia SC"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Santa Catarina"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/sc/santa-catarina/edicao/2026/07/15/videos-bom-dia-santa-catarina-de-quarta-feira-15-de-julho-de-2026.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-apreensao-maconha-Taruma",
+    "data": "2026-07-15",
+    "titulo": "Polícia Apreende 152 kg de Maconha em Rodovia de Tarumã (SP)",
+    "resumo": "A Polícia Militar Rodoviária apreendeu 152 quilos de maconha em um carro na Rodovia Miguel Jubran (SP-333), em Tarumã, São Paulo. Durante a abordagem, foram localizados 240 tabletes do entorpecente. Um motorista foi preso em flagrante.",
+    "categoria": "seguranca",
+    "tags": [
+      "apreensão",
+      "maconha",
+      "Polícia Militar Rodoviária",
+      "Tarumã",
+      "prisão"
+    ],
+    "entidades": [
+      "Polícia Militar Rodoviária"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Tarumã"
     ],
     "paises": [
       "Brasil"
@@ -367,22 +340,382 @@
     "fontes": [
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/14/embraer-lanca-nova-versao-do-jato-phenom-300-com-sistema-que-faz-pouso-automatico-em-emergencias.ghtml"
+        "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/07/15/policia-apreende-152-kg-de-maconha-em-rodovia-de-taruma-e-prende-motorista.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-14-justica-brasil",
-    "data": "2026-07-14",
-    "titulo": "Grupo que forjava vaquinhas online com IA é desarticulado; 12 presos",
-    "resumo": "A Polícia Civil do Rio Grande do Sul desarticulou um grupo criminoso que utilizava inteligência artificial para forjar vaquinhas online. As falsas campanhas usavam imagens de crianças doentes para obter doações. Doze pessoas foram presas em uma operação que abrangeu cinco estados.",
+    "id": "2026-07-15-bom-dia-PE",
+    "data": "2026-07-15",
+    "titulo": "Notícias de Pernambuco no Bom Dia PE (15/07/2026)",
+    "resumo": "O telejornal Bom Dia PE apresentou os vídeos com as principais notícias de Pernambuco nesta quarta-feira, 15 de julho de 2026. A edição traz os acontecimentos locais mais relevantes.",
+    "categoria": "politica",
+    "tags": [
+      "notícias locais",
+      "Pernambuco",
+      "telejornal",
+      "Bom Dia PE"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Pernambuco"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/pe/pernambuco/videos-bom-dia-pe/playlist/videos-bom-dia-pe-de-quarta-feira-15-de-julho-de-2026.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-andressa-urach-virginia-fonseca",
+    "data": "2026-07-15",
+    "titulo": "Andressa Urach Afirma que Virginia Fonseca é sua Cópia",
+    "resumo": "A influenciadora Andressa Urach declarou que Virginia Fonseca é uma cópia de si mesma. Urach fez uma reflexão sobre os caminhos percorridos pela empresária para alcançar a fama. A declaração gerou repercussão nas redes sociais.",
+    "categoria": "cultura",
+    "tags": [
+      "influenciadoras",
+      "fama",
+      "celebridades",
+      "redes sociais"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Andressa Urach",
+      "Virginia Fonseca"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/pop/celebridades/andressa-urach-afirma-que-virginia-fonseca-e-a-sua-copia/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-ligacao-faccoes-Al-Qaeda",
+    "data": "2026-07-15",
+    "titulo": "Investigados por Ligação entre Facções Brasileiras e Al-Qaeda",
+    "resumo": "Uma investigação aponta uma possível ligação entre facções criminosas brasileiras (PCC, CV, TCP) e a organização terrorista Al-Qaeda. Agentes identificaram uma possível conexão financeira internacional. Até o momento, 10 pessoas foram presas neste caso.",
+    "categoria": "seguranca",
+    "tags": [
+      "facções criminosas",
+      "Al-Qaeda",
+      "investigação",
+      "terrorismo",
+      "prisões"
+    ],
+    "entidades": [
+      "PCC",
+      "CV",
+      "TCP",
+      "Al-Qaeda"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/quem-sao-os-investigados-por-ligacao-entre-pcc-cv-tcp-e-al-qaeda/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-trump-tarifa-Brasil",
+    "data": "2026-07-15",
+    "titulo": "Jornal Britânico Critica Tarifas de Trump Contra o Brasil",
+    "resumo": "O jornal britânico The Guardian publicou um editorial afirmando que o presidente dos Estados Unidos, Donald Trump, utiliza acusações comerciais e tarifas contra o Brasil para minar a autonomia do país. A notícia aborda as tensões comerciais entre as duas nações.",
+    "categoria": "economia",
+    "tags": [
+      "Donald Trump",
+      "tarifas",
+      "comércio internacional",
+      "Brasil",
+      "Estados Unidos",
+      "autonomia"
+    ],
+    "entidades": [
+      "The Guardian"
+    ],
+    "pessoas": [
+      "Donald Trump"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos",
+      "Brasil",
+      "Reino Unido"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/economia/noticia/2026/07/15/trump-transforma-autonomia-do-brasil-em-delito-comercial-diz-jornal-britanico-sobre-tarifas.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-homenagem-Renato-Salles",
+    "data": "2026-07-15",
+    "titulo": "Ginásio em Juiz de Fora Homenageia Jornalista Renato Salles",
+    "resumo": "A quadra poliesportiva da Secretaria de Esportes de Juiz de Fora foi nomeada Ginásio Jornalista Renato Salles em homenagem ao profissional. Renato Salles, conhecido como Renatinho, faleceu em 13 de abril deste ano, aos 47 anos. A homenagem reconhece sua trajetória.",
+    "categoria": "cultura",
+    "tags": [
+      "homenagem",
+      "jornalista",
+      "Juiz de Fora",
+      "esportes",
+      "Renato Salles"
+    ],
+    "entidades": [
+      "Secretaria de Esportes de Juiz de Fora"
+    ],
+    "pessoas": [
+      "Renato Salles"
+    ],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Juiz de Fora"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/07/15/jornalista-renato-salles-e-homenageado-com-nome-de-ginasio-em-juiz-de-fora.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-blanche-confirmacao-senado",
+    "data": "2026-07-15",
+    "titulo": "Todd Blanche Sabatinado no Senado por Casos de Trump e Epstein",
+    "resumo": "Todd Blanche, indicado por Donald Trump para o cargo de procurador-geral, será sabatinado no Senado. As perguntas devem focar em casos envolvendo Jeffrey Epstein e os rivais políticos de Trump. Blanche já atuou como advogado pessoal de Trump.",
+    "categoria": "politica",
+    "tags": [
+      "procurador-geral",
+      "Senado",
+      "Donald Trump",
+      "Jeffrey Epstein",
+      "sabatinado"
+    ],
+    "entidades": [
+      "Senado",
+      "Departamento de Justiça"
+    ],
+    "pessoas": [
+      "Todd Blanche",
+      "Donald Trump",
+      "Lindsey Graham",
+      "Darline Graham"
+    ],
+    "estados": [],
+    "cidades": [
+      "Washington"
+    ],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/live/2026/jul/15/todd-blanche-attorney-general-senate-donald-trump-ice-darline-graham-lindsey-graham-us-politics-live-news"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-espanha-gibraltar-fronteira",
+    "data": "2026-07-15",
+    "titulo": "Espanha e Gibraltar Celebram Fim dos Controles Fronteiriços",
+    "resumo": "Espanha e Gibraltar celebram o fim dos controles fronteiriços após a assinatura de um acordo histórico pós-Brexit. O tratado entrou em vigor à meia-noite, eliminando as barreiras na fronteira com o território britânico ultramarino. Este marco encerra uma era de fronteiras na Europa Ocidental.",
+    "categoria": "internacional",
+    "tags": [
+      "Espanha",
+      "Gibraltar",
+      "fronteira",
+      "acordo pós-Brexit",
+      "controle fronteiriço"
+    ],
+    "entidades": [
+      "Reino Unido"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Espanha",
+      "Reino Unido"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/world/2026/jul/15/spain-gibraltar-celebrate-deal-signed-border-controls-uk-territory"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-beyonce-recorde-billboard",
+    "data": "2026-07-15",
+    "titulo": "Beyoncé Quebra Recorde na Billboard Hot 100",
+    "resumo": "Beyoncé alcançou um novo marco na Billboard Hot 100 com o lançamento de sua música 'Morning Dew (Dow)'. Ela se tornou a primeira artista a emplacar músicas na parada musical por 29 anos consecutivos. A conquista reforça sua longevidade na indústria musical.",
+    "categoria": "cultura",
+    "tags": [
+      "Beyoncé",
+      "Billboard",
+      "música",
+      "recorde",
+      "Hot 100"
+    ],
+    "entidades": [
+      "Billboard"
+    ],
+    "pessoas": [
+      "Beyoncé"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/pop/musica/beyonce-faz-historia-com-novo-recorde-na-billboard-hot-100/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-china-ia-namorados",
+    "data": "2026-07-15",
+    "titulo": "China Proíbe 'Namorados' Virtuais Criados por IA para Evitar Dependência Emocional",
+    "resumo": "A China implementou uma nova regulamentação que proíbe 'namorados' virtuais criados por inteligência artificial. O objetivo é combater a dependência emocional gerada por chatbots. A medida foi recebida com reações diversas, incluindo tristeza e perplexidade.",
+    "categoria": "ciencia",
+    "tags": [
+      "inteligência artificial",
+      "IA",
+      "chatbots",
+      "dependência emocional",
+      "regulamentação"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "China"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/tecnologia/noticia/2026/07/15/china-proibe-namorados-criados-por-ia-para-evitar-dependencia-emocional.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-lituania-russia-infraestrutura",
+    "data": "2026-07-15",
+    "titulo": "Lituânia Alerta sobre Possíveis Ataques Russos à Infraestrutura Crítica",
+    "resumo": "A Lituânia alertou que a Rússia pode estar planejando ataques direcionados à infraestrutura crítica do país. O Kremlin refutou as advertências, classificando-as como 'histórias de terror'. As tensões entre a Lituânia e a Rússia aumentam.",
+    "categoria": "internacional",
+    "tags": [
+      "Lituânia",
+      "Rússia",
+      "ataques",
+      "infraestrutura crítica",
+      "tensões"
+    ],
+    "entidades": [
+      "Kremlin"
+    ],
+    "pessoas": [
+      "Volodymyr Zelenskyy",
+      "Vladimir Putin",
+      "Ursula von der Leyen"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Lituânia",
+      "Rússia"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/world/live/2026/jul/15/ursula-von-der-leyen-ukraine-russia-volodymyr-zelenskyy-vladimir-putin-europe-live-news"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-incendio-bar-Estancia",
+    "data": "2026-07-15",
+    "titulo": "Bar Pega Fogo na Praia do Saco em Estância (SE)",
+    "resumo": "Um bar e restaurante localizado na Praia do Saco, em Estância, Sergipe, pegou fogo no início da manhã desta quarta-feira. As equipes do Corpo de Bombeiros isolaram a área, combateram as chamas e trabalharam para evitar que o incêndio se alastrasse. A causa do fogo ainda é desconhecida.",
+    "categoria": "seguranca",
+    "tags": [
+      "incêndio",
+      "bar",
+      "Praia do Saco",
+      "Estância",
+      "Corpo de Bombeiros"
+    ],
+    "entidades": [
+      "Corpo de Bombeiros"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Sergipe"
+    ],
+    "cidades": [
+      "Estância"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/se/sergipe/noticia/2026/07/15/video-bar-pega-fogo-na-praia-do-saco-em-estancia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-golpe-IA-vaquinha-cancer",
+    "data": "2026-07-15",
+    "titulo": "Mãe Denuncia Golpe de Falsa Vaquinha Criada com IA para Criança com Câncer",
+    "resumo": "A mãe de uma criança com câncer no Rio Grande do Sul denunciou um golpe que utilizou inteligência artificial para criar falsas campanhas de arrecadação. Criminosos forjaram vídeos com a imagem da criança para enganar doadores, explorando a dor da família para obter dinheiro.",
     "categoria": "justica",
     "tags": [
       "golpe",
       "inteligência artificial",
+      "IA",
       "vaquinha online",
-      "crianças",
-      "prisão"
+      "câncer",
+      "fraude"
     ],
     "entidades": [],
     "pessoas": [],
@@ -393,222 +726,244 @@
     "paises": [
       "Brasil"
     ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/15/vitima-golpe-ia-vaquinha-crianca-cancer-mae.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-democratas-data-centers-swing-states",
+    "data": "2026-07-15",
+    "titulo": "Democratas Apostam em Data Centers em 'Swing States' e Arriscam Eleições de Meio de Mandato",
+    "resumo": "A estratégia dos Democratas de investir em data centers em estados decisivos ('swing states') pode comprometer suas chances nas eleições de meio de mandato. Pesquisas indicam que eleitores democratas se opõem a esses projetos. Líderes do partido defendem o investimento em IA.",
+    "categoria": "politica",
+    "tags": [
+      "Democratas",
+      "data centers",
+      "swing states",
+      "eleições",
+      "inteligência artificial"
+    ],
+    "entidades": [
+      "Partido Democrata"
+    ],
+    "pessoas": [
+      "Gretchen Whitmer"
+    ],
+    "estados": [
+      "Michigan"
+    ],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos"
+    ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/14/policia-prende-suspeitos-golpe-falsa-doacao-criancas-cancer.ghtml"
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/us-news/2026/jul/15/datacenter-midterm-democrats-swing-states"
       }
     ]
   },
   {
-    "id": "2026-07-14-cultura-brasil",
-    "data": "2026-07-14",
-    "titulo": "Estreia de 'Wicked' no Rio de Janeiro reúne celebridades",
-    "resumo": "A estreia do musical 'Wicked' no Rio de Janeiro contou com a presença de diversas celebridades. O evento ocorreu na Cidade das Artes, na Barra da Tijuca. O espetáculo ficará em cartaz na cidade até o dia 6 de setembro.",
-    "categoria": "cultura",
+    "id": "2026-07-15-planos-urbanismo-Reino-Unido",
+    "data": "2026-07-15",
+    "titulo": "Críticas a Planos Urbanísticos no Reino Unido por Potencial Prejuízo Ambiental",
+    "resumo": "Planos de desenvolvimento urbano no Reino Unido estão sendo criticados por especialistas, que alertam que podem permitir que construtoras ignorem leis ambientais. Especialistas acusam o governo de apressar mudanças que podem prejudicar a natureza em troca de pequenas taxas. A preocupação é com a proteção da biodiversidade.",
+    "categoria": "meio-ambiente",
     "tags": [
-      "musical",
-      "estreia",
-      "Rio de Janeiro",
-      "celebridades"
+      "urbanismo",
+      "meio ambiente",
+      "leis ambientais",
+      "desenvolvimento",
+      "Reino Unido"
     ],
-    "entidades": [],
+    "entidades": [
+      "Governo do Reino Unido"
+    ],
     "pessoas": [
-      "Larissa Manoela",
-      "José Loreto"
-    ],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Rio de Janeiro"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "cnnbrasil",
-        "url": "https://www.cnnbrasil.com.br/noticias/de-larissa-manoela-a-jose-loreto-veja-famosos-na-estreia-wicked-no-rio/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-14-gastronomia-china",
-    "data": "2026-07-14",
-    "titulo": "Restaurante na China oferece cardápio exclusivo para cães",
-    "resumo": "Um restaurante na China surpreendeu ao oferecer um cardápio especializado para cães, com pratos como tartar de atum e petit gâteau. O espaço conta com um chef especializado em culinária pet. A iniciativa reflete a tendência do mercado pet no país.",
-    "categoria": "cultura",
-    "tags": [
-      "gastronomia",
-      "pets",
-      "China",
-      "restaurante",
-      "tendência"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "China"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "g1.com",
-        "url": "https://g1.globo.com/fantastico/noticia/2026/07/14/petit-gateau-para-caes-restaurante-na-china-surpreende-com-cardapio-exclusivo-para-pets.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-14-politica-brasil",
-    "data": "2026-07-14",
-    "titulo": "Alexandre de Moraes suspende visitas de Flávio Bolsonaro ao pai",
-    "resumo": "O ministro Alexandre de Moraes suspendeu por 90 dias as visitas de Flávio Bolsonaro ao seu pai. O tema gerou debate sobre a legalidade e proporcionalidade da decisão. A medida foi discutida no programa 'O Grande Debate'.",
-    "categoria": "politica",
-    "tags": [
-      "Alexandre de Moraes",
-      "Flávio Bolsonaro",
-      "visitas",
-      "suspensão",
-      "decisão judicial"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Alexandre de Moraes",
-      "Flávio Bolsonaro",
-      "Jair Bolsonaro"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "cnnbrasil",
-        "url": "https://www.cnnbrasil.com.br/politica/o-grande-debate-carta-e-motivo-para-negar-visita-de-flavio-a-bolsonaro/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-14-meio-ambiente-alimentacao",
-    "data": "2026-07-14",
-    "titulo": "Estudo sugere que dieta balanceada é mais benéfica que suplementação de micronutrientes",
-    "resumo": "Uma análise sugere que, embora os micronutrientes sejam benéficos, uma dieta balanceada é superior para a saúde. O estudo aborda os efeitos de dietas modernas na diminuição de micronutrientes em frutas e vegetais, e propõe que a nutrição completa é a chave para combater doenças crônicas, doenças cardíacas e obesidade.",
-    "categoria": "saude",
-    "tags": [
-      "nutrição",
-      "dieta",
-      "saúde",
-      "micronutrientes",
-      "alimentação"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "dw.com",
-        "url": "https://www.dw.com/en/micronutrients-are-good-a-balanced-diet-is-better/a-77925409?maca=en-rss-en-all-1573-rdf"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-14-politica-reino-unido",
-    "data": "2026-07-14",
-    "titulo": "Conservadores negam 'expurgo' após perda do 'whip' por Lord Barwell",
-    "resumo": "O Partido Conservador britânico negou estar promovendo um 'expurgo' de membros centristas após Lord Barwell perder o 'whip' (a capacidade de votar com o partido). Um ex-ministro afirmou que a decisão sugere 'intolerância à crítica'. A perda ocorreu após advertências sobre políticas específicas.",
-    "categoria": "politica",
-    "tags": [
-      "Partido Conservador",
-      "Reino Unido",
-      "política",
-      "crítica"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Gavin Barwell",
-      "Kemi Badenoch"
+      "Andy Burnham"
     ],
     "estados": [],
     "cidades": [],
     "paises": [
       "Reino Unido"
     ],
-    "importancia": 2,
+    "importancia": 3,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/2026/jul/14/tories-deny-purge-lord-barwell-party-whip"
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/politics/2026/jul/15/andy-burnham-urged-to-drop-planning-changes-harm-nature"
       }
     ]
   },
   {
-    "id": "2026-07-14-acidente-rodoviario-brasil",
-    "data": "2026-07-14",
-    "titulo": "Acidente com três caminhões deixa um morto e um ferido em rodovia de Minas Gerais",
-    "resumo": "Um acidente envolvendo três caminhões resultou na morte de um motorista e deixou outro ferido. O ocorrido se deu na BR-135, em Engenheiro Navarro, Minas Gerais. Chovia no momento do acidente e a pista estava molhada.",
-    "categoria": "seguranca",
+    "id": "2026-07-15-feminicidios-MG",
+    "data": "2026-07-15",
+    "titulo": "Dois Feminicídios em 25 Dias Levam Denúncia do MP em Minas Gerais",
+    "resumo": "O Ministério Público de Minas Gerais (MPMG) denunciou dois homens acusados de feminicídio em Santa Efigênia de Minas, no Vale do Rio Doce. Os crimes ocorreram em um intervalo de 25 dias, chocando a comunidade local. As denúncias foram comunicadas nesta terça-feira.",
+    "categoria": "justica",
     "tags": [
-      "acidente",
-      "rodovia",
-      "caminhão",
-      "morte",
-      "ferido"
+      "feminicídio",
+      "denúncia",
+      "Ministério Público",
+      "Minas Gerais",
+      "crimes"
     ],
-    "entidades": [],
+    "entidades": [
+      "Ministério Público de Minas Gerais"
+    ],
     "pessoas": [],
     "estados": [
       "Minas Gerais"
     ],
     "cidades": [
-      "Engenheiro Navarro"
+      "Santa Efigênia de Minas"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 2,
+    "importancia": 3,
     "fontes": [
       {
         "nome": "g1.com",
-        "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/14/acidente-envolvendo-tres-caminhoes-deixa-um-motorista-morto-e-outro-ferido-na-br-135-em-engenheiro-navarro.ghtml"
+        "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/07/15/dois-feminicidios-em-25-dias-mp-denuncia-homens-por-matar-ex-companheiras-em-mg.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-14-incidente-aereo-europa",
-    "data": "2026-07-14",
-    "titulo": "Passageiro da Ryanair quase é sugado para fora da janela durante voo",
-    "resumo": "Uma passageira da Ryanair relatou ter segurado as pernas do seu marido enquanto ele estava parcialmente fora da janela da aeronave durante um voo. Ela descreveu o momento de pânico e a sensação de que 'morreríamos juntos'. O incidente ocorreu em pleno voo.",
-    "categoria": "seguranca",
+    "id": "2026-07-15-dolar-ibovespa-tarifas-Trump",
+    "data": "2026-07-15",
+    "titulo": "Dólar Oscila com Radar em Tarifas de Trump e Tensões Internacionais",
+    "resumo": "O dólar abriu a sessão desta quarta-feira com volatilidade, influenciado pela decisão dos EUA sobre novas taxas ao Brasil e tensões no Oriente Médio. O Ibovespa, principal índice da bolsa brasileira, inicia as negociações mais tarde. A possibilidade de novas tarifas de Trump para o Brasil está em foco.",
+    "categoria": "economia",
     "tags": [
-      "acidente aéreo",
-      "Ryanair",
-      "passageiro",
-      "incidente"
+      "dólar",
+      "Ibovespa",
+      "tarifas",
+      "Donald Trump",
+      "Oriente Médio",
+      "mercado financeiro"
     ],
-    "entidades": [
-      "Ryanair"
-    ],
+    "entidades": [],
     "pessoas": [
-      "Svetlana Grković"
+      "Donald Trump"
     ],
     "estados": [],
     "cidades": [],
-    "paises": [],
-    "importancia": 2,
+    "paises": [
+      "Brasil",
+      "Estados Unidos"
+    ],
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/business/2026/jul/14/ryanair-passenger-sucked-through-window-flight"
+        "nome": "g1.com",
+        "url": "https://g1.globo.com/economia/noticia/2026/07/15/dolar-ibovespa.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-destaque-Copa-Bellingham",
+    "data": "2026-07-15",
+    "titulo": "Bellingham, Destaque da Copa, Já Teve Camisa Aposentada por Clube Inglês",
+    "resumo": "Jude Bellingham, um dos destaques da Copa do Mundo, teve sua camisa aposentada por um clube inglês em reconhecimento ao seu talento. O meia de 23 anos comanda a Inglaterra e enfrentará a Argentina nas semifinais. Sua trajetória precoce já o consagrou.",
+    "categoria": "esportes",
+    "tags": [
+      "Copa do Mundo",
+      "futebol",
+      "Bellingham",
+      "Inglaterra",
+      "Argentina",
+      "aposentadoria de camisa"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Jude Bellingham"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Inglaterra",
+      "Argentina"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/destaque-da-copa-bellingham-ja-teve-camisa-aposentada-por-clube-ingles/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-merz-coalizao-Alemanha",
+    "data": "2026-07-15",
+    "titulo": "Friedrich Merz Afirma que Coalizão Alemã Encontrou seu Equilíbrio",
+    "resumo": "O Chanceler alemão Friedrich Merz declarou que a coalizão de governo encontrou seu rumo e que reformas recentes demonstram progresso. Arrestos foram feitos após operações policiais contra drogas na Alemanha Ocidental e Holanda. O DW traz as últimas atualizações.",
+    "categoria": "politica",
+    "tags": [
+      "Alemanha",
+      "coalizão",
+      "reformas",
+      "Friedrich Merz",
+      "operações policiais"
+    ],
+    "entidades": [
+      "Governo Alemão"
+    ],
+    "pessoas": [
+      "Friedrich Merz"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Alemanha",
+      "Holanda"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "rss.dw.com",
+        "url": "https://www.dw.com/en/germany-news-coalition-has-found-its-footing-merz-says/live-77965417?maca=en-rss-en-all-1573-rdf"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-15-caneta-Buzz-Aldrin-leilao",
+    "data": "2026-07-15",
+    "titulo": "Caneta Usada por Buzz Aldrin para Salvar Apollo 11 Vai a Leilão",
+    "resumo": "A caneta felt-tip usada por Buzz Aldrin, segundo homem a pisar na Lua, para consertar um disjuntor quebrado e garantir o retorno da missão Apollo 11 em 1969, será leiloada em Nova York. A Sotheby's espera que o item atinja um valor astronômico.",
+    "categoria": "ciencia",
+    "tags": [
+      "Buzz Aldrin",
+      "Apollo 11",
+      "espaço",
+      "leilão",
+      "história espacial",
+      "caneta"
+    ],
+    "entidades": [
+      "NASA",
+      "Sotheby's"
+    ],
+    "pessoas": [
+      "Buzz Aldrin"
+    ],
+    "estados": [],
+    "cidades": [
+      "Nova York"
+    ],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "theguardian.com",
+        "url": "https://www.theguardian.com/science/2026/jul/15/buzz-aldrin-apollo-astronaut-mission-felt-tip-pen-auction"
       }
     ]
   }
