@@ -1,322 +1,140 @@
 [
   {
-    "id": "2026-07-16-incendios-canada-eua",
-    "data": "2026-07-16",
-    "titulo": "Incêndios no Canadá Afetam Qualidade do Ar nos Estados Unidos",
-    "resumo": "Mais de 800 focos de incêndio continuam ativos no Canadá. Alertas de qualidade do ar foram emitidos em diversas partes dos Estados Unidos, com áreas como Michigan, Minneapolis e Minnesota registrando níveis perigosos. As autoridades monitoram a situação e seus impactos.",
-    "categoria": "meio-ambiente",
+    "id": "2026-07-17-influencia-eua-eleicoes-brasil",
+    "data": "2026-07-17",
+    "titulo": "EUA teriam influência nas eleições brasileiras, diz análise; dólar sobe após tarifaço de Trump",
+    "resumo": "Uma análise aponta influência dos Estados Unidos nas eleições brasileiras, com declarações de que o 'tarifaço' de Trump prejudica Flávio Bolsonaro e beneficia Lula. Paralelamente, o dólar abriu em alta após os EUA confirmarem a cobrança de 25% sobre produtos brasileiros. A notícia também menciona que democratas criticam alegações de Trump sobre interferência eleitoral chinesa.",
+    "categoria": "politica",
     "tags": [
-      "incêndios florestais",
-      "qualidade do ar",
-      "Canadá",
-      "Estados Unidos"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Michigan",
-      "Minnesota"
-    ],
-    "cidades": [
-      "Minneapolis"
-    ],
-    "paises": [
-      "Canadá",
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-16-acidente-transporte-eua",
-    "data": "2026-07-16",
-    "titulo": "Hackers que Atacaram Rede de Transporte de Londres são Condenados",
-    "resumo": "Dois jovens foram sentenciados a cinco anos e meio de prisão por um ciberataque à rede de transporte de Londres. O ataque resultou no roubo de dados de milhões de passageiros e causou um prejuízo de £39 milhões. Funcionários foram forçados a redefinir senhas.",
-    "categoria": "seguranca",
-    "tags": [
-      "ciberataque",
-      "hackers",
-      "transporte público",
-      "Londres"
+      "eleições",
+      "dólar",
+      "tarifaço",
+      "EUA",
+      "Brasil"
     ],
     "entidades": [
-      "Transport for London"
+      "AP Exata",
+      "Trump",
+      "Flávio Bolsonaro",
+      "Luiz Inácio Lula da Silva"
     ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Londres"
+    "pessoas": [
+      "Flávio Bolsonaro",
+      "Luiz Inácio Lula da Silva"
     ],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/technology/2026/jul/16/hackers-2024-cyber-attack-transport-for-london-tfl-jailed"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-16-relacoes-eua-ira",
-    "data": "2026-07-16",
-    "titulo": "Tensão EUA-Irã Aumenta com Alegações de Ataques e Ameaças",
-    "resumo": "O Irã alega ter realizado ataques contra bases americanas e emite advertências sobre ataques mais amplos na região. O país também ordenou que os Houthis fechem o Estreito de Bab el-Mandeba em resposta a um possível ataque dos EUA à sua rede elétrica. A situação eleva a preocupação global.",
-    "categoria": "internacional",
-    "tags": [
-      "Oriente Médio",
-      "Irã",
-      "Estados Unidos",
-      "houthis",
-      "estreito de Bab el-Mandeba"
-    ],
-    "entidades": [],
-    "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Irã",
-      "Estados Unidos",
-      "Iêmen"
+      "Brasil",
+      "Estados Unidos"
     ],
     "importancia": 5,
     "fontes": [
       {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/iran-claims-strikes-on-us-bases-warns-of-wider-attacks-on-region?traffic_source=rss"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/07/16/ira-houthis-estreito-mar-vermelho-eua-ataquem-rede-eletrica.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-16-tarifas-eua-brasil",
-    "data": "2026-07-16",
-    "titulo": "Brasil Critica Tarifa dos EUA e Vê Decisão como Ideológica",
-    "resumo": "O governo brasileiro classificou a decisão dos Estados Unidos de impor uma tarifa de 25% sobre produtos brasileiros como \"ideológica\" e \"de má-fé\". Um ex-diretor-geral da OMC sugeriu que o Brasil poderia usar terras raras como moeda de troca. O dólar abriu em alta no Brasil.",
-    "categoria": "economia",
-    "tags": [
-      "tarifas",
-      "comércio internacional",
-      "Brasil",
-      "Estados Unidos",
-      "terras raras"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil",
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/16/governo-lula-classifica-decisao-dos-eua-como-ideologica-e-diz-que-equipe-de-trump-agiu-de-ma-fe.html"
-      },
-      {
         "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/economia/tarifaco-brasil-poderia-barganhar-com-eua-sobre-terras-raras-diz-ex-omc/"
+        "url": "https://www.cnnbrasil.com.br/politica/tarifaco-ha-influencia-dos-eua-nas-eleicoes-brasileiras-diz-ap-exata/"
       },
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/economia/noticia/2026/07/16/dolar-ibovespa.html"
+        "url": "https://g1.globo.com/economia/noticia/2026/07/17/dolar-ibovespa.ghtml"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates"
       }
     ]
   },
   {
-    "id": "2026-07-16-zelenskyy-ukraine-pm",
-    "data": "2026-07-16",
-    "titulo": "Zelenskyy Agradece Líder Britânico em Última Visita como Primeiro-Ministro",
-    "resumo": "O presidente ucraniano Volodymyr Zelenskyy agradeceu ao primeiro-ministro britânico por seu apoio inabalável durante a última visita do líder ao país. A visita ocorre em meio a desdobramentos políticos na Ucrânia e no Reino Unido.",
-    "categoria": "internacional",
+    "id": "2026-07-17-burnham-lider-partido-trabalhista",
+    "data": "2026-07-17",
+    "titulo": "Andy Burnham se torna líder do Partido Trabalhista no Reino Unido",
+    "resumo": "Andy Burnham foi confirmado como o novo líder do Partido Trabalhista no Reino Unido, o que o posiciona para suceder Keir Starmer como primeiro-ministro britânico. Em seu primeiro discurso, Burnham pediu unidade partidária e uma 'nova política', criticando o 'neoliberalismo' e buscando devolver 'esperança' às pessoas.",
+    "categoria": "politica",
     "tags": [
-      "Ucrânia",
       "Reino Unido",
-      "Relações Internacionais",
-      "política"
+      "partido trabalhista",
+      "liderança"
     ],
-    "entidades": [],
+    "entidades": [
+      "Labour Party"
+    ],
     "pessoas": [
-      "Volodymyr Zelenskyy",
+      "Andy Burnham",
       "Keir Starmer"
     ],
     "estados": [],
-    "cidades": [
-      "Kyiv"
-    ],
+    "cidades": [],
     "paises": [
-      "Ucrânia",
       "Reino Unido"
     ],
     "importancia": 4,
     "fontes": [
       {
+        "nome": "DW",
+        "url": "https://www.dw.com/en/uk-andy-burnham-confirmed-as-labour-party-leader/a-78000524?maca=en-rss-en-all-1573-rdf"
+      },
+      {
         "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jul/16/europe-ukraine-russia-zelenskyy-starmer-macron-merz-latest-news-updates"
+        "url": "https://theguardian.com/politics/live/2026/jul/17/andy-burnham-labour-leader-speech-latest-news-updates"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://theguardian.com/politics/2026/jul/17/andy-burnham-becomes-labour-leader-final-step-towards-uk-pm"
       }
     ]
   },
   {
-    "id": "2026-07-16-incendio-argelia",
-    "data": "2026-07-16",
-    "titulo": "Incêndio em Orfanato na Argélia Deixa 11 Mortos e 19 Feridos",
-    "resumo": "Um incêndio em um orfanato na Argélia resultou na morte de 11 pessoas e deixou 19 feridas. Entre as vítimas estão crianças. Cinco pessoas com deficiência foram resgatadas do local. As causas do incêndio estão sendo investigadas.",
-    "categoria": "seguranca",
+    "id": "2026-07-17-ataques-iran-eua",
+    "data": "2026-07-17",
+    "titulo": "EUA atacam pontes no sul do Irã, enquanto Irã reporta ataques e apreende navio",
+    "resumo": "Mídia estatal iraniana reportou que os Estados Unidos atacaram pontes no sul do Irã, danificando infraestrutura em uma cidade costeira próxima ao Estreito de Ormuz. Em paralelo, um navio foi abordado por forças americanas no contexto de uma suposta bloqueio de portos iranianos. O Irã também alegou ter atingido caças americanos na Jordânia.",
+    "categoria": "internacional",
     "tags": [
-      "incêndio",
-      "acidente",
-      "orfanato",
-      "Argélia"
+      "Irã",
+      "EUA",
+      "ataques",
+      "navios",
+      "Oriente Médio"
     ],
-    "entidades": [],
-    "pessoas": [],
+    "entidades": [
+      "IRGC"
+    ],
+    "pessoas": [
+      "Donald Trump"
+    ],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Argélia"
+      "Irã",
+      "Estados Unidos",
+      "Jordânia"
     ],
     "importancia": 4,
     "fontes": [
       {
+        "nome": "The Guardian",
+        "url": "https://theguardian.com/world/live/2026/jul/17/us-iran-war-strait-of-hormuz-donald-trump-israel-lebanon-latest-news-updates"
+      },
+      {
         "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/incendio-em-orfanato-na-argelia-deixa-mortos-e-feridos/"
+        "url": "https://www.cnnbrasil.com.br/internacional/eua-atacam-pontes-no-sul-do-ira-diz-midia-estatal/"
       }
     ]
   },
   {
-    "id": "2026-07-16-acidentes-transito-sp",
-    "data": "2026-07-16",
-    "titulo": "Acidentes de Trânsito em São Paulo Causam Mortes e Interdições",
-    "resumo": "Um acidente fatal envolvendo um carro e um caminhão ocorreu na Rodovia Marechal Rondon (SP-300), em Tietê (SP), resultando em uma morte. Em outra ocorrência, os corpos de três trabalhadores vítimas de um acidente na SP-255, em Boa Esperança do Sul (SP), serão sepultados. PRF apreendeu 20,9 kg de haxixe em Lavrinhas (SP).",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente de trânsito",
-      "rodovia",
-      "haxixe",
-      "apreensão"
-    ],
-    "entidades": [
-      "Polícia Rodoviária Federal"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Tietê",
-      "Boa Esperança do Sul",
-      "Lavrinhas"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/07/16/acidente-em-tiete.html"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/07/16/corpos-de-trabalhadores-vitimas-de-acidente-serao-enterrados-nesta-quinta-feira-no-interior-de-sp.html"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/16/prf-apreende-quase-21-kg-de-haxixe-escondidos-em-portas-de-carro-na-dutra-em-lavrinhas.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-16-maus-tratos-volta-redonda",
-    "data": "2026-07-16",
-    "titulo": "Casal Detido por Suspeita de Maus-Tratos a Filhos em Volta Redonda",
-    "resumo": "Um casal foi detido em Volta Redonda (RJ) sob suspeita de maus-tratos e negligência contra seus dois filhos, de 1 ano e 7 meses e 3 meses. A detenção ocorreu após os pais buscarem atendimento médico para as crianças. A polícia civil investiga o caso.",
-    "categoria": "justica",
-    "tags": [
-      "maus-tratos infantis",
-      "negligência",
-      "prisão",
-      "Volta Redonda"
-    ],
-    "entidades": [
-      "Polícia Civil"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Volta Redonda"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/16/casal-acaba-detido-por-suspeita-de-maus-tratos-e-negligencia-contra-dois-filhos-em-volta-redonda.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-16-morte-crianca-piscina",
-    "data": "2026-07-16",
-    "titulo": "Criança de 2 Anos Morre Após Cair em Piscina em Três Lagoas",
-    "resumo": "Uma menina de 2 anos morreu após cair em uma piscina no bairro Vila Nova, em Três Lagoas (MS). O Corpo de Bombeiros foi acionado pela mãe da criança e prestou orientações por telefone. O caso é tratado como acidente doméstico.",
-    "categoria": "seguranca",
-    "tags": [
-      "afogamento",
-      "acidente doméstico",
-      "criança",
-      "Três Lagoas"
-    ],
-    "entidades": [
-      "Corpo de Bombeiros"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Mato Grosso do Sul"
-    ],
-    "cidades": [
-      "Três Lagoas"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/16/crianca-de-2-anos-morre-apos-cair-em-piscina-em-tres-lagoas.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-16-vazamento-gas-manaus",
-    "data": "2026-07-16",
-    "titulo": "Vazamento de Gás em Manaus Leva 16 Pessoas a Unidades de Saúde",
-    "resumo": "Um vazamento de gás em uma indústria no Distrito Industrial de Manaus levou 16 pessoas a buscar atendimento em unidades de saúde. A Secretaria Estadual de Saúde informou que o quadro de saúde dos pacientes é estável. As causas do incidente estão sendo apuradas.",
+    "id": "2026-07-17-vazamento-gas-manaus",
+    "data": "2026-07-17",
+    "titulo": "Homem morre em Manaus após vazamento de gás estireno; mortes relacionadas são investigadas",
+    "resumo": "Um homem de 67 anos faleceu em Manaus após um vazamento de gás estireno. A Secretaria de Estado de Saúde informou que a morte não tem relação direta com o incidente químico. Outras oito pessoas permanecem internadas. O caso levanta preocupações sobre a segurança industrial.",
     "categoria": "saude",
     "tags": [
       "vazamento de gás",
-      "acidente industrial",
-      "saúde",
-      "Manaus"
+      "Manaus",
+      "acidente químico",
+      "saúde"
     ],
     "entidades": [
-      "Secretaria Estadual de Saúde"
+      "Secretaria de Estado de Saúde"
     ],
     "pessoas": [],
     "estados": [
@@ -332,124 +150,88 @@
     "fontes": [
       {
         "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/nacional/norte/am/vazamento-de-gas-em-manaus-16-pessoas-dao-entrada-em-unidades-de-saude/"
+        "url": "https://www.cnnbrasil.com.br/nacional/norte/am/homem-de-67-anos-morre-apos-vazamento-de-gas-estireno-em-manaus/"
       }
     ]
   },
   {
-    "id": "2026-07-16-incendios-florestais-franca",
-    "data": "2026-07-16",
-    "titulo": "Macron Promete Replantar Floresta de Fontainebleau Após Incêndios Devastadores",
-    "resumo": "O presidente francês Emmanuel Macron comprometeu-se a replantar a floresta de Fontainebleau, que foi severamente afetada por incêndios. Pelo menos 10% da área florestal foi atingida, forçando a evacuação de centenas de residentes. A floresta é um importante ponto turístico.",
+    "id": "2026-07-17-ataques-ucrania-russia",
+    "data": "2026-07-17",
+    "titulo": "Vários mortos e feridos em ataques russos na Ucrânia; Ucrânia diz ter atingido navios russos",
+    "resumo": "A Rússia realizou ataques noturnos em diversas áreas da Ucrânia, atingindo áreas residenciais e causando mortes e feridos. Por outro lado, a Ucrânia afirmou que ataques com drones no Mar Negro atingiram 12 embarcações russas. As ações indicam a continuidade do conflito na região.",
+    "categoria": "internacional",
+    "tags": [
+      "Ucrânia",
+      "Rússia",
+      "guerra",
+      "ataques"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Ucrânia",
+      "Rússia"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "DW",
+        "url": "https://www.dw.com/en/ukraine-several-killed-and-injured-in-russian-strikes/a-78007862?maca=en-rss-en-all-1573-rdf"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-17-reparacao-bacia-rio-doce",
+    "data": "2026-07-17",
+    "titulo": "Novo acordo amplia ações de reparação na Bacia do Rio Doce",
+    "resumo": "Um novo acordo foi firmado para ampliar as ações de reparação na Bacia do Rio Doce. O CEO da Samarco detalhou as medidas previstas e anunciou a extensão do prazo para adesão ao Programa Indenizatório Definitivo. A iniciativa busca mitigar os impactos ambientais e sociais na região.",
     "categoria": "meio-ambiente",
     "tags": [
-      "incêndios florestais",
+      "Rio Doce",
+      "reparação",
       "meio ambiente",
-      "França",
-      "Fontainebleau"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Emmanuel Macron"
-    ],
-    "estados": [
-      "Île-de-France"
-    ],
-    "cidades": [
-      "Paris"
-    ],
-    "paises": [
-      "França"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "France 24",
-        "url": "https://www.france24.com/en/france/20260716-macron-vows-to-replant-fontainebleau-forest-after-devastating-wildfires"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-16-desaparecimento-copacabana",
-    "data": "2026-07-16",
-    "titulo": "Amigo Relata Desespero Após Adolescente Desaparecer no Mar de Copacabana",
-    "resumo": "Um amigo de um adolescente goiano que desapareceu no mar de Copacabana, no Rio de Janeiro, relembrou os momentos de desespero durante o acidente. O jovem relatou que não sabia o que fazer após a série de ondas que arrastou o amigo. As buscas continuam.",
-    "categoria": "seguranca",
-    "tags": [
-      "desaparecimento",
-      "mar",
-      "Copacabana",
-      "acidente"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro",
-      "Goiás"
-    ],
-    "cidades": [
-      "Rio de Janeiro"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/go/goias/noticia/2026/07/16/amigo-de-adolescente-que-desapareceu-em-copacabana-relembra-desespero-apos-serie-de-ondas-nao-sabia-o-que-fazer-mais.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-16-justica-psiquiatra-sp",
-    "data": "2026-07-16",
-    "titulo": "Psiquiatra Condenado por Crimes Sexuais Deverá Indenizar Vítimas em SP",
-    "resumo": "A Justiça de Marília (SP) determinou que um psiquiatra condenado por crimes sexuais indenize 18 pacientes em pelo menos R$ 5 mil cada. A decisão foi emitida pela 3ª Vara Criminal da cidade. O processo trata de condenações em casos de abuso sexual contra pacientes.",
-    "categoria": "justica",
-    "tags": [
-      "crimes sexuais",
-      "indenização",
-      "psiquiatra",
-      "Marília"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Marília"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/07/16/justica-determina-que-psiquiatra-condenado-por-crimes-sexuais-indenize-vitimas-em-r-5-mil-no-interior-de-sp.html"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-16-chuvas-pernambuco",
-    "data": "2026-07-16",
-    "titulo": "Pernambuco: Alerta de Chuvas com 'Perigo Potencial' para 29 Cidades",
-    "resumo": "O Instituto Nacional de Meteorologia (Inmet) emitiu um alerta de acumulado de chuvas com grau de severidade 'perigo potencial' para as regiões Agreste e Mata Sul de Pernambuco. O aviso abrange 29 municípios do interior do estado. Há risco de transtornos.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "chuvas",
-      "alerta meteorológico",
-      "Pernambuco",
-      "inmet"
+      "Samarco"
     ],
     "entidades": [
-      "Instituto Nacional de Meteorologia"
+      "Samarco"
+    ],
+    "pessoas": [
+      "Rodrigo Vilela"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/branded-content/nacional/novo-acordo-amplia-acoes-de-reparacao-na-bacia-do-rio-doce/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-17-previsao-tempo-sc",
+    "data": "2026-07-17",
+    "titulo": "Santa Catarina se prepara para fim de semana com ventos fortes, calor e chuvas",
+    "resumo": "Santa Catarina está sob dois avisos meteorológicos para o fim de semana, com previsão de ventos de até 100 km/h, calor chegando a 30°C e fortes chuvas em algumas regiões. As condições climáticas incluem alertas para as áreas Oeste, Serra e Sul do estado.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "previsão do tempo",
+      "Santa Catarina",
+      "clima",
+      "chuvas",
+      "ventos"
+    ],
+    "entidades": [
+      "Instituto Nacional de Meteorologia (Inmet)"
     ],
     "pessoas": [],
     "estados": [
-      "Pernambuco"
+      "Santa Catarina"
     ],
     "cidades": [],
     "paises": [
@@ -459,65 +241,30 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/07/16/interior-de-pe-tem-aviso-de-chuvas-com-perigo-potencial-para-29-cidades.html"
+        "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/17/sc-fim-de-semana-ventos-de-ate-100-km-calor-30-graus-e-fortes-chuvas.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-16-politica-eua-trump-advogado",
-    "data": "2026-07-16",
-    "titulo": "Trump Demite Advogado Recém-Nomeado em Seattle",
-    "resumo": "Donald Trump demitiu o novo procurador federal dos Estados Unidos em Seattle menos de uma hora após sua nomeação por juízes federais. O advogado Roger Rogoff teve seu cargo revogado. A decisão gerou reações e questionamentos sobre o processo de nomeação.",
-    "categoria": "politica",
+    "id": "2026-07-17-turismo-santarem",
+    "data": "2026-07-17",
+    "titulo": "Aumento no fluxo de turistas em praias de Santarém (PA) em julho",
+    "resumo": "Alter do Chão e outras praias de Santarém, no Pará, registram aumento no número de turistas durante o período de férias escolares de julho. Apesar da vazante do rio Tapajós, a região tem atraído visitantes, impulsionando o turismo local.",
+    "categoria": "cultura",
     "tags": [
-      "política",
-      "Estados Unidos",
-      "advocacia",
-      "Trump"
+      "turismo",
+      "Santarém",
+      "praias",
+      "Pará",
+      "férias"
     ],
     "entidades": [],
-    "pessoas": [
-      "Donald Trump",
-      "Roger Rogoff"
-    ],
-    "estados": [
-      "Washington"
-    ],
-    "cidades": [
-      "Seattle"
-    ],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/2026/jul/16/trump-fires-us-attorney-roger-rogoff-seattle"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-16-obras-enel-sp",
-    "data": "2026-07-16",
-    "titulo": "Enel São Paulo Investe em Prevenção para Eventuais Temporais",
-    "resumo": "A Enel São Paulo está realizando cerca de 650 mil podas de árvores anualmente e investindo em automação avançada para garantir o fornecimento de energia durante temporais. A companhia busca agir preventivamente para manter a estabilidade do serviço na região.",
-    "categoria": "economia",
-    "tags": [
-      "energia",
-      "infraestrutura",
-      "prevenção",
-      "São Paulo"
-    ],
-    "entidades": [
-      "Enel"
-    ],
     "pessoas": [],
     "estados": [
-      "São Paulo"
+      "Pará"
     ],
     "cidades": [
-      "São Paulo"
+      "Santarém"
     ],
     "paises": [
       "Brasil"
@@ -525,26 +272,288 @@
     "importancia": 2,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/branded-content/nacional/enel-sao-paulo-investe-em-prevencao-para-enfrentar-temporais/"
+        "nome": "G1",
+        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/17/alter-do-chao-e-outras-praias-de-santarem-registram-aumento-no-fluxo-de-turistas-no-mes-de-julho.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-16-falta-energia-aracaju",
-    "data": "2026-07-16",
-    "titulo": "Poste Cede e Deixa Bairro de Aracaju Sem Energia",
-    "resumo": "Moradores do Bairro Marivan, na Zona Sul de Aracaju (SE), ficaram sem energia elétrica após um poste ceder. A Energisa informou que equipes estão no local desde a madrugada para restabelecer o serviço. A causa do incidente com o poste ainda não foi detalhada.",
-    "categoria": "economia",
+    "id": "2026-07-17-exposicao-fotografica-santarem",
+    "data": "2026-07-17",
+    "titulo": "Exposição 'Rio que Alimenta' em Santarém aborda relação entre comunidades e rios",
+    "resumo": "A exposição fotográfica \"Rio que Alimenta\" será realizada em Santarém, no Pará, durante o mês de agosto. A mostra reunirá imagens sobre a relação entre as comunidades ribeirinhas e os rios da região, exibindo o cotidiano de locais como o Lago do Maicá e a Feira do Pescado.",
+    "categoria": "cultura",
     "tags": [
-      "energia elétrica",
-      "apagão",
-      "infraestrutura",
-      "Aracaju"
+      "exposição",
+      "fotografia",
+      "Santarém",
+      "rios",
+      "comunidades"
     ],
     "entidades": [
-      "Energisa"
+      "Porão Centro Cultural"
     ],
+    "pessoas": [],
+    "estados": [
+      "Pará"
+    ],
+    "cidades": [
+      "Santarém"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/17/exposicao-rio-que-alimenta-reune-fotografias-sobre-a-relacao-entre-comunidades-e-os-rios-em-santarem.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-17-vendas-lavvi",
+    "data": "2026-07-17",
+    "titulo": "Lavvi registra queda de 11% nas vendas líquidas no 2º trimestre",
+    "resumo": "A empresa Lavvi apresentou uma queda de 11% em suas vendas líquidas durante o segundo trimestre. O valor geral de vendas de lançamentos da companhia foi de R$ 848 milhões no período, representando uma redução de 28% em relação ao ano anterior.",
+    "categoria": "economia",
+    "tags": [
+      "vendas",
+      "Lavvi",
+      "economia",
+      "imobiliário",
+      "trimestre"
+    ],
+    "entidades": [
+      "Lavvi"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/negocios/lavvi-tem-queda-de-11-nas-vendas-liquidas-do-2o-trimestre/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-17-previa-pib-bc",
+    "data": "2026-07-17",
+    "titulo": "\"Prévia do PIB\" do Banco Central sobe 0,1% em maio",
+    "resumo": "O Índice de Atividade Econômica do Banco Central (IBC-BR), considerado uma prévia do Produto Interno Bruto (PIB), registrou uma alta de 0,1% em maio. Nos últimos 12 meses, o indicador avançou 1,4%.",
+    "categoria": "economia",
+    "tags": [
+      "PIB",
+      "Banco Central",
+      "economia",
+      "IBC-BR"
+    ],
+    "entidades": [
+      "Banco Central"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/ibc-br-maio-2026/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-17-violencia-domestica-piracicaba",
+    "data": "2026-07-17",
+    "titulo": "Homem é preso por agredir mulher e jogar copo de vidro no filho em Piracicaba",
+    "resumo": "Um homem de 37 anos foi preso em flagrante em Piracicaba por tentativa de homicídio e violência doméstica. Ele agrediu a companheira e arremessou um copo de vidro contra a cabeça do filho de cinco anos. O crime ocorreu no bairro Bosques do Lenheiro.",
+    "categoria": "justica",
+    "tags": [
+      "violência doméstica",
+      "prisão",
+      "agressão",
+      "Piracicaba",
+      "tentativa de homicídio"
+    ],
+    "entidades": [
+      "Guarda de Piracicaba"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Piracicaba"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/17/homem-e-preso-apos-agredir-mulher-e-jogar-copo-de-vidro-contra-cabeca-de-filho-de-5-anos-em-piracicaba.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-17-injuria-racial-caruaru",
+    "data": "2026-07-17",
+    "titulo": "Mulher é presa por injúria racial contra criança em Caruaru (PE)",
+    "resumo": "Uma mulher de 40 anos foi presa em flagrante em Caruaru, Pernambuco, suspeita de injúria racial contra um menino de 11 anos. Segundo a polícia, a suspeita teria chamado a criança de \"macaco\" em frente à sua residência. O crime ocorreu na manhã de quinta-feira (17).",
+    "categoria": "justica",
+    "tags": [
+      "injúria racial",
+      "prisão",
+      "criança",
+      "Caruaru",
+      "Pernambuco"
+    ],
+    "entidades": [
+      "Polícia Civil"
+    ],
+    "pessoas": [
+      "Ilária Lindalva da Silva"
+    ],
+    "estados": [
+      "Pernambuco"
+    ],
+    "cidades": [
+      "Caruaru"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/07/17/mulher-e-presa-em-flagrante-suspeita-de-injuria-racial-por-chamar-crianca-de-macaco-em-caruaru.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-17-feminicidios-india",
+    "data": "2026-07-17",
+    "titulo": "Estudo liga prática de dotes a aumento de feminicídios na Índia",
+    "resumo": "Um estudo antropológico do King's College de Londres aponta que a prática de dotes de casamento está ligada ao aumento de feminicídios na Índia. A pesquisa lança nova luz sobre o sistema cultural e suas trágicas consequências, especialmente para as mulheres.",
+    "categoria": "justica",
+    "tags": [
+      "feminicídio",
+      "Índia",
+      "dotes",
+      "estudo",
+      "violência de gênero"
+    ],
+    "entidades": [
+      "King's College de Londres"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Srinagar"
+    ],
+    "paises": [
+      "Índia"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mundo/noticia/2026/07/17/entenda-como-pratica-de-dotes-de-casamento-provocou-aumento-de-feminicidios-na-india.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-17-roubo-carro-padre-mg",
+    "data": "2026-07-17",
+    "titulo": "Ladrão furta carro de padre em menos de 9 segundos em Divinópolis (MG)",
+    "resumo": "Um ladrão conseguiu furtar o carro de um padre em menos de 9 segundos, em frente a um convento em Divinópolis, Minas Gerais. O crime ocorreu enquanto o religioso realizava seu trabalho. As imagens do furto foram divulgadas.",
+    "categoria": "seguranca",
+    "tags": [
+      "furto",
+      "carro",
+      "padre",
+      "Divinópolis",
+      "Minas Gerais"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Divinópolis"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/07/17/video-ladrao-levou-menos-de-9-segundos-para-furtar-carro-de-padre-em-frente-a-convento-em-mg.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-17-morto-tiros-teresina",
+    "data": "2026-07-17",
+    "titulo": "Homem é morto a tiros em Teresina; família relata ameaças",
+    "resumo": "Um homem de 42 anos, identificado como Daniel Gonçalves de Sousa, foi morto a tiros na noite de quinta-feira (16) em Teresina, Piauí. Familiares relataram à Polícia Militar que a vítima já havia recebido ameaças antes do crime. O caso ocorreu no bairro Cidade Leste.",
+    "categoria": "seguranca",
+    "tags": [
+      "homicídio",
+      "tiros",
+      "Teresina",
+      "ameaças",
+      "Piauí"
+    ],
+    "entidades": [
+      "Polícia Militar",
+      "Instituto de Medicina Legal (IML)"
+    ],
+    "pessoas": [
+      "Daniel Gonçalves de Sousa"
+    ],
+    "estados": [
+      "Piauí"
+    ],
+    "cidades": [
+      "Teresina"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/17/homem-morto-ameacas.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-17-propaganda-bets-aracaju",
+    "data": "2026-07-17",
+    "titulo": "Prefeitura de Aracaju proíbe propaganda de 'bets' em espaços públicos",
+    "resumo": "A prefeitura de Aracaju proibiu a veiculação de propaganda de plataformas de apostas de quota fixa, conhecidas como 'bets', em espaços públicos da capital. A decisão foi publicada no Diário Oficial do município. A medida visa regular a publicidade dessas plataformas na cidade.",
+    "categoria": "justica",
+    "tags": [
+      "apostas esportivas",
+      "propaganda",
+      "Aracaju",
+      "regulamentação"
+    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [
       "Sergipe"
@@ -555,152 +564,122 @@
     "paises": [
       "Brasil"
     ],
-    "importancia": 2,
+    "importancia": 1,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/se/sergipe/noticia/2026/07/16/moradores-do-bairro-marivan-em-aracaju-ficam-sem-energia-apos-poste-ceder.html"
+        "url": "https://g1.globo.com/se/sergipe/noticia/2026/07/17/propaganda-de-bets-em-espacos-publicos-e-proibida-pela-prefeitura-de-aracaju.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-16-projeto-autazes-stf",
-    "data": "2026-07-16",
-    "titulo": "DPU Pede ao STF Suspensão de Decisões Favoráveis ao Projeto Autazes",
-    "resumo": "A Defensoria Pública da União (DPU) solicitou ao Supremo Tribunal Federal (STF) a suspensão de decisões favoráveis ao Projeto Autazes. A Brazil Potash, responsável pelo empreendimento, afirmou que o pedido não altera a situação jurídica do projeto.",
-    "categoria": "justica",
-    "tags": [
-      "projeto de mineração",
-      "STF",
-      "DPU",
-      "Amazonas"
-    ],
-    "entidades": [
-      "Defensoria Pública da União",
-      "Supremo Tribunal Federal"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Amazonas"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/agro/projeto-autazes-dpu-pede-ao-stf-suspensao-de-decisoes-favoraveis/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-16-homenagem-preta-gil",
-    "data": "2026-07-16",
-    "titulo": "Filme e Documentário Em Homenagem a Preta Gil Serão Lançados",
-    "resumo": "Um filme e um documentário intitulados \"Quanto Mais Preta Melhor\" serão lançados em homenagem à cantora Preta Gil. As produções cinematográficas têm lançamento previsto para o dia 20 de julho, marcando um ano de sua morte. As obras celebrarão sua carreira.",
+    "id": "2026-07-17-musica-bts",
+    "data": "2026-07-17",
+    "titulo": "BTS lança videoclipe de novo single 'Normal'",
+    "resumo": "O grupo de K-pop BTS lançou o videoclipe de seu novo single, 'Normal', parte do álbum 'Arirang'. O conteúdo foi promovido com exclusividade no Spotify e estará disponível nas demais plataformas a partir de domingo (19).",
     "categoria": "cultura",
     "tags": [
-      "cinema",
-      "documentário",
+      "BTS",
       "música",
-      "Preta Gil"
+      "videoclipe",
+      "K-pop",
+      "álbum"
     ],
-    "entidades": [],
-    "pessoas": [
-      "Preta Gil"
+    "entidades": [
+      "Spotify"
     ],
+    "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Brasil"
+      "Coreia do Sul"
     ],
-    "importancia": 2,
+    "importancia": 1,
     "fontes": [
       {
         "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/pop/streaming/quanto-mais-preta-melhor-veja-fotos-de-filme-e-documentario-de-preta-gil/"
+        "url": "https://www.cnnbrasil.com.br/pop/musica/bts-lanca-videoclipe-de-normal-novo-single-do-album-arirang/"
       }
     ]
   },
   {
-    "id": "2026-07-16-morte-ator-hal-williams",
-    "data": "2026-07-16",
-    "titulo": "Morre Hal Williams, Ator da Série \"Os Waltons\"",
-    "resumo": "O ator Hal Williams, conhecido por seu papel na série \"Os Waltons\", faleceu aos 91 anos. A notícia de sua morte foi divulgada por colegas de profissão, como o ator Ernest Harden Jr. Williams teve uma longa carreira na televisão e no cinema.",
+    "id": "2026-07-17-celebridades-britney-spears",
+    "data": "2026-07-17",
+    "titulo": "Britney Spears posta roupinhas de bebê e gera especulações sobre gravidez",
+    "resumo": "A cantora Britney Spears agitou as redes sociais ao postar fotos com roupinhas de bebê, levantando especulações sobre uma possível gravidez. A artista declarou que tem 'alguém incrivelmente lindo' para apresentar ao público, alimentando os rumores.",
     "categoria": "cultura",
     "tags": [
-      "cinema",
-      "televisão",
-      "ator",
-      "falecimento"
+      "Britney Spears",
+      "celebridades",
+      "música",
+      "gravidez",
+      "redes sociais"
     ],
     "entidades": [],
     "pessoas": [
-      "Hal Williams",
-      "Ernest Harden Jr."
+      "Britney Spears"
     ],
     "estados": [],
     "cidades": [],
     "paises": [
       "Estados Unidos"
     ],
-    "importancia": 2,
+    "importancia": 1,
     "fontes": [
       {
         "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/pop/celebridades/hal-williams-ator-de-os-waltons-morre-aos-91-anos/"
+        "url": "https://www.cnnbrasil.com.br/pop/celebridades/britney-spears-gravida-cantora-faz-post-com-roupinhas-de-bebe-e-agita-web/"
       }
     ]
   },
   {
-    "id": "2026-07-16-argentina-falklands-fifa",
-    "data": "2026-07-16",
-    "titulo": "Argentina Pode Enfrentar Ação da FIFA por Banner das Malvinas",
-    "resumo": "A seleção argentina poderá sofrer sanções disciplinares da FIFA devido à comemoração de jogadores com um banner em apoio às reivindicações das Ilhas Malvinas após a vitória na semifinal da Copa do Mundo contra a Inglaterra. A entidade máxima do futebol investigará o incidente.",
-    "categoria": "esportes",
+    "id": "2026-07-17-celebridades-matheus",
+    "data": "2026-07-17",
+    "titulo": "Web nota ausência da esposa de Matheus após polêmica em 'Casa do Patrão'",
+    "resumo": "Internautas notaram a ausência da esposa do participante Matheus em posts recentes, após polêmicas envolvendo atitudes dele no reality show 'Casa do Patrão'. As especulações nas redes sociais sugerem que as ações do participante teriam sido de traição.",
+    "categoria": "cultura",
     "tags": [
-      "futebol",
-      "Copa do Mundo",
-      "FIFA",
-      "Argentina",
-      "Inglaterra",
-      "Ilhas Malvinas"
+      "reality show",
+      "Casa do Patrão",
+      "celebridades",
+      "polêmica"
     ],
-    "entidades": [
-      "FIFA"
+    "entidades": [],
+    "pessoas": [
+      "Matheus"
     ],
-    "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Argentina",
-      "Inglaterra"
+      "Brasil"
     ],
-    "importancia": 3,
+    "importancia": 1,
     "fontes": [
       {
-        "nome": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/pop/celebridades/casa-do-patrao-web-aponta-ausencia-de-esposa-de-matheus-apos-polemica/"
       }
     ]
   },
   {
-    "id": "2026-07-16-noticias-minas-gerais",
-    "data": "2026-07-16",
-    "titulo": "Resumo das Notícias de Minas Gerais - Bom Dia Minas",
-    "resumo": "Vídeos das principais notícias de Minas Gerais, exibidos no programa Bom Dia Minas desta quinta-feira, 16 de julho de 2026. O conteúdo abrange diversos assuntos de interesse regional.",
-    "categoria": "politica",
+    "id": "2026-07-17-agricultura-aerofito",
+    "data": "2026-07-17",
+    "titulo": "Aerofito celebra 30 anos com foco em olhar além da próxima safra",
+    "resumo": "A Aerofito comemora 30 anos de atuação, destacando a importância de olhar além da próxima colheita na agricultura. A empresa ressalta que o campo é dinâmico, influenciado por variáveis como clima, janelas de plantio e sucessão de culturas, exigindo planejamento a longo prazo.",
+    "categoria": "economia",
     "tags": [
-      "notícias regionais",
-      "Minas Gerais",
-      "telejornalismo"
+      "agricultura",
+      "Aerofito",
+      "agronegócio",
+      "safra",
+      "planejamento"
     ],
-    "entidades": [],
+    "entidades": [
+      "Aerofito"
+    ],
     "pessoas": [],
     "estados": [
-      "Minas Gerais"
+      "Mato Grosso"
     ],
     "cidades": [],
     "paises": [
@@ -710,26 +689,30 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/mg/minas-gerais/videos-bom-dia-minas/playlist/videos-bom-dia-minas-de-quinta-feira-16-de-julho-de-2026.ghtml"
+        "url": "https://g1.globo.com/mt/mato-grosso/especial-publicitario/aerofito/noticia/2026/07/17/30-anos-de-aerofito-entender-o-campo-e-olhar-alem-da-proxima-safra.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-16-noticias-sul-minas",
-    "data": "2026-07-16",
-    "titulo": "Resumo das Notícias do Sul de Minas - Bom Dia Cidade",
-    "resumo": "Vídeos do jornal Bom Dia Cidade Sul de Minas apresentando as notícias de quinta-feira, 16 de julho de 2026. O noticiário cobre os acontecimentos da região.",
+    "id": "2026-07-17-nomeacao-ministerio-agricultura",
+    "data": "2026-07-17",
+    "titulo": "Augusto Billi assume secretaria de comércio no Ministério da Agricultura",
+    "resumo": "O engenheiro agrônomo Augusto Billi foi nomeado para assumir a secretaria de comércio no Ministério da Agricultura. Ele entra no lugar de Luis Rua. A mudança visa reforçar a área de comércio dentro da pasta.",
     "categoria": "politica",
     "tags": [
-      "notícias regionais",
-      "Sul de Minas",
-      "telejornalismo"
+      "Ministério da Agricultura",
+      "nomeação",
+      "comércio",
+      "agronegócio"
     ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
+    "entidades": [
+      "Ministério da Agricultura"
     ],
+    "pessoas": [
+      "Augusto Billi",
+      "Luis Rua"
+    ],
+    "estados": [],
     "cidades": [],
     "paises": [
       "Brasil"
@@ -737,8 +720,43 @@
     "importancia": 1,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/07/16/videos-bom-dia-cidade-sul-de-minas-de-quinta-feira-16-de-julho-de-2026.ghtml"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/agro/augusto-billi-assume-secretaria-de-comercio-no-ministerio-da-agricultura/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-17-esportes-botafogo",
+    "data": "2026-07-17",
+    "titulo": "Marçal compara vitória do Botafogo com jogo Argentina x Inglaterra",
+    "resumo": "O lateral-esquerdo Marçal celebrou a vitória do Botafogo sobre o Santos, comparando o triunfo a um duelo entre Argentina e Inglaterra. Ele destacou a resiliência da equipe e a semelhança com um jogo da Copa do Mundo. O Botafogo prepara nova proposta por Danilo, volante do clube.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "Botafogo",
+      "vitória",
+      "esportes",
+      "Danilo"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Marçal",
+      "Danilo"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/botafogo/marcal-compara-vitoria-do-botafogo-com-jogo-entre-argentina-e-inglaterra/"
+      },
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-prepara-nova-proposta-por-danilo-volante-do-botafogo/"
       }
     ]
   }
