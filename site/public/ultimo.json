@@ -1,762 +1,941 @@
 [
   {
-    "id": "2026-07-17-influencia-eua-eleicoes-brasil",
-    "data": "2026-07-17",
-    "titulo": "EUA teriam influência nas eleições brasileiras, diz análise; dólar sobe após tarifaço de Trump",
-    "resumo": "Uma análise aponta influência dos Estados Unidos nas eleições brasileiras, com declarações de que o 'tarifaço' de Trump prejudica Flávio Bolsonaro e beneficia Lula. Paralelamente, o dólar abriu em alta após os EUA confirmarem a cobrança de 25% sobre produtos brasileiros. A notícia também menciona que democratas criticam alegações de Trump sobre interferência eleitoral chinesa.",
-    "categoria": "politica",
+    "id": "2026-07-18-conflito-ira-eua",
+    "data": "2026-07-18",
+    "titulo": "Ataques americanos contra o Irã completam sete noites consecutivas",
+    "resumo": "Os Estados Unidos realizaram ataques contra o Irã pela sétima noite seguida. O Irã retaliou alianças dos EUA na região, e o Kuwait relatou um ataque a uma usina de energia e água. Não foram fornecidos detalhes sobre a extensão dos danos ou baixas.",
+    "categoria": "internacional",
     "tags": [
-      "eleições",
-      "dólar",
-      "tarifaço",
-      "EUA",
-      "Brasil"
+      "conflito",
+      "ataques",
+      "Oriente Médio"
     ],
     "entidades": [
-      "AP Exata",
-      "Trump",
-      "Flávio Bolsonaro",
-      "Luiz Inácio Lula da Silva"
+      "Estados Unidos",
+      "Irã",
+      "Kuwait"
     ],
-    "pessoas": [
-      "Flávio Bolsonaro",
-      "Luiz Inácio Lula da Silva"
-    ],
+    "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Brasil",
-      "Estados Unidos"
+      "Estados Unidos",
+      "Irã",
+      "Kuwait"
     ],
     "importancia": 5,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/politica/tarifaco-ha-influencia-dos-eua-nas-eleicoes-brasileiras-diz-ap-exata/"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/economia/noticia/2026/07/17/dolar-ibovespa.ghtml"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates"
+        "nome": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss"
       }
     ]
   },
   {
-    "id": "2026-07-17-burnham-lider-partido-trabalhista",
-    "data": "2026-07-17",
-    "titulo": "Andy Burnham se torna líder do Partido Trabalhista no Reino Unido",
-    "resumo": "Andy Burnham foi confirmado como o novo líder do Partido Trabalhista no Reino Unido, o que o posiciona para suceder Keir Starmer como primeiro-ministro britânico. Em seu primeiro discurso, Burnham pediu unidade partidária e uma 'nova política', criticando o 'neoliberalismo' e buscando devolver 'esperança' às pessoas.",
+    "id": "2026-07-18-deslizamento-china",
+    "data": "2026-07-18",
+    "titulo": "Deslizamento de terra na China deixa oito mortos e 34 desaparecidos",
+    "resumo": "Um deslizamento de terra no sudoeste da China resultou em oito mortos e 34 desaparecidos. Mais de mil moradores foram retirados de suas casas em áreas próximas ao local do incidente. As causas do deslizamento e a extensão dos danos ainda estão sendo apuradas.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "deslizamento",
+      "mortos",
+      "desaparecidos",
+      "China"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "China"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/deslizamento-de-terra-na-china-deixa-mortos-e-desaparecidos/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-18-ataques-ucranianos-russia",
+    "data": "2026-07-18",
+    "titulo": "Ataques de drones ucranianos na Rússia deixam pelo menos 8 mortos e dezenas de feridos",
+    "resumo": "Ataques de drones ucranianos contra a Rússia resultaram na morte de pelo menos oito pessoas e deixaram dezenas de feridos. Autoridades russas afirmam que os ataques atingiram armazéns de um varejista, causando baixas civis. A Ucrânia declara que os locais atacados eram usados para a fabricação de drones.",
+    "categoria": "internacional",
+    "tags": [
+      "guerra",
+      "drones",
+      "ataques",
+      "Rússia",
+      "Ucrânia"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Rússia",
+      "Ucrânia"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/7/18/ukrainian-drone-attacks-on-russia-kill-at-least-8-wound-dozens?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-18-copa-do-mundo-2026-cobertura-globo",
+    "data": "2026-07-18",
+    "titulo": "Globo transmite disputa de terceiro lugar da Copa após eliminação do Brasil",
+    "resumo": "A eliminação precoce do Brasil na Copa do Mundo de 2026 alterou o planejamento de transmissão das emissoras. A Globo e o SBT receberam os direitos de transmissão da partida pelo terceiro lugar entre França e Inglaterra para cumprir metas contratuais.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "Copa do Mundo",
+      "transmissão",
+      "Globo",
+      "Brasil"
+    ],
+    "entidades": [
+      "Globo",
+      "SBT"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil",
+      "França",
+      "Inglaterra"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/por-que-a-globo-transmite-o-terceiro-lugar-da-copa-apos-ficar-fora-de-semi/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-18-copa-do-mundo-2026-surpresas",
+    "data": "2026-07-18",
+    "titulo": "Noruega, Cabo Verde e Egito se destacam como surpresas na Copa do Mundo de 2026",
+    "resumo": "Noruega, Cabo Verde e Egito emergiram como as seleções mais surpreendentes da Copa do Mundo de 2026. As equipes alcançaram feitos históricos para seus países, chegando perto de obter conquistas ainda maiores no torneio.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "Copa do Mundo",
+      "seleções",
+      "surpresas"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Noruega",
+      "Cabo Verde",
+      "Egito"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/noruega-cabo-verde-e-egito-as-selecoes-que-surpreenderam-na-copa-2026/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-18-copa-do-mundo-2026-polemicas",
+    "data": "2026-07-18",
+    "titulo": "Polêmicas marcaram a Copa do Mundo de 2026, da política à arbitragem",
+    "resumo": "A Copa do Mundo de 2026, considerada a maior edição da história, foi palco de bons jogos, mas também acumulou controvérsias. As polêmicas abrangeram desde o sorteio inicial até as fases finais do torneio, incluindo questões políticas e de arbitragem.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "Copa do Mundo",
+      "polêmicas",
+      "arbitragem",
+      "política"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/da-politica-a-arbitragem-as-polemicas-que-marcaram-a-copa-do-mundo-2026/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-18-bolsonaro-moraes",
+    "data": "2026-07-18",
+    "titulo": "Decisão de Moraes mantém prisão domiciliar de Bolsonaro com novas restrições",
+    "resumo": "O ministro do STF Alexandre de Moraes decidiu manter a prisão domiciliar do ex-presidente Jair Bolsonaro. A decisão incluiu a imposição de novas restrições ao ex-presidente. A íntegra da decisão foi divulgada.",
     "categoria": "politica",
     "tags": [
-      "Reino Unido",
-      "partido trabalhista",
-      "liderança"
+      "política",
+      "STF",
+      "Jair Bolsonaro",
+      "Alexandre de Moraes",
+      "prisão domiciliar"
     ],
     "entidades": [
-      "Labour Party"
+      "STF"
     ],
     "pessoas": [
-      "Andy Burnham",
-      "Keir Starmer"
+      "Jair Bolsonaro",
+      "Alexandre de Moraes"
     ],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Reino Unido"
+      "Brasil"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "DW",
-        "url": "https://www.dw.com/en/uk-andy-burnham-confirmed-as-labour-party-leader/a-78000524?maca=en-rss-en-all-1573-rdf"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://theguardian.com/politics/live/2026/jul/17/andy-burnham-labour-leader-speech-latest-news-updates"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://theguardian.com/politics/2026/jul/17/andy-burnham-becomes-labour-leader-final-step-towards-uk-pm"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-17-ataques-iran-eua",
-    "data": "2026-07-17",
-    "titulo": "EUA atacam pontes no sul do Irã, enquanto Irã reporta ataques e apreende navio",
-    "resumo": "Mídia estatal iraniana reportou que os Estados Unidos atacaram pontes no sul do Irã, danificando infraestrutura em uma cidade costeira próxima ao Estreito de Ormuz. Em paralelo, um navio foi abordado por forças americanas no contexto de uma suposta bloqueio de portos iranianos. O Irã também alegou ter atingido caças americanos na Jordânia.",
-    "categoria": "internacional",
-    "tags": [
-      "Irã",
-      "EUA",
-      "ataques",
-      "navios",
-      "Oriente Médio"
-    ],
-    "entidades": [
-      "IRGC"
-    ],
-    "pessoas": [
-      "Donald Trump"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Irã",
-      "Estados Unidos",
-      "Jordânia"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://theguardian.com/world/live/2026/jul/17/us-iran-war-strait-of-hormuz-donald-trump-israel-lebanon-latest-news-updates"
-      },
-      {
         "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/eua-atacam-pontes-no-sul-do-ira-diz-midia-estatal/"
+        "url": "https://www.cnnbrasil.com.br/politica/leia-integra-da-decisao-do-moraes-que-mantem-domiciliar-de-bolsonaro/"
       }
     ]
   },
   {
-    "id": "2026-07-17-vazamento-gas-manaus",
-    "data": "2026-07-17",
-    "titulo": "Homem morre em Manaus após vazamento de gás estireno; mortes relacionadas são investigadas",
-    "resumo": "Um homem de 67 anos faleceu em Manaus após um vazamento de gás estireno. A Secretaria de Estado de Saúde informou que a morte não tem relação direta com o incidente químico. Outras oito pessoas permanecem internadas. O caso levanta preocupações sobre a segurança industrial.",
-    "categoria": "saude",
-    "tags": [
-      "vazamento de gás",
-      "Manaus",
-      "acidente químico",
-      "saúde"
-    ],
-    "entidades": [
-      "Secretaria de Estado de Saúde"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Amazonas"
-    ],
-    "cidades": [
-      "Manaus"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/nacional/norte/am/homem-de-67-anos-morre-apos-vazamento-de-gas-estireno-em-manaus/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-17-ataques-ucrania-russia",
-    "data": "2026-07-17",
-    "titulo": "Vários mortos e feridos em ataques russos na Ucrânia; Ucrânia diz ter atingido navios russos",
-    "resumo": "A Rússia realizou ataques noturnos em diversas áreas da Ucrânia, atingindo áreas residenciais e causando mortes e feridos. Por outro lado, a Ucrânia afirmou que ataques com drones no Mar Negro atingiram 12 embarcações russas. As ações indicam a continuidade do conflito na região.",
-    "categoria": "internacional",
-    "tags": [
-      "Ucrânia",
-      "Rússia",
-      "guerra",
-      "ataques"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Ucrânia",
-      "Rússia"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "DW",
-        "url": "https://www.dw.com/en/ukraine-several-killed-and-injured-in-russian-strikes/a-78007862?maca=en-rss-en-all-1573-rdf"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-17-reparacao-bacia-rio-doce",
-    "data": "2026-07-17",
-    "titulo": "Novo acordo amplia ações de reparação na Bacia do Rio Doce",
-    "resumo": "Um novo acordo foi firmado para ampliar as ações de reparação na Bacia do Rio Doce. O CEO da Samarco detalhou as medidas previstas e anunciou a extensão do prazo para adesão ao Programa Indenizatório Definitivo. A iniciativa busca mitigar os impactos ambientais e sociais na região.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "Rio Doce",
-      "reparação",
-      "meio ambiente",
-      "Samarco"
-    ],
-    "entidades": [
-      "Samarco"
-    ],
-    "pessoas": [
-      "Rodrigo Vilela"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/branded-content/nacional/novo-acordo-amplia-acoes-de-reparacao-na-bacia-do-rio-doce/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-17-previsao-tempo-sc",
-    "data": "2026-07-17",
-    "titulo": "Santa Catarina se prepara para fim de semana com ventos fortes, calor e chuvas",
-    "resumo": "Santa Catarina está sob dois avisos meteorológicos para o fim de semana, com previsão de ventos de até 100 km/h, calor chegando a 30°C e fortes chuvas em algumas regiões. As condições climáticas incluem alertas para as áreas Oeste, Serra e Sul do estado.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "previsão do tempo",
-      "Santa Catarina",
-      "clima",
-      "chuvas",
-      "ventos"
-    ],
-    "entidades": [
-      "Instituto Nacional de Meteorologia (Inmet)"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Santa Catarina"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/17/sc-fim-de-semana-ventos-de-ate-100-km-calor-30-graus-e-fortes-chuvas.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-17-turismo-santarem",
-    "data": "2026-07-17",
-    "titulo": "Aumento no fluxo de turistas em praias de Santarém (PA) em julho",
-    "resumo": "Alter do Chão e outras praias de Santarém, no Pará, registram aumento no número de turistas durante o período de férias escolares de julho. Apesar da vazante do rio Tapajós, a região tem atraído visitantes, impulsionando o turismo local.",
-    "categoria": "cultura",
-    "tags": [
-      "turismo",
-      "Santarém",
-      "praias",
-      "Pará",
-      "férias"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Pará"
-    ],
-    "cidades": [
-      "Santarém"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/17/alter-do-chao-e-outras-praias-de-santarem-registram-aumento-no-fluxo-de-turistas-no-mes-de-julho.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-17-exposicao-fotografica-santarem",
-    "data": "2026-07-17",
-    "titulo": "Exposição 'Rio que Alimenta' em Santarém aborda relação entre comunidades e rios",
-    "resumo": "A exposição fotográfica \"Rio que Alimenta\" será realizada em Santarém, no Pará, durante o mês de agosto. A mostra reunirá imagens sobre a relação entre as comunidades ribeirinhas e os rios da região, exibindo o cotidiano de locais como o Lago do Maicá e a Feira do Pescado.",
-    "categoria": "cultura",
-    "tags": [
-      "exposição",
-      "fotografia",
-      "Santarém",
-      "rios",
-      "comunidades"
-    ],
-    "entidades": [
-      "Porão Centro Cultural"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Pará"
-    ],
-    "cidades": [
-      "Santarém"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/17/exposicao-rio-que-alimenta-reune-fotografias-sobre-a-relacao-entre-comunidades-e-os-rios-em-santarem.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-17-vendas-lavvi",
-    "data": "2026-07-17",
-    "titulo": "Lavvi registra queda de 11% nas vendas líquidas no 2º trimestre",
-    "resumo": "A empresa Lavvi apresentou uma queda de 11% em suas vendas líquidas durante o segundo trimestre. O valor geral de vendas de lançamentos da companhia foi de R$ 848 milhões no período, representando uma redução de 28% em relação ao ano anterior.",
-    "categoria": "economia",
-    "tags": [
-      "vendas",
-      "Lavvi",
-      "economia",
-      "imobiliário",
-      "trimestre"
-    ],
-    "entidades": [
-      "Lavvi"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/economia/negocios/lavvi-tem-queda-de-11-nas-vendas-liquidas-do-2o-trimestre/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-17-previa-pib-bc",
-    "data": "2026-07-17",
-    "titulo": "\"Prévia do PIB\" do Banco Central sobe 0,1% em maio",
-    "resumo": "O Índice de Atividade Econômica do Banco Central (IBC-BR), considerado uma prévia do Produto Interno Bruto (PIB), registrou uma alta de 0,1% em maio. Nos últimos 12 meses, o indicador avançou 1,4%.",
-    "categoria": "economia",
-    "tags": [
-      "PIB",
-      "Banco Central",
-      "economia",
-      "IBC-BR"
-    ],
-    "entidades": [
-      "Banco Central"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/ibc-br-maio-2026/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-17-violencia-domestica-piracicaba",
-    "data": "2026-07-17",
-    "titulo": "Homem é preso por agredir mulher e jogar copo de vidro no filho em Piracicaba",
-    "resumo": "Um homem de 37 anos foi preso em flagrante em Piracicaba por tentativa de homicídio e violência doméstica. Ele agrediu a companheira e arremessou um copo de vidro contra a cabeça do filho de cinco anos. O crime ocorreu no bairro Bosques do Lenheiro.",
+    "id": "2026-07-18-crime-angra-dos-reis",
+    "data": "2026-07-18",
+    "titulo": "Corpo encontrado em Angra dos Reis é de cozinheira desaparecida, confirma polícia",
+    "resumo": "A Polícia Civil confirmou que o corpo encontrado em uma área de mata em Angra dos Reis é de Berenice Ramos de Aguiar, 60 anos, desaparecida desde o final da semana passada. A cozinheira estava desaparecida na região.",
     "categoria": "justica",
     "tags": [
-      "violência doméstica",
+      "crime",
+      "desaparecida",
+      "corpo encontrado",
+      "Angra dos Reis"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Berenice Ramos de Aguiar"
+    ],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Angra dos Reis"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/18/caso-berenice-corpo-encontrado-em-mata-em-angra-dos-reis-e-de-cozinheira-desaparecida-diz-policia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-18-crime-sao-pedro-da-aldeia",
+    "data": "2026-07-18",
+    "titulo": "Preso em São Pedro da Aldeia suspeito de estuprar criança desde os 5 anos",
+    "resumo": "Um homem foi preso em São Pedro da Aldeia, na Região dos Lagos do Rio, sob suspeita de estupro de vulnerável. A vítima, hoje com 13 anos, relatou que os abusos teriam se iniciado quando ela tinha cerca de 5 anos. A prisão ocorreu nesta quinta-feira (16).",
+    "categoria": "justica",
+    "tags": [
+      "crime",
+      "estupro",
+      "vulnerável",
       "prisão",
-      "agressão",
-      "Piracicaba",
-      "tentativa de homicídio"
+      "São Pedro da Aldeia"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "São Pedro da Aldeia"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/18/suspeito-de-estuprar-crianca-desde-os-5-anos-e-preso-em-sao-pedro-da-aldeia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-18-crime-arari",
+    "data": "2026-07-18",
+    "titulo": "Homem é preso em Arari por tentativa de homicídio que deixou vítima paraplégica",
+    "resumo": "Um homem foi preso em Arari, Maranhão, por suspeita de uma tentativa de homicídio ocorrida em 2019, que resultou na paraplegia da vítima. A prisão foi realizada pela Polícia Civil nesta quarta-feira (15).",
+    "categoria": "justica",
+    "tags": [
+      "crime",
+      "tentativa de homicídio",
+      "prisão",
+      "Arari"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Maranhão"
+    ],
+    "cidades": [
+      "Arari"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/18/homem-e-preso-suspeito-de-tentativa-de-homicidio-que-deixou-vitima-paraplegica-em-arari.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-18-operacao-enel-rio-de-janeiro",
+    "data": "2026-07-18",
+    "titulo": "Operação da Enel Rio identifica furto de energia em churrascaria de Rio das Ostras",
+    "resumo": "Uma operação da Enel Rio em conjunto com a Polícia Civil identificou uma irregularidade no consumo de energia em uma churrascaria em Rio das Ostras, na Baixada Litorânea do Rio. A fiscalização ocorreu nesta quinta-feira (16) e apontou o chamado 'gato' de energia.",
+    "categoria": "justica",
+    "tags": [
+      "furto de energia",
+      "operação policial",
+      "Rio das Ostras",
+      "Enel"
     ],
     "entidades": [
-      "Guarda de Piracicaba"
+      "Enel Rio",
+      "Polícia Civil"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Rio das Ostras"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/18/operacao-identifica-gato-de-energia-em-churrascaria-de-rio-das-ostras.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-18-atropelamento-belo-horizonte",
+    "data": "2026-07-18",
+    "titulo": "Criança de 3 anos morre atropelada por motorista sem CNH na Grande BH",
+    "resumo": "Uma criança de 3 anos morreu após ser atropelada por um carro em Nova Lima, na Região Metropolitana de Belo Horizonte, nesta sexta-feira (17). A motorista, de 22 anos, não possuía Carteira Nacional de Habilitação (CNH) e foi presa em flagrante.",
+    "categoria": "justica",
+    "tags": [
+      "acidente",
+      "atropelamento",
+      "morte",
+      "motorista sem CNH",
+      "Belo Horizonte"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Nova Lima",
+      "Belo Horizonte"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/18/crianca-de-3-anos-morre-atropelada-por-motorista-sem-cnh-na-grande-bh.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-18-investigacao-vorcaro-pf",
+    "data": "2026-07-18",
+    "titulo": "PF aciona Interpol para rastrear bens de empresário ligado a suposto esquema de corrupção",
+    "resumo": "A Polícia Federal (PF) acionou a Interpol para localizar bens e ativos do empresário Daniel Vorcaro na América do Norte e Europa. A investigação apura um suposto esquema de corrupção e lavagem de dinheiro, no qual Vorcaro teria oferecido valores a influenciadores para atacar o Banco Central.",
+    "categoria": "justica",
+    "tags": [
+      "investigação",
+      "PF",
+      "Interpol",
+      "corrupção",
+      "lavagem de dinheiro"
+    ],
+    "entidades": [
+      "Polícia Federal",
+      "Interpol"
+    ],
+    "pessoas": [
+      "Daniel Vorcaro"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos",
+      "Europa"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/politica/noticia/2026/07/18/pf-interpol-vorcaro.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-18-combate-lavagem-dinheiro-alemanha",
+    "data": "2026-07-18",
+    "titulo": "Alemanha endurece combate à lavagem de dinheiro e evasão fiscal com mais auditorias e penalidades",
+    "resumo": "O governo alemão planeja intensificar o combate à evasão fiscal, lavagem de dinheiro e ativos adquiridos ilegalmente. A medida prevê um aumento no número de auditorias e a aplicação de penalidades mais severas para coibir essas práticas.",
+    "categoria": "justica",
+    "tags": [
+      "lavagem de dinheiro",
+      "evasão fiscal",
+      "Alemanha",
+      "auditorias",
+      "penalidades"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Alemanha"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "DW",
+        "url": "https://www.dw.com/en/germany-cracks-down-on-money-laundering-and-tax-fraud/a-78011524?maca=en-rss-en-all-1573-rdf"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-18-golpes-virtuais-noroeste-sp",
+    "data": "2026-07-18",
+    "titulo": "Golpes virtuais como falso advogado e golpe do PIX crescem no noroeste de SP",
+    "resumo": "Golpes virtuais, incluindo os de falso advogado, falso funcionário de banco, golpe do PIX e clonagem de cartão, têm registrado um aumento significativo no noroeste paulista. Em Araçatuba (SP), mais de 2,3 mil ocorrências desse tipo foram registradas.",
+    "categoria": "justica",
+    "tags": [
+      "golpes virtuais",
+      "fraudes financeiras",
+      "segurança digital",
+      "Araçatuba"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Araçatuba"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/18/falso-advogado-funcionario-de-banco-pix-e-clonagem-de-cartao-golpes-virtuais-crescem-no-noroeste-de-sp.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-18-fundacao-casa-astronomia",
+    "data": "2026-07-18",
+    "titulo": "Adolescentes da Fundação Casa têm contato com astronomia em planetário itinerante",
+    "resumo": "Adolescentes atendidos pela Fundação Casa em Itapetininga (SP) tiveram a oportunidade de aprender sobre astronomia através de um planetário itinerante. A experiência imersiva buscou aproximar temas como planetas, estrelas e galáxias da realidade dos jovens.",
+    "categoria": "educacao",
+    "tags": [
+      "educação",
+      "astronomia",
+      "Fundação Casa",
+      "planetário",
+      "Itapetininga"
+    ],
+    "entidades": [
+      "Fundação Casa"
     ],
     "pessoas": [],
     "estados": [
       "São Paulo"
     ],
     "cidades": [
-      "Piracicaba"
+      "Itapetininga"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 2,
+    "importancia": 3,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/17/homem-e-preso-apos-agredir-mulher-e-jogar-copo-de-vidro-contra-cabeca-de-filho-de-5-anos-em-piracicaba.ghtml"
+        "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/07/18/adolescentes-da-fundacao-casa-tem-contato-com-astronomia-em-experiencia-imersiva-de-planetario-itinerante-e-muito-lindo.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-17-injuria-racial-caruaru",
-    "data": "2026-07-17",
-    "titulo": "Mulher é presa por injúria racial contra criança em Caruaru (PE)",
-    "resumo": "Uma mulher de 40 anos foi presa em flagrante em Caruaru, Pernambuco, suspeita de injúria racial contra um menino de 11 anos. Segundo a polícia, a suspeita teria chamado a criança de \"macaco\" em frente à sua residência. O crime ocorreu na manhã de quinta-feira (17).",
-    "categoria": "justica",
+    "id": "2026-07-18-passe-estudantil-alto-tiete",
+    "data": "2026-07-18",
+    "titulo": "Benefícios de transporte para estudantes no Alto Tietê: veja como funcionam",
+    "resumo": "Seis cidades da região do Alto Tietê oferecem programas de passe estudantil, mas as regras para solicitar o benefício variam. O G1 reuniu informações sobre quem tem direito e como solicitar o passe livre estudantil.",
+    "categoria": "educacao",
     "tags": [
-      "injúria racial",
-      "prisão",
-      "criança",
-      "Caruaru",
-      "Pernambuco"
+      "transporte estudantil",
+      "passe livre",
+      "estudantes",
+      "Alto Tietê"
     ],
-    "entidades": [
-      "Polícia Civil"
-    ],
-    "pessoas": [
-      "Ilária Lindalva da Silva"
-    ],
+    "entidades": [],
+    "pessoas": [],
     "estados": [
-      "Pernambuco"
+      "São Paulo"
     ],
-    "cidades": [
-      "Caruaru"
-    ],
+    "cidades": [],
     "paises": [
       "Brasil"
     ],
-    "importancia": 2,
+    "importancia": 3,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/07/17/mulher-e-presa-em-flagrante-suspeita-de-injuria-racial-por-chamar-crianca-de-macaco-em-caruaru.ghtml"
+        "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/07/18/veja-como-funcionam-os-beneficios-de-transporte-para-estudantes-no-alto-tiete.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-17-feminicidios-india",
-    "data": "2026-07-17",
-    "titulo": "Estudo liga prática de dotes a aumento de feminicídios na Índia",
-    "resumo": "Um estudo antropológico do King's College de Londres aponta que a prática de dotes de casamento está ligada ao aumento de feminicídios na Índia. A pesquisa lança nova luz sobre o sistema cultural e suas trágicas consequências, especialmente para as mulheres.",
-    "categoria": "justica",
+    "id": "2026-07-18-passage-aerea-acre",
+    "data": "2026-07-18",
+    "titulo": "Acre tem a 3ª passagem aérea mais cara do Brasil, segundo dados da Anac",
+    "resumo": "O Acre registrou a terceira tarifa aérea média mais alta do Brasil em 2025, segundo dados da Agência Nacional de Aviação Civil (Anac). Os passageiros pagaram, em média, R$ 1.152,66 pela passagem no estado.",
+    "categoria": "economia",
     "tags": [
-      "feminicídio",
-      "Índia",
-      "dotes",
-      "estudo",
-      "violência de gênero"
+      "transporte aéreo",
+      "passagem aérea",
+      "Acre",
+      "Anac",
+      "custo"
     ],
     "entidades": [
-      "King's College de Londres"
+      "Anac"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Acre"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ac/acre/noticia/2026/07/18/com-tarifa-media-de-r-11-mil-acre-e-o-3o-estado-com-passagem-aerea-mais-cara-do-pais.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-18-carros-honda-audi",
+    "data": "2026-07-18",
+    "titulo": "Honda Civic Hybrid tem vendas baixas e vende menos que o Audi RS6",
+    "resumo": "O modelo Honda Civic Hybrid não atingiu as expectativas de vendas e registrou um desempenho inferior ao do Audi RS6. De forma comparativa, o Audi RS6, com um preço significativamente mais alto, vendeu quase três vezes mais unidades.",
+    "categoria": "economia",
+    "tags": [
+      "automóveis",
+      "vendas",
+      "Honda Civic Hybrid",
+      "Audi RS6",
+      "mercado automotivo"
+    ],
+    "entidades": [
+      "Honda",
+      "Audi"
     ],
     "pessoas": [],
     "estados": [],
-    "cidades": [
-      "Srinagar"
+    "cidades": [],
+    "paises": [
+      "Brasil"
     ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/auto/honda-civic-hybrid-nao-decola-e-vende-menos-que-o-audi-rs6/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-18-usina-nuclear-india-vazamento",
+    "data": "2026-07-18",
+    "titulo": "Arquivos da maior usina nuclear da Índia expostos em vazamento de dados",
+    "resumo": "Arquivos confidenciais da maior usina nuclear da Índia foram expostos devido a um vazamento de dados. As informações vazadas podem ser utilizadas para mapear os sistemas de suporte da instalação, identificar fornecedores e apontar vulnerabilidades na cadeia de segurança da usina.",
+    "categoria": "seguranca",
+    "tags": [
+      "segurança nuclear",
+      "vazamento de dados",
+      "Índia",
+      "usina nuclear",
+      "vulnerabilidades"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
     "paises": [
       "Índia"
     ],
-    "importancia": 2,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/07/17/entenda-como-pratica-de-dotes-de-casamento-provocou-aumento-de-feminicidios-na-india.ghtml"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/arquivos-da-maior-usina-nuclear-da-india-sao-expostos-em-vazamento-de-dados/"
       }
     ]
   },
   {
-    "id": "2026-07-17-roubo-carro-padre-mg",
-    "data": "2026-07-17",
-    "titulo": "Ladrão furta carro de padre em menos de 9 segundos em Divinópolis (MG)",
-    "resumo": "Um ladrão conseguiu furtar o carro de um padre em menos de 9 segundos, em frente a um convento em Divinópolis, Minas Gerais. O crime ocorreu enquanto o religioso realizava seu trabalho. As imagens do furto foram divulgadas.",
-    "categoria": "seguranca",
-    "tags": [
-      "furto",
-      "carro",
-      "padre",
-      "Divinópolis",
-      "Minas Gerais"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Divinópolis"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/07/17/video-ladrao-levou-menos-de-9-segundos-para-furtar-carro-de-padre-em-frente-a-convento-em-mg.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-17-morto-tiros-teresina",
-    "data": "2026-07-17",
-    "titulo": "Homem é morto a tiros em Teresina; família relata ameaças",
-    "resumo": "Um homem de 42 anos, identificado como Daniel Gonçalves de Sousa, foi morto a tiros na noite de quinta-feira (16) em Teresina, Piauí. Familiares relataram à Polícia Militar que a vítima já havia recebido ameaças antes do crime. O caso ocorreu no bairro Cidade Leste.",
-    "categoria": "seguranca",
-    "tags": [
-      "homicídio",
-      "tiros",
-      "Teresina",
-      "ameaças",
-      "Piauí"
-    ],
-    "entidades": [
-      "Polícia Militar",
-      "Instituto de Medicina Legal (IML)"
-    ],
-    "pessoas": [
-      "Daniel Gonçalves de Sousa"
-    ],
-    "estados": [
-      "Piauí"
-    ],
-    "cidades": [
-      "Teresina"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/17/homem-morto-ameacas.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-17-propaganda-bets-aracaju",
-    "data": "2026-07-17",
-    "titulo": "Prefeitura de Aracaju proíbe propaganda de 'bets' em espaços públicos",
-    "resumo": "A prefeitura de Aracaju proibiu a veiculação de propaganda de plataformas de apostas de quota fixa, conhecidas como 'bets', em espaços públicos da capital. A decisão foi publicada no Diário Oficial do município. A medida visa regular a publicidade dessas plataformas na cidade.",
-    "categoria": "justica",
-    "tags": [
-      "apostas esportivas",
-      "propaganda",
-      "Aracaju",
-      "regulamentação"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Sergipe"
-    ],
-    "cidades": [
-      "Aracaju"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/se/sergipe/noticia/2026/07/17/propaganda-de-bets-em-espacos-publicos-e-proibida-pela-prefeitura-de-aracaju.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-17-musica-bts",
-    "data": "2026-07-17",
-    "titulo": "BTS lança videoclipe de novo single 'Normal'",
-    "resumo": "O grupo de K-pop BTS lançou o videoclipe de seu novo single, 'Normal', parte do álbum 'Arirang'. O conteúdo foi promovido com exclusividade no Spotify e estará disponível nas demais plataformas a partir de domingo (19).",
+    "id": "2026-07-18-festa-do-peao-barretos",
+    "data": "2026-07-18",
+    "titulo": "Alessa Esper é eleita rainha da Festa do Peão de Barretos 2026",
+    "resumo": "Alessa Esper, estudante de engenharia de produção de 21 anos, foi eleita a rainha da Festa do Peão de Barretos 2026. Samyra Gonçalves foi eleita princesa do evento, que celebrou a tradição sertaneja e contou com grande público.",
     "categoria": "cultura",
     "tags": [
-      "BTS",
+      "Festa do Peão",
+      "Barretos",
+      "rainha",
+      "tradição sertaneja",
+      "cultura"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Alessa Esper",
+      "Samyra Gonçalves"
+    ],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Barretos"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/18/alessa-esper-e-eleita-rainha-da-festa-do-peao-de-barretos-2026-e-samyra-goncalves-e-a-princesa.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-18-musica-ethiopian-drill",
+    "data": "2026-07-18",
+    "titulo": "Ethiopian Drill ganha popularidade nas ruas de Adis Abeba",
+    "resumo": "O gênero musical Ethiopian Drill tem explodido nas ruas de Adis Abeba, capital da Etiópia. O estilo de hip hop, caracterizado por batidas rápidas e letras muitas vezes violentas, tem ganhado espaço em bares e boates, saindo do ambiente das redes sociais.",
+    "categoria": "cultura",
+    "tags": [
       "música",
-      "videoclipe",
-      "K-pop",
-      "álbum"
+      "Ethiopian Drill",
+      "hip hop",
+      "Adis Abeba",
+      "cultura urbana"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Adis Abeba"
+    ],
+    "paises": [
+      "Etiópia"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "France 24",
+        "url": "https://www.france24.com/en/ethiopian-drill-explodes-on-the-streets-of-addis-ababa"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-18-centro-apoio-refugiados-etiopia",
+    "data": "2026-07-18",
+    "titulo": "Novo centro de apoio a refugiados é inaugurado em Adis Abeba",
+    "resumo": "Agências da ONU e o governo etíope inauguraram um novo centro de apoio a refugiados em Adis Abeba, capital da Etiópia. O local oferecerá aconselhamento jurídico gratuito e acesso a serviços essenciais, visando ajudar refugiados a navegar a burocracia e melhorar suas chances de encontrar trabalho.",
+    "categoria": "internacional",
+    "tags": [
+      "refugiados",
+      "apoio humanitário",
+      "ONU",
+      "Etiópia",
+      "Adis Abeba"
     ],
     "entidades": [
-      "Spotify"
+      "ONU"
     ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Adis Abeba"
+    ],
+    "paises": [
+      "Etiópia"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "France 24",
+        "url": "https://www.france24.com/en/ethiopia-new-refugee-support-centre-opens-in-addis-ababa"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-18-mortes-laos-metanol",
+    "data": "2026-07-18",
+    "titulo": "Laos não consegue determinar causa de mortes de turistas ligadas ao metanol",
+    "resumo": "Autoridades do Laos declararam que não há evidências suficientes para determinar a causa das mortes de turistas ligadas ao consumo de metanol em 2024. A falta de autópsias realizadas na época impede a confirmação de envenenamento.",
+    "categoria": "saude",
+    "tags": [
+      "saúde",
+      "metanol",
+      "mortes",
+      "turistas",
+      "Laos",
+      "investigação"
+    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Coreia do Sul"
+      "Laos"
     ],
-    "importancia": 1,
+    "importancia": 3,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/pop/musica/bts-lanca-videoclipe-de-normal-novo-single-do-album-arirang/"
+        "nome": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss"
       }
     ]
   },
   {
-    "id": "2026-07-17-celebridades-britney-spears",
-    "data": "2026-07-17",
-    "titulo": "Britney Spears posta roupinhas de bebê e gera especulações sobre gravidez",
-    "resumo": "A cantora Britney Spears agitou as redes sociais ao postar fotos com roupinhas de bebê, levantando especulações sobre uma possível gravidez. A artista declarou que tem 'alguém incrivelmente lindo' para apresentar ao público, alimentando os rumores.",
-    "categoria": "cultura",
+    "id": "2026-07-18-doencas-olhos-interior-sp",
+    "data": "2026-07-18",
+    "titulo": "Tempo seco e frio favorecem coceira nos olhos; hábito de coçar pode causar doenças, alertam especialistas",
+    "resumo": "O tempo seco e frio, comum no inverno, aumenta a irritação ocular e a vontade de coçar os olhos, segundo especialistas do interior de São Paulo. O hábito de esfregar os olhos pode contribuir para o desenvolvimento de doenças oftalmológicas.",
+    "categoria": "saude",
     "tags": [
-      "Britney Spears",
-      "celebridades",
-      "música",
-      "gravidez",
-      "redes sociais"
+      "saúde",
+      "olhos",
+      "coceira",
+      "tempo seco",
+      "doenças oculares",
+      "interior de SP"
     ],
     "entidades": [],
     "pessoas": [
-      "Britney Spears"
+      "Claudio Vieira"
     ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/pop/celebridades/britney-spears-gravida-cantora-faz-post-com-roupinhas-de-bebe-e-agita-web/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-17-celebridades-matheus",
-    "data": "2026-07-17",
-    "titulo": "Web nota ausência da esposa de Matheus após polêmica em 'Casa do Patrão'",
-    "resumo": "Internautas notaram a ausência da esposa do participante Matheus em posts recentes, após polêmicas envolvendo atitudes dele no reality show 'Casa do Patrão'. As especulações nas redes sociais sugerem que as ações do participante teriam sido de traição.",
-    "categoria": "cultura",
-    "tags": [
-      "reality show",
-      "Casa do Patrão",
-      "celebridades",
-      "polêmica"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Matheus"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/pop/celebridades/casa-do-patrao-web-aponta-ausencia-de-esposa-de-matheus-apos-polemica/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-17-agricultura-aerofito",
-    "data": "2026-07-17",
-    "titulo": "Aerofito celebra 30 anos com foco em olhar além da próxima safra",
-    "resumo": "A Aerofito comemora 30 anos de atuação, destacando a importância de olhar além da próxima colheita na agricultura. A empresa ressalta que o campo é dinâmico, influenciado por variáveis como clima, janelas de plantio e sucessão de culturas, exigindo planejamento a longo prazo.",
-    "categoria": "economia",
-    "tags": [
-      "agricultura",
-      "Aerofito",
-      "agronegócio",
-      "safra",
-      "planejamento"
-    ],
-    "entidades": [
-      "Aerofito"
-    ],
-    "pessoas": [],
     "estados": [
-      "Mato Grosso"
+      "São Paulo"
     ],
-    "cidades": [],
+    "cidades": [
+      "Presidente Prudente"
+    ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 1,
+    "importancia": 3,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/mt/mato-grosso/especial-publicitario/aerofito/noticia/2026/07/17/30-anos-de-aerofito-entender-o-campo-e-olhar-alem-da-proxima-safra.ghtml"
+        "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/07/18/tempo-seco-e-frio-favorecem-coceira-nos-olhos-habito-pode-contribuir-para-doencas-alertam-especialistas-do-interior-de-sp.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-17-nomeacao-ministerio-agricultura",
-    "data": "2026-07-17",
-    "titulo": "Augusto Billi assume secretaria de comércio no Ministério da Agricultura",
-    "resumo": "O engenheiro agrônomo Augusto Billi foi nomeado para assumir a secretaria de comércio no Ministério da Agricultura. Ele entra no lugar de Luis Rua. A mudança visa reforçar a área de comércio dentro da pasta.",
-    "categoria": "politica",
+    "id": "2026-07-18-cancro-raro-medicina",
+    "data": "2026-07-18",
+    "titulo": "Jovem com câncer raro decide ser médica para ajudar outros pacientes",
+    "resumo": "Aos 21 anos, Kimie Kosin, diagnosticada com um tipo raro de câncer, decidiu seguir a carreira médica após sua experiência com o tratamento. A jovem pretende usar sua vivência para auxiliar outros pacientes com a doença.",
+    "categoria": "saude",
     "tags": [
-      "Ministério da Agricultura",
-      "nomeação",
-      "comércio",
-      "agronegócio"
+      "saúde",
+      "câncer raro",
+      "medicina",
+      "inspiração",
+      "pacientes"
     ],
-    "entidades": [
-      "Ministério da Agricultura"
-    ],
+    "entidades": [],
     "pessoas": [
-      "Augusto Billi",
-      "Luis Rua"
+      "Kimie Kosin"
     ],
-    "estados": [],
+    "estados": [
+      "Rondônia"
+    ],
     "cidades": [],
     "paises": [
       "Brasil"
     ],
-    "importancia": 1,
+    "importancia": 3,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/agro/augusto-billi-assume-secretaria-de-comercio-no-ministerio-da-agricultura/"
+        "nome": "G1",
+        "url": "https://g1.globo.com/ro/rondonia/noticia/2026/07/18/ja-estive-nessa-maca-jovem-que-convive-com-cancer-raro-decide-ser-medica-para-ajudar-outros-pacientes.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-17-esportes-botafogo",
-    "data": "2026-07-17",
-    "titulo": "Marçal compara vitória do Botafogo com jogo Argentina x Inglaterra",
-    "resumo": "O lateral-esquerdo Marçal celebrou a vitória do Botafogo sobre o Santos, comparando o triunfo a um duelo entre Argentina e Inglaterra. Ele destacou a resiliência da equipe e a semelhança com um jogo da Copa do Mundo. O Botafogo prepara nova proposta por Danilo, volante do clube.",
+    "id": "2026-07-18-apostas-online-vicio",
+    "data": "2026-07-18",
+    "titulo": "Mãe associa morte do filho a apostas online e luta contra o vício",
+    "resumo": "Uma mãe atribui a morte de seu filho ao vício em apostas online e decidiu transformar sua dor em uma luta para ajudar outras pessoas. Ela busca conscientizar sobre os perigos do vício e oferecer suporte a quem enfrenta problemas semelhantes.",
+    "categoria": "saude",
+    "tags": [
+      "vício",
+      "apostas online",
+      "saúde mental",
+      "luto",
+      "conscientização"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Lucas Donola da Silva"
+    ],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Sorocaba",
+      "Jundiaí"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/18/mae-associa-morte-do-filho-as-apostas-online-e-promete-transformar-dor-em-luta-contra-o-vicio-para-ajudar-outras-pessoas-silencio-e-perturbador.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-18-bonecas-restauracao-barra-bonita",
+    "data": "2026-07-18",
+    "titulo": "'Doll Artist': moradora de Barra Bonita transforma paixão por bonecas em profissão",
+    "resumo": "Carol Mendonça, moradora de Barra Bonita (SP), mudou de profissão para trabalhar com restauração e personalização de bonecas, inspirada pelo desejo de presentear sua 'criança interior'. Ela se tornou especialista no ofício de 'Doll Artist'.",
+    "categoria": "cultura",
+    "tags": [
+      "bonecas",
+      "restauração",
+      "profissão",
+      "arte",
+      "Barra Bonita",
+      "doll artist"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Carol Mendonça"
+    ],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Barra Bonita"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/07/18/doll-artist-presente-para-a-crianca-interior-faz-moradora-de-barra-bonita-mudar-de-profissao-e-trabalhar-com-restauracao-de-bonecas.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-18-inauguracao-praca-mogi-das-cruzes",
+    "data": "2026-07-18",
+    "titulo": "Mogi das Cruzes inaugura nova praça no Jardim Bela Vista",
+    "resumo": "A cidade de Mogi das Cruzes inaugurou neste sábado (18) a Praça de Esportes e Lazer Kaizuka, localizada no Jardim Bela Vista. O novo espaço conta com diversos equipamentos de lazer e esporte.",
+    "categoria": "local",
+    "tags": [
+      "inauguração",
+      "praça",
+      "Mogi das Cruzes",
+      "lazer",
+      "esporte"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Mogi das Cruzes"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/07/18/mogi-das-cruzes-inaugura-nova-praca-no-jardim-bela-vista-neste-sabado.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-18-copa-do-mundo-bolas-ouro",
+    "data": "2026-07-18",
+    "titulo": "Desafio: Teste seus conhecimentos sobre os últimos 10 ganhadores da Bola de Ouro da Copa",
+    "resumo": "Um quiz propõe aos leitores testarem seus conhecimentos sobre os jogadores que foram eleitos os melhores da Copa do Mundo nas últimas dez edições. O desafio abrange o período desde 1986, incentivando a memorização dos craques do torneio.",
     "categoria": "esportes",
     "tags": [
       "futebol",
-      "Botafogo",
-      "vitória",
-      "esportes",
-      "Danilo"
+      "Copa do Mundo",
+      "Bola de Ouro",
+      "quiz",
+      "jogadores"
     ],
     "entidades": [],
-    "pessoas": [
-      "Marçal",
-      "Danilo"
-    ],
+    "pessoas": [],
     "estados": [],
     "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
+    "paises": [],
     "importancia": 1,
     "fontes": [
       {
         "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/botafogo/marcal-compara-vitoria-do-botafogo-com-jogo-entre-argentina-e-inglaterra/"
-      },
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-prepara-nova-proposta-por-danilo-volante-do-botafogo/"
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/desafio-voce-consegue-lembrar-os-ultimos-10-bolas-de-ouro-da-copa/"
       }
     ]
   }
