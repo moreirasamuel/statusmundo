@@ -1,941 +1,605 @@
 [
   {
-    "id": "2026-07-18-conflito-ira-eua",
-    "data": "2026-07-18",
-    "titulo": "Ataques americanos contra o Irã completam sete noites consecutivas",
-    "resumo": "Os Estados Unidos realizaram ataques contra o Irã pela sétima noite seguida. O Irã retaliou alianças dos EUA na região, e o Kuwait relatou um ataque a uma usina de energia e água. Não foram fornecidos detalhes sobre a extensão dos danos ou baixas.",
+    "id": "2026-07-19-conflito-oriente-medio",
+    "data": "2026-07-19",
+    "titulo": "Tensão no Oriente Médio: EUA e Irã trocam ataques após morte de soldados americanos",
+    "resumo": "Os Estados Unidos realizaram novos ataques aéreos contra o Irã, visando punir o país após a morte de dois militares americanos em uma ação anterior. O Irã também anunciou ataques a instalações iranianas. A situação eleva a tensão na região, com o Irã emitindo advertências sobre as consequências dos atos dos EUA. Autoridades jordanianas não emitiram decisão sobre evacuação de Aqaba.",
     "categoria": "internacional",
     "tags": [
+      "guerra",
       "conflito",
-      "ataques",
-      "Oriente Médio"
+      "Oriente Médio",
+      "ataques aéreos",
+      "tensão"
     ],
     "entidades": [
       "Estados Unidos",
       "Irã",
-      "Kuwait"
+      "Jordânia"
     ],
     "pessoas": [],
     "estados": [],
-    "cidades": [],
+    "cidades": [
+      "Aqaba"
+    ],
     "paises": [
       "Estados Unidos",
       "Irã",
-      "Kuwait"
+      "Jordânia"
     ],
     "importancia": 5,
     "fontes": [
       {
         "nome": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-18-deslizamento-china",
-    "data": "2026-07-18",
-    "titulo": "Deslizamento de terra na China deixa oito mortos e 34 desaparecidos",
-    "resumo": "Um deslizamento de terra no sudoeste da China resultou em oito mortos e 34 desaparecidos. Mais de mil moradores foram retirados de suas casas em áreas próximas ao local do incidente. As causas do deslizamento e a extensão dos danos ainda estão sendo apuradas.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "deslizamento",
-      "mortos",
-      "desaparecidos",
-      "China"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "China"
-    ],
-    "importancia": 4,
-    "fontes": [
+        "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po"
+      },
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/deslizamento-de-terra-na-china-deixa-mortos-e-desaparecidos/"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed"
       }
     ]
   },
   {
-    "id": "2026-07-18-ataques-ucranianos-russia",
-    "data": "2026-07-18",
-    "titulo": "Ataques de drones ucranianos na Rússia deixam pelo menos 8 mortos e dezenas de feridos",
-    "resumo": "Ataques de drones ucranianos contra a Rússia resultaram na morte de pelo menos oito pessoas e deixaram dezenas de feridos. Autoridades russas afirmam que os ataques atingiram armazéns de um varejista, causando baixas civis. A Ucrânia declara que os locais atacados eram usados para a fabricação de drones.",
+    "id": "2026-07-19-guerra-ucrania",
+    "data": "2026-07-19",
+    "titulo": "Rússia intensifica ataques na Ucrânia com mísseis balísticos, enquanto Ucrânia ataca infraestrutura russa",
+    "resumo": "A Rússia lançou um grande ataque com mísseis balísticos contra cidades ucranianas, incluindo a capital Kyiv, resultando em mortes e feridos. Esta ação ocorre após um ataque a armazéns em Moscou. A Ucrânia continua seus próprios ataques contra a infraestrutura russa, escalando a guerra aérea com impacto crescente sobre civis em ambos os lados. Um ataque atingiu uma usina de eletricidade e água no Kuwait.",
     "categoria": "internacional",
     "tags": [
       "guerra",
-      "drones",
-      "ataques",
+      "Ucrânia",
       "Rússia",
-      "Ucrânia"
+      "mísseis",
+      "ataques"
     ],
-    "entidades": [],
+    "entidades": [
+      "Ucrânia",
+      "Rússia",
+      "Kuwait"
+    ],
     "pessoas": [],
     "estados": [],
-    "cidades": [],
+    "cidades": [
+      "Kyiv",
+      "Moscou"
+    ],
     "paises": [
       "Rússia",
-      "Ucrânia"
+      "Ucrânia",
+      "Kuwait"
     ],
     "importancia": 4,
     "fontes": [
+      {
+        "nome": "France 24",
+        "url": "https://www.france24.com/en/russia-launches-deadly-strikes-on-kyiv-after-attack-on-moscow-warehouses"
+      },
+      {
+        "nome": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo"
+      },
+      {
+        "nome": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-19-copa-do-mundo-2026",
+    "data": "2026-07-19",
+    "titulo": "Fim da Copa do Mundo de 2026: Seleção Espanhola domina equipe ideal antes da final",
+    "resumo": "A Copa do Mundo de 2026 se aproxima de sua conclusão, com a Espanha apresentando um forte domínio na seleção ideal pré-final. Mbappé expressou confiança em um gol de Messi na partida decisiva. A Federação Francesa homenageou o técnico Deschamps. Tobin Heath compartilhou suas análises sobre o torneio, incluindo os melhores jogadores e equipes. A cerimônia de encerramento contará com apresentações musicais e a final ocorrerá em Nova Jersey.",
+    "categoria": "esportes",
+    "tags": [
+      "Copa do Mundo",
+      "futebol",
+      "final",
+      "seleção",
+      "análise"
+    ],
+    "entidades": [
+      "FIFA",
+      "Espanha",
+      "Argentina",
+      "França"
+    ],
+    "pessoas": [
+      "Kylian Mbappé",
+      "Lionel Messi",
+      "Tobin Heath",
+      "Didier Deschamps"
+    ],
+    "estados": [],
+    "cidades": [
+      "Nova Jersey"
+    ],
+    "paises": [
+      "Espanha",
+      "Argentina",
+      "França",
+      "Estados Unidos"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "France 24",
+        "url": "https://www.france24.com/en/americas/20260719-the-week-in-pictures-the-end-of-the-world-cup-heatwaves-and-wildfires-war-in-ukraine"
+      },
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/quem-vai-cantar-no-encerramento-da-copa-do-mundo-2026-saiba-mais/"
+      },
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/mbappe-aposta-em-gol-de-messi-na-final-da-copa-vai-marcar-com-certeza/"
+      },
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/federacao-francesa-se-despede-e-exalta-deschamps-gratidao-infinita/"
+      },
       {
         "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/7/18/ukrainian-drone-attacks-on-russia-kill-at-least-8-wound-dozens?traffic_source=rss"
+        "url": "https://www.aljazeera.com/sports/2026/7/19/tobin-heath-fifa-world-cup-2026-football-analysis-players-teams-tournament?traffic_source=rss"
+      },
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/selecao-da-copa-do-mundo-antes-da-final-tem-dominio-espanhol-veja/"
       }
     ]
   },
   {
-    "id": "2026-07-18-copa-do-mundo-2026-cobertura-globo",
-    "data": "2026-07-18",
-    "titulo": "Globo transmite disputa de terceiro lugar da Copa após eliminação do Brasil",
-    "resumo": "A eliminação precoce do Brasil na Copa do Mundo de 2026 alterou o planejamento de transmissão das emissoras. A Globo e o SBT receberam os direitos de transmissão da partida pelo terceiro lugar entre França e Inglaterra para cumprir metas contratuais.",
-    "categoria": "esportes",
+    "id": "2026-07-19-clima-extremo-europa",
+    "data": "2026-07-19",
+    "titulo": "Europa enfrenta ondas de calor e incêndios florestais com recordes de temperatura",
+    "resumo": "A Europa, o continente que mais rapidamente aquece no mundo, está a registrar temperaturas recordes neste verão, acompanhadas por incêndios florestais devastadores e tempestades severas. O calor extremo causou interrupções no Tour de France. Enquanto não se atribui a mudança climática a todos os eventos extremos, cientistas apontam para uma maior frequência e intensidade desses fenômenos. Tempestades no Canadá devem dissipar fumaça de incêndios no nordeste dos EUA.",
+    "categoria": "meio-ambiente",
     "tags": [
-      "futebol",
-      "Copa do Mundo",
-      "transmissão",
-      "Globo",
-      "Brasil"
+      "clima",
+      "calor extremo",
+      "incêndios",
+      "Europa",
+      "mudança climática"
     ],
     "entidades": [
-      "Globo",
-      "SBT"
+      "União Europeia"
     ],
     "pessoas": [],
-    "estados": [],
+    "estados": [
+      "França"
+    ],
     "cidades": [],
     "paises": [
-      "Brasil",
       "França",
-      "Inglaterra"
+      "Canadá",
+      "Estados Unidos"
     ],
-    "importancia": 3,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/por-que-a-globo-transmite-o-terceiro-lugar-da-copa-apos-ficar-fora-de-semi/"
+        "nome": "France 24",
+        "url": "https://www.france24.com/en/europe-extreme-weather-fuels-climate-concerns"
+      },
+      {
+        "nome": "France 24",
+        "url": "https://www.france24.com/en/americas/20260719-the-week-in-pictures-the-end-of-the-world-cup-heatwaves-and-wildfires-war-in-ukraine"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mundo/noticia/2026/07/19/tempestades-devem-dissipar-fumaca-de-incendios-no-canada-antes-da-final-da-copa-do-mundo-nos-eua.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-18-copa-do-mundo-2026-surpresas",
-    "data": "2026-07-18",
-    "titulo": "Noruega, Cabo Verde e Egito se destacam como surpresas na Copa do Mundo de 2026",
-    "resumo": "Noruega, Cabo Verde e Egito emergiram como as seleções mais surpreendentes da Copa do Mundo de 2026. As equipes alcançaram feitos históricos para seus países, chegando perto de obter conquistas ainda maiores no torneio.",
-    "categoria": "esportes",
+    "id": "2026-07-19-infraestrutura-e-seguranca-publica-brasil",
+    "data": "2026-07-19",
+    "titulo": "Casos de violência e segurança pública no Brasil: prisões e desaparecimentos",
+    "resumo": "Um homem foi preso no Sertão da Paraíba sob suspeita de exigir dinheiro e ameaçar a namorada. Em Tangará da Serra (MT), um homem foi morto a tiros e outro baleado em frente a uma casa. Em Carapicuíba (SP), um comerciante desapareceu após sair de um bar, e a polícia realiza buscas. Em São Sebastião (SP), um homem morreu carbonizado após um incêndio em casa. Em Bauru (SP), interrupções de energia por pipas mais que dobraram.",
+    "categoria": "seguranca",
     "tags": [
-      "futebol",
-      "Copa do Mundo",
-      "seleções",
-      "surpresas"
+      "violência",
+      "prisão",
+      "desaparecimento",
+      "incêndio",
+      "segurança pública"
     ],
-    "entidades": [],
+    "entidades": [
+      "Polícia Militar",
+      "Corpo de Bombeiros",
+      "CPFL Paulista",
+      "Inmet"
+    ],
     "pessoas": [],
-    "estados": [],
-    "cidades": [],
+    "estados": [
+      "São Paulo",
+      "Paraíba",
+      "Mato Grosso"
+    ],
+    "cidades": [
+      "Triunfo",
+      "Tangará da Serra",
+      "Carapicuíba",
+      "São Sebastião",
+      "Bauru"
+    ],
     "paises": [
-      "Noruega",
-      "Cabo Verde",
-      "Egito"
+      "Brasil"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/noruega-cabo-verde-e-egito-as-selecoes-que-surpreenderam-na-copa-2026/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-18-copa-do-mundo-2026-polemicas",
-    "data": "2026-07-18",
-    "titulo": "Polêmicas marcaram a Copa do Mundo de 2026, da política à arbitragem",
-    "resumo": "A Copa do Mundo de 2026, considerada a maior edição da história, foi palco de bons jogos, mas também acumulou controvérsias. As polêmicas abrangeram desde o sorteio inicial até as fases finais do torneio, incluindo questões políticas e de arbitragem.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "Copa do Mundo",
-      "polêmicas",
-      "arbitragem",
-      "política"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [],
-    "importancia": 3,
-    "fontes": [
+        "nome": "G1",
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/19/homem-e-preso-suspeito-de-exigir-dinheiro-e-ameacar-namorada-no-sertao-da-paraiba.ghtml"
+      },
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/da-politica-a-arbitragem-as-polemicas-que-marcaram-a-copa-do-mundo-2026/"
+        "nome": "G1",
+        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/19/homem-e-morto-a-tiros-e-outro-e-baleado-na-cabeca-em-frente-de-casa-em-tangara-da-serra-mt.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/19/comerciante-desaparece-apos-sair-de-bar-em-carapicuiba-pm-faz-operacao-com-caes-drones-e-helicoptero-em-area-de-mata.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/19/homem-morre-carbonizado-apos-incendio-em-casa-em-sao-sebastiao.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/07/19/interrupcoes-de-energia-provocadas-por-pipas-mais-que-dobram-em-bauru-confira-cuidados-ao-brincar.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/19/inmet-emite-alerta-de-chuvas-intensas-para-quase-90-cidades-da-paraiba-veja-municipios-sob-risco.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-18-bolsonaro-moraes",
-    "data": "2026-07-18",
-    "titulo": "Decisão de Moraes mantém prisão domiciliar de Bolsonaro com novas restrições",
-    "resumo": "O ministro do STF Alexandre de Moraes decidiu manter a prisão domiciliar do ex-presidente Jair Bolsonaro. A decisão incluiu a imposição de novas restrições ao ex-presidente. A íntegra da decisão foi divulgada.",
+    "id": "2026-07-19-politica-brasil",
+    "data": "2026-07-19",
+    "titulo": "Michelle Bolsonaro descarta ser vice de Zema em possível chapa eleitoral",
+    "resumo": "Michelle Bolsonaro afirmou categoricamente que não há qualquer possibilidade de se tornar vice na chapa do governador de Minas Gerais, Romeu Zema. A declaração surge após o governador ter mencionado a ex-primeira-dama como uma possível candidata à vice-presidência. A notícia aborda a movimentação política em relação a futuras eleições no Brasil.",
     "categoria": "politica",
     "tags": [
+      "eleições",
       "política",
-      "STF",
-      "Jair Bolsonaro",
-      "Alexandre de Moraes",
-      "prisão domiciliar"
-    ],
-    "entidades": [
-      "STF"
-    ],
-    "pessoas": [
-      "Jair Bolsonaro",
-      "Alexandre de Moraes"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/politica/leia-integra-da-decisao-do-moraes-que-mantem-domiciliar-de-bolsonaro/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-18-crime-angra-dos-reis",
-    "data": "2026-07-18",
-    "titulo": "Corpo encontrado em Angra dos Reis é de cozinheira desaparecida, confirma polícia",
-    "resumo": "A Polícia Civil confirmou que o corpo encontrado em uma área de mata em Angra dos Reis é de Berenice Ramos de Aguiar, 60 anos, desaparecida desde o final da semana passada. A cozinheira estava desaparecida na região.",
-    "categoria": "justica",
-    "tags": [
-      "crime",
-      "desaparecida",
-      "corpo encontrado",
-      "Angra dos Reis"
+      "vice-presidente",
+      "alianças"
     ],
     "entidades": [],
     "pessoas": [
-      "Berenice Ramos de Aguiar"
+      "Michelle Bolsonaro",
+      "Romeu Zema"
     ],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Angra dos Reis"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/18/caso-berenice-corpo-encontrado-em-mata-em-angra-dos-reis-e-de-cozinheira-desaparecida-diz-policia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-18-crime-sao-pedro-da-aldeia",
-    "data": "2026-07-18",
-    "titulo": "Preso em São Pedro da Aldeia suspeito de estuprar criança desde os 5 anos",
-    "resumo": "Um homem foi preso em São Pedro da Aldeia, na Região dos Lagos do Rio, sob suspeita de estupro de vulnerável. A vítima, hoje com 13 anos, relatou que os abusos teriam se iniciado quando ela tinha cerca de 5 anos. A prisão ocorreu nesta quinta-feira (16).",
-    "categoria": "justica",
-    "tags": [
-      "crime",
-      "estupro",
-      "vulnerável",
-      "prisão",
-      "São Pedro da Aldeia"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "São Pedro da Aldeia"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/18/suspeito-de-estuprar-crianca-desde-os-5-anos-e-preso-em-sao-pedro-da-aldeia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-18-crime-arari",
-    "data": "2026-07-18",
-    "titulo": "Homem é preso em Arari por tentativa de homicídio que deixou vítima paraplégica",
-    "resumo": "Um homem foi preso em Arari, Maranhão, por suspeita de uma tentativa de homicídio ocorrida em 2019, que resultou na paraplegia da vítima. A prisão foi realizada pela Polícia Civil nesta quarta-feira (15).",
-    "categoria": "justica",
-    "tags": [
-      "crime",
-      "tentativa de homicídio",
-      "prisão",
-      "Arari"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Maranhão"
-    ],
-    "cidades": [
-      "Arari"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/18/homem-e-preso-suspeito-de-tentativa-de-homicidio-que-deixou-vitima-paraplegica-em-arari.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-18-operacao-enel-rio-de-janeiro",
-    "data": "2026-07-18",
-    "titulo": "Operação da Enel Rio identifica furto de energia em churrascaria de Rio das Ostras",
-    "resumo": "Uma operação da Enel Rio em conjunto com a Polícia Civil identificou uma irregularidade no consumo de energia em uma churrascaria em Rio das Ostras, na Baixada Litorânea do Rio. A fiscalização ocorreu nesta quinta-feira (16) e apontou o chamado 'gato' de energia.",
-    "categoria": "justica",
-    "tags": [
-      "furto de energia",
-      "operação policial",
-      "Rio das Ostras",
-      "Enel"
-    ],
-    "entidades": [
-      "Enel Rio",
-      "Polícia Civil"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Rio das Ostras"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/18/operacao-identifica-gato-de-energia-em-churrascaria-de-rio-das-ostras.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-18-atropelamento-belo-horizonte",
-    "data": "2026-07-18",
-    "titulo": "Criança de 3 anos morre atropelada por motorista sem CNH na Grande BH",
-    "resumo": "Uma criança de 3 anos morreu após ser atropelada por um carro em Nova Lima, na Região Metropolitana de Belo Horizonte, nesta sexta-feira (17). A motorista, de 22 anos, não possuía Carteira Nacional de Habilitação (CNH) e foi presa em flagrante.",
-    "categoria": "justica",
-    "tags": [
-      "acidente",
-      "atropelamento",
-      "morte",
-      "motorista sem CNH",
-      "Belo Horizonte"
-    ],
-    "entidades": [],
-    "pessoas": [],
     "estados": [
       "Minas Gerais"
     ],
-    "cidades": [
-      "Nova Lima",
-      "Belo Horizonte"
-    ],
+    "cidades": [],
     "paises": [
       "Brasil"
     ],
-    "importancia": 4,
+    "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/18/crianca-de-3-anos-morre-atropelada-por-motorista-sem-cnh-na-grande-bh.ghtml"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/michelle-diz-que-nao-ha-nenhuma-possibilidade-de-ser-vice-de-zema/"
       }
     ]
   },
   {
-    "id": "2026-07-18-investigacao-vorcaro-pf",
-    "data": "2026-07-18",
-    "titulo": "PF aciona Interpol para rastrear bens de empresário ligado a suposto esquema de corrupção",
-    "resumo": "A Polícia Federal (PF) acionou a Interpol para localizar bens e ativos do empresário Daniel Vorcaro na América do Norte e Europa. A investigação apura um suposto esquema de corrupção e lavagem de dinheiro, no qual Vorcaro teria oferecido valores a influenciadores para atacar o Banco Central.",
-    "categoria": "justica",
+    "id": "2026-07-19-economia-industria-aeroespacial",
+    "data": "2026-07-19",
+    "titulo": "Embraer projeta demanda de 8,5 mil aeronaves comerciais até 2045, com mercado estimado em US$ 650 bilhões",
+    "resumo": "A Embraer, empresa brasileira com sede em São José dos Campos, divulgou suas projeções para o mercado de aeronaves comerciais. O relatório aponta uma demanda esperada de 8,5 mil aeronaves de até 150 assentos até 2045. Este mercado global está avaliado em aproximadamente US$ 650 bilhões. As projeções são parte do relatório anual Market Outlook 2026 da empresa.",
+    "categoria": "economia",
     "tags": [
-      "investigação",
-      "PF",
-      "Interpol",
-      "corrupção",
-      "lavagem de dinheiro"
+      "indústria aeroespacial",
+      "aviação",
+      "demanda",
+      "projeção",
+      "mercado"
     ],
     "entidades": [
-      "Polícia Federal",
-      "Interpol"
+      "Embraer"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "São José dos Campos"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/19/embraer-preve-demanda-de-85-mil-aeronaves-comerciais-ate-2045-em-mercado-de-us-650-bilhoes.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-19-saude-publica-brasil",
+    "data": "2026-07-19",
+    "titulo": "Campanha de vacinação contra o sarampo e ações de saúde ocorrem em estações de transporte público em São Paulo",
+    "resumo": "Estações do Grupo Motiva (ViaMobilidade e ViaQuatro) em São Paulo estão recebendo diversas ações gratuitas ao longo de julho. Entre elas, destacam-se a vacinação contra o sarampo, oferta de vagas de emprego e atividades de férias. A iniciativa visa promover a saúde e o bem-estar da população que utiliza o transporte público. A concessionária não entrará no esquema de funcionamento da madrugada dos sábados.",
+    "categoria": "saude",
+    "tags": [
+      "vacinação",
+      "sarampo",
+      "saúde pública",
+      "transporte",
+      "emprego"
+    ],
+    "entidades": [
+      "ViaMobilidade",
+      "ViaQuatro"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/19/vacinacao-contra-o-sarampo-vagas-de-emprego-e-atividades-de-ferias-movimentam-estacoes-da-viamobilidade-em-julho.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-19-cultura-musica",
+    "data": "2026-07-19",
+    "titulo": "Festival Internacional de Música de Campina Grande chega ao fim",
+    "resumo": "O Festival Internacional de Música de Campina Grande (FIMUS) 2026 encerra suas atividades neste domingo, 19 de julho. O evento, promovido pela Universidade Federal de Campina Grande (UFCG), contou com programação gratuita e diversas atrações musicais. A notícia destaca o término de um importante evento cultural na Paraíba.",
+    "categoria": "cultura",
+    "tags": [
+      "música",
+      "festival",
+      "cultura",
+      "evento"
+    ],
+    "entidades": [
+      "UFCG"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Paraíba"
+    ],
+    "cidades": [
+      "Campina Grande"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/19/festival-internacional-de-musica-de-campina-grande-termina-neste-domingo-19.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-19-cultura-musica-rio",
+    "data": "2026-07-19",
+    "titulo": "Orquestra do Forte de Copacabana celebra 15 anos com concerto e exposição",
+    "resumo": "A Orquestra do Forte de Copacabana, no Rio de Janeiro, completa 15 anos de existência. As celebrações incluem um concerto gratuito e uma exposição que retrata a trajetória do projeto musical. O evento ocorrerá no próximo sábado, dia 25, reunindo os músicos para uma apresentação especial.",
+    "categoria": "cultura",
+    "tags": [
+      "música",
+      "orquestra",
+      "aniversário",
+      "evento cultural"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Rio de Janeiro"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/rio-de-janeiro/globo-comunidade-rj/noticia/2026/07/19/orquestra-do-forte-de-copacabana-celebra-15-anos-com-concerto-e-exposicao.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-19-justica-crimes-reais",
+    "data": "2026-07-19",
+    "titulo": "Irmãos Tate são presos nos EUA com novas acusações no Reino Unido",
+    "resumo": "Os irmãos Andrew e Tristan Tate foram presos nos Estados Unidos. Paralelamente, o serviço de promotoria britânico informou que solicitou a extradição dos irmãos, aumentando o total de acusações no Reino Unido para 59. O advogado dos irmãos alega inocência, e o caso envolve novas acusações que surgiram em solo americano e britânico.",
+    "categoria": "justica",
+    "tags": [
+      "prisão",
+      "acusações",
+      "extradição",
+      "crimes"
+    ],
+    "entidades": [
+      "Crown Prosecution Service"
     ],
     "pessoas": [
-      "Daniel Vorcaro"
+      "Andrew Tate",
+      "Tristan Tate"
     ],
     "estados": [],
     "cidades": [],
     "paises": [
       "Estados Unidos",
-      "Europa"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/politica/noticia/2026/07/18/pf-interpol-vorcaro.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-18-combate-lavagem-dinheiro-alemanha",
-    "data": "2026-07-18",
-    "titulo": "Alemanha endurece combate à lavagem de dinheiro e evasão fiscal com mais auditorias e penalidades",
-    "resumo": "O governo alemão planeja intensificar o combate à evasão fiscal, lavagem de dinheiro e ativos adquiridos ilegalmente. A medida prevê um aumento no número de auditorias e a aplicação de penalidades mais severas para coibir essas práticas.",
-    "categoria": "justica",
-    "tags": [
-      "lavagem de dinheiro",
-      "evasão fiscal",
-      "Alemanha",
-      "auditorias",
-      "penalidades"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Alemanha"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "DW",
-        "url": "https://www.dw.com/en/germany-cracks-down-on-money-laundering-and-tax-fraud/a-78011524?maca=en-rss-en-all-1573-rdf"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-18-golpes-virtuais-noroeste-sp",
-    "data": "2026-07-18",
-    "titulo": "Golpes virtuais como falso advogado e golpe do PIX crescem no noroeste de SP",
-    "resumo": "Golpes virtuais, incluindo os de falso advogado, falso funcionário de banco, golpe do PIX e clonagem de cartão, têm registrado um aumento significativo no noroeste paulista. Em Araçatuba (SP), mais de 2,3 mil ocorrências desse tipo foram registradas.",
-    "categoria": "justica",
-    "tags": [
-      "golpes virtuais",
-      "fraudes financeiras",
-      "segurança digital",
-      "Araçatuba"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Araçatuba"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/18/falso-advogado-funcionario-de-banco-pix-e-clonagem-de-cartao-golpes-virtuais-crescem-no-noroeste-de-sp.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-18-fundacao-casa-astronomia",
-    "data": "2026-07-18",
-    "titulo": "Adolescentes da Fundação Casa têm contato com astronomia em planetário itinerante",
-    "resumo": "Adolescentes atendidos pela Fundação Casa em Itapetininga (SP) tiveram a oportunidade de aprender sobre astronomia através de um planetário itinerante. A experiência imersiva buscou aproximar temas como planetas, estrelas e galáxias da realidade dos jovens.",
-    "categoria": "educacao",
-    "tags": [
-      "educação",
-      "astronomia",
-      "Fundação Casa",
-      "planetário",
-      "Itapetininga"
-    ],
-    "entidades": [
-      "Fundação Casa"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Itapetininga"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/07/18/adolescentes-da-fundacao-casa-tem-contato-com-astronomia-em-experiencia-imersiva-de-planetario-itinerante-e-muito-lindo.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-18-passe-estudantil-alto-tiete",
-    "data": "2026-07-18",
-    "titulo": "Benefícios de transporte para estudantes no Alto Tietê: veja como funcionam",
-    "resumo": "Seis cidades da região do Alto Tietê oferecem programas de passe estudantil, mas as regras para solicitar o benefício variam. O G1 reuniu informações sobre quem tem direito e como solicitar o passe livre estudantil.",
-    "categoria": "educacao",
-    "tags": [
-      "transporte estudantil",
-      "passe livre",
-      "estudantes",
-      "Alto Tietê"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/07/18/veja-como-funcionam-os-beneficios-de-transporte-para-estudantes-no-alto-tiete.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-18-passage-aerea-acre",
-    "data": "2026-07-18",
-    "titulo": "Acre tem a 3ª passagem aérea mais cara do Brasil, segundo dados da Anac",
-    "resumo": "O Acre registrou a terceira tarifa aérea média mais alta do Brasil em 2025, segundo dados da Agência Nacional de Aviação Civil (Anac). Os passageiros pagaram, em média, R$ 1.152,66 pela passagem no estado.",
-    "categoria": "economia",
-    "tags": [
-      "transporte aéreo",
-      "passagem aérea",
-      "Acre",
-      "Anac",
-      "custo"
-    ],
-    "entidades": [
-      "Anac"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Acre"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ac/acre/noticia/2026/07/18/com-tarifa-media-de-r-11-mil-acre-e-o-3o-estado-com-passagem-aerea-mais-cara-do-pais.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-18-carros-honda-audi",
-    "data": "2026-07-18",
-    "titulo": "Honda Civic Hybrid tem vendas baixas e vende menos que o Audi RS6",
-    "resumo": "O modelo Honda Civic Hybrid não atingiu as expectativas de vendas e registrou um desempenho inferior ao do Audi RS6. De forma comparativa, o Audi RS6, com um preço significativamente mais alto, vendeu quase três vezes mais unidades.",
-    "categoria": "economia",
-    "tags": [
-      "automóveis",
-      "vendas",
-      "Honda Civic Hybrid",
-      "Audi RS6",
-      "mercado automotivo"
-    ],
-    "entidades": [
-      "Honda",
-      "Audi"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/auto/honda-civic-hybrid-nao-decola-e-vende-menos-que-o-audi-rs6/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-18-usina-nuclear-india-vazamento",
-    "data": "2026-07-18",
-    "titulo": "Arquivos da maior usina nuclear da Índia expostos em vazamento de dados",
-    "resumo": "Arquivos confidenciais da maior usina nuclear da Índia foram expostos devido a um vazamento de dados. As informações vazadas podem ser utilizadas para mapear os sistemas de suporte da instalação, identificar fornecedores e apontar vulnerabilidades na cadeia de segurança da usina.",
-    "categoria": "seguranca",
-    "tags": [
-      "segurança nuclear",
-      "vazamento de dados",
-      "Índia",
-      "usina nuclear",
-      "vulnerabilidades"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Índia"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/arquivos-da-maior-usina-nuclear-da-india-sao-expostos-em-vazamento-de-dados/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-18-festa-do-peao-barretos",
-    "data": "2026-07-18",
-    "titulo": "Alessa Esper é eleita rainha da Festa do Peão de Barretos 2026",
-    "resumo": "Alessa Esper, estudante de engenharia de produção de 21 anos, foi eleita a rainha da Festa do Peão de Barretos 2026. Samyra Gonçalves foi eleita princesa do evento, que celebrou a tradição sertaneja e contou com grande público.",
-    "categoria": "cultura",
-    "tags": [
-      "Festa do Peão",
-      "Barretos",
-      "rainha",
-      "tradição sertaneja",
-      "cultura"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Alessa Esper",
-      "Samyra Gonçalves"
-    ],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Barretos"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/18/alessa-esper-e-eleita-rainha-da-festa-do-peao-de-barretos-2026-e-samyra-goncalves-e-a-princesa.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-18-musica-ethiopian-drill",
-    "data": "2026-07-18",
-    "titulo": "Ethiopian Drill ganha popularidade nas ruas de Adis Abeba",
-    "resumo": "O gênero musical Ethiopian Drill tem explodido nas ruas de Adis Abeba, capital da Etiópia. O estilo de hip hop, caracterizado por batidas rápidas e letras muitas vezes violentas, tem ganhado espaço em bares e boates, saindo do ambiente das redes sociais.",
-    "categoria": "cultura",
-    "tags": [
-      "música",
-      "Ethiopian Drill",
-      "hip hop",
-      "Adis Abeba",
-      "cultura urbana"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Adis Abeba"
-    ],
-    "paises": [
-      "Etiópia"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "France 24",
-        "url": "https://www.france24.com/en/ethiopian-drill-explodes-on-the-streets-of-addis-ababa"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-18-centro-apoio-refugiados-etiopia",
-    "data": "2026-07-18",
-    "titulo": "Novo centro de apoio a refugiados é inaugurado em Adis Abeba",
-    "resumo": "Agências da ONU e o governo etíope inauguraram um novo centro de apoio a refugiados em Adis Abeba, capital da Etiópia. O local oferecerá aconselhamento jurídico gratuito e acesso a serviços essenciais, visando ajudar refugiados a navegar a burocracia e melhorar suas chances de encontrar trabalho.",
-    "categoria": "internacional",
-    "tags": [
-      "refugiados",
-      "apoio humanitário",
-      "ONU",
-      "Etiópia",
-      "Adis Abeba"
-    ],
-    "entidades": [
-      "ONU"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Adis Abeba"
-    ],
-    "paises": [
-      "Etiópia"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "France 24",
-        "url": "https://www.france24.com/en/ethiopia-new-refugee-support-centre-opens-in-addis-ababa"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-18-mortes-laos-metanol",
-    "data": "2026-07-18",
-    "titulo": "Laos não consegue determinar causa de mortes de turistas ligadas ao metanol",
-    "resumo": "Autoridades do Laos declararam que não há evidências suficientes para determinar a causa das mortes de turistas ligadas ao consumo de metanol em 2024. A falta de autópsias realizadas na época impede a confirmação de envenenamento.",
-    "categoria": "saude",
-    "tags": [
-      "saúde",
-      "metanol",
-      "mortes",
-      "turistas",
-      "Laos",
-      "investigação"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Laos"
+      "Reino Unido"
     ],
     "importancia": 3,
     "fontes": [
       {
         "nome": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o"
       }
     ]
   },
   {
-    "id": "2026-07-18-doencas-olhos-interior-sp",
-    "data": "2026-07-18",
-    "titulo": "Tempo seco e frio favorecem coceira nos olhos; hábito de coçar pode causar doenças, alertam especialistas",
-    "resumo": "O tempo seco e frio, comum no inverno, aumenta a irritação ocular e a vontade de coçar os olhos, segundo especialistas do interior de São Paulo. O hábito de esfregar os olhos pode contribuir para o desenvolvimento de doenças oftalmológicas.",
-    "categoria": "saude",
+    "id": "2026-07-19-infraestrutura-agua-reino-unido",
+    "data": "2026-07-19",
+    "titulo": "Milhares de propriedades em Kent, Reino Unido, sofrem com interrupção no fornecimento de água",
+    "resumo": "Milhares de residências e empresas na região de Kent, no Reino Unido, estão enfrentando problemas no fornecimento de água pelo segundo dia consecutivo. Algumas áreas relatam \"falta completa de água\". A South East Water informou que a interrupção ocorreu devido a uma \"falha de instrumento\". Cerca de 7.000 propriedades foram afetadas.",
+    "categoria": "infraestrutura",
     "tags": [
-      "saúde",
-      "olhos",
-      "coceira",
-      "tempo seco",
-      "doenças oculares",
-      "interior de SP"
+      "água",
+      "fornecimento",
+      "interrupção",
+      "infraestrutura",
+      "Kent"
+    ],
+    "entidades": [
+      "South East Water"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Kent"
+    ],
+    "cidades": [
+      "Tunbridge Wells"
+    ],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/19/south-east-water-supply-disruption-tunbridge-wells-kent"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-19-mortes-familia-mg",
+    "data": "2026-07-19",
+    "titulo": "Senador Cleitinho presta homenagem ao irmão falecido em Minas Gerais",
+    "resumo": "O senador Cleitinho Azevedo (Republicanos) utilizou suas redes sociais para homenagear seu irmão, Matheus Augusto Azevedo, que faleceu aos 30 anos em Divinópolis, Minas Gerais. O senador descreveu o irmão como \"o ser humano mais puro de coração\". O jovem faleceu em decorrência de complicações de saúde.",
+    "categoria": "noticias gerais",
+    "tags": [
+      "homenagem",
+      "falecimento",
+      "família",
+      "política"
     ],
     "entidades": [],
     "pessoas": [
-      "Claudio Vieira"
+      "Cleitinho Azevedo",
+      "Matheus Augusto Azevedo"
     ],
     "estados": [
-      "São Paulo"
+      "Minas Gerais"
     ],
     "cidades": [
-      "Presidente Prudente"
+      "Divinópolis"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 3,
+    "importancia": 1,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/07/18/tempo-seco-e-frio-favorecem-coceira-nos-olhos-habito-pode-contribuir-para-doencas-alertam-especialistas-do-interior-de-sp.ghtml"
+        "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/07/19/senador-cleitinho-publica-sobre-irmao-que-morreu-em-mg.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-18-cancro-raro-medicina",
-    "data": "2026-07-18",
-    "titulo": "Jovem com câncer raro decide ser médica para ajudar outros pacientes",
-    "resumo": "Aos 21 anos, Kimie Kosin, diagnosticada com um tipo raro de câncer, decidiu seguir a carreira médica após sua experiência com o tratamento. A jovem pretende usar sua vivência para auxiliar outros pacientes com a doença.",
-    "categoria": "saude",
+    "id": "2026-07-19-noticias-bahia",
+    "data": "2026-07-19",
+    "titulo": "TV Bahia e G1 Bahia divulgam as principais notícias deste domingo",
+    "resumo": "O G1 Bahia e a TV Bahia apresentaram um resumo das principais notícias do domingo, 19 de julho de 2026. O conteúdo inclui vídeos com os destaques do dia na região. As notícias cobrem eventos e informações relevantes para o estado da Bahia.",
+    "categoria": "noticias gerais",
     "tags": [
-      "saúde",
-      "câncer raro",
-      "medicina",
-      "inspiração",
-      "pacientes"
+      "notícias",
+      "Bahia",
+      "vídeos",
+      "resumo do dia"
     ],
-    "entidades": [],
-    "pessoas": [
-      "Kimie Kosin"
+    "entidades": [
+      "TV Bahia"
     ],
+    "pessoas": [],
     "estados": [
-      "Rondônia"
+      "Bahia"
     ],
     "cidades": [],
     "paises": [
       "Brasil"
     ],
-    "importancia": 3,
+    "importancia": 1,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/ro/rondonia/noticia/2026/07/18/ja-estive-nessa-maca-jovem-que-convive-com-cancer-raro-decide-ser-medica-para-ajudar-outros-pacientes.ghtml"
+        "url": "https://g1.globo.com/ba/bahia/edicao/2026/07/19/videos-da-tv-bahia-e-g1-bahia-domingo-19-de-julho-de-2026.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-18-apostas-online-vicio",
-    "data": "2026-07-18",
-    "titulo": "Mãe associa morte do filho a apostas online e luta contra o vício",
-    "resumo": "Uma mãe atribui a morte de seu filho ao vício em apostas online e decidiu transformar sua dor em uma luta para ajudar outras pessoas. Ela busca conscientizar sobre os perigos do vício e oferecer suporte a quem enfrenta problemas semelhantes.",
-    "categoria": "saude",
+    "id": "2026-07-19-iran-apagao-calor",
+    "data": "2026-07-19",
+    "titulo": "Irã sofre com apagões em meio a calor extremo e conflitos",
+    "resumo": "O Irã está enfrentando blecautes de energia que afetam a população. O colapso da rede elétrica é agravado por ataques militares e crônico subinvestimento. A situação deixa os iranianos lidando com o calor intenso na escuridão. Os apagões ocorrem em um contexto de tensões regionais e problemas de infraestrutura energética.",
+    "categoria": "infraestrutura",
     "tags": [
-      "vício",
-      "apostas online",
-      "saúde mental",
-      "luto",
-      "conscientização"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Lucas Donola da Silva"
-    ],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Sorocaba",
-      "Jundiaí"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/18/mae-associa-morte-do-filho-as-apostas-online-e-promete-transformar-dor-em-luta-contra-o-vicio-para-ajudar-outras-pessoas-silencio-e-perturbador.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-18-bonecas-restauracao-barra-bonita",
-    "data": "2026-07-18",
-    "titulo": "'Doll Artist': moradora de Barra Bonita transforma paixão por bonecas em profissão",
-    "resumo": "Carol Mendonça, moradora de Barra Bonita (SP), mudou de profissão para trabalhar com restauração e personalização de bonecas, inspirada pelo desejo de presentear sua 'criança interior'. Ela se tornou especialista no ofício de 'Doll Artist'.",
-    "categoria": "cultura",
-    "tags": [
-      "bonecas",
-      "restauração",
-      "profissão",
-      "arte",
-      "Barra Bonita",
-      "doll artist"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Carol Mendonça"
-    ],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Barra Bonita"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/07/18/doll-artist-presente-para-a-crianca-interior-faz-moradora-de-barra-bonita-mudar-de-profissao-e-trabalhar-com-restauracao-de-bonecas.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-18-inauguracao-praca-mogi-das-cruzes",
-    "data": "2026-07-18",
-    "titulo": "Mogi das Cruzes inaugura nova praça no Jardim Bela Vista",
-    "resumo": "A cidade de Mogi das Cruzes inaugurou neste sábado (18) a Praça de Esportes e Lazer Kaizuka, localizada no Jardim Bela Vista. O novo espaço conta com diversos equipamentos de lazer e esporte.",
-    "categoria": "local",
-    "tags": [
-      "inauguração",
-      "praça",
-      "Mogi das Cruzes",
-      "lazer",
-      "esporte"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Mogi das Cruzes"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/07/18/mogi-das-cruzes-inaugura-nova-praca-no-jardim-bela-vista-neste-sabado.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-18-copa-do-mundo-bolas-ouro",
-    "data": "2026-07-18",
-    "titulo": "Desafio: Teste seus conhecimentos sobre os últimos 10 ganhadores da Bola de Ouro da Copa",
-    "resumo": "Um quiz propõe aos leitores testarem seus conhecimentos sobre os jogadores que foram eleitos os melhores da Copa do Mundo nas últimas dez edições. O desafio abrange o período desde 1986, incentivando a memorização dos craques do torneio.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "Copa do Mundo",
-      "Bola de Ouro",
-      "quiz",
-      "jogadores"
+      "energia",
+      "apagão",
+      "calor",
+      "Irã",
+      "infraestrutura"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
-    "paises": [],
-    "importancia": 1,
+    "paises": [
+      "Irã"
+    ],
+    "importancia": 3,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/desafio-voce-consegue-lembrar-os-ultimos-10-bolas-de-ouro-da-copa/"
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/7/19/iranians-suffer-from-power-blackouts-during-war-and-heatwave?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-19-guinada-acidente-ferry",
+    "data": "2026-07-19",
+    "titulo": "Balsa com 116 pessoas a bordo vira na Guiana; mais de 50 resgatadas",
+    "resumo": "Uma balsa que transportava 116 pessoas virou na Guiana, resultando em operações de resgate em andamento. Autoridades informaram que mais de 50 passageiros e tripulantes foram resgatados até o momento. As buscas continuam para localizar os demais a bordo. A causa do acidente ainda não foi divulgada.",
+    "categoria": "acidentes",
+    "tags": [
+      "acidente",
+      "balsa",
+      "resgate",
+      "Guiana",
+      "transporte aquático"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Guiana"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/7/19/guyana-ferry-with-116-people-aboard-capsizes?traffic_source=rss"
       }
     ]
   }
