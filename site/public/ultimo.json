@@ -1,225 +1,117 @@
 [
   {
-    "id": "2026-07-19-conflito-oriente-medio",
-    "data": "2026-07-19",
-    "titulo": "Tensão no Oriente Médio: EUA e Irã trocam ataques após morte de soldados americanos",
-    "resumo": "Os Estados Unidos realizaram novos ataques aéreos contra o Irã, visando punir o país após a morte de dois militares americanos em uma ação anterior. O Irã também anunciou ataques a instalações iranianas. A situação eleva a tensão na região, com o Irã emitindo advertências sobre as consequências dos atos dos EUA. Autoridades jordanianas não emitiram decisão sobre evacuação de Aqaba.",
-    "categoria": "internacional",
+    "id": "2026-07-20-new-uk-pm",
+    "data": "2026-07-20",
+    "titulo": "Andy Burnham assume como Primeiro-Ministro do Reino Unido e promete honestidade",
+    "resumo": "Andy Burnham foi empossado como o novo Primeiro-Ministro do Reino Unido, sucedendo Keir Starmer. Em seu primeiro discurso, ele declarou o desejo de ser honesto com o público e colocar \"os valores certos e os padrões certos no centro do governo\". Burnham também mencionou o objetivo de acabar com o problema das pessoas em situação de rua.",
+    "categoria": "politica",
     "tags": [
-      "guerra",
-      "conflito",
-      "Oriente Médio",
-      "ataques aéreos",
-      "tensão"
+      "andy burnham",
+      "primeiro-ministro",
+      "reino unido",
+      "governo"
     ],
     "entidades": [
-      "Estados Unidos",
-      "Irã",
-      "Jordânia"
+      "Governo do Reino Unido"
     ],
-    "pessoas": [],
+    "pessoas": [
+      "Andy Burnham",
+      "King Charles"
+    ],
     "estados": [],
-    "cidades": [
-      "Aqaba"
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
     ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/i-want-to-be-honest-with-you-says-new-uk-pm-andy-burnham?traffic_source=rss"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/20/andy-burnham-new-prime-minister-pm-keir-starmer-labour-no-10-downing-street-speech-cabinet-uk-politics-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-20-us-iran-conflict",
+    "data": "2026-07-20",
+    "titulo": "EUA atacam infraestrutura nuclear do Irã; dois soldados americanos morrem em ataque no Jordão",
+    "resumo": "Os Estados Unidos realizaram ataques contra a infraestrutura nuclear do Irã, enquanto mediadores solicitam uma pausa de 10 dias nas negociações. No contexto do conflito, dois militares americanos foram identificados como vítimas de um ataque iraniano no Jordão. O Irã continua a atacar alvos americanos em países vizinhos, e o preço do petróleo subiu com a tensão no Estreito de Ormuz.",
+    "categoria": "internacional",
+    "tags": [
+      "eua",
+      "ira",
+      "jordão",
+      "conflito",
+      "petróleo",
+      "militar"
+    ],
+    "entidades": [
+      "Forças Armadas dos EUA",
+      "Forças Armadas do Irã"
+    ],
+    "pessoas": [
+      "Tyler James Feehan",
+      "Isabella Gonzales"
+    ],
+    "estados": [
+      "Hawaii",
+      "Texas"
+    ],
+    "cidades": [],
     "paises": [
       "Estados Unidos",
       "Irã",
-      "Jordânia"
+      "Jordão"
     ],
     "importancia": 5,
     "fontes": [
       {
-        "nome": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po"
-      },
-      {
         "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-19-guerra-ucrania",
-    "data": "2026-07-19",
-    "titulo": "Rússia intensifica ataques na Ucrânia com mísseis balísticos, enquanto Ucrânia ataca infraestrutura russa",
-    "resumo": "A Rússia lançou um grande ataque com mísseis balísticos contra cidades ucranianas, incluindo a capital Kyiv, resultando em mortes e feridos. Esta ação ocorre após um ataque a armazéns em Moscou. A Ucrânia continua seus próprios ataques contra a infraestrutura russa, escalando a guerra aérea com impacto crescente sobre civis em ambos os lados. Um ataque atingiu uma usina de eletricidade e água no Kuwait.",
-    "categoria": "internacional",
-    "tags": [
-      "guerra",
-      "Ucrânia",
-      "Rússia",
-      "mísseis",
-      "ataques"
-    ],
-    "entidades": [
-      "Ucrânia",
-      "Rússia",
-      "Kuwait"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Kyiv",
-      "Moscou"
-    ],
-    "paises": [
-      "Rússia",
-      "Ucrânia",
-      "Kuwait"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "France 24",
-        "url": "https://www.france24.com/en/russia-launches-deadly-strikes-on-kyiv-after-attack-on-moscow-warehouses"
-      },
-      {
-        "nome": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo"
-      },
-      {
-        "nome": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-19-copa-do-mundo-2026",
-    "data": "2026-07-19",
-    "titulo": "Fim da Copa do Mundo de 2026: Seleção Espanhola domina equipe ideal antes da final",
-    "resumo": "A Copa do Mundo de 2026 se aproxima de sua conclusão, com a Espanha apresentando um forte domínio na seleção ideal pré-final. Mbappé expressou confiança em um gol de Messi na partida decisiva. A Federação Francesa homenageou o técnico Deschamps. Tobin Heath compartilhou suas análises sobre o torneio, incluindo os melhores jogadores e equipes. A cerimônia de encerramento contará com apresentações musicais e a final ocorrerá em Nova Jersey.",
-    "categoria": "esportes",
-    "tags": [
-      "Copa do Mundo",
-      "futebol",
-      "final",
-      "seleção",
-      "análise"
-    ],
-    "entidades": [
-      "FIFA",
-      "Espanha",
-      "Argentina",
-      "França"
-    ],
-    "pessoas": [
-      "Kylian Mbappé",
-      "Lionel Messi",
-      "Tobin Heath",
-      "Didier Deschamps"
-    ],
-    "estados": [],
-    "cidades": [
-      "Nova Jersey"
-    ],
-    "paises": [
-      "Espanha",
-      "Argentina",
-      "França",
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "France 24",
-        "url": "https://www.france24.com/en/americas/20260719-the-week-in-pictures-the-end-of-the-world-cup-heatwaves-and-wildfires-war-in-ukraine"
-      },
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/quem-vai-cantar-no-encerramento-da-copa-do-mundo-2026-saiba-mais/"
-      },
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/mbappe-aposta-em-gol-de-messi-na-final-da-copa-vai-marcar-com-certeza/"
-      },
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/federacao-francesa-se-despede-e-exalta-deschamps-gratidao-infinita/"
-      },
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/7/19/tobin-heath-fifa-world-cup-2026-football-analysis-players-teams-tournament?traffic_source=rss"
-      },
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/selecao-da-copa-do-mundo-antes-da-final-tem-dominio-espanhol-veja/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-19-clima-extremo-europa",
-    "data": "2026-07-19",
-    "titulo": "Europa enfrenta ondas de calor e incêndios florestais com recordes de temperatura",
-    "resumo": "A Europa, o continente que mais rapidamente aquece no mundo, está a registrar temperaturas recordes neste verão, acompanhadas por incêndios florestais devastadores e tempestades severas. O calor extremo causou interrupções no Tour de France. Enquanto não se atribui a mudança climática a todos os eventos extremos, cientistas apontam para uma maior frequência e intensidade desses fenômenos. Tempestades no Canadá devem dissipar fumaça de incêndios no nordeste dos EUA.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "clima",
-      "calor extremo",
-      "incêndios",
-      "Europa",
-      "mudança climática"
-    ],
-    "entidades": [
-      "União Europeia"
-    ],
-    "pessoas": [],
-    "estados": [
-      "França"
-    ],
-    "cidades": [],
-    "paises": [
-      "França",
-      "Canadá",
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "France 24",
-        "url": "https://www.france24.com/en/europe-extreme-weather-fuels-climate-concerns"
-      },
-      {
-        "nome": "France 24",
-        "url": "https://www.france24.com/en/americas/20260719-the-week-in-pictures-the-end-of-the-world-cup-heatwaves-and-wildfires-war-in-ukraine"
+        "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news"
       },
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/07/19/tempestades-devem-dissipar-fumaca-de-incendios-no-canada-antes-da-final-da-copa-do-mundo-nos-eua.ghtml"
+        "url": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/jul/20/service-members-killed-jordan"
       }
     ]
   },
   {
-    "id": "2026-07-19-infraestrutura-e-seguranca-publica-brasil",
-    "data": "2026-07-19",
-    "titulo": "Casos de violência e segurança pública no Brasil: prisões e desaparecimentos",
-    "resumo": "Um homem foi preso no Sertão da Paraíba sob suspeita de exigir dinheiro e ameaçar a namorada. Em Tangará da Serra (MT), um homem foi morto a tiros e outro baleado em frente a uma casa. Em Carapicuíba (SP), um comerciante desapareceu após sair de um bar, e a polícia realiza buscas. Em São Sebastião (SP), um homem morreu carbonizado após um incêndio em casa. Em Bauru (SP), interrupções de energia por pipas mais que dobraram.",
+    "id": "2026-07-20-crime-violence-brazil",
+    "data": "2026-07-20",
+    "titulo": "Casos de violência e crimes registados em várias cidades brasileiras",
+    "resumo": "Um homem morreu após ser baleado pela Polícia Militar em Mombuca, São Paulo, durante uma intervenção em uma briga com faca. No Distrito Federal, uma mulher atirou acidentalmente na cabeça do marido. Em Paulínia (SP), um homem foi preso por agressão e ofensas racistas após uma briga por linha de pipa. Em Cuiabá (MT), um homem em situação de rua morreu ao cair de um prédio abandonado. A Justiça condenou um homem a 15 anos de prisão por homicídio em São Roque (SP).",
     "categoria": "seguranca",
     "tags": [
       "violência",
-      "prisão",
-      "desaparecimento",
-      "incêndio",
-      "segurança pública"
+      "crime",
+      "polícia",
+      "homicídio",
+      "racismo",
+      "acidente"
     ],
     "entidades": [
       "Polícia Militar",
-      "Corpo de Bombeiros",
-      "CPFL Paulista",
-      "Inmet"
+      "Justiça"
     ],
     "pessoas": [],
     "estados": [
       "São Paulo",
-      "Paraíba",
+      "Distrito Federal",
       "Mato Grosso"
     ],
     "cidades": [
-      "Triunfo",
-      "Tangará da Serra",
-      "Carapicuíba",
-      "São Sebastião",
-      "Bauru"
+      "Mombuca",
+      "Paulínia",
+      "Cuiabá",
+      "São Roque"
     ],
     "paises": [
       "Brasil"
@@ -228,150 +120,52 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/19/homem-e-preso-suspeito-de-exigir-dinheiro-e-ameacar-namorada-no-sertao-da-paraiba.ghtml"
+        "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/20/homem-morre-apos-ser-baleado-pela-pm-em-intervencao-durante-briga-com-faca-em-praca-de-mombuca.ghtml"
       },
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/19/homem-e-morto-a-tiros-e-outro-e-baleado-na-cabeca-em-frente-de-casa-em-tangara-da-serra-mt.ghtml"
+        "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/07/20/mulher-atira-acidentalmente-na-cabeca-do-marido-no-df.ghtml"
       },
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/19/comerciante-desaparece-apos-sair-de-bar-em-carapicuiba-pm-faz-operacao-com-caes-drones-e-helicoptero-em-area-de-mata.ghtml"
+        "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/20/homem-e-preso-apos-agressao-e-ofensas-racistas-durante-briga-por-linha-de-pipa-em-paulinia.ghtml"
       },
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/19/homem-morre-carbonizado-apos-incendio-em-casa-em-sao-sebastiao.ghtml"
+        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/20/homem-em-situacao-de-rua-morre-apos-cair-de-predio-em-cuiaba.ghtml"
       },
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/07/19/interrupcoes-de-energia-provocadas-por-pipas-mais-que-dobram-em-bauru-confira-cuidados-ao-brincar.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/19/inmet-emite-alerta-de-chuvas-intensas-para-quase-90-cidades-da-paraiba-veja-municipios-sob-risco.ghtml"
+        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/20/homem-que-matou-atual-namorado-de-ex-e-condenado-a-cumprir-15-anos-de-prisao-em-sao-roque.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-19-politica-brasil",
-    "data": "2026-07-19",
-    "titulo": "Michelle Bolsonaro descarta ser vice de Zema em possível chapa eleitoral",
-    "resumo": "Michelle Bolsonaro afirmou categoricamente que não há qualquer possibilidade de se tornar vice na chapa do governador de Minas Gerais, Romeu Zema. A declaração surge após o governador ter mencionado a ex-primeira-dama como uma possível candidata à vice-presidência. A notícia aborda a movimentação política em relação a futuras eleições no Brasil.",
-    "categoria": "politica",
-    "tags": [
-      "eleições",
-      "política",
-      "vice-presidente",
-      "alianças"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Michelle Bolsonaro",
-      "Romeu Zema"
-    ],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/eleicoes/michelle-diz-que-nao-ha-nenhuma-possibilidade-de-ser-vice-de-zema/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-19-economia-industria-aeroespacial",
-    "data": "2026-07-19",
-    "titulo": "Embraer projeta demanda de 8,5 mil aeronaves comerciais até 2045, com mercado estimado em US$ 650 bilhões",
-    "resumo": "A Embraer, empresa brasileira com sede em São José dos Campos, divulgou suas projeções para o mercado de aeronaves comerciais. O relatório aponta uma demanda esperada de 8,5 mil aeronaves de até 150 assentos até 2045. Este mercado global está avaliado em aproximadamente US$ 650 bilhões. As projeções são parte do relatório anual Market Outlook 2026 da empresa.",
-    "categoria": "economia",
-    "tags": [
-      "indústria aeroespacial",
-      "aviação",
-      "demanda",
-      "projeção",
-      "mercado"
-    ],
-    "entidades": [
-      "Embraer"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "São José dos Campos"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/19/embraer-preve-demanda-de-85-mil-aeronaves-comerciais-ate-2045-em-mercado-de-us-650-bilhoes.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-19-saude-publica-brasil",
-    "data": "2026-07-19",
-    "titulo": "Campanha de vacinação contra o sarampo e ações de saúde ocorrem em estações de transporte público em São Paulo",
-    "resumo": "Estações do Grupo Motiva (ViaMobilidade e ViaQuatro) em São Paulo estão recebendo diversas ações gratuitas ao longo de julho. Entre elas, destacam-se a vacinação contra o sarampo, oferta de vagas de emprego e atividades de férias. A iniciativa visa promover a saúde e o bem-estar da população que utiliza o transporte público. A concessionária não entrará no esquema de funcionamento da madrugada dos sábados.",
+    "id": "2026-07-20-health-campaigns-brazil",
+    "data": "2026-07-20",
+    "titulo": "Campanhas de vacinação antirrábica iniciam em cidades baianas e em Ipatinga (MG)",
+    "resumo": "A campanha de vacinação antirrábica para cães e gatos começou em Ipatinga, Minas Gerais, com unidades móveis atuando em diferentes bairros. Na Bahia, Feira de Santana, a segunda maior cidade do estado, inicia sua campanha de vacinação antirrábica neste sábado (25). A Prefeitura de Alagoinhas também abriu inscrições para o programa Casamento Social 2026.",
     "categoria": "saude",
     "tags": [
       "vacinação",
-      "sarampo",
+      "antirrábica",
+      "cães",
+      "gatos",
       "saúde pública",
-      "transporte",
-      "emprego"
+      "casamento social"
     ],
     "entidades": [
-      "ViaMobilidade",
-      "ViaQuatro"
+      "Secretaria Municipal de Saúde"
     ],
     "pessoas": [],
     "estados": [
-      "São Paulo"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/19/vacinacao-contra-o-sarampo-vagas-de-emprego-e-atividades-de-ferias-movimentam-estacoes-da-viamobilidade-em-julho.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-19-cultura-musica",
-    "data": "2026-07-19",
-    "titulo": "Festival Internacional de Música de Campina Grande chega ao fim",
-    "resumo": "O Festival Internacional de Música de Campina Grande (FIMUS) 2026 encerra suas atividades neste domingo, 19 de julho. O evento, promovido pela Universidade Federal de Campina Grande (UFCG), contou com programação gratuita e diversas atrações musicais. A notícia destaca o término de um importante evento cultural na Paraíba.",
-    "categoria": "cultura",
-    "tags": [
-      "música",
-      "festival",
-      "cultura",
-      "evento"
-    ],
-    "entidades": [
-      "UFCG"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Paraíba"
+      "Minas Gerais",
+      "Bahia"
     ],
     "cidades": [
-      "Campina Grande"
+      "Ipatinga",
+      "Feira de Santana",
+      "Alagoinhas"
     ],
     "paises": [
       "Brasil"
@@ -380,226 +174,331 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/19/festival-internacional-de-musica-de-campina-grande-termina-neste-domingo-19.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-19-cultura-musica-rio",
-    "data": "2026-07-19",
-    "titulo": "Orquestra do Forte de Copacabana celebra 15 anos com concerto e exposição",
-    "resumo": "A Orquestra do Forte de Copacabana, no Rio de Janeiro, completa 15 anos de existência. As celebrações incluem um concerto gratuito e uma exposição que retrata a trajetória do projeto musical. O evento ocorrerá no próximo sábado, dia 25, reunindo os músicos para uma apresentação especial.",
-    "categoria": "cultura",
-    "tags": [
-      "música",
-      "orquestra",
-      "aniversário",
-      "evento cultural"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Rio de Janeiro"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
+        "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/07/20/campanha-de-vacinacao-antirrabica-para-caes-e-gatos-comeca-nesta-segunda-feira-20-em-ipatinga.ghtml"
+      },
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/rj/rio-de-janeiro/globo-comunidade-rj/noticia/2026/07/19/orquestra-do-forte-de-copacabana-celebra-15-anos-com-concerto-e-exposicao.ghtml"
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/20/vacinacao-antirrabica-bahia.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/20/casamento-coletivo-bahia.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-19-justica-crimes-reais",
-    "data": "2026-07-19",
-    "titulo": "Irmãos Tate são presos nos EUA com novas acusações no Reino Unido",
-    "resumo": "Os irmãos Andrew e Tristan Tate foram presos nos Estados Unidos. Paralelamente, o serviço de promotoria britânico informou que solicitou a extradição dos irmãos, aumentando o total de acusações no Reino Unido para 59. O advogado dos irmãos alega inocência, e o caso envolve novas acusações que surgiram em solo americano e britânico.",
-    "categoria": "justica",
+    "id": "2026-07-20-trump-world-cup-politics",
+    "data": "2026-07-20",
+    "titulo": "Donald Trump tenta ofuscar celebração da Copa do Mundo e causa polêmica",
+    "resumo": "O presidente dos Estados Unidos, Donald Trump, tentou se destacar durante a celebração da vitória da Espanha na Copa do Mundo de 2026, aparecendo no pódio e atrasando a cerimônia. Ele também fez declarações criticando o Brasil em relação ao Pix. Trump reconheceu as três baixas militares americanas nos ataques ao Irã. Agentes do ICE passarão a usar câmeras corporais durante abordagens de veículos.",
+    "categoria": "politica",
     "tags": [
-      "prisão",
-      "acusações",
-      "extradição",
-      "crimes"
+      "donald trump",
+      "copa do mundo 2026",
+      "espanha",
+      "pix",
+      "política externa",
+      "ice",
+      "câmeras corporais"
     ],
     "entidades": [
-      "Crown Prosecution Service"
+      "FIFA"
     ],
     "pessoas": [
-      "Andrew Tate",
-      "Tristan Tate"
+      "Donald Trump",
+      "Gianni Infantino"
     ],
-    "estados": [],
+    "estados": [
+      "Maine"
+    ],
     "cidades": [],
     "paises": [
       "Estados Unidos",
-      "Reino Unido"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-19-infraestrutura-agua-reino-unido",
-    "data": "2026-07-19",
-    "titulo": "Milhares de propriedades em Kent, Reino Unido, sofrem com interrupção no fornecimento de água",
-    "resumo": "Milhares de residências e empresas na região de Kent, no Reino Unido, estão enfrentando problemas no fornecimento de água pelo segundo dia consecutivo. Algumas áreas relatam \"falta completa de água\". A South East Water informou que a interrupção ocorreu devido a uma \"falha de instrumento\". Cerca de 7.000 propriedades foram afetadas.",
-    "categoria": "infraestrutura",
-    "tags": [
-      "água",
-      "fornecimento",
-      "interrupção",
-      "infraestrutura",
-      "Kent"
-    ],
-    "entidades": [
-      "South East Water"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Kent"
-    ],
-    "cidades": [
-      "Tunbridge Wells"
-    ],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/19/south-east-water-supply-disruption-tunbridge-wells-kent"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-19-mortes-familia-mg",
-    "data": "2026-07-19",
-    "titulo": "Senador Cleitinho presta homenagem ao irmão falecido em Minas Gerais",
-    "resumo": "O senador Cleitinho Azevedo (Republicanos) utilizou suas redes sociais para homenagear seu irmão, Matheus Augusto Azevedo, que faleceu aos 30 anos em Divinópolis, Minas Gerais. O senador descreveu o irmão como \"o ser humano mais puro de coração\". O jovem faleceu em decorrência de complicações de saúde.",
-    "categoria": "noticias gerais",
-    "tags": [
-      "homenagem",
-      "falecimento",
-      "família",
-      "política"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Cleitinho Azevedo",
-      "Matheus Augusto Azevedo"
-    ],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Divinópolis"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/07/19/senador-cleitinho-publica-sobre-irmao-que-morreu-em-mg.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-19-noticias-bahia",
-    "data": "2026-07-19",
-    "titulo": "TV Bahia e G1 Bahia divulgam as principais notícias deste domingo",
-    "resumo": "O G1 Bahia e a TV Bahia apresentaram um resumo das principais notícias do domingo, 19 de julho de 2026. O conteúdo inclui vídeos com os destaques do dia na região. As notícias cobrem eventos e informações relevantes para o estado da Bahia.",
-    "categoria": "noticias gerais",
-    "tags": [
-      "notícias",
-      "Bahia",
-      "vídeos",
-      "resumo do dia"
-    ],
-    "entidades": [
-      "TV Bahia"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Bahia"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ba/bahia/edicao/2026/07/19/videos-da-tv-bahia-e-g1-bahia-domingo-19-de-julho-de-2026.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-19-iran-apagao-calor",
-    "data": "2026-07-19",
-    "titulo": "Irã sofre com apagões em meio a calor extremo e conflitos",
-    "resumo": "O Irã está enfrentando blecautes de energia que afetam a população. O colapso da rede elétrica é agravado por ataques militares e crônico subinvestimento. A situação deixa os iranianos lidando com o calor intenso na escuridão. Os apagões ocorrem em um contexto de tensões regionais e problemas de infraestrutura energética.",
-    "categoria": "infraestrutura",
-    "tags": [
-      "energia",
-      "apagão",
-      "calor",
-      "Irã",
-      "infraestrutura"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
+      "Brasil",
+      "Espanha",
       "Irã"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/7/19/iranians-suffer-from-power-blackouts-during-war-and-heatwave?traffic_source=rss"
+        "nome": "G1",
+        "url": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/07/20/trump-tenta-transformar-celebracao-espanhola-em-momento-de-protagonismo-politico.ghtml"
+      },
+      {
+        "nome": "France 24",
+        "url": "https://www.france24.com/en/video/20260720-%E2%9A%BDworld-cup-2026-donald-trump-tries-to-steal-the-spotlight-from-spain"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/economia/noticia/2026/07/20/trump-tentara-punir-brasil-por-esse-sucesso-diz-nobel-de-economia-sobre-acao-do-governo-americano-contra-pix.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mundo/noticia/2026/07/20/agentes-do-ice-usarao-cameras-corporais-durante-abordagens-de-veiculos.ghtml"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/live/2026/jul/20/maine-democrats-troy-jackson-senate-graham-platner-donald-trump-immigration-world-cup-us-politics-latest-news-updates"
       }
     ]
   },
   {
-    "id": "2026-07-19-guinada-acidente-ferry",
-    "data": "2026-07-19",
-    "titulo": "Balsa com 116 pessoas a bordo vira na Guiana; mais de 50 resgatadas",
-    "resumo": "Uma balsa que transportava 116 pessoas virou na Guiana, resultando em operações de resgate em andamento. Autoridades informaram que mais de 50 passageiros e tripulantes foram resgatados até o momento. As buscas continuam para localizar os demais a bordo. A causa do acidente ainda não foi divulgada.",
-    "categoria": "acidentes",
+    "id": "2026-07-20-brazil-regional-news",
+    "data": "2026-07-20",
+    "titulo": "Notícias regionais do Brasil: danos por temporais, apreensão de drogas e expansão de escola",
+    "resumo": "O número de cidades no Rio Grande do Sul com danos causados por temporais subiu para 43, com registros de alagamentos e destruição. No Amazonas, mais de 110 kg de drogas foram apreendidos em um barco no interior do estado. Em Petrópolis (RJ), a Firjan SENAI ampliou sua Escola de Panificação e Confeitaria, dobrando a capacidade de formação profissional. Há também informações sobre buscas por um adolescente desaparecido no mar em Arraial do Cabo (RJ).",
+    "categoria": "internacional",
     "tags": [
-      "acidente",
-      "balsa",
-      "resgate",
-      "Guiana",
-      "transporte aquático"
+      "temporais",
+      "drogas",
+      "apreensão",
+      "educação",
+      "formação profissional",
+      "desaparecido"
+    ],
+    "entidades": [
+      "Defesa Civil",
+      "Forças de segurança"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Rio Grande do Sul",
+      "Amazonas",
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Santa Maria",
+      "Benjamin Constant",
+      "Petrópolis",
+      "Arraial do Cabo"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/20/cidades-danos-temporais-inmet-defesa-civil-rs.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/20/mais-de-110-kg-de-drogas-escondidos-em-pneus-e-sofa-sao-apreendidos-em-barco-no-interior-do-am.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/07/20/firjan-senai-petropolis-amplia-escola-de-panificacao-e-dobra-capacidade-de-formacao-profissional.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/20/buscas-por-adolescente-desaparecido-no-mar-em-arraial-do-cabo-entram-no-quarto-dia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-20-science-health-research",
+    "data": "2026-07-20",
+    "titulo": "Peixe peçonhento brasileiro inspira estudo sobre sistema imunológico; café associado a menor risco cardiovascular",
+    "resumo": "Um peixe peçonhento brasileiro, o niquim, está ajudando cientistas a entender melhor o sistema imunológico e a inflamação. Em outra frente de pesquisa na área da saúde, estudos indicam que o consumo de café pode estar associado a um menor risco de infarto, AVC e insuficiência cardíaca.",
+    "categoria": "ciencia",
+    "tags": [
+      "ciência",
+      "saúde",
+      "peixe peçonhento",
+      "sistema imunológico",
+      "café",
+      "doenças cardiovasculares"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Guiana"
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/20/niquim-peixe-peconhento-brasileiro-ajuda-a-entender-o-sistema-imunologico.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/saude/noticia/2026/07/20/cafe-e-associado-a-menor-risco-de-infarto-avc-e-insuficiencia-cardiaca-diz-pesquisa-saiba-quantas-xicaras-sao-seguras.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-20-ukraine-russia-conflict",
+    "data": "2026-07-20",
+    "titulo": "Ataque russo a navio perto de Odessa mata 10; Ucrânia ataca Moscou com drones",
+    "resumo": "Um ataque russo a um navio próximo a Odessa resultou na morte de 10 pessoas. Em resposta, a Ucrânia lançou centenas de drones em direção a Moscou, um dia após um grande bombardeio russo com mísseis balísticos. A notícia ocorre em meio a tensões regionais e conflitos em andamento.",
+    "categoria": "internacional",
+    "tags": [
+      "ucrânia",
+      "rússia",
+      "odessa",
+      "moscou",
+      "drones",
+      "mísseis",
+      "conflito"
+    ],
+    "entidades": [
+      "Forças Armadas da Rússia",
+      "Forças Armadas da Ucrânia"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Odessa",
+      "Moscou"
+    ],
+    "paises": [
+      "Ucrânia",
+      "Rússia"
     ],
     "importancia": 3,
     "fontes": [
       {
         "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/7/19/guyana-ferry-with-116-people-aboard-capsizes?traffic_source=rss"
+        "url": "https://www.aljazeera.com/news/2026/7/20/russian-strike-on-ship-near-odesa-kills-10-ukraine-hits-moscow-with-drones?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-20-hungary-politics",
+    "data": "2026-07-20",
+    "titulo": "Primeiro-ministro húngaro anuncia possível nomeação de Judit Polgár para papel presidencial",
+    "resumo": "O primeiro-ministro da Hungria, Péter Magyar, indicou que pretende convidar Judit Polgár, uma proeminente jogadora de xadrez, para assumir o papel de presidente. Magyar descreveu a jogadora como alguém de quem \"toda a nação pode se orgulhar\". A posição presidencial na Hungria é vista como majoritariamente cerimonial. ",
+    "categoria": "politica",
+    "tags": [
+      "hungria",
+      "péter magyar",
+      "judit polgár",
+      "presidência",
+      "xadrez",
+      "política"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Péter Magyar",
+      "Judit Polgár"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Hungria"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/jul/20/peter-magyar-judit-polgar-president-hungary-chess-prodigy-strategic-move"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-20-rio-de-janeiro-government",
+    "data": "2026-07-20",
+    "titulo": "Governador interino do Rio exonera cúpula do Instituto Rio Metrópole após prisão de investigados",
+    "resumo": "O governador em exercício do Rio de Janeiro, Ricardo Couto de Castro, exonerou a cúpula do Instituto Rio Metrópole (IRM). A decisão ocorreu dias após a deflagração da Operação Ouroboros pelo Ministério Público do Rio de Janeiro (MPRJ), que investiga um suposto esquema de corrupção no instituto.",
+    "categoria": "politica",
+    "tags": [
+      "rio de janeiro",
+      "instituto rio metrópole",
+      "exoneração",
+      "corrupção",
+      "ministério público"
+    ],
+    "entidades": [
+      "Instituto Rio Metrópole",
+      "Ministério Público do Rio de Janeiro"
+    ],
+    "pessoas": [
+      "Ricardo Couto de Castro",
+      "Davi Perini Vermelho"
+    ],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/20/exoneracoes-instituto-rio-metropole.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-20-investigation-mercury-poisoning",
+    "data": "2026-07-20",
+    "titulo": "Amizade entre artesã e namorado de suspeita pode ter motivado envenenamento por mercúrio no Recife",
+    "resumo": "A polícia acredita que uma amizade entre uma artesã e o namorado de uma suspeita de envenenamento por mercúrio pode ter motivado o crime. A artesã, que denunciou ter sido envenenada por uma aluna em um curso no Recife, pode ter sido alvo de ciúmes. A investigação apura a possibilidade de tentativa de homicídio.",
+    "categoria": "justica",
+    "tags": [
+      "envenenamento",
+      "mercúrio",
+      "recife",
+      "investigação",
+      "ciúmes",
+      "tentativa de homicídio"
+    ],
+    "entidades": [
+      "Polícia Civil"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Pernambuco"
+    ],
+    "cidades": [
+      "Recife"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/pernambuco/bom-dia-pe/noticia/2026/07/20/policia-acredita-que-amizade-entre-professora-e-namorado-de-suspeita-de-envenenamento-por-mercurio-pode-ter-motivado-crime-possivel-tentativa-de-homicidio-diz-delegado.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-20-samsung-layoffs-us",
+    "data": "2026-07-20",
+    "titulo": "Samsung corta empregos nos EUA e oferece realocação antes de mudança de sede",
+    "resumo": "A Samsung reduziu seu quadro de funcionários nas operações dos Estados Unidos, afetando áreas como telas e celulares. A empresa ofereceu realocação aos trabalhadores impactados antes de uma possível mudança de sede. Os cortes de empregos ocorrem em meio a reestruturações da companhia no país.",
+    "categoria": "economia",
+    "tags": [
+      "samsung",
+      "empregos",
+      "eua",
+      "layoffs",
+      "economia",
+      "tecnologia"
+    ],
+    "entidades": [
+      "Samsung"
+    ],
+    "pessoas": [],
+    "estados": [
+      "New Jersey",
+      "Texas"
+    ],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/20/samsung-corta-empregos-nos-eua-e-oferece-realocacao-antes-da-mudanca-da-sede.ghtml"
       }
     ]
   }
