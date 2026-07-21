@@ -1,22 +1,65 @@
 [
   {
-    "id": "2026-07-20-new-uk-pm",
-    "data": "2026-07-20",
-    "titulo": "Andy Burnham assume como Primeiro-Ministro do Reino Unido e promete honestidade",
-    "resumo": "Andy Burnham foi empossado como o novo Primeiro-Ministro do Reino Unido, sucedendo Keir Starmer. Em seu primeiro discurso, ele declarou o desejo de ser honesto com o público e colocar \"os valores certos e os padrões certos no centro do governo\". Burnham também mencionou o objetivo de acabar com o problema das pessoas em situação de rua.",
+    "id": "2026-07-21-conflito-oriente-meio",
+    "data": "2026-07-21",
+    "titulo": "Tensões aumentam no Oriente Médio com ataques e contra-ataques entre Irã e EUA",
+    "resumo": "O Irã lançou ataques contra o Bahrein e Kuwait, em resposta aos bombardeios americanos no sul do país. As ofensivas impactaram a navegação na região. Paralelamente, o petróleo Brent voltou a superar os US$ 90, impulsionado pela expectativa de mediação entre Estados Unidos e Irã. O conflito também afeta o mercado financeiro, com o dólar abrindo em queda no Brasil.",
+    "categoria": "internacional",
+    "tags": [
+      "conflito",
+      "oriente médio",
+      "petróleo",
+      "economia",
+      "geopolítica"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Irã",
+      "Bahrein",
+      "Kuwait",
+      "Estados Unidos"
+    ],
+    "importancia": 5,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/ira-ataca-bahrein-e-kuwait-apos-eua-bombardearem-sul-do-pais/"
+      },
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/mercado/petroleo-21-julho-2026/"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/economia/noticia/2026/07/21/dolar-ibovespa.ghtml"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-21-politica-reino-unido",
+    "data": "2026-07-21",
+    "titulo": "Andy Burnham assume como Primeiro-Ministro do Reino Unido e anuncia corte de impostos em contas de eletricidade",
+    "resumo": "Andy Burnham realizou a primeira reunião de gabinete como novo Primeiro-Ministro do Reino Unido. Ele anunciou um corte no imposto sobre valor agregado (IVA) nas contas de eletricidade como uma medida inicial para lidar com o custo de vida. Investidores da Thames Water ofereceram uma 'golden share' em uma tentativa de evitar a nacionalização da empresa.",
     "categoria": "politica",
     "tags": [
-      "andy burnham",
-      "primeiro-ministro",
       "reino unido",
-      "governo"
+      "economia",
+      "primeiro-ministro",
+      "impostos",
+      "custo de vida"
     ],
     "entidades": [
-      "Governo do Reino Unido"
+      "Thames Water"
     ],
     "pessoas": [
-      "Andy Burnham",
-      "King Charles"
+      "Andy Burnham"
     ],
     "estados": [],
     "cidades": [],
@@ -26,402 +69,155 @@
     "importancia": 4,
     "fontes": [
       {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/i-want-to-be-honest-with-you-says-new-uk-pm-andy-burnham?traffic_source=rss"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/21/andy-burnham-pm-labour-energy-bills-cost-of-living-cabinet-latest-news-updates"
       },
       {
         "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/20/andy-burnham-new-prime-minister-pm-keir-starmer-labour-no-10-downing-street-speech-cabinet-uk-politics-latest-news-updates"
+        "url": "https://www.theguardian.com/business/2026/jul/21/thames-water-investors-golden-share-nationalisation-andy-burnham"
       }
     ]
   },
   {
-    "id": "2026-07-20-us-iran-conflict",
-    "data": "2026-07-20",
-    "titulo": "EUA atacam infraestrutura nuclear do Irã; dois soldados americanos morrem em ataque no Jordão",
-    "resumo": "Os Estados Unidos realizaram ataques contra a infraestrutura nuclear do Irã, enquanto mediadores solicitam uma pausa de 10 dias nas negociações. No contexto do conflito, dois militares americanos foram identificados como vítimas de um ataque iraniano no Jordão. O Irã continua a atacar alvos americanos em países vizinhos, e o preço do petróleo subiu com a tensão no Estreito de Ormuz.",
-    "categoria": "internacional",
+    "id": "2026-07-21-cultura-preta-gil",
+    "data": "2026-07-21",
+    "titulo": "Amigas de Preta Gil relembram momentos e cantora expressa saudades em meio a declarações",
+    "resumo": "Carolina Dieckmann mencionou que a traição sofrida por Preta Gil durante o tratamento contra o câncer em 2023 foi um agravante para a doença. Ivete Sangalo também se emocionou ao relembrar a amizade com Preta Gil em um documentário. A cantora Preta Gil segue em tratamento e recebendo apoio de seus amigos.",
+    "categoria": "cultura",
     "tags": [
-      "eua",
-      "ira",
-      "jordão",
-      "conflito",
-      "petróleo",
-      "militar"
+      "celebridades",
+      "música",
+      "amizade",
+      "doença",
+      "tratamento"
     ],
-    "entidades": [
-      "Forças Armadas dos EUA",
-      "Forças Armadas do Irã"
-    ],
+    "entidades": [],
     "pessoas": [
-      "Tyler James Feehan",
-      "Isabella Gonzales"
+      "Carolina Dieckmann",
+      "Preta Gil",
+      "Ivete Sangalo"
     ],
-    "estados": [
-      "Hawaii",
-      "Texas"
-    ],
+    "estados": [],
     "cidades": [],
-    "paises": [
-      "Estados Unidos",
-      "Irã",
-      "Jordão"
-    ],
-    "importancia": 5,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jul/20/service-members-killed-jordan"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-20-crime-violence-brazil",
-    "data": "2026-07-20",
-    "titulo": "Casos de violência e crimes registados em várias cidades brasileiras",
-    "resumo": "Um homem morreu após ser baleado pela Polícia Militar em Mombuca, São Paulo, durante uma intervenção em uma briga com faca. No Distrito Federal, uma mulher atirou acidentalmente na cabeça do marido. Em Paulínia (SP), um homem foi preso por agressão e ofensas racistas após uma briga por linha de pipa. Em Cuiabá (MT), um homem em situação de rua morreu ao cair de um prédio abandonado. A Justiça condenou um homem a 15 anos de prisão por homicídio em São Roque (SP).",
-    "categoria": "seguranca",
-    "tags": [
-      "violência",
-      "crime",
-      "polícia",
-      "homicídio",
-      "racismo",
-      "acidente"
-    ],
-    "entidades": [
-      "Polícia Militar",
-      "Justiça"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo",
-      "Distrito Federal",
-      "Mato Grosso"
-    ],
-    "cidades": [
-      "Mombuca",
-      "Paulínia",
-      "Cuiabá",
-      "São Roque"
-    ],
     "paises": [
       "Brasil"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/20/homem-morre-apos-ser-baleado-pela-pm-em-intervencao-durante-briga-com-faca-em-praca-de-mombuca.ghtml"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/pop/celebridades/carolina-dieckmmann-diz-que-traicao-foi-agravante-para-doenca-de-preta-gil/"
       },
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/07/20/mulher-atira-acidentalmente-na-cabeca-do-marido-no-df.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/20/homem-e-preso-apos-agressao-e-ofensas-racistas-durante-briga-por-linha-de-pipa-em-paulinia.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/20/homem-em-situacao-de-rua-morre-apos-cair-de-predio-em-cuiaba.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/20/homem-que-matou-atual-namorado-de-ex-e-condenado-a-cumprir-15-anos-de-prisao-em-sao-roque.ghtml"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/pop/celebridades/ivete-sangalo-chora-ao-relembrar-amizade-com-preta-gil-me-sinto-estranha/"
       }
     ]
   },
   {
-    "id": "2026-07-20-health-campaigns-brazil",
-    "data": "2026-07-20",
-    "titulo": "Campanhas de vacinação antirrábica iniciam em cidades baianas e em Ipatinga (MG)",
-    "resumo": "A campanha de vacinação antirrábica para cães e gatos começou em Ipatinga, Minas Gerais, com unidades móveis atuando em diferentes bairros. Na Bahia, Feira de Santana, a segunda maior cidade do estado, inicia sua campanha de vacinação antirrábica neste sábado (25). A Prefeitura de Alagoinhas também abriu inscrições para o programa Casamento Social 2026.",
-    "categoria": "saude",
+    "id": "2026-07-21-economia-china-ovos",
+    "data": "2026-07-21",
+    "titulo": "Abate de galinhas na China eleva preço dos ovos ao maior nível da década",
+    "resumo": "A China realizou um abate de galinhas como medida para tentar equilibrar o mercado de ovos. Contudo, a ação teve um efeito contrário ao esperado. O preço dos ovos atingiu seu maior patamar da década no país. A medida impactou a oferta e a demanda de um dos alimentos básicos.",
+    "categoria": "economia",
     "tags": [
-      "vacinação",
-      "antirrábica",
-      "cães",
-      "gatos",
-      "saúde pública",
-      "casamento social"
+      "china",
+      "agropecuária",
+      "preços",
+      "ovos",
+      "mercado"
     ],
-    "entidades": [
-      "Secretaria Municipal de Saúde"
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "China"
     ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/agro/china-abate-galinhas-e-preco-dos-ovos-atinge-maior-nivel-da-decada/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-21-seguranca-acidentes-transito-brasil",
+    "data": "2026-07-21",
+    "titulo": "Acidentes de trânsito resultam em mortes e interdições em rodovias brasileiras",
+    "resumo": "Um homem morreu atropelado por um caminhão na BR-116 em Padre Paraíso, Minas Gerais. Na BR-408 em Pernambuco, um acidente envolvendo três veículos causou uma morte. Em Santa Inês, Maranhão, o desabamento de uma parede atingiu motocicletas. Em Teresópolis, Rio de Janeiro, galhos de árvore caíram sobre um motociclista.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente",
+      "trânsito",
+      "morte",
+      "rodovia",
+      "perigo"
+    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [
       "Minas Gerais",
-      "Bahia"
+      "Pernambuco",
+      "Maranhão",
+      "Rio de Janeiro"
     ],
     "cidades": [
-      "Ipatinga",
-      "Feira de Santana",
-      "Alagoinhas"
+      "Padre Paraíso",
+      "Santa Inês",
+      "Teresópolis"
     ],
     "paises": [
       "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/07/20/campanha-de-vacinacao-antirrabica-para-caes-e-gatos-comeca-nesta-segunda-feira-20-em-ipatinga.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/20/vacinacao-antirrabica-bahia.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/20/casamento-coletivo-bahia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-20-trump-world-cup-politics",
-    "data": "2026-07-20",
-    "titulo": "Donald Trump tenta ofuscar celebração da Copa do Mundo e causa polêmica",
-    "resumo": "O presidente dos Estados Unidos, Donald Trump, tentou se destacar durante a celebração da vitória da Espanha na Copa do Mundo de 2026, aparecendo no pódio e atrasando a cerimônia. Ele também fez declarações criticando o Brasil em relação ao Pix. Trump reconheceu as três baixas militares americanas nos ataques ao Irã. Agentes do ICE passarão a usar câmeras corporais durante abordagens de veículos.",
-    "categoria": "politica",
-    "tags": [
-      "donald trump",
-      "copa do mundo 2026",
-      "espanha",
-      "pix",
-      "política externa",
-      "ice",
-      "câmeras corporais"
-    ],
-    "entidades": [
-      "FIFA"
-    ],
-    "pessoas": [
-      "Donald Trump",
-      "Gianni Infantino"
-    ],
-    "estados": [
-      "Maine"
-    ],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos",
-      "Brasil",
-      "Espanha",
-      "Irã"
     ],
     "importancia": 3,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/07/20/trump-tenta-transformar-celebracao-espanhola-em-momento-de-protagonismo-politico.ghtml"
-      },
-      {
-        "nome": "France 24",
-        "url": "https://www.france24.com/en/video/20260720-%E2%9A%BDworld-cup-2026-donald-trump-tries-to-steal-the-spotlight-from-spain"
+        "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/07/21/homem-morre-atropelado-por-caminhao-no-perimetro-urbano-da-br-116-em-padre-paraiso.ghtml"
       },
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/economia/noticia/2026/07/20/trump-tentara-punir-brasil-por-esse-sucesso-diz-nobel-de-economia-sobre-acao-do-governo-americano-contra-pix.ghtml"
+        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/21/parede-de-quitinete-desaba-atinge-motos-e-quase-acerta-proprietaria-em-santa-ines.ghtml"
       },
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/07/20/agentes-do-ice-usarao-cameras-corporais-durante-abordagens-de-veiculos.ghtml"
+        "url": "https://g1.globo.com/pe/pernambuco/bom-dia-pe/noticia/2026/07/21/sanfoneiro-da-banda-de-forro-pegada-do-gb-morre-em-acidente-entre-tres-veiculos-na-br-408.ghtml"
       },
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/live/2026/jul/20/maine-democrats-troy-jackson-senate-graham-platner-donald-trump-immigration-world-cup-us-politics-latest-news-updates"
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/07/21/arvore-cai-e-galhos-atingem-motociclista-em-teresopolis.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/21/acidente-br-470-rio-do-sul-vale-do-itajai.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-20-brazil-regional-news",
-    "data": "2026-07-20",
-    "titulo": "Notícias regionais do Brasil: danos por temporais, apreensão de drogas e expansão de escola",
-    "resumo": "O número de cidades no Rio Grande do Sul com danos causados por temporais subiu para 43, com registros de alagamentos e destruição. No Amazonas, mais de 110 kg de drogas foram apreendidos em um barco no interior do estado. Em Petrópolis (RJ), a Firjan SENAI ampliou sua Escola de Panificação e Confeitaria, dobrando a capacidade de formação profissional. Há também informações sobre buscas por um adolescente desaparecido no mar em Arraial do Cabo (RJ).",
-    "categoria": "internacional",
+    "id": "2026-07-21-justica-violencia-domestica",
+    "data": "2026-07-21",
+    "titulo": "Caso de violência e morte choca o Rio Grande do Sul; mulher da PM é morta em BH",
+    "resumo": "Um menino de 3 anos morreu após ser espancado pelo pai em Viamão, Rio Grande do Sul, e o velório deve ocorrer com auxílio da prefeitura. Em Belo Horizonte, Minas Gerais, uma capitã da Polícia Militar foi levada morta ao hospital, e seu marido, um sargento, foi preso sob suspeita. A polícia investiga a versão de queda de escada apresentada pelo sargento.",
+    "categoria": "justica",
     "tags": [
-      "temporais",
-      "drogas",
-      "apreensão",
-      "educação",
-      "formação profissional",
-      "desaparecido"
+      "violência",
+      "morte",
+      "investigação",
+      "polícia",
+      "violência doméstica"
     ],
-    "entidades": [
-      "Defesa Civil",
-      "Forças de segurança"
-    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [
       "Rio Grande do Sul",
-      "Amazonas",
-      "Rio de Janeiro"
+      "Minas Gerais"
     ],
     "cidades": [
-      "Santa Maria",
-      "Benjamin Constant",
-      "Petrópolis",
-      "Arraial do Cabo"
+      "Viamão",
+      "Belo Horizonte"
     ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/20/cidades-danos-temporais-inmet-defesa-civil-rs.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/20/mais-de-110-kg-de-drogas-escondidos-em-pneus-e-sofa-sao-apreendidos-em-barco-no-interior-do-am.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/07/20/firjan-senai-petropolis-amplia-escola-de-panificacao-e-dobra-capacidade-de-formacao-profissional.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/20/buscas-por-adolescente-desaparecido-no-mar-em-arraial-do-cabo-entram-no-quarto-dia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-20-science-health-research",
-    "data": "2026-07-20",
-    "titulo": "Peixe peçonhento brasileiro inspira estudo sobre sistema imunológico; café associado a menor risco cardiovascular",
-    "resumo": "Um peixe peçonhento brasileiro, o niquim, está ajudando cientistas a entender melhor o sistema imunológico e a inflamação. Em outra frente de pesquisa na área da saúde, estudos indicam que o consumo de café pode estar associado a um menor risco de infarto, AVC e insuficiência cardíaca.",
-    "categoria": "ciencia",
-    "tags": [
-      "ciência",
-      "saúde",
-      "peixe peçonhento",
-      "sistema imunológico",
-      "café",
-      "doenças cardiovasculares"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/20/niquim-peixe-peconhento-brasileiro-ajuda-a-entender-o-sistema-imunologico.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/saude/noticia/2026/07/20/cafe-e-associado-a-menor-risco-de-infarto-avc-e-insuficiencia-cardiaca-diz-pesquisa-saiba-quantas-xicaras-sao-seguras.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-20-ukraine-russia-conflict",
-    "data": "2026-07-20",
-    "titulo": "Ataque russo a navio perto de Odessa mata 10; Ucrânia ataca Moscou com drones",
-    "resumo": "Um ataque russo a um navio próximo a Odessa resultou na morte de 10 pessoas. Em resposta, a Ucrânia lançou centenas de drones em direção a Moscou, um dia após um grande bombardeio russo com mísseis balísticos. A notícia ocorre em meio a tensões regionais e conflitos em andamento.",
-    "categoria": "internacional",
-    "tags": [
-      "ucrânia",
-      "rússia",
-      "odessa",
-      "moscou",
-      "drones",
-      "mísseis",
-      "conflito"
-    ],
-    "entidades": [
-      "Forças Armadas da Rússia",
-      "Forças Armadas da Ucrânia"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Odessa",
-      "Moscou"
-    ],
-    "paises": [
-      "Ucrânia",
-      "Rússia"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/7/20/russian-strike-on-ship-near-odesa-kills-10-ukraine-hits-moscow-with-drones?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-20-hungary-politics",
-    "data": "2026-07-20",
-    "titulo": "Primeiro-ministro húngaro anuncia possível nomeação de Judit Polgár para papel presidencial",
-    "resumo": "O primeiro-ministro da Hungria, Péter Magyar, indicou que pretende convidar Judit Polgár, uma proeminente jogadora de xadrez, para assumir o papel de presidente. Magyar descreveu a jogadora como alguém de quem \"toda a nação pode se orgulhar\". A posição presidencial na Hungria é vista como majoritariamente cerimonial. ",
-    "categoria": "politica",
-    "tags": [
-      "hungria",
-      "péter magyar",
-      "judit polgár",
-      "presidência",
-      "xadrez",
-      "política"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Péter Magyar",
-      "Judit Polgár"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Hungria"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jul/20/peter-magyar-judit-polgar-president-hungary-chess-prodigy-strategic-move"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-20-rio-de-janeiro-government",
-    "data": "2026-07-20",
-    "titulo": "Governador interino do Rio exonera cúpula do Instituto Rio Metrópole após prisão de investigados",
-    "resumo": "O governador em exercício do Rio de Janeiro, Ricardo Couto de Castro, exonerou a cúpula do Instituto Rio Metrópole (IRM). A decisão ocorreu dias após a deflagração da Operação Ouroboros pelo Ministério Público do Rio de Janeiro (MPRJ), que investiga um suposto esquema de corrupção no instituto.",
-    "categoria": "politica",
-    "tags": [
-      "rio de janeiro",
-      "instituto rio metrópole",
-      "exoneração",
-      "corrupção",
-      "ministério público"
-    ],
-    "entidades": [
-      "Instituto Rio Metrópole",
-      "Ministério Público do Rio de Janeiro"
-    ],
-    "pessoas": [
-      "Ricardo Couto de Castro",
-      "Davi Perini Vermelho"
-    ],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [],
     "paises": [
       "Brasil"
     ],
@@ -429,66 +225,31 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/20/exoneracoes-instituto-rio-metropole.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-20-investigation-mercury-poisoning",
-    "data": "2026-07-20",
-    "titulo": "Amizade entre artesã e namorado de suspeita pode ter motivado envenenamento por mercúrio no Recife",
-    "resumo": "A polícia acredita que uma amizade entre uma artesã e o namorado de uma suspeita de envenenamento por mercúrio pode ter motivado o crime. A artesã, que denunciou ter sido envenenada por uma aluna em um curso no Recife, pode ter sido alvo de ciúmes. A investigação apura a possibilidade de tentativa de homicídio.",
-    "categoria": "justica",
-    "tags": [
-      "envenenamento",
-      "mercúrio",
-      "recife",
-      "investigação",
-      "ciúmes",
-      "tentativa de homicídio"
-    ],
-    "entidades": [
-      "Polícia Civil"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Pernambuco"
-    ],
-    "cidades": [
-      "Recife"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
+        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/21/caso-oliver-velorio-social-viamao.ghtml"
+      },
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pe/pernambuco/bom-dia-pe/noticia/2026/07/20/policia-acredita-que-amizade-entre-professora-e-namorado-de-suspeita-de-envenenamento-por-mercurio-pode-ter-motivado-crime-possivel-tentativa-de-homicidio-diz-delegado.ghtml"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/capita-da-pm-e-levada-morta-ao-hospital-em-bh-marido-sargento-e-preso/"
       }
     ]
   },
   {
-    "id": "2026-07-20-samsung-layoffs-us",
-    "data": "2026-07-20",
-    "titulo": "Samsung corta empregos nos EUA e oferece realocação antes de mudança de sede",
-    "resumo": "A Samsung reduziu seu quadro de funcionários nas operações dos Estados Unidos, afetando áreas como telas e celulares. A empresa ofereceu realocação aos trabalhadores impactados antes de uma possível mudança de sede. Os cortes de empregos ocorrem em meio a reestruturações da companhia no país.",
+    "id": "2026-07-21-economia-eua-mercado-financeiro",
+    "data": "2026-07-21",
+    "titulo": "Pesquisa aponta que americanos desconfiam do mercado de ações",
+    "resumo": "Uma pesquisa exclusiva revelou que dois em cada cinco americanos acreditam que o mercado de ações beneficia apenas o 1% mais rico. Essas suposições refletem percepções sobre os hábitos de investimento e o conhecimento geral da economia. A pesquisa foi realizada pela Harris Poll e publicada pelo The Guardian.",
     "categoria": "economia",
     "tags": [
-      "samsung",
-      "empregos",
       "eua",
-      "layoffs",
+      "mercado de ações",
       "economia",
-      "tecnologia"
+      "pesquisa",
+      "desigualdade"
     ],
-    "entidades": [
-      "Samsung"
-    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [
-      "New Jersey",
-      "Texas"
+      "California"
     ],
     "cidades": [],
     "paises": [
@@ -497,8 +258,407 @@
     "importancia": 2,
     "fontes": [
       {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/jul/21/americans-stock-market-poll"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-21-meio-ambiente-incendios-canada",
+    "data": "2026-07-21",
+    "titulo": "Comunidades indígenas no Canadá relatam falta de apoio governamental durante incêndios florestais",
+    "resumo": "Grupos das Primeiras Nações no Canadá expressaram devastação e relataram não receberam ajuda adequada do governo durante os recentes incêndios florestais. Chefes em Ontário afirmam que foram deixados para autoevacuarem suas casas antes que elas fossem consumidas pelas chamas. Incêndios de rápida propagação destruíram duas comunidades.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "canadá",
+      "incêndios florestais",
+      "meio ambiente",
+      "indígenas",
+      "governo"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Ontário"
+    ],
+    "cidades": [],
+    "paises": [
+      "Canadá"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/jul/21/first-nations-ontario-canada-wildfires-evacuations-government"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-21-migracao-mauritania",
+    "data": "2026-07-21",
+    "titulo": "ONU relata naufrágio com 144 mortos ou desaparecidos na costa da Mauritânia",
+    "resumo": "A Agência da ONU para Refugiados informou que 144 pessoas foram dadas como mortas ou desaparecidas após incidentes marítimos trágicos na costa da Mauritânia na semana passada. Dois dos sobreviventes, crianças que foram trazidas em segurança para terra, perderam todas as suas famílias durante a viagem da Gâmbia.",
+    "categoria": "internacional",
+    "tags": [
+      "migração",
+      "refugiados",
+      "naufrágio",
+      "mauritânia",
+      "onu"
+    ],
+    "entidades": [
+      "ONU"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Mauritânia",
+      "Gâmbia"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "France 24",
+        "url": "https://www.france24.com/en/africa/20260721-un-says-144-migrants-and-refugees-reported-dead-or-missing-off-the-coast-of-mauritania"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-21-justica-centro-memoria-africana",
+    "data": "2026-07-21",
+    "titulo": "Justiça determina início da construção de centro de memória africana no Rio de Janeiro",
+    "resumo": "A União terá que iniciar a construção de um centro de memória africana no Rio de Janeiro. A decisão judicial determina a execução das obras no Edifício Docas André Rebouças, na zona portuária, para a instalação do Centro de Interpretação do Cais do Valongo. O centro será dedicado à preservação da memória africana.",
+    "categoria": "justica",
+    "tags": [
+      "memória",
+      "justiça",
+      "africana",
+      "rio de janeiro",
+      "construção"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Rio de Janeiro"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/uniao-tera-de-iniciar-construcao-de-centro-de-memoria-africana"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-21-saude-sus-ela",
+    "data": "2026-07-21",
+    "titulo": "SUS amplia tratamento de ELA inicial com novo medicamento",
+    "resumo": "O Sistema Único de Saúde (SUS) passará a oferecer um novo medicamento para o tratamento da Esclerose Lateral Amiotrófica (ELA) em estágios iniciais. A portaria publicada prevê a oferta da edaravona para adultos diagnosticados com a doença no início de sua progressão. A decisão visa ampliar o acesso a tratamentos.",
+    "categoria": "saude",
+    "tags": [
+      "saúde",
+      "sus",
+      "ela",
+      "medicamento",
+      "tratamento"
+    ],
+    "entidades": [
+      "SUS"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/saude/sus-amplia-tratamento-de-ela-inicial-com-acesso-a-novo-medicamento/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-21-politica-eleicoes-exterior",
+    "data": "2026-07-21",
+    "titulo": "Eleitorado brasileiro no exterior cresce 32% para eleições de 2026",
+    "resumo": "O número de eleitores brasileiros aptos a votar no exterior aumentou 32% para as eleições de 2026. Quase 919 mil brasileiros poderão exercer seu direito ao voto em seções eleitorais localizadas em outros países. O crescimento indica maior participação cívica internacional.",
+    "categoria": "politica",
+    "tags": [
+      "eleições",
+      "brasil",
+      "exterior",
+      "eleitorado",
+      "política"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/eleitorado-brasileiro-no-exterior-cresce-32-para-as-eleicoes-de-2026/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-21-esportes-dibu-martinez",
+    "data": "2026-07-21",
+    "titulo": "Goleiro Dibu Martínez cogita aposentadoria da seleção argentina após derrota",
+    "resumo": "O goleiro Emiliano 'Dibu' Martínez expressou que considera a possibilidade de se aposentar da seleção argentina. A declaração veio após a derrota na final da Copa do Mundo de 2026. O jogador afirmou que este é um momento para refletir sobre seu futuro na equipe nacional.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "seleção argentina",
+      "dibu martínez",
+      "aposentadoria",
+      "copa do mundo"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Dibu Martínez"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Argentina"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/dibu-martinez-cogita-possivel-aposentadoria-da-selecao-argentina-apos-vice/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-21-cultura-polemica-artistica",
+    "data": "2026-07-21",
+    "titulo": "Atriz chama colega de 'serpente' e gera polêmica no meio artístico",
+    "resumo": "A atriz Franciely Freduzeski fez declarações chamando Deborah Secco de 'serpente' do meio artístico. A afirmação foi dada durante sua participação no podcast 'Ponto de Ironia'. A declaração gerou repercussão e debate sobre as relações dentro da indústria do entretenimento.",
+    "categoria": "cultura",
+    "tags": [
+      "celebridades",
+      "atrizes",
+      "polêmica",
+      "mídia",
+      "entretenimento"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Franciely Freduzeski",
+      "Deborah Secco"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/pop/celebridades/quem-e-a-atriz-que-chamou-deborah-secco-de-serpente-do-meio-artistico/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-21-seguranca-crime-sequestro",
+    "data": "2026-07-21",
+    "titulo": "Polícia desvenda sequestro e assassinato de empresário em São Paulo",
+    "resumo": "A polícia apura o desaparecimento e assassinato do empresário Marcelo Magalhães de Almeida, de 31 anos, em Carapicuíba, Grande São Paulo. Segundo as investigações, um amigo planejou o sequestro e transferiu R$ 8 mil das contas da vítima antes de matá-la. O suspeito é Lucas Soares de Lima.",
+    "categoria": "seguranca",
+    "tags": [
+      "crime",
+      "sequestro",
+      "assassinato",
+      "polícia",
+      "são paulo"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Marcelo Magalhães de Almeida",
+      "Lucas Soares de Lima"
+    ],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Carapicuíba"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
         "nome": "G1",
-        "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/07/20/samsung-corta-empregos-nos-eua-e-oferece-realocacao-antes-da-mudanca-da-sede.ghtml"
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/21/empresario-desaparecido-foi-atraido-para-sequestro-por-amigo-que-transferiu-r-8-mil-de-suas-contas-antes-de-mata-lo-diz-policia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-21-meio-ambiente-desabamento-calcadao",
+    "data": "2026-07-21",
+    "titulo": "Trecho de calçadão desaba em Natal e é interditado",
+    "resumo": "Uma parte do calçadão na praia de Areia Preta, em Natal, Rio Grande do Norte, desabou. O trecho afetado precisou ser interditado pelas autoridades. O desabamento ocorreu próximo a um letreiro turístico da cidade. A Secretaria Municipal de Infraestrutura foi notificada.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "desabamento",
+      "infraestrutura",
+      "natal",
+      "interdição",
+      "meio ambiente"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio Grande do Norte"
+    ],
+    "cidades": [
+      "Natal"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/21/trecho-calcadao-desaba-areia-preta.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-21-politica-canada-tarifa",
+    "data": "2026-07-21",
+    "titulo": "Canadá pronto para intensificar negociações comerciais diante de novas tarifas dos EUA",
+    "resumo": "O Canadá declarou-se pronto para intensificar as negociações comerciais com os Estados Unidos. A declaração surge em meio a relatos de que Donald Trump prepara a imposição de novas tarifas sobre outros países. Mark Carney afirmou que o Canadá apresentou propostas para resolver disputas comerciais.",
+    "categoria": "politica",
+    "tags": [
+      "canadá",
+      "eua",
+      "comércio",
+      "tarifas",
+      "negociações"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Donald Trump",
+      "Mark Carney"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Canadá",
+      "Estados Unidos"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-21-economia-reino-unido-inflacao",
+    "data": "2026-07-21",
+    "titulo": "Inflação de alimentos no Reino Unido atinge menor taxa em meses",
+    "resumo": "Novos dados econômicos do Reino Unido indicam que a inflação de alimentos diminuiu nas últimas quatro semanas. A taxa de aumento de preços caiu para 2,6%, seu nível mais baixo desde dezembro de 2024. Este é o quinto mês consecutivo de desaceleração nos aumentos de preços.",
+    "categoria": "economia",
+    "tags": [
+      "reino unido",
+      "inflação",
+      "alimentos",
+      "economia",
+      "preços"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-21-cultura-videos-tocantins",
+    "data": "2026-07-21",
+    "titulo": "Vídeos do telejornal Bom Dia Tocantins de 21 de julho de 2026 disponíveis",
+    "resumo": "Os telespectadores podem conferir todos os vídeos exibidos no telejornal Bom Dia Tocantins do dia 21 de julho de 2026. O conteúdo está disponível online. A divulgação dos telejornais permite o acesso à informação regional.",
+    "categoria": "cultura",
+    "tags": [
+      "vídeos",
+      "notícias",
+      "tocantins",
+      "mídia",
+      "televisão"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Tocantins"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 0,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/to/tocantins/edicao/2026/07/21/videos-bom-dia-tocantins-de-21-de-julho-de-2026.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-21-protestos-india",
+    "data": "2026-07-21",
+    "titulo": "Movimento de protesto na Índia suspende marchas após violência policial",
+    "resumo": "Líderes do movimento de protesto conhecido como 'cockroach' na Índia decidiram suspender suas marchas. A decisão ocorre após episódios de violência policial contra os manifestantes. Os organizadores afirmam que continuarão a campanha, mas não realizarão mais marchas em Nova Delhi.",
+    "categoria": "politica",
+    "tags": [
+      "protestos",
+      "índia",
+      "polícia",
+      "violência",
+      "direitos humanos"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Nova Delhi"
+    ],
+    "paises": [
+      "Índia"
+    ],
+    "importancia": 0,
+    "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/7/21/indias-cockroach-protest-movement-halts-marches-after-police-violence?traffic_source=rss"
       }
     ]
   }
