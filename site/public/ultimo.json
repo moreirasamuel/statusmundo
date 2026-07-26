@@ -1,20 +1,21 @@
 [
   {
-    "id": "incendios-franca-espanha-evacuacao-massiva",
-    "data": "2026-07-25",
-    "titulo": "Incêndios Florestais Intensos na França e Espanha Levam à Evacuação de Centenas de Milhares",
-    "resumo": "Incêndios florestais massivos assolam o sudoeste da França e áreas próximas à capital da Espanha, forçando a evacuação de mais de 270.000 pessoas. Na França, a região de Bordeaux é particularmente afetada, com autoridades convocando militares para auxiliar no combate às chamas. A Espanha declarou emergência nacional para conter a crise.",
+    "id": "incendios-europa",
+    "data": "2026-07-26",
+    "titulo": "Incêndios na Europa levam a evacuações em massa na França e Espanha",
+    "resumo": "Incêndios florestais de grande escala na Europa causaram a evacuação de centenas de milhares de pessoas. Na França, mais de 300.000 pessoas foram deslocadas perto de Bordeaux, enquanto na Espanha, a situação também é crítica. As autoridades descrevem a batalha para conter as chamas como desafiadora.",
     "categoria": "meio-ambiente",
     "tags": [
       "incêndios",
-      "florestais",
-      "evacuação",
+      "evacuações",
+      "clima"
+    ],
+    "entidades": [
       "França",
       "Espanha"
     ],
-    "entidades": [],
     "pessoas": [
-      "Sébastien Lecornu"
+      "Pedro Sanchez"
     ],
     "estados": [],
     "cidades": [
@@ -28,654 +29,156 @@
     "fontes": [
       {
         "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde"
+        "url": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations"
       },
       {
-        "nome": "g1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/07/25/incendios-avancam-na-espanha-e-franca-evacuacao-em-massa.ghtml"
-      },
-      {
-        "nome": "g1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/07/25/franca-convoca-militares-e-espanha-declara-emergencia-nacional-por-incendios-que-ja-tiraram-mais-de-200-mil-pessoas-de-suas-casas.ghtml"
+        "nome": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss"
       }
     ]
   },
   {
-    "id": "jornalista-morto-goiania-discussao-mulheres",
-    "data": "2026-07-25",
-    "titulo": "Jornalista é Encontrado Morto em Apartamento em Goiânia Após Discussão",
-    "resumo": "O jornalista Delson Carlos foi encontrado morto em um apartamento no Setor Bueno, em Goiânia. A polícia informou que o crime ocorreu após uma discussão envolvendo duas mulheres. Delson Carlos atuava como colunista e tinha formação em marketing.",
-    "categoria": "justica",
-    "tags": [
-      "homicídio",
-      "jornalista",
-      "Goiânia"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Delson Carlos"
-    ],
-    "estados": [],
-    "cidades": [
-      "Goiânia"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1",
-        "url": "https://g1.globo.com/go/goias/noticia/2026/07/25/jornalista-delson-carlos-foi-morto-apos-discussao-envolvendo-duas-mulheres-em-apartamento-diz-policia.ghtml"
-      },
-      {
-        "nome": "g1",
-        "url": "https://g1.globo.com/go/goias/noticia/2026/07/25/veja-quem-era-o-jornalista-delson-carlos-encontrado-morto-em-apartamento-apos-discussao-em-goiania.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "eua-questionam-urnas-eletronicas-brasil",
-    "data": "2026-07-25",
-    "titulo": "Governo dos EUA Planeja Enviar Funcionários ao Brasil para Questionar Urnas Eletrônicas, Diz Jornal",
-    "resumo": "Segundo o jornal The Washington Post, o governo dos Estados Unidos está organizando o envio de dois altos funcionários do Departamento de Estado para Brasília. A missão seria questionar a transparência e a integridade do sistema eleitoral brasileiro. A notícia gerou repercussão sobre a possível interferência externa no processo eleitoral.",
-    "categoria": "politica",
-    "tags": [
-      "eleições",
-      "urnas eletrônicas",
-      "Estados Unidos",
-      "Brasil"
-    ],
-    "entidades": [
-      "Departamento de Estado dos EUA",
-      "The Washington Post",
-      "TRE-MS"
-    ],
-    "pessoas": [
-      "Trump"
-    ],
-    "estados": [],
-    "cidades": [
-      "Brasília",
-      "Campo Grande"
-    ],
-    "paises": [
-      "Estados Unidos",
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/07/25/governo-trump-planeja-enviar-funcionarios-ao-brasil-para-questionar-integridade-das-urnas-eletronicas-diz-jornal.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "crime-santarém-mulher-morta-violencia",
-    "data": "2026-07-25",
-    "titulo": "Mulher é Encontrada Morta com Sinais de Violência em Terreno Baldio em Santarém, PA",
-    "resumo": "Uma mulher ainda não identificada foi encontrada morta em um terreno baldio no bairro Maracanã, em Santarém, no oeste do Pará. O corpo apresentava sinais de extrema violência e estava sem roupas. A polícia investiga o caso para identificar a vítima e os responsáveis.",
-    "categoria": "justica",
-    "tags": [
-      "homicídio",
-      "violência",
-      "Santarém"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Pará"
-    ],
-    "cidades": [
-      "Santarém"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "g1",
-        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/07/25/mulher-e-encontrada-morta-e-com-sinais-de-violencia-em-terreno-abandonado-em-santarem-no-para.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "baixa-umidade-maranhão-alerta-inmet",
-    "data": "2026-07-25",
-    "titulo": "Inmet Alerta para Baixa Umidade do Ar em 21 Cidades do Maranhão",
-    "resumo": "O Instituto Nacional de Meteorologia (Inmet) emitiu um alerta de baixa umidade relativa do ar para 21 cidades do Maranhão. A condição climática pode agravar quadros respiratórios e exige atenção da população. O alerta destaca a importância de medidas preventivas para lidar com o tempo seco.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "clima",
-      "umidade do ar",
-      "Maranhão"
-    ],
-    "entidades": [
-      "Inmet"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Maranhão"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/25/inmet-alerta-para-baixa-umidade-do-ar-em-21-cidades-do-ma-neste-sabado.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "morte-tio-anisio-es",
-    "data": "2026-07-25",
-    "titulo": "Morre Tio Anísio, Pipocaqueiro Símbolo do Ifes no Espírito Santo, Aos 91 Anos",
-    "resumo": "Faleceu Anísio Motta, conhecido como Tio Anísio, aos 91 anos. A figura popular era símbolo do Instituto Federal do Espírito Santo (Ifes) no campus de Vitória, tendo marcado gerações. Sua morte representa a perda de uma personalidade querida na comunidade acadêmica e local.",
-    "categoria": "cultura",
-    "tags": [
-      "falecimento",
-      "personalidade",
-      "Espírito Santo"
-    ],
-    "entidades": [
-      "Ifes"
-    ],
-    "pessoas": [
-      "Anísio Motta"
-    ],
-    "estados": [
-      "Espírito Santo"
-    ],
-    "cidades": [
-      "Vitória"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1",
-        "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/07/25/morre-aos-91-anos-tio-anisio-pipoqueiro-que-virou-simbolo-do-ifes-e-marcou-geracoes-no-es.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "acidente-trânsito-bahia",
-    "data": "2026-07-24",
-    "titulo": "Batida entre Carros na Bahia Causa Morte e Deixa Cinco Feridos",
-    "resumo": "Uma colisão entre um carro de passeio e um veículo oficial da Prefeitura de Itarantim, na Bahia, resultou na morte de um homem de 46 anos e deixou outras cinco pessoas feridas. O acidente ocorreu na manhã de sexta-feira (24). As circunstâncias da batida estão sendo investigadas.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente",
-      "trânsito",
-      "Bahia"
-    ],
-    "entidades": [
-      "Prefeitura de Itarantim"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Bahia"
-    ],
-    "cidades": [
-      "Itarantim"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/07/25/batida-entre-carros-na-bahia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "concurso-publico-camara-peixe-to",
-    "data": "2026-07-25",
-    "titulo": "Câmara de Peixe, Tocantins, Abre Concurso com Salários de Até R$ 1,9 Mil",
-    "resumo": "A Câmara Municipal de Peixe, no Tocantins, lançou um concurso público com 11 vagas imediatas e 20 para cadastro de reserva. Os salários oferecidos variam entre R$ 1.702,33 e R$ 1.960,42 para cargos de níveis fundamental e médio. As inscrições já estão abertas.",
-    "categoria": "educacao",
-    "tags": [
-      "concurso",
-      "vagas",
-      "Tocantins"
-    ],
-    "entidades": [
-      "Câmara Municipal de Peixe"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Tocantins"
-    ],
-    "cidades": [
-      "Peixe"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "g1",
-        "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/25/camara-de-peixe-abre-concurso-com-salarios-de-ate-r-19-mil.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "impedimento-semiautomatico-serie-a-brasileirao",
-    "data": "2026-07-25",
-    "titulo": "Tecnologia de Impedimento Semiautomático Estreia na Série A do Campeonato Brasileiro",
-    "resumo": "A tecnologia de impedimento semiautomático será utilizada pela primeira vez na Série A do Campeonato Brasileiro. A novidade estará presente em todos os jogos da 20ª rodada do torneio neste fim de semana. A implementação visa aumentar a precisão das decisões de arbitragem.",
+    "id": "f1-malasia",
+    "data": "2026-07-26",
+    "titulo": "Malásia sediará o Grande Prêmio do Bahrein de F1 em outubro",
+    "resumo": "A Fórmula 1 anunciou que o Grande Prêmio do Bahrein, originalmente cancelado devido ao conflito no Oriente Médio, será realizado na Malásia em outubro. A corrida acontecerá no circuito de Sepang. Esta mudança ocorre após o cancelamento da etapa original.",
     "categoria": "esportes",
     "tags": [
-      "futebol",
-      "arbitragem",
-      "tecnologia"
+      "F1",
+      "automobilismo",
+      "corrida"
     ],
-    "entidades": [],
+    "entidades": [
+      "Fórmula 1"
+    ],
     "pessoas": [],
     "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/impedimento-semiautomatico-estreia-na-serie-a-do-brasileiro/"
-      }
-    ]
-  },
-  {
-    "id": "crime-prisao-simoes-filho-bahia",
-    "data": "2026-07-25",
-    "titulo": "Homem é Preso na Bahia Após Ser Flagrado se Masturbando em Academia",
-    "resumo": "Um homem foi preso em Simões Filho, na Bahia, após ser flagrado se masturbando em uma academia. Segundo a Polícia Civil, o suspeito tentou fugir e resistir à prisão no momento da abordagem. As autoridades continuam a investigação do caso.",
-    "categoria": "justica",
-    "tags": [
-      "crime",
-      "prisão",
-      "Bahia"
-    ],
-    "entidades": [
-      "Polícia Civil da Bahia"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Bahia"
-    ],
     "cidades": [
-      "Simões Filho"
+      "Sepang"
     ],
     "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/nacional/nordeste/ba/homem-flagrado-se-masturbando-em-academia-e-preso-na-bahia/"
-      }
-    ]
-  },
-  {
-    "id": "show-xuxa-saopaulo",
-    "data": "2026-07-25",
-    "titulo": "Xuxa Realiza Show Inédito em São Paulo Neste Sábado",
-    "resumo": "A cantora Xuxa apresentará seu show \"Último Voo da Nave\" em São Paulo neste sábado (25). O espetáculo acontecerá no espaço Nubank Parque. A apresentação marca um momento especial na carreira da artista, com expectativas de grande público.",
-    "categoria": "cultura",
-    "tags": [
-      "música",
-      "show",
-      "Xuxa",
-      "São Paulo"
-    ],
-    "entidades": [
-      "Nubank Parque"
-    ],
-    "pessoas": [
-      "Xuxa"
-    ],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "São Paulo"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/pop/musica/ultimo-voo-da-nave-confira-detalhes-do-show-inedito-deste-sabado-25/"
-      }
-    ]
-  },
-  {
-    "id": "drones-tuberculose-filipinas",
-    "data": "2026-07-25",
-    "titulo": "Drones Transformam o Tratamento da Tuberculose nas Filipinas",
-    "resumo": "Nas Filipinas, médicos estão utilizando drones para combater a tuberculose, especialmente em comunidades remotas. A tecnologia tem sido fundamental para o transporte de medicamentos e amostras, agilizando o diagnóstico e o tratamento. Essa inovação representa um avanço significativo no acesso à saúde.",
-    "categoria": "saude",
-    "tags": [
-      "saúde",
-      "tuberculose",
-      "drones",
-      "Filipinas"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Filipinas"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/101-east/2026/7/25/tuberculosis-how-drones-are-transforming-care-in-the-philippines?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "incendio-belo-horizonte-casa",
-    "data": "2026-07-24",
-    "titulo": "Incêndio em Casa Mobiliza Bombeiros em Belo Horizonte",
-    "resumo": "Um incêndio em uma residência mobilizou cinco viaturas do Corpo de Bombeiros na noite de sexta-feira (24) em Belo Horizonte. Havia uma pessoa dentro da casa no momento do incidente. As causas do fogo estão sendo apuradas pelas autoridades competentes.",
-    "categoria": "seguranca",
-    "tags": [
-      "incêndio",
-      "bombeiros",
-      "Belo Horizonte"
-    ],
-    "entidades": [
-      "Corpo de Bombeiros"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Belo Horizonte"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "g1",
-        "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/25/video-incendio-em-casa-mobiliza-cinco-viaturas-dos-bombeiros-em-bh.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "jogadores-corinthians-selecao-brasileira",
-    "data": "2026-07-25",
-    "titulo": "Bidon, do Corinthians, Mira Vaga na Seleção Brasileira",
-    "resumo": "O jogador Bidon, de 21 anos, vê no Corinthians uma oportunidade de desenvolvimento com o objetivo de alcançar a Seleção Brasileira. Apesar de ser alvo de clubes europeus, ele acredita que a continuidade no clube paulista é fundamental para sua carreira. Seu estafe confia no projeto atual.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "Corinthians",
-      "Seleção Brasileira"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Bidon"
-    ],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/bidon-estafe-confia-em-projeto-do-corinthians-e-mira-selecao-brasileira/"
-      }
-    ]
-  },
-  {
-    "id": "protestos-india-humor-memes",
-    "data": "2026-07-25",
-    "titulo": "Jovens Indianos Usam Humor e Memes para Protestar Contra Modi",
-    "resumo": "Jovens na Índia estão utilizando humor e memes nas redes sociais para protestar contra o governo de Narendra Modi. A estratégia visa criticar a administração por meio das mesmas plataformas que Modi usou para construir sua marca política. Essa abordagem criativa busca engajar a opinião pública.",
-    "categoria": "politica",
-    "tags": [
-      "protestos",
-      "Índia",
-      "humor",
-      "redes sociais"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Modi"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Índia"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/7/25/indias-youth-protesters-are-fighting-modi-with-irreverent-humour-and-memes?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "empregos-alemao-industria-perdas",
-    "data": "2026-07-25",
-    "titulo": "Indústria Alemã Perde Cerca de 15.000 Empregos por Mês",
-    "resumo": "A indústria alemã está enfrentando uma crise, com perdas estimadas de 15.000 empregos por mês. A situação é descrita como crítica, mas também como uma oportunidade para reestruturação. Enquanto isso, políticos participam do Festival de Bayreuth e serviços de segurança alertam sobre grupos de luta racista.",
-    "categoria": "economia",
-    "tags": [
-      "economia",
-      "indústria",
-      "empregos",
-      "Alemanha"
-    ],
-    "entidades": [
-      "Festival de Bayreuth"
-    ],
-    "pessoas": [
-      "Tanja Gönner"
-    ],
-    "estados": [
-      "Bavaria"
-    ],
-    "cidades": [],
-    "paises": [
-      "Alemanha"
+      "Malásia",
+      "Bahrein"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "DW",
-        "url": "https://www.dw.com/en/germany-news-industry-hemorrhaging-15-000-jobs-a-month/live-78101249?maca=en-rss-en-all-1573-rdf"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/f1-anuncia-gp-do-bahrein-na-malasia-em-retorno-de-sepang/"
+      },
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/7/26/malaysia-to-host-rescheduled-bahrain-grand-prix-f1-race-in-october?traffic_source=rss"
       }
     ]
   },
   {
-    "id": "prisao-espiã-otan-belgica",
-    "data": "2026-07-25",
-    "titulo": "Estagiária da Otan Presa por Acusação de Espionagem na Bélgica",
-    "resumo": "Uma estagiária da Otan, de origem chinesa e nacionalidade canadense, foi presa na Bélgica sob acusação de espionagem. A mulher trabalhava na instalação SHAPE, localizada na cidade de Mons. O caso levanta preocupações sobre segurança dentro da organização.",
+    "id": "protestos-ira-eua",
+    "data": "2026-07-26",
+    "titulo": "Ataques ao Irã geram protestos e advertências do exército iraniano",
+    "resumo": "O exército do Irã emitiu um aviso diante da visita de Netanyahu aos Estados Unidos, alertando que a guerra pode se expandir se os ataques americanos continuarem. Paralelamente, manifestantes anti-guerra protestaram em frente a uma base aérea do Reino Unido, exigindo o fim do uso por forças americanas para bombardear o Irã.",
     "categoria": "internacional",
     "tags": [
-      "espionagem",
-      "Otan",
-      "Bélgica"
-    ],
-    "entidades": [
-      "Otan",
-      "SHAPE"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Mons"
-    ],
-    "paises": [
-      "Bélgica",
-      "Canadá",
-      "China"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/estagiaria-da-otan-e-presa-sob-acusacao-de-espionagem-na-belgica/"
-      }
-    ]
-  },
-  {
-    "id": "colisao-onibus-siria",
-    "data": "2026-07-25",
-    "titulo": "Colisão de Dois Ônibus na Síria Deixa Pelo Menos 35 Mortos",
-    "resumo": "Uma grave colisão envolvendo dois ônibus na Síria resultou na morte de pelo menos 35 pessoas. O acidente ocorreu em circunstâncias ainda não detalhadas. Este trágico evento destaca a fragilidade das infraestruturas e a segurança no transporte na região.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente",
-      "ônibus",
-      "Síria",
-      "mortos"
+      "Irã",
+      "Estados Unidos",
+      "guerra",
+      "protestos"
     ],
     "entidades": [],
-    "pessoas": [],
+    "pessoas": [
+      "Netanyahu"
+    ],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Síria"
+      "Irã",
+      "Estados Unidos",
+      "Reino Unido"
     ],
     "importancia": 4,
     "fontes": [
       {
         "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/7/25/two-buses-collide-in-syria-killing-at-least-35-people?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "breakdance-interior-sp-menino",
-    "data": "2026-07-25",
-    "titulo": "Menino de Seis Anos se Destaca no Breakdance no Interior de SP",
-    "resumo": "Um menino de seis anos, seguindo os passos do pai, está se destacando no breakdance em Adamantina, no interior de São Paulo. O pai, professor de dança de rua que já se apresentou nas Olimpíadas, vê no filho o reflexo de seu trabalho. A história demonstra o impacto da dança na formação do jovem.",
-    "categoria": "cultura",
-    "tags": [
-      "dança",
-      "breakdance",
-      "São Paulo",
-      "jovem talento"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Fernando Henrique Pereira"
-    ],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Adamantina"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/irans-army-issues-warning-ahead-of-netanyahus-us-visit?traffic_source=rss"
+      },
       {
-        "nome": "g1",
-        "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/07/25/menino-de-seis-anos-segue-os-passos-do-pai-e-se-destaca-no-breakdance-no-interior-de-sp.ghtml"
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/anti-war-protesters-demand-end-to-us-use-of-uk-airbase-to-strike-iran?traffic_source=rss"
       }
     ]
   },
   {
-    "id": "mico-leao-preto-censo-sp",
-    "data": "2026-07-25",
-    "titulo": "Mico-Leão-Preto Ganha Censo Inédito no Centro-Oeste Paulista",
-    "resumo": "O mico-leão-preto, espécie símbolo de São Paulo, será alvo de um censo inédito no centro-oeste paulista após 42 anos de pesquisas concentradas em outra região. A iniciativa visa mapear a população do primata nesta nova área. O estudo é um passo importante para a conservação da espécie.",
-    "categoria": "meio-ambiente",
+    "id": "ataque-berlim-pride",
+    "data": "2026-07-26",
+    "titulo": "Ataque em evento de Orgulho LGBTQIAPN+ em Berlim gera caçada a suspeito",
+    "resumo": "Um suspeito atropelou uma multidão em um evento de Orgulho LGBTQIAPN+ na capital alemã no sábado à noite. Uma caçada policial está em andamento para encontrar o indivíduo responsável pelo ataque. As autoridades alemãs investigam o ocorrido.",
+    "categoria": "seguranca",
     "tags": [
-      "fauna",
-      "conservação",
-      "São Paulo",
-      "mico-leão-preto"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1",
-        "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/07/25/especie-simbolo-de-sp-mico-leao-preto-ganha-censo-inedito-no-centro-oeste-paulista-apos-42-anos-de-pesquisas-no-pontal.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "inteligencia-artificial-estudo",
-    "data": "2026-07-25",
-    "titulo": "Especialista Ensina Como Usar Inteligência Artificial no Estudo Sem Erros",
-    "resumo": "Um especialista em proteção de dados oferece orientações sobre como utilizar a inteligência artificial (IA) de forma eficaz nos estudos, evitando erros comuns. Ele alerta sobre a exposição de dados pessoais e a terceirização do raciocínio, propondo o uso da IA como aliada do aprendizado.",
-    "categoria": "educacao",
-    "tags": [
-      "inteligência artificial",
-      "educação",
-      "estudo"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/educacao/como-usar-inteligencia-artificial-para-estudar-sem-cometer-erros/"
-      }
-    ]
-  },
-  {
-    "id": "mister-macapa-verao",
-    "data": "2026-07-25",
-    "titulo": "Conheça os Candidatos ao Mister Macapá Verão 2026",
-    "resumo": "Os finalistas do concurso Mister Macapá Verão 2026 foram apresentados em um encontro preparatório para a grande final. O evento marcou o início da programação oficial do concurso, que elegerá o representante da beleza masculina na cidade. As etapas eliminatórias já definiram os classificados.",
-    "categoria": "cultura",
-    "tags": [
-      "concurso",
-      "beleza",
-      "Macapá"
+      "ataque",
+      "Berlim",
+      "Orgulho LGBTQIAPN+"
     ],
     "entidades": [
-      "SEMCOM/PMM"
+      "Polícia"
     ],
-    "pessoas": [
-      "Ana Clara Maciel"
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Berlim"
     ],
+    "paises": [
+      "Alemanha"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss"
+      }
+    ]
+  },
+  {
+    "id": "musica-apoi-viraliza",
+    "data": "2026-07-26",
+    "titulo": "Musical escrito por artista amapaense viraliza nas redes sociais",
+    "resumo": "Um musical criado por uma artista do Amapá alcançou mais de um milhão de visualizações nas redes sociais. Intitulado \"Por Isso Tudo Acabou Assim\", o espetáculo foi produzido sem patrocínio e financiado pelo próprio elenco. A obra expandiu seu alcance dos palcos para o ambiente digital.",
+    "categoria": "cultura",
+    "tags": [
+      "musical",
+      "viral",
+      "redes sociais",
+      "arte"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Amapá"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ap/amapa/noticia/2026/07/26/musical-escrito-por-amapaense-viraliza-e-alcanca-mais-de-1-milhao-de-visualizacoes-nas-redes-sociais.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "acao-social-macapa",
+    "data": "2026-07-26",
+    "titulo": "Ação social oferece alimentos e atendimentos de saúde para pessoas em situação de rua em Macapá",
+    "resumo": "Uma iniciativa em Macapá distribuiu cerca de 200 refeições e ofereceu atendimentos de saúde para pessoas em situação de rua. O programa incluiu consultas médicas, cuidados com a pele e distribuição de alimentos e remédios. As atividades ocorreram na Praça da Bandeira, no centro da cidade.",
+    "categoria": "saude",
+    "tags": [
+      "ação social",
+      "saúde",
+      "moradores de rua"
+    ],
+    "entidades": [],
+    "pessoas": [],
     "estados": [
       "Amapá"
     ],
@@ -685,31 +188,381 @@
     "paises": [
       "Brasil"
     ],
-    "importancia": 1,
+    "importancia": 3,
     "fontes": [
       {
-        "nome": "g1",
-        "url": "https://g1.globo.com/ap/amapa/noticia/2026/07/25/fotos-conheca-os-candidatos-ao-mister-macapa-verao-2026.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/ap/amapa/noticia/2026/07/26/acao-distribui-alimentos-e-oferece-atendimentos-de-saude-a-pessoas-em-situacao-de-rua-em-macapa.ghtml"
       }
     ]
   },
   {
-    "id": "eleicoes-ac-limite-gastos",
-    "data": "2026-07-25",
-    "titulo": "Candidatos a Deputado Estadual no Acre Poderão Gastar Até R$ 1,2 Milhão em 2026",
-    "resumo": "Os candidatos a deputado estadual no Acre terão um teto de gastos de R$ 1.270.629,01 para suas campanhas nas Eleições de 2026. O Tribunal Superior Eleitoral (TSE) definiu os limites, mantendo os mesmos valores de eleições anteriores. Os recursos do fundo eleitoral totalizam R$ 4,9 bilhões.",
-    "categoria": "politica",
+    "id": "papa-halleluya",
+    "data": "2026-07-26",
+    "titulo": "Papa Leão XIV envia mensagem de vídeo ao Festival Halleluya 2026",
+    "resumo": "O Papa Leão XIV gravou um vídeo para os participantes do Festival Halleluya 2026, que foi exibido durante o evento. Em sua mensagem, o pontífice destacou a participação dos jovens na igreja e fez um alerta sobre o uso de redes sociais e inteligência artificial.",
+    "categoria": "cultura",
     "tags": [
-      "eleições",
-      "gastos",
-      "Acre"
+      "Papa",
+      "Halleluya",
+      "jovens",
+      "redes sociais"
     ],
     "entidades": [
-      "TSE"
+      "Igreja Católica"
+    ],
+    "pessoas": [
+      "Papa Leão XIV"
+    ],
+    "estados": [
+      "Ceará"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ce/ceara/noticia/2026/07/26/papa-leao-xiv-grava-video-para-publico-do-halleluya-2026-e-aconselha-jovens-sobre-uso-das-redes-sociais-e-inteligencia-artificial.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "homicidio-agua-branca",
+    "data": "2026-07-26",
+    "titulo": "Jovem é morto a tiros em bar no Piauí; suspeitos fogem",
+    "resumo": "Um jovem de 21 anos foi assassinado a tiros na noite de sábado em um bar na cidade de Água Branca, Piauí. De acordo com a Polícia Militar, três homens encapuzados invadiram o estabelecimento e efetuaram os disparos. O homem que acompanhava a vítima fugiu do local após o ataque.",
+    "categoria": "justica",
+    "tags": [
+      "homicídio",
+      "Piauí",
+      "crime"
+    ],
+    "entidades": [
+      "Polícia Militar"
+    ],
+    "pessoas": [
+      "Marcos Daniel Gomes da Silva"
+    ],
+    "estados": [
+      "Piauí"
+    ],
+    "cidades": [
+      "Água Branca"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/26/jovem-morto-em-bar-de-agua-branca.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "indigenizacao-carnaval-rio",
+    "data": "2026-07-26",
+    "titulo": "Projeto social no Rio de Janeiro transforma fantasias de carnaval em figurinos de quadrilha junina",
+    "resumo": "Um projeto social na comunidade Antares, em Santa Cruz, Zona Oeste do Rio de Janeiro, está reaproveitando fantasias de carnaval para criar figurinos de quadrilha junina. A iniciativa busca dar um novo significado às tradições juninas com materiais reciclados. O projeto visa transformar vidas através da arte e da cultura.",
+    "categoria": "cultura",
+    "tags": [
+      "projeto social",
+      "Rio de Janeiro",
+      "carnaval",
+      "festas juninas"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Rio de Janeiro"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/rio-de-janeiro/globo-comunidade-rj/noticia/2026/07/26/fantasias-de-carnaval-viram-figurinos-de-quadrilha-em-projeto-social-que-transforma-vidas-na-zona-oeste-do-rio.html"
+      }
+    ]
+  },
+  {
+    "id": "indenizacao-cemig",
+    "data": "2026-07-26",
+    "titulo": "Morador de MG será indenizado pela Cemig após cobrança indevida de R$ 37 mil na conta de luz",
+    "resumo": "Um morador de Dores do Indaiá, em Minas Gerais, que teve R$ 37,4 mil debitados de sua conta bancária devido a uma cobrança incorreta na conta de luz, receberá indenização da Companhia Energética de Minas Gerais (Cemig). A decisão judicial determinou o ressarcimento após a falha na cobrança.",
+    "categoria": "justica",
+    "tags": [
+      "indenização",
+      "Cemig",
+      "conta de luz",
+      "cobrança indevida"
+    ],
+    "entidades": [
+      "Cemig"
     ],
     "pessoas": [],
     "estados": [
-      "Acre"
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Dores do Indaiá"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/07/26/consumidor-que-teve-r-37-mil-debitados-por-erro-na-conta-de-luz-deve-ser-indenizado-pela-cemig-em-mg.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "parada-lgbt-campo-grande",
+    "data": "2026-07-26",
+    "titulo": "Parada LGBTQIAPN+ em Campo Grande reúne público com show e atrações culturais",
+    "resumo": "A 23ª Parada LGBTQIAPN+ foi realizada em Campo Grande, Mato Grosso do Sul, reunindo participantes, coletivos e apoiadores da causa. O evento contou com a participação de artistas como Karol Conká e diversas atrações culturais. A parada celebrou a diversidade e a luta por direitos na capital sul-mato-grossense.",
+    "categoria": "cultura",
+    "tags": [
+      "Parada LGBTQIAPN+",
+      "Campo Grande",
+      "diversidade"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Karol Conká"
+    ],
+    "estados": [
+      "Mato Grosso do Sul"
+    ],
+    "cidades": [
+      "Campo Grande"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/26/parada-lgbtqiapn-reune-publico-com-show-de-karol-conka-e-atracoes-culturais-em-campo-grande.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "atropelamento-ribeirao-neves",
+    "data": "2026-07-26",
+    "titulo": "Motociclista foragido após atropelar criança em BH; família critica fuga",
+    "resumo": "Um menino de 6 anos foi atropelado enquanto jogava bola em Ribeirão das Neves, na Região Metropolitana de Belo Horizonte. O motociclista suspeito de causar o acidente fugiu do local e, segundo o padrasto da vítima, teria dito que estava sob efeito de drogas à esposa. A família critica a atitude do condutor.",
+    "categoria": "justica",
+    "tags": [
+      "atropelamento",
+      "fuga",
+      "Belo Horizonte"
+    ],
+    "entidades": [
+      "Polícia Militar"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Ribeirão das Neves",
+      "Belo Horizonte"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/26/falou-na-cara-da-minha-esposa-que-tava-doidao-diz-padrasto-de-menino-atropelado-sobre-motociclista-que-fugiu.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "acidente-foz-do-iguacu",
+    "data": "2026-07-26",
+    "titulo": "Acidente em Foz do Iguaçu mata duas jovens e polícia investiga homicídio culposo",
+    "resumo": "Duas jovens morreram após o carro em que estavam sair da pista em Foz do Iguaçu, no oeste do Paraná. O acidente, que ocorreu na noite de sexta-feira, levava dez pessoas no veículo. A Polícia Militar registrou o caso como homicídio culposo e investiga as circunstâncias da batida.",
+    "categoria": "justica",
+    "tags": [
+      "acidente",
+      "morte",
+      "Foz do Iguaçu"
+    ],
+    "entidades": [
+      "Polícia Militar"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Paraná"
+    ],
+    "cidades": [
+      "Foz do Iguaçu"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/07/26/policia-crime-morte-de-jovens-carro-dez-pessoas-no-pr.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "brasileirao-gre-flu",
+    "data": "2026-07-26",
+    "titulo": "Grêmio e Fluminense se enfrentam em busca de recuperação no Brasileirão",
+    "resumo": "Grêmio e Fluminense duelam neste domingo pelo Campeonato Brasileiro em momentos distintos. Ambas as equipes buscam somar os primeiros três pontos após a paralisação para a Copa do Mundo. O jogo ocorre em um momento crucial para as ambições dos clubes na competição.",
+    "categoria": "esportes",
+    "tags": [
+      "Brasileirão",
+      "futebol",
+      "Grêmio",
+      "Fluminense"
+    ],
+    "entidades": [
+      "Grêmio",
+      "Fluminense"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/noticias/em-momentos-opostos-gremio-e-fluminense-duelam-pelo-brasileirao/"
+      }
+    ]
+  },
+  {
+    "id": "miss-universe-brasil",
+    "data": "2026-07-26",
+    "titulo": "Miss Universo Brasil 2026 é coroada com discurso sobre autenticidade feminina",
+    "resumo": "Marcella Kozinski, representante da Ilha do Mel, foi eleita Miss Universo Brasil 2026 na noite de sábado. Sua conquista foi marcada por um discurso sobre a força e a autenticidade feminina. O evento celebrou a beleza e a representatividade das mulheres brasileiras.",
+    "categoria": "cultura",
+    "tags": [
+      "Miss Universo Brasil",
+      "concurso de beleza",
+      "feminismo"
+    ],
+    "entidades": [
+      "Miss Universo"
+    ],
+    "pessoas": [
+      "Marcella Kozinski"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/lifestyle/miss-universe-brasil-2026-e-eleita-com-discurso-sobre-forca-feminina/"
+      }
+    ]
+  },
+  {
+    "id": "cursos-guaruja",
+    "data": "2026-07-26",
+    "titulo": "Guarujá abre mais de 3 mil vagas em cursos gratuitos de qualificação e cultura",
+    "resumo": "A Prefeitura de Guarujá, no litoral de São Paulo, ofereceu 3.161 vagas gratuitas em cursos profissionalizantes, culturais e esportivos. As inscrições para as vagas foram abertas entre segunda-feira (27) e quinta-feira (30). A iniciativa visa oferecer oportunidades de desenvolvimento para os moradores.",
+    "categoria": "educacao",
+    "tags": [
+      "cursos",
+      "Guarujá",
+      "qualificação",
+      "cultura"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Guarujá"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/26/guaruja-abre-mais-de-31-mil-vagas-em-cursos-de-qualificacao-culturais-e-esportivos-confira.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "brasileirao-fla- sao-paulo",
+    "data": "2026-07-26",
+    "titulo": "Flamengo e São Paulo se enfrentam no Brasileirão com objetivos distintos",
+    "resumo": "Flamengo e São Paulo duelam pelo Campeonato Brasileiro com propósitos diferentes. O Flamengo busca a liderança da competição, enquanto o São Paulo tenta se afastar da zona de rebaixamento. O confronto direto pode influenciar a parte de cima e a parte de baixo da tabela.",
+    "categoria": "esportes",
+    "tags": [
+      "Brasileirão",
+      "futebol",
+      "Flamengo",
+      "São Paulo"
+    ],
+    "entidades": [
+      "Flamengo",
+      "São Paulo"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-e-sao-paulo-duelam-com-objetivos-diferentes-no-brasileirao/"
+      }
+    ]
+  },
+  {
+    "id": "cesio-137-goias",
+    "data": "2026-07-26",
+    "titulo": "Morre irmão de Leide das Neves, vítima do Césio-137 em Goiás",
+    "resumo": "Lucimar das Neves Ferreira, irmão de Leide das Neves, vítima do acidente com o Césio-137 em Goiás, faleceu no estado. A informação foi confirmada pela família. Leide das Neves foi uma das vítimas mais conhecidas do trágico evento ocorrido em 1987.",
+    "categoria": "saude",
+    "tags": [
+      "Césio-137",
+      "Goiás",
+      "vítimas"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Leide das Neves",
+      "Lucimar das Neves Ferreira"
+    ],
+    "estados": [
+      "Goiás"
     ],
     "cidades": [],
     "paises": [
@@ -718,132 +571,223 @@
     "importancia": 2,
     "fontes": [
       {
-        "nome": "g1",
-        "url": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/07/25/candidatos-a-deputado-estadual-podem-gastar-ate-r-12-milhao-nas-eleicoes-de-2026-no-ac-veja-teto-para-cada-cargo.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/go/goias/noticia/2026/07/26/morre-irmao-de-leide-das-neves-vitima-do-cesio-137-em-goias.ghtml"
       }
     ]
   },
   {
-    "id": "confronto-athletico-pr-inter-serie-a",
-    "data": "2026-07-25",
-    "titulo": "Athletico-PR e Inter se Enfrentam em Momento Distinto no Brasileirão",
-    "resumo": "Athletico-PR e Internacional se enfrentam neste sábado (25) na Arena da Baixada, em partida válida pela 20ª rodada do Campeonato Brasileiro. As equipes vivem fases opostas na competição, buscando resultados distintos. O jogo promete ser um confronto tático interessante.",
+    "id": "brasileirao-bragantino-coritiba",
+    "data": "2026-07-26",
+    "titulo": "Bragantino enfrenta o Coritiba de olho no G4 do Brasileirão",
+    "resumo": "O Bragantino recebe o Coritiba em partida válida pelo Campeonato Brasileiro com o objetivo de se aproximar do G4. A equipe paulista busca uma vitória para melhorar sua posição na tabela. Já o Coritiba, tenta encerrar uma sequência de derrotas e se afastar da parte inferior da classificação.",
     "categoria": "esportes",
     "tags": [
-      "futebol",
       "Brasileirão",
-      "Athletico-PR",
-      "Internacional"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Paraná"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/em-fases-opostas-athletico-pr-e-inter-se-enfrentam-no-brasileirao/"
-      }
-    ]
-  },
-  {
-    "id": "crise-climatica-literatura-flip",
-    "data": "2026-07-25",
-    "titulo": "Mariana Brecht Leva Debate sobre Crise Climática para a Flip",
-    "resumo": "A escritora Mariana Brecht participa da Festa Literária Internacional de Paraty (Flip) com foco na urgência ambiental e em novos imaginários de futuro. Sua obra aborda a crise climática, ressaltando a importância da literatura para discutir temas urgentes e propor novas visões sobre o futuro.",
-    "categoria": "cultura",
-    "tags": [
-      "literatura",
-      "meio-ambiente",
-      "Flip"
+      "futebol",
+      "Bragantino",
+      "Coritiba"
     ],
     "entidades": [
-      "Flip"
+      "Red Bull Bragantino",
+      "Coritiba"
     ],
-    "pessoas": [
-      "Mariana Brecht"
-    ],
-    "estados": [
-      "Rio de Janeiro",
-      "São Paulo"
-    ],
-    "cidades": [
-      "Paraty"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "g1",
-        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/25/da-ficcao-climatica-a-esperanca-ativa-mariana-brecht-leva-a-urgencia-ambiental-e-novos-imaginarios-de-futuro-para-a-flip.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "redes-mesh-internet-autoritarismo",
-    "data": "2026-07-25",
-    "titulo": "Redes Mesh: Uma Alternativa Contra Censura em Regimes Autoritários?",
-    "resumo": "Redes mesh podem oferecer uma solução para contornar blocos de internet impostos por regimes autoritários. Essas redes descentralizadas permitem a comunicação entre dispositivos sem a necessidade de infraestrutura centralizada. A tecnologia pode ser uma ferramenta para ativistas manterem o contato em cenários de restrição política.",
-    "categoria": "ciencia",
-    "tags": [
-      "tecnologia",
-      "internet",
-      "redes mesh",
-      "política"
-    ],
-    "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
-    "paises": [],
-    "importancia": 3,
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
     "fontes": [
       {
-        "nome": "DW",
-        "url": "https://www.dw.com/en/could-mesh-networks-help-overcome-authoritarians-internet-blocks/a-78055915?maca=en-rss-en-all-1573-rdf"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/bragantino-enfrenta-o-coritiba-de-olho-no-g4-do-campeonato-brasileiro/"
       }
     ]
   },
   {
-    "id": "crime-foragido-sao-luis-ma",
-    "data": "2026-07-24",
-    "titulo": "Foragido com Três Mandados por Roubo é Preso em São Luís, MA",
-    "resumo": "Um homem de 26 anos, considerado foragido da justiça e com três mandados de prisão por roubo, foi capturado pela Polícia Militar em São Luís, Maranhão. A prisão ocorreu após uma tentativa de fuga durante uma abordagem policial. Ele era procurado por diversos crimes na região.",
+    "id": "trans-atacada-rosario",
+    "data": "2026-07-26",
+    "titulo": "Mulher trans relata dor e trauma após ser atacada com garrafa em Rosário, MA",
+    "resumo": "Uma mulher trans de 24 anos, moradora de Rosário, Maranhão, relatou sentir dores físicas e traumas psicológicos após ser atacada com uma garrafa quebrada. O crime ocorreu no último domingo, em Rosário, a cerca de 69 km da capital. A vítima descreveu o impacto do ataque em sua vida.",
     "categoria": "justica",
     "tags": [
-      "prisão",
-      "foragido",
-      "roubo",
-      "São Luís"
+      "ataque",
+      "transfobia",
+      "Maranhão"
     ],
-    "entidades": [
-      "Polícia Militar"
-    ],
+    "entidades": [],
     "pessoas": [
-      "Paulo Ricardo dos Santos Pereira"
+      "Guida Calvet"
     ],
     "estados": [
       "Maranhão"
     ],
     "cidades": [
-      "São Luís"
+      "Rosário"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 3,
+    "importancia": 2,
     "fontes": [
       {
-        "nome": "g1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/25/foragido-com-tres-mandados-de-prisao-por-roubo-e-preso-em-sao-luis.ghtml"
+        "nome": "G1",
+        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/26/mulher-trans-atacada-com-garrafa-quebrada-em-rosario-relata-dor-e-trauma.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "brasileirao-bahia-corinthians",
+    "data": "2026-07-26",
+    "titulo": "Bahia e Corinthians se enfrentam em confronto direto pelo Brasileirão",
+    "resumo": "Bahia e Corinthians se encontram em uma partida decisiva pelo Campeonato Brasileiro. O jogo é considerado um confronto direto, com ambas as equipes buscando se aproximar ou garantir uma vaga no G4. O resultado terá impacto significativo na classificação das equipes na competição.",
+    "categoria": "esportes",
+    "tags": [
+      "Brasileirão",
+      "futebol",
+      "Bahia",
+      "Corinthians"
+    ],
+    "entidades": [
+      "Bahia",
+      "Corinthians"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/bahia-e-corinthians-fazem-confronto-direto-pelo-campeonato-brasileiro/"
+      }
+    ]
+  },
+  {
+    "id": "concurso-uepb",
+    "data": "2026-07-26",
+    "titulo": "Prazo para inscrição em concurso da UEPB com salários de até R$ 3,7 mil termina neste domingo",
+    "resumo": "As inscrições para o concurso público da Universidade Estadual da Paraíba (UEPB) encerram-se neste domingo (26). O certame oferece vagas com salários que podem chegar a R$ 3,7 mil. Interessados devem ficar atentos ao prazo final para se candidatar às oportunidades.",
+    "categoria": "educacao",
+    "tags": [
+      "concurso",
+      "UEPB",
+      "Paraíba",
+      "oportunidade"
+    ],
+    "entidades": [
+      "UEPB"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Paraíba"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/26/inscricoes-para-concurso-da-uepb-com-salarios-de-ate-r-37-mil-terminam-neste-domingo-26.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "coco-de-roda-paraiba",
+    "data": "2026-07-26",
+    "titulo": "Tradição do Coco de Roda resiste em comunidades da Paraíba",
+    "resumo": "O Dia Nacional do Coco de Roda, da Ciranda e da Mazurca é celebrado neste domingo (26). Na Paraíba, a tradição do Coco de Roda, com raízes africanas e influências indígenas, continua viva em aldeias, quilombos e periferias. O ritmo é uma importante manifestação cultural do estado.",
+    "categoria": "cultura",
+    "tags": [
+      "Coco de Roda",
+      "Paraíba",
+      "tradição",
+      "cultura afro-brasileira"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Paraíba"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/26/coco-de-roda-entenda-tradicao-que-resiste-em-aldeias-quilombos-e-periferias-da-paraiba.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "avó-forro-sp",
+    "data": "2026-07-26",
+    "titulo": "Aos 100 anos, moradora do interior de SP inspira com amor por forró e vida independente",
+    "resumo": "Uma senhora de 100 anos, moradora do interior de São Paulo, se destaca por seu amor pelo forró e por viver de forma independente. Sua vitalidade e paixão pela música inspiram gerações. A história ressalta a importância da autonomia e da alegria na terceira idade.",
+    "categoria": "cultura",
+    "tags": [
+      "longevidade",
+      "forró",
+      "inspiração",
+      "idosos"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/07/26/aos-100-anos-avo-que-ama-forro-e-mora-sozinha-inspira-geracoes-no-interior-de-sp.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "zohran-mamdani-ny",
+    "data": "2026-07-26",
+    "titulo": "Prefeito de Nova Iorque, Zohran Mamdani, mantém seu traje característico em diversas situações",
+    "resumo": "O prefeito de Nova Iorque, Zohran Mamdani, tem chamado atenção por usar seu traje característico em diversas situações, incluindo atividades esportivas e eventos culturais. Suas escolhas de vestimenta geram questionamentos sobre o que elas podem revelar sobre sua identidade e estilo.",
+    "categoria": "politica",
+    "tags": [
+      "prefeito",
+      "Nova Iorque",
+      "estilo"
+    ],
+    "entidades": [
+      "Prefeitura de Nova Iorque"
+    ],
+    "pessoas": [
+      "Zohran Mamdani"
+    ],
+    "estados": [
+      "New York"
+    ],
+    "cidades": [
+      "New York"
+    ],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/jul/26/zohran-mamdani-suit-new-york-mayor"
       }
     ]
   }
