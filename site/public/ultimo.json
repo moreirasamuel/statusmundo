@@ -1,222 +1,158 @@
 [
   {
-    "id": "incendios-europa",
-    "data": "2026-07-26",
-    "titulo": "Incêndios na Europa levam a evacuações em massa na França e Espanha",
-    "resumo": "Incêndios florestais de grande escala na Europa causaram a evacuação de centenas de milhares de pessoas. Na França, mais de 300.000 pessoas foram deslocadas perto de Bordeaux, enquanto na Espanha, a situação também é crítica. As autoridades descrevem a batalha para conter as chamas como desafiadora.",
-    "categoria": "meio-ambiente",
+    "id": "2026-07-27-politica-internacional-brasil-eua",
+    "data": "2026-07-27",
+    "titulo": "Brasil nega vistos a funcionários americanos; TSE e STF defendem sistema eleitoral",
+    "resumo": "O Itamaraty negou vistos a dois funcionários do Departamento de Estado dos Estados Unidos, alegando que a visita poderia levantar suspeitas sobre o sistema eleitoral brasileiro. Em resposta, ministros do Supremo Tribunal Federal classificaram as declarações sobre as urnas eletrônicas como graves e absurdas. A Federação Brasil da Esperança também acionou o TSE contra Flávio Bolsonaro por uso de inteligência artificial em vídeo de campanha.",
+    "categoria": "politica",
     "tags": [
-      "incêndios",
-      "evacuações",
-      "clima"
+      "vistos",
+      "Itamaraty",
+      "TSE",
+      "STF",
+      "eleições",
+      "inteligência artificial"
     ],
-    "entidades": [
-      "França",
-      "Espanha"
-    ],
+    "entidades": [],
     "pessoas": [
-      "Pedro Sanchez"
+      "Flávio Bolsonaro",
+      "Marco Rubio"
     ],
     "estados": [],
-    "cidades": [
-      "Bordeaux"
-    ],
+    "cidades": [],
     "paises": [
-      "França",
-      "Espanha"
+      "Brasil",
+      "Estados Unidos"
     ],
     "importancia": 5,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations"
+        "nome": "G1",
+        "url": "https://g1.globo.com/mundo/noticia/2026/07/27/quem-sao-os-funcionarios-americanos-que-tiveram-visto-negado-pelo-itamaraty.ghtml"
       },
       {
-        "nome": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss"
+        "nome": "G1",
+        "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/27/ministros-defendem-resposta-dura-do-tse-a-ataques-as-urnas-e-a-missao-dos-eua-para-questionar-sistema-eleitoral-brasileiro.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/27/pt-tse-flavio-pl-video-bolsonaro-ia-convencao.ghtml"
       }
     ]
   },
   {
-    "id": "f1-malasia",
-    "data": "2026-07-26",
-    "titulo": "Malásia sediará o Grande Prêmio do Bahrein de F1 em outubro",
-    "resumo": "A Fórmula 1 anunciou que o Grande Prêmio do Bahrein, originalmente cancelado devido ao conflito no Oriente Médio, será realizado na Malásia em outubro. A corrida acontecerá no circuito de Sepang. Esta mudança ocorre após o cancelamento da etapa original.",
-    "categoria": "esportes",
-    "tags": [
-      "F1",
-      "automobilismo",
-      "corrida"
-    ],
-    "entidades": [
-      "Fórmula 1"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Sepang"
-    ],
-    "paises": [
-      "Malásia",
-      "Bahrein"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/f1-anuncia-gp-do-bahrein-na-malasia-em-retorno-de-sepang/"
-      },
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/2026/7/26/malaysia-to-host-rescheduled-bahrain-grand-prix-f1-race-in-october?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "protestos-ira-eua",
-    "data": "2026-07-26",
-    "titulo": "Ataques ao Irã geram protestos e advertências do exército iraniano",
-    "resumo": "O exército do Irã emitiu um aviso diante da visita de Netanyahu aos Estados Unidos, alertando que a guerra pode se expandir se os ataques americanos continuarem. Paralelamente, manifestantes anti-guerra protestaram em frente a uma base aérea do Reino Unido, exigindo o fim do uso por forças americanas para bombardear o Irã.",
-    "categoria": "internacional",
-    "tags": [
-      "Irã",
-      "Estados Unidos",
-      "guerra",
-      "protestos"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Netanyahu"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Irã",
-      "Estados Unidos",
-      "Reino Unido"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/irans-army-issues-warning-ahead-of-netanyahus-us-visit?traffic_source=rss"
-      },
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/anti-war-protesters-demand-end-to-us-use-of-uk-airbase-to-strike-iran?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "ataque-berlim-pride",
-    "data": "2026-07-26",
-    "titulo": "Ataque em evento de Orgulho LGBTQIAPN+ em Berlim gera caçada a suspeito",
-    "resumo": "Um suspeito atropelou uma multidão em um evento de Orgulho LGBTQIAPN+ na capital alemã no sábado à noite. Uma caçada policial está em andamento para encontrar o indivíduo responsável pelo ataque. As autoridades alemãs investigam o ocorrido.",
+    "id": "2026-07-27-seguranca-homicidios-feira-santana",
+    "data": "2026-07-27",
+    "titulo": "Três homicídios em bares de Feira de Santana são investigados",
+    "resumo": "Três homens foram mortos em bares de Feira de Santana, na Bahia, entre sexta-feira (24) e domingo (26). As vítimas foram assassinadas em bairros diferentes da cidade. A polícia está investigando os casos para identificar os responsáveis.",
     "categoria": "seguranca",
     "tags": [
-      "ataque",
-      "Berlim",
-      "Orgulho LGBTQIAPN+"
-    ],
-    "entidades": [
-      "Polícia"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Berlim"
-    ],
-    "paises": [
-      "Alemanha"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss"
-      }
-    ]
-  },
-  {
-    "id": "musica-apoi-viraliza",
-    "data": "2026-07-26",
-    "titulo": "Musical escrito por artista amapaense viraliza nas redes sociais",
-    "resumo": "Um musical criado por uma artista do Amapá alcançou mais de um milhão de visualizações nas redes sociais. Intitulado \"Por Isso Tudo Acabou Assim\", o espetáculo foi produzido sem patrocínio e financiado pelo próprio elenco. A obra expandiu seu alcance dos palcos para o ambiente digital.",
-    "categoria": "cultura",
-    "tags": [
-      "musical",
-      "viral",
-      "redes sociais",
-      "arte"
+      "homicídio",
+      "investigação",
+      "violência"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [
-      "Amapá"
+      "Bahia"
     ],
-    "cidades": [],
+    "cidades": [
+      "Feira de Santana"
+    ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 3,
+    "importancia": 4,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/ap/amapa/noticia/2026/07/26/musical-escrito-por-amapaense-viraliza-e-alcanca-mais-de-1-milhao-de-visualizacoes-nas-redes-sociais.ghtml"
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/27/homicidios-feira-de-santana.shtml"
       }
     ]
   },
   {
-    "id": "acao-social-macapa",
-    "data": "2026-07-26",
-    "titulo": "Ação social oferece alimentos e atendimentos de saúde para pessoas em situação de rua em Macapá",
-    "resumo": "Uma iniciativa em Macapá distribuiu cerca de 200 refeições e ofereceu atendimentos de saúde para pessoas em situação de rua. O programa incluiu consultas médicas, cuidados com a pele e distribuição de alimentos e remédios. As atividades ocorreram na Praça da Bandeira, no centro da cidade.",
-    "categoria": "saude",
+    "id": "2026-07-27-seguranca-morte-policial-macapa",
+    "data": "2026-07-27",
+    "titulo": "Adolescente suspeito de matar policial civil em Macapá morre em confronto",
+    "resumo": "Um adolescente de 17 anos, suspeito de participação direta no assassinato do policial civil Manoel Raimundo Leite dos Santos, morreu em confronto com a polícia em Macapá. O crime contra o policial civil teria sido cometido por adolescentes ligados à facção FTA.",
+    "categoria": "seguranca",
     "tags": [
-      "ação social",
-      "saúde",
-      "moradores de rua"
+      "homicídio",
+      "policial",
+      "confronto",
+      "investigação"
     ],
     "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Amapá"
+    "pessoas": [
+      "Manoel Raimundo Leite dos Santos"
     ],
+    "estados": [],
     "cidades": [
       "Macapá"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 3,
+    "importancia": 4,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/ap/amapa/noticia/2026/07/26/acao-distribui-alimentos-e-oferece-atendimentos-de-saude-a-pessoas-em-situacao-de-rua-em-macapa.ghtml"
+        "url": "https://g1.globo.com/ap/amapa/noticia/2026/07/27/crime-contra-policial-civil-em-macapa-foi-cometido-por-adolescentes-ligados-a-faccao-fta-segundo-investigacao.shtml"
       }
     ]
   },
   {
-    "id": "papa-halleluya",
-    "data": "2026-07-26",
-    "titulo": "Papa Leão XIV envia mensagem de vídeo ao Festival Halleluya 2026",
-    "resumo": "O Papa Leão XIV gravou um vídeo para os participantes do Festival Halleluya 2026, que foi exibido durante o evento. Em sua mensagem, o pontífice destacou a participação dos jovens na igreja e fez um alerta sobre o uso de redes sociais e inteligência artificial.",
-    "categoria": "cultura",
+    "id": "2026-07-27-politica-pequim-eua-peru",
+    "data": "2026-07-27",
+    "titulo": "Keiko Fujimori assume presidência do Peru em meio a disputa geopolítica entre China e EUA",
+    "resumo": "Keiko Fujimori tomou posse como a nova presidente do Peru, prometendo mais segurança e investimento. Em seu mandato, ela terá o desafio de equilibrar as relações do país sul-americano com China e Estados Unidos, em meio à rivalidade geopolítica entre as duas potências.",
+    "categoria": "politica",
     "tags": [
-      "Papa",
-      "Halleluya",
-      "jovens",
-      "redes sociais"
+      "presidência",
+      "geopolítica",
+      "relações internacionais",
+      "China",
+      "EUA"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Keiko Fujimori"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Peru",
+      "China",
+      "Estados Unidos"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "DW",
+        "url": "https://www.dw.com/en/fujimori-takes-charge-in-peru-amid-china-us-balancing-act/a-78110410?maca=en-rss-en-all-1573-rdf"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-27-saude-oms-fiocruz",
+    "data": "2026-07-27",
+    "titulo": "Diretor-geral da OMS, Tedros Adhanom, recebe título honoris causa da Fiocruz",
+    "resumo": "O diretor-geral da Organização Mundial da Saúde (OMS), Tedros Adhanom Ghebreyesus, recebeu o título de doutor honoris causa da Fundação Oswaldo Cruz (Fiocruz). O reconhecimento ocorreu durante o evento “Saúde Global em um Mundo em Transformação”, que debateu temas relevantes para a saúde mundial.",
+    "categoria": "saude",
+    "tags": [
+      "OMS",
+      "Fiocruz",
+      "saúde global",
+      "título honorífico"
     ],
     "entidades": [
-      "Igreja Católica"
+      "Organização Mundial da Saúde",
+      "Fundação Oswaldo Cruz"
     ],
     "pessoas": [
-      "Papa Leão XIV"
+      "Tedros Adhanom Ghebreyesus"
     ],
-    "estados": [
-      "Ceará"
-    ],
+    "estados": [],
     "cidades": [],
     "paises": [
       "Brasil"
@@ -225,63 +161,558 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/ce/ceara/noticia/2026/07/26/papa-leao-xiv-grava-video-para-publico-do-halleluya-2026-e-aconselha-jovens-sobre-uso-das-redes-sociais-e-inteligencia-artificial.ghtml"
+        "url": "https://g1.globo.com/saude/noticia/2026/07/27/tedros-adhanom-diretor-geral-da-oms-recebe-titulo-de-doutor-honoris-causa-da-fiocruz.shtml"
       }
     ]
   },
   {
-    "id": "homicidio-agua-branca",
-    "data": "2026-07-26",
-    "titulo": "Jovem é morto a tiros em bar no Piauí; suspeitos fogem",
-    "resumo": "Um jovem de 21 anos foi assassinado a tiros na noite de sábado em um bar na cidade de Água Branca, Piauí. De acordo com a Polícia Militar, três homens encapuzados invadiram o estabelecimento e efetuaram os disparos. O homem que acompanhava a vítima fugiu do local após o ataque.",
-    "categoria": "justica",
+    "id": "2026-07-27-seguranca-incendio-manacapuru",
+    "data": "2026-07-27",
+    "titulo": "Incêndio destrói duas casas e danifica outras duas em Manacapuru, AM",
+    "resumo": "Um incêndio destruiu duas casas de madeira e danificou outras duas na madrugada desta segunda-feira (27) em Manacapuru, no interior do Amazonas. O fogo atingiu quatro imóveis na Rua Coronel Mandeira, no bairro da Liberdade. Felizmente, ninguém ficou ferido.",
+    "categoria": "seguranca",
     "tags": [
-      "homicídio",
-      "Piauí",
-      "crime"
+      "incêndio",
+      "casas destruídas",
+      "danos materiais"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Amazonas"
+    ],
+    "cidades": [
+      "Manacapuru"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/27/incendio-destroi-duas-casas-e-atinge-outros-dois-imoveis-no-amazonas.shtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-27-economia-precos-petroleo",
+    "data": "2026-07-27",
+    "titulo": "Preços do petróleo caem com trégua entre EUA e Irã; AstraZeneca supera expectativas de lucro",
+    "resumo": "O preço do petróleo registrou queda após um anúncio de pausa nos confrontos entre Estados Unidos e Irã. Em outros destaques econômicos, a farmacêutica AstraZeneca superou as previsões de lucro impulsionada por tratamentos contra o câncer. O mercado financeiro do Reino Unido também anunciou uma campanha para coibir o uso de empresas de gestão de sinistros.",
+    "categoria": "economia",
+    "tags": [
+      "petróleo",
+      "preços",
+      "EUA",
+      "Irã",
+      "AstraZeneca",
+      "lucro"
     ],
     "entidades": [
-      "Polícia Militar"
+      "Financial Conduct Authority"
     ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos",
+      "Irã",
+      "Reino Unido"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/business/live/2026/jul/27/oil-falls-us-iran-pause-fire-astrazeneca-profit-latest-economy-news"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-27-seguranca-atropelamento-paraiba-sul",
+    "data": "2026-07-27",
+    "titulo": "Duas adolescentes são atropeladas por carro em Paraíba do Sul, RJ",
+    "resumo": "Duas adolescentes, de 15 e 16 anos, foram atropeladas por um carro no bairro Bela Vista, em Paraíba do Sul, Rio de Janeiro. O incidente ocorreu no domingo (26) e foi atendido por equipes do Serviço de Atendimento Móvel de Urgência (SAMU).",
+    "categoria": "seguranca",
+    "tags": [
+      "atropelamento",
+      "adolescentes",
+      "acidente de trânsito"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Paraíba do Sul"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/27/duas-adolescentes-sao-atropeladas-por-carro-em-paraiba-do-sul.shtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-27-justica-denuncia-esteticista-rj",
+    "data": "2026-07-27",
+    "titulo": "Mais de 20 pacientes denunciam esteticista por dores e sequelas após procedimentos no RJ",
+    "resumo": "Mais de 20 pacientes denunciam uma esteticista em São João de Meriti, na Baixada Fluminense, por supostas sequelas e dores após procedimentos estéticos. A Polícia Civil está em busca da proprietária da clínica, Ana Paula Lima de Souza Mariano, para dar continuidade às investigações.",
+    "categoria": "justica",
+    "tags": [
+      "denúncia",
+      "estética",
+      "sequelas",
+      "procedimentos",
+      "investigação"
+    ],
+    "entidades": [],
     "pessoas": [
-      "Marcos Daniel Gomes da Silva"
+      "Ana Paula Lima de Souza Mariano"
     ],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "São João de Meriti"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/27/pacientes-denunciam-esteticista-por-dores-e-sequelas-apos-procedimentos.shtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-27-seguranca-acidente-transito-alfenas",
+    "data": "2026-07-27",
+    "titulo": "Motorista fica gravemente ferido após capotar carro em estrada rural de Alfenas, MG",
+    "resumo": "Um homem de 56 anos ficou gravemente ferido após perder o controle de seu carro e capotar em uma estrada rural em Alfenas, Minas Gerais. Ele foi socorrido e resgatado de helicóptero. O acidente ocorreu na tarde de domingo (26).",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente de trânsito",
+      "capotamento",
+      "resgate",
+      "feridos"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Alfenas"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/07/27/ocorrencias-de-transito.shtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-27-seguranca-violencia-mirassol",
+    "data": "2026-07-27",
+    "titulo": "Homem é esfaqueado e tem perfurações no pulmão em Mirassol, SP",
+    "resumo": "Um homem sofreu perfurações no pulmão após ser esfaqueado no distrito de Ruilândia, em Mirassol, São Paulo. Dois suspeitos de cometer o crime foram detidos pela polícia. A faca utilizada na tentativa de homicídio foi apreendida.",
+    "categoria": "seguranca",
+    "tags": [
+      "esfaqueamento",
+      "tentativa de homicídio",
+      "prisão",
+      "apreensão de arma"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Mirassol"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/27/homem-tem-perfuracoes-no-pulmao-apos-ser-esfaqueado-em-mirassol.shtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-27-meio-ambiente-ciencia-amazonia",
+    "data": "2026-07-27",
+    "titulo": "Ciência explica como fruto da árvore assacu explode e lança sementes na Amazônia",
+    "resumo": "Cientistas explicam o fenômeno da explosão do fruto da árvore assacu, que lança suas sementes a dezenas de metros de distância na Floresta Amazônica. O som resultante assemelha-se ao de um pequeno rojão, e este mecanismo é crucial para a dispersão das sementes da espécie.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "ciência",
+      "botânica",
+      "Amazônia",
+      "dispersão de sementes",
+      "natureza"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/27/por-que-o-fruto-dessa-arvore-explode-ciencia-explica-como-o-assacu-lanca-sementes-a-dezenas-de-metros.shtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-27-seguranca-acidente-porto-itaqui",
+    "data": "2026-07-27",
+    "titulo": "Trabalhador fica gravemente ferido em acidente no Porto do Itaqui, em São Luís",
+    "resumo": "Um trabalhador sofreu ferimentos graves durante uma operação no Berço 102 do Porto do Itaqui, em São Luís, Maranhão. A Empresa Maranhense de Administração Portuária (EMAP) confirmou o acidente, ocorrido nesse domingo (26). O funcionário pertence a uma empresa terceirizada.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente de trabalho",
+      "porto",
+      "feridos graves",
+      "operações portuárias"
+    ],
+    "entidades": [
+      "EMAP"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Maranhão"
+    ],
+    "cidades": [
+      "São Luís"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/27/trabalhador-fica-ferido-durante-operacao-no-porto-do-itaqui-em-sao-luis.shtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-27-cultura-orquestra-teresopolis",
+    "data": "2026-07-27",
+    "titulo": "Projeto Coroados leva apresentação de orquestra e música a Teresópolis",
+    "resumo": "O 'Projeto Coroados - Vivaldi e Sons e Cores' realizou uma apresentação gratuita de orquestra na Praça da Matriz de Santa Teresa, em Teresópolis, Região Serrana do Rio. O evento reuniu moradores e visitantes com música e arte, e contou com a participação emocionante do maestro João Carlos Martins.",
+    "categoria": "cultura",
+    "tags": [
+      "música",
+      "orquestra",
+      "evento cultural",
+      "maestro"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "João Carlos Martins"
+    ],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Teresópolis"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/07/27/projeto-coroados-reune-publico-com-apresentacao-de-orquestra-em-teresopolis.shtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-27-seguranca-atropelamento-adolescentes-paraiba-sul",
+    "data": "2026-07-27",
+    "titulo": "Duas adolescentes são atropeladas por carro em Paraíba do Sul",
+    "resumo": "Duas adolescentes, de 15 e 16 anos, foram atropeladas por um carro no bairro Bela Vista, em Paraíba do Sul (RJ), no domingo (26). A Polícia Militar foi acionada e encontrou no local uma equipe do Serviço de Atendimento Móvel de Urgência (SAMU).",
+    "categoria": "seguranca",
+    "tags": [
+      "atropelamento",
+      "adolescentes",
+      "acidente de trânsito"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Paraíba do Sul"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/27/duas-adolescentes-sao-atropeladas-por-carro-em-paraiba-do-sul.shtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-27-seguranca-homicidio-potim",
+    "data": "2026-07-27",
+    "titulo": "Homem morre após ser baleado em Potim, SP",
+    "resumo": "Um homem de 41 anos morreu após ser baleado na madrugada deste domingo (26) em Potim, interior de São Paulo. O caso está sendo investigado pela Polícia Civil como homicídio.",
+    "categoria": "seguranca",
+    "tags": [
+      "homicídio",
+      "tiroteio",
+      "investigação"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Potim"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/27/homem-morre-apos-ser-baleado-em-potim-sp.shtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-27-seguranca-animal-crueldade-es",
+    "data": "2026-07-27",
+    "titulo": "Homem é preso por torturar e matar cadela comunitária no Sul do ES",
+    "resumo": "Um homem foi preso no Sul do Espírito Santo por torturar e matar uma cadela comunitária a golpes de facão e madeira. O animal, chamado Bianca, foi encontrado ferido em Dores do Rio Preto. A Polícia Militar efetuou a prisão.",
+    "categoria": "seguranca",
+    "tags": [
+      "crueldade animal",
+      "prisão",
+      "tortura",
+      "morte de animal"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Espírito Santo"
+    ],
+    "cidades": [
+      "Dores do Rio Preto"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/07/27/homem-e-preso-por-torturar-e-matar-cadela-comunitaria-a-golpes-de-facao-e-madeira-no-sul-do-es.shtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-27-educacao-concurso-epc",
+    "data": "2026-07-27",
+    "titulo": "Divulgado resultado preliminar de provas de concurso da Empresa Paraibana de Comunicação (EPC)",
+    "resumo": "O resultado preliminar das provas objetivas e de títulos do concurso da Empresa Paraibana de Comunicação (EPC) foi divulgado. A lista completa está disponível no site da banca organizadora do certame.",
+    "categoria": "educacao",
+    "tags": [
+      "concurso público",
+      "resultado",
+      "provas"
+    ],
+    "entidades": [
+      "Empresa Paraibana de Comunicação"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Paraíba"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/27/divulgado-resultado-preliminar-das-provas-do-concurso-da-epc.shtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-27-educacao-concurso-policia-penal-rn",
+    "data": "2026-07-27",
+    "titulo": "Inscrições para concurso da Polícia Penal no RN terminam hoje; são 260 vagas",
+    "resumo": "As inscrições para o concurso público da Secretaria de Estado da Administração Penitenciária do Rio Grande do Norte (Seap/RN) se encerram nesta segunda-feira (27). O certame oferece 260 vagas com salários que podem chegar a R$ 5,6 mil.",
+    "categoria": "educacao",
+    "tags": [
+      "concurso público",
+      "inscrições",
+      "Polícia Penal",
+      "vagas"
+    ],
+    "entidades": [
+      "Seap/RN"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Rio Grande do Norte"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/27/inscricoes-concurso-policia-penal-terminam-nesta-segunda.shtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-27-educacao-concurso-governador-valadares",
+    "data": "2026-07-27",
+    "titulo": "Inscrições para concurso da Câmara de Governador Valadares (MG) começam nesta segunda",
+    "resumo": "Começam nesta segunda-feira (27) as inscrições para o concurso público da Câmara Municipal de Governador Valadares, Minas Gerais. São oferecidas 10 vagas para níveis médio e superior, com salários de até R$ 5,1 mil.",
+    "categoria": "educacao",
+    "tags": [
+      "concurso público",
+      "inscrições",
+      "vagas",
+      "salários"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Governador Valadares"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/07/27/inscricoes-para-concurso-da-camara-de-governador-valadares-comecam-nesta-segunda-salarios-chegam-a-r-51-mil.shtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-27-seguranca-acidente-transito-piedade",
+    "data": "2026-07-27",
+    "titulo": "Caminhão com carga de verduras tomba e interdita rodovia em Piedade, SP",
+    "resumo": "Um caminhão carregado com duas toneladas de verduras tombou e interditou completamente um trecho da Rodovia Bunjiro Nakao (SP-250), em Piedade, São Paulo. O acidente ocorreu na manhã desta segunda-feira (27).",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente de trânsito",
+      "caminhão tombado",
+      "interdição de rodovia",
+      "carga"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Piedade"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/27/caminhao-tomba-e-interdita-completamente-trecho-de-rodovia-de-piedade.shtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-27-politica-trump-nomeacao-inteligencia",
+    "data": "2026-07-27",
+    "titulo": "Senado dos EUA inicia votação para confirmar Jay Clayton como nomeado para inteligência",
+    "resumo": "O Senado dos Estados Unidos iniciará nesta segunda-feira (27) a votação para confirmar Jay Clayton como o novo diretor de inteligência nacional do país. A expectativa é que a aprovação ocorra nos próximos dias, após uma audiência tensa. O presidente Donald Trump visitará a General Motors em Michigan.",
+    "categoria": "politica",
+    "tags": [
+      "Senado",
+      "nomeação",
+      "inteligência nacional",
+      "confirmação"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Jay Clayton",
+      "Donald Trump"
+    ],
+    "estados": [],
+    "cidades": [
+      "Detroit"
+    ],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/live/2026/jul/27/us-senate-spy-jay-clayton-donald-trump-iran-war-saudi-oman-hormuz-pentagon-seattle-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-27-saude-cachorro-cirurgia-piaui",
+    "data": "2026-07-27",
+    "titulo": "Cadela abandonada com lesão na coluna dá primeiros passos após cirurgia no PI",
+    "resumo": "Uma cadela abandonada, encontrada com lesão na coluna e sem conseguir andar, deu seus primeiros passos após passar por cirurgia no Piauí. O animal, batizado de Dandara, foi resgatado no bairro Angelim, em Teresina, e apresentava sinais de assustada e dificuldade de locomoção nas patas traseiras.",
+    "categoria": "saude",
+    "tags": [
+      "animais",
+      "cirurgia",
+      "recuperação",
+      "abandono"
+    ],
+    "entidades": [],
+    "pessoas": [],
     "estados": [
       "Piauí"
     ],
     "cidades": [
-      "Água Branca"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/26/jovem-morto-em-bar-de-agua-branca.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "indigenizacao-carnaval-rio",
-    "data": "2026-07-26",
-    "titulo": "Projeto social no Rio de Janeiro transforma fantasias de carnaval em figurinos de quadrilha junina",
-    "resumo": "Um projeto social na comunidade Antares, em Santa Cruz, Zona Oeste do Rio de Janeiro, está reaproveitando fantasias de carnaval para criar figurinos de quadrilha junina. A iniciativa busca dar um novo significado às tradições juninas com materiais reciclados. O projeto visa transformar vidas através da arte e da cultura.",
-    "categoria": "cultura",
-    "tags": [
-      "projeto social",
-      "Rio de Janeiro",
-      "carnaval",
-      "festas juninas"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Rio de Janeiro"
+      "Teresina"
     ],
     "paises": [
       "Brasil"
@@ -290,211 +721,21 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/rj/rio-de-janeiro/globo-comunidade-rj/noticia/2026/07/26/fantasias-de-carnaval-viram-figurinos-de-quadrilha-em-projeto-social-que-transforma-vidas-na-zona-oeste-do-rio.html"
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/27/video-cadela-da-primeiros-passos-apos-cirurgia-no-pi.shtml"
       }
     ]
   },
   {
-    "id": "indenizacao-cemig",
-    "data": "2026-07-26",
-    "titulo": "Morador de MG será indenizado pela Cemig após cobrança indevida de R$ 37 mil na conta de luz",
-    "resumo": "Um morador de Dores do Indaiá, em Minas Gerais, que teve R$ 37,4 mil debitados de sua conta bancária devido a uma cobrança incorreta na conta de luz, receberá indenização da Companhia Energética de Minas Gerais (Cemig). A decisão judicial determinou o ressarcimento após a falha na cobrança.",
-    "categoria": "justica",
-    "tags": [
-      "indenização",
-      "Cemig",
-      "conta de luz",
-      "cobrança indevida"
-    ],
-    "entidades": [
-      "Cemig"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Dores do Indaiá"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/07/26/consumidor-que-teve-r-37-mil-debitados-por-erro-na-conta-de-luz-deve-ser-indenizado-pela-cemig-em-mg.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "parada-lgbt-campo-grande",
-    "data": "2026-07-26",
-    "titulo": "Parada LGBTQIAPN+ em Campo Grande reúne público com show e atrações culturais",
-    "resumo": "A 23ª Parada LGBTQIAPN+ foi realizada em Campo Grande, Mato Grosso do Sul, reunindo participantes, coletivos e apoiadores da causa. O evento contou com a participação de artistas como Karol Conká e diversas atrações culturais. A parada celebrou a diversidade e a luta por direitos na capital sul-mato-grossense.",
-    "categoria": "cultura",
-    "tags": [
-      "Parada LGBTQIAPN+",
-      "Campo Grande",
-      "diversidade"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Karol Conká"
-    ],
-    "estados": [
-      "Mato Grosso do Sul"
-    ],
-    "cidades": [
-      "Campo Grande"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/26/parada-lgbtqiapn-reune-publico-com-show-de-karol-conka-e-atracoes-culturais-em-campo-grande.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "atropelamento-ribeirao-neves",
-    "data": "2026-07-26",
-    "titulo": "Motociclista foragido após atropelar criança em BH; família critica fuga",
-    "resumo": "Um menino de 6 anos foi atropelado enquanto jogava bola em Ribeirão das Neves, na Região Metropolitana de Belo Horizonte. O motociclista suspeito de causar o acidente fugiu do local e, segundo o padrasto da vítima, teria dito que estava sob efeito de drogas à esposa. A família critica a atitude do condutor.",
-    "categoria": "justica",
-    "tags": [
-      "atropelamento",
-      "fuga",
-      "Belo Horizonte"
-    ],
-    "entidades": [
-      "Polícia Militar"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Ribeirão das Neves",
-      "Belo Horizonte"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/26/falou-na-cara-da-minha-esposa-que-tava-doidao-diz-padrasto-de-menino-atropelado-sobre-motociclista-que-fugiu.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "acidente-foz-do-iguacu",
-    "data": "2026-07-26",
-    "titulo": "Acidente em Foz do Iguaçu mata duas jovens e polícia investiga homicídio culposo",
-    "resumo": "Duas jovens morreram após o carro em que estavam sair da pista em Foz do Iguaçu, no oeste do Paraná. O acidente, que ocorreu na noite de sexta-feira, levava dez pessoas no veículo. A Polícia Militar registrou o caso como homicídio culposo e investiga as circunstâncias da batida.",
-    "categoria": "justica",
+    "id": "2026-07-27-seguranca-acidente-transito-piedade",
+    "data": "2026-07-27",
+    "titulo": "Caminhão com carga de verduras tomba e interdita trecho de rodovia em Piedade",
+    "resumo": "Um caminhão carregado com duas toneladas de verduras tombou e interditou completamente um trecho da Rodovia Bunjiro Nakao (SP-250), em Piedade (SP). O acidente ocorreu na manhã desta segunda-feira (27).",
+    "categoria": "seguranca",
     "tags": [
       "acidente",
-      "morte",
-      "Foz do Iguaçu"
-    ],
-    "entidades": [
-      "Polícia Militar"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Paraná"
-    ],
-    "cidades": [
-      "Foz do Iguaçu"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/07/26/policia-crime-morte-de-jovens-carro-dez-pessoas-no-pr.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "brasileirao-gre-flu",
-    "data": "2026-07-26",
-    "titulo": "Grêmio e Fluminense se enfrentam em busca de recuperação no Brasileirão",
-    "resumo": "Grêmio e Fluminense duelam neste domingo pelo Campeonato Brasileiro em momentos distintos. Ambas as equipes buscam somar os primeiros três pontos após a paralisação para a Copa do Mundo. O jogo ocorre em um momento crucial para as ambições dos clubes na competição.",
-    "categoria": "esportes",
-    "tags": [
-      "Brasileirão",
-      "futebol",
-      "Grêmio",
-      "Fluminense"
-    ],
-    "entidades": [
-      "Grêmio",
-      "Fluminense"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/noticias/em-momentos-opostos-gremio-e-fluminense-duelam-pelo-brasileirao/"
-      }
-    ]
-  },
-  {
-    "id": "miss-universe-brasil",
-    "data": "2026-07-26",
-    "titulo": "Miss Universo Brasil 2026 é coroada com discurso sobre autenticidade feminina",
-    "resumo": "Marcella Kozinski, representante da Ilha do Mel, foi eleita Miss Universo Brasil 2026 na noite de sábado. Sua conquista foi marcada por um discurso sobre a força e a autenticidade feminina. O evento celebrou a beleza e a representatividade das mulheres brasileiras.",
-    "categoria": "cultura",
-    "tags": [
-      "Miss Universo Brasil",
-      "concurso de beleza",
-      "feminismo"
-    ],
-    "entidades": [
-      "Miss Universo"
-    ],
-    "pessoas": [
-      "Marcella Kozinski"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/lifestyle/miss-universe-brasil-2026-e-eleita-com-discurso-sobre-forca-feminina/"
-      }
-    ]
-  },
-  {
-    "id": "cursos-guaruja",
-    "data": "2026-07-26",
-    "titulo": "Guarujá abre mais de 3 mil vagas em cursos gratuitos de qualificação e cultura",
-    "resumo": "A Prefeitura de Guarujá, no litoral de São Paulo, ofereceu 3.161 vagas gratuitas em cursos profissionalizantes, culturais e esportivos. As inscrições para as vagas foram abertas entre segunda-feira (27) e quinta-feira (30). A iniciativa visa oferecer oportunidades de desenvolvimento para os moradores.",
-    "categoria": "educacao",
-    "tags": [
-      "cursos",
-      "Guarujá",
-      "qualificação",
-      "cultura"
+      "caminhão",
+      "rodovia",
+      "interdição"
     ],
     "entidades": [],
     "pessoas": [],
@@ -502,7 +743,7 @@
       "São Paulo"
     ],
     "cidades": [
-      "Guarujá"
+      "Piedade"
     ],
     "paises": [
       "Brasil"
@@ -511,121 +752,31 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/26/guaruja-abre-mais-de-31-mil-vagas-em-cursos-de-qualificacao-culturais-e-esportivos-confira.ghtml"
+        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/27/caminhao-tomba-e-interdita-completamente-trecho-de-rodovia-de-piedade.shtml"
       }
     ]
   },
   {
-    "id": "brasileirao-fla- sao-paulo",
-    "data": "2026-07-26",
-    "titulo": "Flamengo e São Paulo se enfrentam no Brasileirão com objetivos distintos",
-    "resumo": "Flamengo e São Paulo duelam pelo Campeonato Brasileiro com propósitos diferentes. O Flamengo busca a liderança da competição, enquanto o São Paulo tenta se afastar da zona de rebaixamento. O confronto direto pode influenciar a parte de cima e a parte de baixo da tabela.",
-    "categoria": "esportes",
+    "id": "2026-07-27-seguranca-morte-menino-tacaimbo",
+    "data": "2026-07-27",
+    "titulo": "Menino de 9 anos morre após choque elétrico em Tacaimbó, PE",
+    "resumo": "Um menino de 9 anos, identificado como José Pedro Batista Silva, morreu após sofrer um choque elétrico causado por um fio de bomba d'água em sua residência em Tacaimbó, Agreste de Pernambuco. O acidente ocorreu no domingo (26).",
+    "categoria": "seguranca",
     "tags": [
-      "Brasileirão",
-      "futebol",
-      "Flamengo",
-      "São Paulo"
-    ],
-    "entidades": [
-      "Flamengo",
-      "São Paulo"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-e-sao-paulo-duelam-com-objetivos-diferentes-no-brasileirao/"
-      }
-    ]
-  },
-  {
-    "id": "cesio-137-goias",
-    "data": "2026-07-26",
-    "titulo": "Morre irmão de Leide das Neves, vítima do Césio-137 em Goiás",
-    "resumo": "Lucimar das Neves Ferreira, irmão de Leide das Neves, vítima do acidente com o Césio-137 em Goiás, faleceu no estado. A informação foi confirmada pela família. Leide das Neves foi uma das vítimas mais conhecidas do trágico evento ocorrido em 1987.",
-    "categoria": "saude",
-    "tags": [
-      "Césio-137",
-      "Goiás",
-      "vítimas"
+      "acidente fatal",
+      "choque elétrico",
+      "criança",
+      "morte"
     ],
     "entidades": [],
     "pessoas": [
-      "Leide das Neves",
-      "Lucimar das Neves Ferreira"
+      "José Pedro Batista Silva"
     ],
     "estados": [
-      "Goiás"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/go/goias/noticia/2026/07/26/morre-irmao-de-leide-das-neves-vitima-do-cesio-137-em-goias.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "brasileirao-bragantino-coritiba",
-    "data": "2026-07-26",
-    "titulo": "Bragantino enfrenta o Coritiba de olho no G4 do Brasileirão",
-    "resumo": "O Bragantino recebe o Coritiba em partida válida pelo Campeonato Brasileiro com o objetivo de se aproximar do G4. A equipe paulista busca uma vitória para melhorar sua posição na tabela. Já o Coritiba, tenta encerrar uma sequência de derrotas e se afastar da parte inferior da classificação.",
-    "categoria": "esportes",
-    "tags": [
-      "Brasileirão",
-      "futebol",
-      "Bragantino",
-      "Coritiba"
-    ],
-    "entidades": [
-      "Red Bull Bragantino",
-      "Coritiba"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/bragantino-enfrenta-o-coritiba-de-olho-no-g4-do-campeonato-brasileiro/"
-      }
-    ]
-  },
-  {
-    "id": "trans-atacada-rosario",
-    "data": "2026-07-26",
-    "titulo": "Mulher trans relata dor e trauma após ser atacada com garrafa em Rosário, MA",
-    "resumo": "Uma mulher trans de 24 anos, moradora de Rosário, Maranhão, relatou sentir dores físicas e traumas psicológicos após ser atacada com uma garrafa quebrada. O crime ocorreu no último domingo, em Rosário, a cerca de 69 km da capital. A vítima descreveu o impacto do ataque em sua vida.",
-    "categoria": "justica",
-    "tags": [
-      "ataque",
-      "transfobia",
-      "Maranhão"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Guida Calvet"
-    ],
-    "estados": [
-      "Maranhão"
+      "Pernambuco"
     ],
     "cidades": [
-      "Rosário"
+      "Tacaimbó"
     ],
     "paises": [
       "Brasil"
@@ -634,25 +785,57 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/26/mulher-trans-atacada-com-garrafa-quebrada-em-rosario-relata-dor-e-trauma.ghtml"
+        "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/07/27/menino-de-9-anos-morre-apos-sofrer-choque-eletrico-em-fio-de-bomba-dagua-em-tacaimbo.shtml"
       }
     ]
   },
   {
-    "id": "brasileirao-bahia-corinthians",
-    "data": "2026-07-26",
-    "titulo": "Bahia e Corinthians se enfrentam em confronto direto pelo Brasileirão",
-    "resumo": "Bahia e Corinthians se encontram em uma partida decisiva pelo Campeonato Brasileiro. O jogo é considerado um confronto direto, com ambas as equipes buscando se aproximar ou garantir uma vaga no G4. O resultado terá impacto significativo na classificação das equipes na competição.",
+    "id": "2026-07-27-seguranca-transito-protesto-acre",
+    "data": "2026-07-27",
+    "titulo": "Moradores fecham rodovia no Acre e protestam por conclusão de posto de saúde",
+    "resumo": "Moradores do loteamento Mulateiro, em Rio Branco, Acre, interditaram a Rodovia AC-10 na manhã desta segunda-feira (27) para protestar pela conclusão de um posto de saúde. O ato causou congestionamento de veículos na região.",
+    "categoria": "seguranca",
+    "tags": [
+      "protesto",
+      "rodovia",
+      "saúde",
+      "demandas sociais",
+      "congestionamento"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Acre"
+    ],
+    "cidades": [
+      "Rio Branco"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ac/acre/noticia/2026/07/27/moradores-fecham-rodovia-e-protestam-por-conclusao-de-posto-de-saude-no-acre.shtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-27-esportes-automobilismo-chevrolet",
+    "data": "2026-07-27",
+    "titulo": "Nova Chevrolet S10 Trail Boss é lançada com foco em fora de estrada",
+    "resumo": "A Chevrolet apresentou a nova S10 Trail Boss, uma versão da picape com suspensão reforçada e pneus projetados para uso off-road. O veículo é voltado para quem busca maior capacidade em terrenos irregulares. O preço de lançamento é de R$ 341.290.",
     "categoria": "esportes",
     "tags": [
-      "Brasileirão",
-      "futebol",
-      "Bahia",
-      "Corinthians"
+      "automobilismo",
+      "picape",
+      "fora de estrada",
+      "lançamento",
+      "veículo"
     ],
     "entidades": [
-      "Bahia",
-      "Corinthians"
+      "Chevrolet"
     ],
     "pessoas": [],
     "estados": [],
@@ -660,32 +843,29 @@
     "paises": [
       "Brasil"
     ],
-    "importancia": 2,
+    "importancia": 1,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/bahia-e-corinthians-fazem-confronto-direto-pelo-campeonato-brasileiro/"
+        "nome": "G1",
+        "url": "https://g1.globo.com/carros/noticia/2026/07/27/nova-chevrolet-s10-trail-boss.shtml"
       }
     ]
   },
   {
-    "id": "concurso-uepb",
-    "data": "2026-07-26",
-    "titulo": "Prazo para inscrição em concurso da UEPB com salários de até R$ 3,7 mil termina neste domingo",
-    "resumo": "As inscrições para o concurso público da Universidade Estadual da Paraíba (UEPB) encerram-se neste domingo (26). O certame oferece vagas com salários que podem chegar a R$ 3,7 mil. Interessados devem ficar atentos ao prazo final para se candidatar às oportunidades.",
-    "categoria": "educacao",
+    "id": "2026-07-27-noticias-gerais-rio-de-janeiro",
+    "data": "2026-07-27",
+    "titulo": "Bom Dia Rio exibe notícias de segunda-feira, 27 de julho de 2026",
+    "resumo": "O telejornal Bom Dia Rio apresentou as notícias do dia para a região do Rio de Janeiro na manhã desta segunda-feira, 27 de julho de 2026. Os espectadores puderam acompanhar os principais destaques e reportagens.",
+    "categoria": "internacional",
     "tags": [
-      "concurso",
-      "UEPB",
-      "Paraíba",
-      "oportunidade"
+      "telejornal",
+      "notícias locais",
+      "Rio de Janeiro"
     ],
-    "entidades": [
-      "UEPB"
-    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [
-      "Paraíba"
+      "Rio de Janeiro"
     ],
     "cidades": [],
     "paises": [
@@ -695,91 +875,30 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/26/inscricoes-para-concurso-da-uepb-com-salarios-de-ate-r-37-mil-terminam-neste-domingo-26.ghtml"
+        "url": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/playlist/videos-bom-dia-rio-de-segunda-27-de-julho-de-2026.shtml"
       }
     ]
   },
   {
-    "id": "coco-de-roda-paraiba",
-    "data": "2026-07-26",
-    "titulo": "Tradição do Coco de Roda resiste em comunidades da Paraíba",
-    "resumo": "O Dia Nacional do Coco de Roda, da Ciranda e da Mazurca é celebrado neste domingo (26). Na Paraíba, a tradição do Coco de Roda, com raízes africanas e influências indígenas, continua viva em aldeias, quilombos e periferias. O ritmo é uma importante manifestação cultural do estado.",
-    "categoria": "cultura",
+    "id": "2026-07-27-outros-montana-hiking-acidente",
+    "data": "2026-07-27",
+    "titulo": "Homem caminha 10 milhas para a segurança após cair e ser perfurado por bastão de caminhada em Montana",
+    "resumo": "Um homem em Montana, Estados Unidos, conseguiu caminhar 10 milhas para buscar ajuda após cair e ser perfurado no torso por um bastão de caminhada. O incidente ocorreu durante uma expedição de trilha na montanha mais alta do estado. Ele caminhou por horas ao longo da rota que havia subido.",
+    "categoria": "seguranca",
     "tags": [
-      "Coco de Roda",
-      "Paraíba",
-      "tradição",
-      "cultura afro-brasileira"
+      "acidente",
+      "caminhada",
+      "resgate",
+      "Montana"
     ],
     "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Paraíba"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/26/coco-de-roda-entenda-tradicao-que-resiste-em-aldeias-quilombos-e-periferias-da-paraiba.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "avó-forro-sp",
-    "data": "2026-07-26",
-    "titulo": "Aos 100 anos, moradora do interior de SP inspira com amor por forró e vida independente",
-    "resumo": "Uma senhora de 100 anos, moradora do interior de São Paulo, se destaca por seu amor pelo forró e por viver de forma independente. Sua vitalidade e paixão pela música inspiram gerações. A história ressalta a importância da autonomia e da alegria na terceira idade.",
-    "categoria": "cultura",
-    "tags": [
-      "longevidade",
-      "forró",
-      "inspiração",
-      "idosos"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/07/26/aos-100-anos-avo-que-ama-forro-e-mora-sozinha-inspira-geracoes-no-interior-de-sp.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "zohran-mamdani-ny",
-    "data": "2026-07-26",
-    "titulo": "Prefeito de Nova Iorque, Zohran Mamdani, mantém seu traje característico em diversas situações",
-    "resumo": "O prefeito de Nova Iorque, Zohran Mamdani, tem chamado atenção por usar seu traje característico em diversas situações, incluindo atividades esportivas e eventos culturais. Suas escolhas de vestimenta geram questionamentos sobre o que elas podem revelar sobre sua identidade e estilo.",
-    "categoria": "politica",
-    "tags": [
-      "prefeito",
-      "Nova Iorque",
-      "estilo"
-    ],
-    "entidades": [
-      "Prefeitura de Nova Iorque"
-    ],
     "pessoas": [
-      "Zohran Mamdani"
+      "David Cifaldi"
     ],
     "estados": [
-      "New York"
+      "Montana"
     ],
-    "cidades": [
-      "New York"
-    ],
+    "cidades": [],
     "paises": [
       "Estados Unidos"
     ],
@@ -787,7 +906,39 @@
     "fontes": [
       {
         "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/2026/jul/26/zohran-mamdani-suit-new-york-mayor"
+        "url": "https://www.theguardian.com/us-news/2026/jul/27/montana-man-hikes-10-miles-fall-trekking-pole"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-27-politica-uk-imigracao-cuidadores",
+    "data": "2026-07-27",
+    "titulo": "Líder político britânico sugere isenção para cuidadores estrangeiros em plano de imigração",
+    "resumo": "Andy Burnham, um líder político do Reino Unido, defendeu que cuidadores estrangeiros sejam \"bem-vindos\" e sugeriu que eles poderiam ser isentos de um plano do Home Office. O plano visa estender o tempo de espera para que trabalhadores estrangeiros solicitem permissão de permanência.",
+    "categoria": "politica",
+    "tags": [
+      "imigração",
+      "cuidadores",
+      "política social",
+      "Reino Unido",
+      "plano de governo"
+    ],
+    "entidades": [
+      "Home Office"
+    ],
+    "pessoas": [
+      "Andy Burnham"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/27/andy-burnham-social-care-politics-live-latest-news-defence-nhs-reform-uk-tories-updates"
       }
     ]
   }
