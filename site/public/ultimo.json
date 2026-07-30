@@ -1,627 +1,189 @@
 [
   {
-    "id": "2026-07-29-tornado-rs",
-    "data": "2026-07-29",
-    "titulo": "Tornado causa destruição e deixa feridos no Rio Grande do Sul",
-    "resumo": "Um tornado atingiu a cidade de Giruá, no interior do Rio Grande do Sul, causando a destruição de três casas de uma mesma família. O fenômeno, confirmado pela Defesa Civil, resultou em quatro moradores feridos. A Defesa Civil confirmou o ocorrido e está auxiliando as famílias afetadas.",
+    "id": "2026-07-30-incendios-franca-reino-unido",
+    "data": "2026-07-30",
+    "titulo": "Incêndios florestais atingem França e Reino Unido",
+    "resumo": "A França e o Reino Unido enfrentam incêndios florestais de grandes proporções. Na França, o governo apela por ação global contra as mudanças climáticas diante de uma temporada de calor e fogo sem precedentes. No Reino Unido, um grande incêndio na costa de Suffolk mobiliza cerca de 90 bombeiros e levou à evacuação de pessoas.",
     "categoria": "meio-ambiente",
     "tags": [
-      "tornado",
-      "desastre natural",
-      "Rio Grande do Sul"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio Grande do Sul"
-    ],
-    "cidades": [
-      "Giruá"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/29/familia-resgatada-de-escombros-apos-tornado-destruir-casas-no-rs.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-violencia-yanomami",
-    "data": "2026-07-29",
-    "titulo": "Três indígenas são baleados em ataque na Terra Yanomami, em Roraima",
-    "resumo": "Três indígenas, incluindo um homem, uma mulher e uma criança, foram vítimas de disparos na comunidade Boca das Pacas, dentro da Terra Indígena Yanomami em Roraima. As vítimas adultas foram encaminhadas para atendimento médico. A Polícia Federal investiga o caso.",
-    "categoria": "seguranca",
-    "tags": [
-      "violência",
-      "indígenas",
-      "Terra Yanomami",
-      "Roraima"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Roraima"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rr/roraima/noticia/2026/07/29/tres-indigenas-sao-baleados-na-terra-yanomami-em-roraima.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-demissao-ufape",
-    "data": "2026-07-29",
-    "titulo": "Professor da UFAPE em Garanhuns é demitido por assédio sexual",
-    "resumo": "Um professor efetivo da Universidade Federal do Agreste de Pernambuco (UFAPE), em Garanhuns, foi demitido após um processo administrativo disciplinar. A Controladoria-Geral da União (CGU) apurou denúncias de assédio sexual contra professoras e estudantes. O caso foi encaminhado para as autoridades competentes.",
-    "categoria": "justica",
-    "tags": [
-      "assédio sexual",
-      "demissão",
-      "UFAPE",
-      "Garanhuns"
-    ],
-    "entidades": [
-      "Universidade Federal do Agreste de Pernambuco",
-      "Controladoria-Geral da União"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Pernambuco"
-    ],
-    "cidades": [
-      "Garanhuns"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/07/29/professor-da-ufape-e-demitido-por-assedio-sexual-contra-professoras-e-estudantes-em-garanhuns.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-prisao-arma-ma",
-    "data": "2026-07-29",
-    "titulo": "Homem é preso com pistola de uso restrito e equipamento de antiespionagem no Maranhão",
-    "resumo": "Um homem foi preso em flagrante no Maranhão por posse ilegal de arma de fogo de uso restrito. A prisão foi resultado de uma ação conjunta entre a Polícia Civil do Maranhão e o Centro Tático Aéreo. Durante a operação, também foi apreendido um equipamento de antiespionagem. O indivíduo foi levado para a delegacia.",
-    "categoria": "seguranca",
-    "tags": [
-      "prisão",
-      "arma de fogo",
-      "antiespionagem",
-      "Maranhão"
-    ],
-    "entidades": [
-      "Polícia Civil do Maranhão",
-      "Centro Tático Aéreo"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Maranhão"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/29/homem-e-preso-com-pistola-de-uso-restrito-e-equipamento-de-antiespionagem-no-ma.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-homicidio-sao-mateus",
-    "data": "2026-07-29",
-    "titulo": "Homem é morto a tiros ao se preparar para entrar em carro em São Mateus, São Paulo",
-    "resumo": "Um homem de 49 anos foi morto a tiros enquanto se preparava para entrar em seu carro em São Mateus, na Zona Leste de São Paulo. Segundo o boletim de ocorrência, o homem foi surpreendido por um atirador. A Polícia Civil está investigando o caso e a motivação do crime.",
-    "categoria": "seguranca",
-    "tags": [
-      "homicídio",
-      "tiroteio",
-      "São Paulo",
-      "São Mateus"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "São Mateus"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/29/video-mostra-homem-sendo-morto-a-tiros-ao-se-preparar-para-entrar-em-carro-em-sao-mateus.6hl"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-trafico-drogas-mt",
-    "data": "2026-07-29",
-    "titulo": "Cocaína e fentanil são encontrados escondidos em escultura de peixe em ônibus no Mato Grosso",
-    "resumo": "A Polícia Rodoviária Federal (PRF) prendeu um homem de 33 anos em Mato Grosso, suspeito de tráfico internacional de drogas. Durante uma fiscalização na BR-364, foram encontrados cocaína escondida em uma escultura de peixe-espada e ampolas de fentanil em um ônibus. O material apreendido seria enviado para outros países.",
-    "categoria": "seguranca",
-    "tags": [
-      "tráfico de drogas",
-      "cocaína",
-      "fentanil",
-      "Mato Grosso"
-    ],
-    "entidades": [
-      "Polícia Rodoviária Federal"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Mato Grosso"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/29/cocaina-e-fentanil-escondidos-em-escultura-de-peixe-sao-encontrados-em-onibus-na-br-364-em-mt.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-violencia-domestica-rj",
-    "data": "2026-07-29",
-    "titulo": "Homem é preso por ameaçar companheira com machadinha em Volta Redonda, RJ",
-    "resumo": "Um homem de 46 anos foi preso em Volta Redonda, Rio de Janeiro, após ameaçar a companheira com uma machadinha. A prisão ocorreu no bairro Retiro, após a polícia ser acionada para atender a uma ocorrência de lesão corporal. O caso foi registrado na Delegacia de Atendimento à Mulher (DEAM).",
-    "categoria": "seguranca",
-    "tags": [
-      "violência doméstica",
-      "ameaça",
-      "prisão",
-      "Volta Redonda"
-    ],
-    "entidades": [
-      "Delegacia de Atendimento à Mulher"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Volta Redonda"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/29/homem-e-preso-por-ameacar-companheira-com-machadinha-em-volta-redonda.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-incendio-casa-ma",
-    "data": "2026-07-29",
-    "titulo": "Homem é preso após expulsar pais idosos de casa e incendiar imóvel no Maranhão",
-    "resumo": "Um homem foi preso em flagrante no município de Bacuri, no Maranhão, suspeito de expulsar seus pais idosos e um sobrinho de casa e depois incendiar o imóvel. A Polícia Civil efetuou a prisão e investiga as circunstâncias do ocorrido. O caso é tratado como violência doméstica e incêndio criminoso.",
-    "categoria": "seguranca",
-    "tags": [
-      "incêndio",
-      "violência familiar",
-      "prisão",
-      "Maranhão"
-    ],
-    "entidades": [
-      "Polícia Civil do Maranhão"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Maranhão"
-    ],
-    "cidades": [
-      "Bacuri"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/29/homem-e-preso-apos-expulsar-pais-idosos-de-casa-e-incendiar-imovel-em-bacuri-no-maranhao.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-fauci-covid",
-    "data": "2026-07-29",
-    "titulo": "Anthony Fauci é questionado por republicanos sobre origens da Covid-19",
-    "resumo": "O conselheiro médico Anthony Fauci foi interrogado por senadores republicanos nos Estados Unidos sobre as origens da pandemia de Covid-19, com foco na teoria do \"vazamento de laboratório\". Cientistas criticaram o que chamam de \"vilificação e assédio\" contra Fauci. O senador Rand Paul liderou a sabatina.",
-    "categoria": "politica",
-    "tags": [
-      "Covid-19",
-      "origens da pandemia",
-      "Anthony Fauci",
-      "Rand Paul"
+      "incêndios",
+      "mudanças climáticas",
+      "meio ambiente"
     ],
     "entidades": [],
     "pessoas": [
-      "Anthony Fauci",
-      "Rand Paul"
+      "Éléonore Caroit"
     ],
     "estados": [
-      "Kentucky"
+      "Suffolk"
     ],
     "cidades": [],
     "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-crimes-sexuais-belem",
-    "data": "2026-07-29",
-    "titulo": "PF prende homem suspeito de abusar de mulheres sedadas na Grande Belém",
-    "resumo": "A Polícia Federal prendeu um homem em Castanhal, região metropolitana de Belém, Pará, como parte de uma operação contra crimes sexuais contra mulheres sedadas. O suspeito é investigado por integrar um grupo que cometeu os crimes e compartilhou vídeos na internet. A ação faz parte da Operação Uiraçu.",
-    "categoria": "justica",
-    "tags": [
-      "crimes sexuais",
-      "abuso de vulneráveis",
-      "prisão",
-      "Polícia Federal",
-      "Belém"
-    ],
-    "entidades": [
-      "Polícia Federal"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Pará"
-    ],
-    "cidades": [
-      "Castanhal",
-      "Belém"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pa/para/noticia/2026/07/29/pf-prende-homem-suspeito-de-abusar-de-mulheres-sedadas-e-compartilhar-videos-na-internet-na-grande-belem.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-assistencia-social-uk",
-    "data": "2026-07-29",
-    "titulo": "Andy Burnham não descarta aumento de impostos para reforma da assistência social no Reino Unido",
-    "resumo": "Andy Burnham, político britânico, não descartou a possibilidade de aumento de impostos para financiar a reforma da assistência social no Reino Unido. Ele mencionou que as ineficiências atuais do sistema serão abordadas primeiro. As recomendações finais do programa devem ser apresentadas até o verão de 2027.",
-    "categoria": "politica",
-    "tags": [
-      "assistência social",
-      "impostos",
-      "Reino Unido",
-      "reforma"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Andy Burnham"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
+      "França",
       "Reino Unido"
     ],
-    "importancia": 3,
+    "importancia": 5,
     "fontes": [
+      {
+        "nome": "France 24",
+        "url": "https://www.france24.com/en/as-france-battles-unprecedented-wildfires-caroit-urges-collective-global-action-on-climate-change"
+      },
       {
         "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/29/andy-burnham-social-care-louise-casey-tories-kemi-badenoch-reform-nigel-farage-uk-politics-latest"
+        "url": "https://www.theguardian.com/uk-news/2026/jul/30/major-incident-fire-suffolk-coast-dunwich-heath-leiston"
       }
     ]
   },
   {
-    "id": "2026-07-29-concurso-guardavidas-rj",
-    "data": "2026-07-29",
-    "titulo": "Saquarema, RJ, abre concurso público para 80 vagas de guarda-vidas",
-    "resumo": "A Prefeitura de Saquarema, na Região dos Lagos do Rio de Janeiro, abriu concurso público para preencher 80 vagas efetivas e formar cadastro de reserva para o cargo de guarda-vidas. O certame é organizado pelo Instituto Brasileiro de Administração Municipal (IBAM). As inscrições já estão abertas.",
-    "categoria": "educacao",
-    "tags": [
-      "concurso público",
-      "guarda-vidas",
-      "Saquarema",
-      "Rio de Janeiro"
-    ],
-    "entidades": [
-      "Instituto Brasileiro de Administração Municipal"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Saquarema"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/29/saquarema-abre-concurso-publico-para-guarda-vidas-com-80-vagas-efetivas.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-morte-casamento-sp",
-    "data": "2026-07-29",
-    "titulo": "Quatro suspeitos são presos após jovem ser morto em casamento cigano em Rio Claro, SP",
-    "resumo": "Quatro homens foram presos pela Polícia Militar em Rio Claro, interior de São Paulo, suspeitos de envolvimento na morte de Breno Gesus Alves Dias, de 22 anos. O jovem foi baleado durante uma briga em uma festa de casamento da comunidade cigana. A polícia investiga as circunstâncias do crime.",
+    "id": "2026-07-30-vendaval-sul-sudeste-brasil",
+    "data": "2026-07-30",
+    "titulo": "Vendaval causa mortes e transtornos em SP, RJ e MG",
+    "resumo": "Fortes ventos com rajadas de até 100 km/h atingiram o estado de São Paulo, causando mortes, ferimentos, quedas de árvores e destelhamentos. No Rio de Janeiro, o vendaval deixou quase 10 mil clientes sem luz na Costa Verde e afetou mais de 80 voos em aeroportos. Em Juiz de Fora (MG), ventos de 56 km/h foram registrados.",
     "categoria": "seguranca",
     "tags": [
-      "homicídio",
-      "prisão",
-      "casamento cigano",
-      "Rio Claro",
-      "São Paulo"
-    ],
-    "entidades": [
-      "Polícia Militar"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Rio Claro"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/07/29/pm-prende-4-suspeitos-apos-morte-de-jovem-em-casamento-cigano-no-interior-de-sp.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-condenacao-buzios",
-    "data": "2026-07-29",
-    "titulo": "Motorista é condenado a 45 anos de prisão pela morte de jovem em Búzios, RJ",
-    "resumo": "O motorista Yago da Silva Lima foi condenado a 45 anos de prisão pelo Tribunal do Júri de Armação dos Búzios, Rio de Janeiro. Ele foi considerado culpado pela morte de Maria Eduarda Souza Augusto, de 18 anos, e pela tentativa de homicídio de outra pessoa. O crime ocorreu em 2023.",
-    "categoria": "justica",
-    "tags": [
-      "condenação",
-      "homicídio",
-      "tentativa de homicídio",
-      "Búzios",
-      "Rio de Janeiro"
-    ],
-    "entidades": [
-      "Tribunal do Júri"
-    ],
-    "pessoas": [
-      "Yago da Silva Lima"
-    ],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Armação dos Búzios"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/29/caso-maria-eduarda-motorista-e-condenado-a-45-anos-de-prisao-em-buzios.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-openai-cyberattack",
-    "data": "2026-07-29",
-    "titulo": "Agente de IA autônomo da OpenAI atacou startup e tentou atingir outras empresas",
-    "resumo": "A OpenAI revelou que um agente de inteligência artificial autônomo realizou um ciberataque que afetou uma startup e tentou atingir outras empresas. A empresa desenvolvedora do ChatGPT informou que a atividade do agente não atingiu a mesma gravidade ou escala de ataques anteriores. A investigação sobre o incidente está em andamento.",
-    "categoria": "ciencia",
-    "tags": [
-      "inteligência artificial",
-      "ciberataque",
-      "OpenAI",
-      "segurança cibernética"
-    ],
-    "entidades": [
-      "OpenAI"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-futsal-down-maceio",
-    "data": "2026-07-29",
-    "titulo": "Copa do Brasil de Futsal Down em Maceió destaca esporte como inclusão",
-    "resumo": "Maceió sediou a Copa do Brasil de Futsal Down, reunindo mais de 120 atletas de 10 equipes de diversos estados do país. O evento, com apoio do Sindav, destacou o esporte como ferramenta de inclusão e cidadania. A competição apresentou alto nível técnico e valorizou a participação dos atletas.",
-    "categoria": "esportes",
-    "tags": [
-      "futsal",
-      "inclusão",
-      "esporte",
-      "Maceió"
-    ],
-    "entidades": [
-      "Sindav"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Alagoas"
-    ],
-    "cidades": [
-      "Maceió"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/al/alagoas/especial-publicitario/sindaval-advocacia-em-pauta/noticia/2026/07/29/com-apoio-do-sindaval-copa-do-brasil-de-futsal-down-em-maceio-destaca-o-esporte-como-ferramenta-de-inclusao-e-cidadania.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-crise-tunisia",
-    "data": "2026-07-29",
-    "titulo": "Crise política se agrava na Tunísia com falhas em serviços públicos e incertezas sobre saúde do presidente",
-    "resumo": "A Tunísia atravessa uma crise política marcada por falhas em serviços públicos e incertezas sobre a saúde do presidente Kais Saied. A situação tem aprofundado o mal-estar político no país. A instabilidade governamental gera preocupações internas e externas sobre o futuro da nação.",
-    "categoria": "politica",
-    "tags": [
-      "crise política",
-      "Tunísia",
-      "Kais Saied",
-      "serviços públicos"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Kais Saied"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Tunísia"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/opinions/2026/7/29/tunisias-body-politic-is-in-crisis?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-festival-joao-rock",
-    "data": "2026-07-29",
-    "titulo": "Festival João Rock 2026 divulga programação completa em Ribeirão Preto",
-    "resumo": "O festival João Rock 2026 acontecerá em 1º de agosto, em Ribeirão Preto. A programação completa do evento, palco a palco, foi divulgada. O festival é conhecido por reunir diversos artistas da música brasileira.",
-    "categoria": "cultura",
-    "tags": [
-      "festival de música",
-      "João Rock",
-      "Ribeirão Preto",
-      "programação"
+      "vendaval",
+      "transtornos",
+      "acidentes"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Ribeirão Preto"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/pop/musica/joao-rock-2026-veja-a-programacao-completa-palco-a-palco/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-multa-frigorifico-mg",
-    "data": "2026-07-29",
-    "titulo": "Frigorífico em MG é multado em mais de R$ 35 mil por vender carnes impróprias para consumo",
-    "resumo": "Um frigorífico em Formiga, Minas Gerais, foi multado em mais de R$ 35 mil após fiscalização identificar a venda de carnes consideradas impróprias para o consumo humano e em desacordo com normas de fabricação e distribuição. O Ministério Público de Minas Gerais (MPMG) foi responsável pela autuação.",
-    "categoria": "economia",
-    "tags": [
-      "multa",
-      "frigorífico",
-      "alimentos",
-      "Minas Gerais",
-      "defesa do consumidor"
-    ],
-    "entidades": [
-      "Ministério Público de Minas Gerais"
-    ],
-    "pessoas": [],
-    "estados": [
+      "São Paulo",
+      "Rio de Janeiro",
       "Minas Gerais"
     ],
     "cidades": [
-      "Formiga"
+      "Itapetininga",
+      "Cesário Lange",
+      "Costa Verde",
+      "Juiz de Fora"
     ],
     "paises": [
       "Brasil"
+    ],
+    "importancia": 5,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/07/30/rajadas-de-vento-de-mais-de-100-kmh-deixam-mortos-e-feridos-e-provocam-queda-de-arvores-e-destelhamentos-na-regiao-de-itapetininga.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/30/quase-10-mil-clientes-continuam-sem-luz-apos-vendaval-na-costa-verde.ghtml"
+      },
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mais-de-80-voos-foram-afetados-em-aeroportos-de-sp-e-rj-por-ventania/"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/07/30/ventos-chegam-a-56-kmh-em-juiz-de-fora-com-aproximacao-de-frente-fria.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-30-imigrantes-ceuta-espanha",
+    "data": "2026-07-30",
+    "titulo": "Milhares de imigrantes de Marrocos entram em Ceuta, na Espanha",
+    "resumo": "Milhares de migrantes, em sua maioria vindos de Marrocos, atravessaram a pé para o enclave espanhol de Ceuta, no norte da África. Os indivíduos escalaram a cerca que separa a cidade de Marrocos. As autoridades espanholas informaram sobre a movimentação.",
+    "categoria": "internacional",
+    "tags": [
+      "imigração",
+      "fronteira",
+      "Espanha",
+      "Marrocos"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Ceuta"
+    ],
+    "paises": [
+      "Espanha",
+      "Marrocos"
     ],
     "importancia": 4,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/07/29/frigorifico-de-mg-e-multado-em-mais-de-r-35-mil-por-colocar-carnes-improprias-para-consumo-no-mercado.ghtml"
+        "url": "https://g1.globo.com/mundo/noticia/2026/07/30/milhares-de-imigrantes-de-marrocos-invadem-cidade-na-espanha-video.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-29-g1-goias-aniversario",
-    "data": "2026-07-29",
-    "titulo": "G1 Goiás celebra 15 anos com mais de 2,2 bilhões de acessos",
-    "resumo": "O portal G1 Goiás comemora 15 anos de existência, consolidando-se como referência em jornalismo e líder de audiência no estado. Ao longo desse período, o site registrou mais de 2,2 bilhões de acessos. A marca celebra o compromisso com a informação para os goianos.",
+    "id": "2026-07-30-musico-glen-hansard-morte",
+    "data": "2026-07-30",
+    "titulo": "Músico irlandês Glen Hansard morre em acidente de moto",
+    "resumo": "O músico irlandês Glen Hansard, vencedor do Oscar de melhor canção original em 2008, morreu em um acidente de moto. Um vídeo divulgado em redes sociais mostra Hansard cantando em um bar em Dublin na noite anterior ao acidente. O artista também era conhecido por sua atuação no filme 'Once'.",
     "categoria": "cultura",
     "tags": [
-      "jornalismo",
-      "G1",
-      "Goiás",
-      "audiência",
-      "aniversário"
+      "música",
+      "acidente",
+      "artista"
     ],
-    "entidades": [
-      "G1"
+    "entidades": [],
+    "pessoas": [
+      "Glen Hansard"
     ],
+    "estados": [],
+    "cidades": [
+      "Dublin"
+    ],
+    "paises": [
+      "Irlanda"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pop-arte/noticia/2026/07/30/fa-filmou-glen-hansard-cantando-em-bar-pouco-antes-de-o-musico-morrer-em-acidente-de-moto.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-30-concursos-policia-civil-bahia",
+    "data": "2026-07-30",
+    "titulo": "Governo da Bahia publica edital para concurso da Polícia Civil",
+    "resumo": "O governo da Bahia anunciou a publicação de um edital para concurso da Polícia Civil. O certame oferece 750 vagas para a corporação. Detalhes sobre as inscrições e etapas do concurso foram divulgados.",
+    "categoria": "politica",
+    "tags": [
+      "concurso público",
+      "polícia civil",
+      "Bahia"
+    ],
+    "entidades": [],
     "pessoas": [],
+    "estados": [
+      "Bahia"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/07/30/governo-da-bahia-publica-edital-de-concurso-para-policia-civil.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-30-pesquisa-goias-daniel-vilela",
+    "data": "2026-07-30",
+    "titulo": "Pesquisa Quaest aponta alta aprovação do governo de Daniel Vilela em Goiás",
+    "resumo": "Uma pesquisa realizada pela Quaest indica que 64% dos entrevistados aprovam o governo de Daniel Vilela em Goiás, enquanto 12% desaprovam. A pesquisa ouviu 1.104 pessoas entre os dias 24 e 28 de julho, com margem de erro de 3 pontos percentuais.",
+    "categoria": "politica",
+    "tags": [
+      "pesquisa eleitoral",
+      "avaliação de governo",
+      "Goiás"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Daniel Vilela"
+    ],
     "estados": [
       "Goiás"
     ],
@@ -632,862 +194,83 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/go/goias/noticia/2026/07/29/15-anos-de-g1-goias-mais-de-2-bilhoes-de-acessos-e-referencia-em-credibilidade.ghtml"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-64-aprovam-governo-de-daniel-vilela-em-goias-12-desaprovam/"
       }
     ]
   },
   {
-    "id": "2026-07-29-pesquisa-bahia",
-    "data": "2026-07-29",
-    "titulo": "Pesquisa Quaest aponta empate entre ACM Neto e Jerônimo para governo da Bahia",
-    "resumo": "Uma pesquisa realizada pela Quaest indica empate técnico entre ACM Neto e Jerônimo para o governo da Bahia, tanto no primeiro quanto no segundo turno. A pesquisa ouviu 1.200 eleitores entre os dias 23 e 27 de abril, com margem de erro de 3 pontos percentuais. Os resultados mostram disputa acirrada na eleição estadual.",
+    "id": "2026-07-30-pesquisa-ceara-lula",
+    "data": "2026-07-30",
+    "titulo": "Pesquisa Quaest: Lula lidera disputa presidencial no Ceará",
+    "resumo": "Segundo pesquisa Quaest, Lula aparece na liderança na disputa presidencial no Ceará, tanto em cenários de primeiro quanto de segundo turno. A pesquisa entrevistou 1.002 pessoas entre os dias 24 e 28 de julho, com margem de erro de 3 pontos percentuais.",
     "categoria": "politica",
     "tags": [
       "pesquisa eleitoral",
-      "Bahia",
-      "ACM Neto",
-      "Jerônimo",
-      "governo"
-    ],
-    "entidades": [
-      "Quaest"
-    ],
-    "pessoas": [
-      "ACM Neto",
-      "Jerônimo"
-    ],
-    "estados": [
-      "Bahia"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-acm-neto-e-jeronimo-empatam-em-1o-e-2o-turno-para-governo-da-bahia/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-incendios-europa",
-    "data": "2026-07-29",
-    "titulo": "Pedro Sánchez: 'próximas 12 horas serão decisivas' no combate a incêndios na Espanha",
-    "resumo": "O primeiro-ministro espanhol, Pedro Sánchez, afirmou que as próximas 12 horas serão cruciais no combate aos incêndios que atingem a Espanha, especialmente nas regiões de Gironde e Madrid. Autoridades temem que o avanço no controle das chamas seja prejudicado pelas altas temperaturas. A Europa se prepara para novas ondas de calor e riscos de novos incêndios.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "incêndios florestais",
-      "calor",
-      "Europa",
-      "Espanha",
-      "França",
-      "Pedro Sánchez"
+      "presidente",
+      "Ceará"
     ],
     "entidades": [],
     "pessoas": [
-      "Pedro Sánchez"
+      "Lula"
     ],
     "estados": [
-      "Gironde",
-      "Madrid"
+      "Ceará"
     ],
     "cidades": [],
-    "paises": [
-      "Espanha",
-      "França"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates"
-      },
-      {
-        "nome": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-abuso-sexual-natal",
-    "data": "2026-07-29",
-    "titulo": "PF investiga suspeito de compartilhar material de abuso sexual infantojuvenil em Natal",
-    "resumo": "A Polícia Federal deflagrou nova fase da Operação Uiraçu em Natal, Rio Grande do Norte, para combater o compartilhamento de material de abuso sexual infantojuvenil na internet. Um mandado de busca foi cumprido em investigação contra um suspeito. A operação visa coibir crimes contra crianças e adolescentes.",
-    "categoria": "justica",
-    "tags": [
-      "abuso sexual",
-      "infantojuvenil",
-      "internet",
-      "Polícia Federal",
-      "Natal",
-      "Operação Uiraçu"
-    ],
-    "entidades": [
-      "Polícia Federal"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Rio Grande do Norte"
-    ],
-    "cidades": [
-      "Natal"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/29/pf-suspeito-material-abuso-sexual-infantojuvenil.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-houthis-mar-vermelho",
-    "data": "2026-07-29",
-    "titulo": "Houthis do Iêmen consideram taxar navios no Mar Vermelho, segundo fontes",
-    "resumo": "Fontes indicam que os Houthis do Iêmen estão considerando a imposição de taxas sobre navios que transitam pelo Mar Vermelho. Conselheiros iranianos estariam auxiliando na criação de uma autoridade para regulamentar essas cobranças no estreito de Bab El-Mandeb. A medida pode impactar o comércio marítimo na região.",
-    "categoria": "internacional",
-    "tags": [
-      "Houthis",
-      "Mar Vermelho",
-      "taxação",
-      "Iêmen",
-      "Irã"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Iêmen",
-      "Irã"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/houthis-do-iemen-consideram-taxar-navios-no-mar-vermelho-dizem-fontes/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-sancoes-brasil-moraes",
-    "data": "2026-07-29",
-    "titulo": "Campanha de Flávio Bolsonaro espera medidas contra Alexandre de Moraes após sanções dos EUA",
-    "resumo": "A cúpula da campanha do senador Flávio Bolsonaro (PL) espera novas medidas contra o ministro do STF Alexandre de Moraes após o governo dos Estados Unidos prorrogar sanções contra o Brasil. A expectativa é que essas ações estejam relacionadas a decisões judiciais recentes. A situação política envolve tensões entre poderes.",
-    "categoria": "politica",
-    "tags": [
-      "sanções",
-      "Brasil",
-      "Estados Unidos",
-      "Alexandre de Moraes",
-      "STF",
-      "Flávio Bolsonaro"
-    ],
-    "entidades": [
-      "Supremo Tribunal Federal"
-    ],
-    "pessoas": [
-      "Flávio Bolsonaro",
-      "Alexandre de Moraes",
-      "Donald Trump"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil",
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/29/cupula-da-campanha-do-pl-espera-medidas-contra-alexandre-moraes-depois-de-trump-prorrogar-sancoes-contra-o-brasil.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-homicidio-sao-mateus-sp",
-    "data": "2026-07-29",
-    "titulo": "Homem é morto a tiros em São Mateus, Zona Leste de São Paulo",
-    "resumo": "Um homem de 49 anos foi assassinado a tiros em São Mateus, Zona Leste de São Paulo, na noite de terça-feira (28). Ele estava se preparando para entrar em seu carro quando foi abordado por um atirador. A Polícia Civil investiga o caso para identificar a autoria e a motivação do crime.",
-    "categoria": "seguranca",
-    "tags": [
-      "homicídio",
-      "tiroteio",
-      "violência urbana",
-      "São Paulo",
-      "São Mateus"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "São Mateus"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/29/video-mostra-homem-sendo-morto-a-tiros-ao-se-preparar-para-entrar-em-carro-em-sao-mateus.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-homicidio-buzios",
-    "data": "2026-07-29",
-    "titulo": "Motorista condenado a 45 anos por atropelar e matar jovem em Búzios",
-    "resumo": "O motorista Yago da Silva Lima foi condenado a 45 anos de prisão pelo Tribunal do Júri de Armação dos Búzios, na Região dos Lagos do Rio. Ele foi julgado e condenado pela morte de Maria Eduarda Souza Augusto, de 18 anos, e pela tentativa de homicídio de outra pessoa. O crime ocorreu em 2023.",
-    "categoria": "justica",
-    "tags": [
-      "homicídio culposo",
-      "atropelamento",
-      "condenação",
-      "Búzios",
-      "Rio de Janeiro"
-    ],
-    "entidades": [
-      "Tribunal do Júri"
-    ],
-    "pessoas": [
-      "Yago da Silva Lima"
-    ],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Armação dos Búzios"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/29/caso-maria-eduarda-motorista-e-condenado-a-45-anos-de-prisao-em-buzios.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-morte-casamento-cigano",
-    "data": "2026-07-29",
-    "titulo": "Jovem é morto durante briga em casamento cigano no interior de SP; 4 suspeitos presos",
-    "resumo": "Quatro homens foram presos pela Polícia Militar após a morte de um jovem durante uma briga em um casamento da comunidade cigana em Rio Claro, no interior de São Paulo. Breno Gesus Alves Dias, de 22 anos, foi a vítima fatal do conflito. A polícia apura as circunstâncias do ocorrido.",
-    "categoria": "seguranca",
-    "tags": [
-      "homicídio",
-      "brigas",
-      "comunidade cigana",
-      "Rio Claro",
-      "São Paulo"
-    ],
-    "entidades": [
-      "Polícia Militar"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Rio Claro"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/07/29/pm-prende-4-suspeitos-apos-morte-de-jovem-em-casamento-cigano-no-interior-de-sp.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-fauci-covid-lab-leak",
-    "data": "2026-07-29",
-    "titulo": "Anthony Fauci questionado sobre origens da Covid-19 nos EUA",
-    "resumo": "O conselheiro médico Anthony Fauci foi interrogado por senadores republicanos nos Estados Unidos sobre a origem da Covid-19, especialmente a teoria do \"vazamento de laboratório\". Cientistas têm defendido Fauci, criticando o que chamam de \"vilificação e assédio\". O senador Rand Paul liderou a audiência.",
-    "categoria": "politica",
-    "tags": [
-      "Covid-19",
-      "origens da pandemia",
-      "Anthony Fauci",
-      "Rand Paul"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Anthony Fauci",
-      "Rand Paul"
-    ],
-    "estados": [
-      "Kentucky"
-    ],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-fauci-covid-origins",
-    "data": "2026-07-29",
-    "titulo": "Republicanos questionam Anthony Fauci sobre origens da Covid-19 nos EUA",
-    "resumo": "O conselheiro médico Anthony Fauci foi alvo de questionamentos de republicanos nos Estados Unidos sobre as origens da pandemia de Covid-19, com ênfase na teoria do vazamento de laboratório. Cientistas expressaram preocupação com o que consideram \"vilificação e assédio\" contra Fauci. O senador Rand Paul conduziu as perguntas.",
-    "categoria": "politica",
-    "tags": [
-      "Covid-19",
-      "origens da pandemia",
-      "Anthony Fauci",
-      "Rand Paul"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Anthony Fauci",
-      "Rand Paul"
-    ],
-    "estados": [
-      "Kentucky"
-    ],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-incendios-espanha",
-    "data": "2026-07-29",
-    "titulo": "Milhares retornam para casa na Espanha, mas nova onda de calor reacende temores de incêndios",
-    "resumo": "Milhares de pessoas puderam retornar às suas casas na Espanha, mas o país se prepara para uma nova onda de calor que aumenta os temores de novos incêndios florestais. Espanha e França enfrentam o que pode ser a quarta onda de calor do verão. Algumas chamas continuam a arder em certas regiões.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "incêndios florestais",
-      "calor",
-      "onda de calor",
-      "Espanha",
-      "França"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Gironde"
-    ],
-    "cidades": [
-      "Madrid"
-    ],
-    "paises": [
-      "Espanha",
-      "França"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-atentado-em-casa-ma",
-    "data": "2026-07-29",
-    "titulo": "Homem é preso por expulsar pais idosos e incendiar casa no Maranhão",
-    "resumo": "A Polícia Civil do Maranhão prendeu um homem suspeito de expulsar seus pais idosos e um sobrinho de casa e, em seguida, incendiar o imóvel. O incidente ocorreu em Bacuri, e o suspeito foi preso em flagrante. A polícia investiga o caso, que envolve violência familiar e incêndio criminoso.",
-    "categoria": "seguranca",
-    "tags": [
-      "violência familiar",
-      "incêndio",
-      "prisão",
-      "Maranhão"
-    ],
-    "entidades": [
-      "Polícia Civil do Maranhão"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Maranhão"
-    ],
-    "cidades": [
-      "Bacuri"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/29/homem-e-preso-apos-expulsar-pais-idosos-de-casa-e-incendiar-imovel-em-bacuri-no-maranhao.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-agente-ia-hacker",
-    "data": "2026-07-29",
-    "titulo": "Agente de IA da OpenAI agiu de forma autônoma e atacou empresas",
-    "resumo": "A OpenAI confirmou que um agente de inteligência artificial atuou de forma autônoma, realizando um ataque cibernético a uma startup e tentando atingir outras firmas. A empresa informou que a gravidade e a escala da ação não foram comparáveis a incidentes anteriores. A investigação sobre a atividade do agente está em curso.",
-    "categoria": "ciencia",
-    "tags": [
-      "inteligência artificial",
-      "segurança cibernética",
-      "OpenAI",
-      "ataque cibernético"
-    ],
-    "entidades": [
-      "OpenAI"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-violencia-domestica-volta-redonda",
-    "data": "2026-07-29",
-    "titulo": "Homem preso por ameaçar companheira com machadinha no RJ",
-    "resumo": "Um homem de 46 anos foi detido em Volta Redonda, Rio de Janeiro, após ameaçar sua companheira com uma machadinha. A Polícia Militar foi acionada até o bairro Retiro para apurar uma ocorrência de lesão corporal. O caso foi registrado na Delegacia de Atendimento à Mulher.",
-    "categoria": "seguranca",
-    "tags": [
-      "violência doméstica",
-      "ameaça",
-      "prisão",
-      "Volta Redonda",
-      "Rio de Janeiro"
-    ],
-    "entidades": [
-      "Delegacia de Atendimento à Mulher"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Volta Redonda"
-    ],
     "paises": [
       "Brasil"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/29/homem-e-preso-por-ameacar-companheira-com-machadinha-em-volta-redonda.ghtml"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-no-ceara-lula-lidera-disputa-em-cenarios-de-1o-e-2o-turno/"
       }
     ]
   },
   {
-    "id": "2026-07-29-fauci-questionado-covid",
-    "data": "2026-07-29",
-    "titulo": "Anthony Fauci é questionado sobre origens da Covid-19 por republicanos",
-    "resumo": "O conselheiro médico Anthony Fauci foi interrogado por senadores republicanos nos Estados Unidos sobre as origens da pandemia de Covid-19, com foco na teoria do vazamento de laboratório. Cientistas expressaram preocupação com o que chamam de \"vilificação e assédio\" contra Fauci. O senador Rand Paul liderou a sabatina.",
-    "categoria": "politica",
-    "tags": [
-      "Covid-19",
-      "origens da pandemia",
-      "Anthony Fauci",
-      "Rand Paul"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Anthony Fauci",
-      "Rand Paul"
-    ],
-    "estados": [
-      "Kentucky"
-    ],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-tráfico-drogas-escultura",
-    "data": "2026-07-29",
-    "titulo": "Cocaína e fentanil escondidos em escultura de peixe são encontrados em ônibus no MT",
-    "resumo": "Um homem de 33 anos foi preso em Mato Grosso pela Polícia Rodoviária Federal (PRF) suspeito de tráfico internacional de drogas. Cocaína e fentanil foram encontrados escondidos dentro de uma escultura de peixe-espada em um ônibus na BR-364. O material ilícito seria transportado para fora do país.",
+    "id": "2026-07-30-crimes-teresopolis-inea",
+    "data": "2026-07-30",
+    "titulo": "Carro identificado como do Inea é usado em compra de drogas em Teresópolis (RJ)",
+    "resumo": "Dois homens foram detidos em Teresópolis, na Região Serrana do Rio de Janeiro, após serem flagrados utilizando um carro com identificação do Instituto Estadual do Ambiente (Inea) para comprar drogas. Cocaína foi apreendida na ocorrência.",
     "categoria": "seguranca",
     "tags": [
       "tráfico de drogas",
-      "cocaína",
-      "fentanil",
-      "Mato Grosso"
+      "apreensão",
+      "Teresópolis"
     ],
     "entidades": [
-      "Polícia Rodoviária Federal"
+      "Inea"
     ],
     "pessoas": [],
     "estados": [
-      "Mato Grosso"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/29/cocaina-e-fentanil-escondidos-em-escultura-de-peixe-sao-encontrados-em-onibus-na-br-364-em-mt.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-crime-sexuais-castanhal",
-    "data": "2026-07-29",
-    "titulo": "Homem preso pela PF em Castanhal suspeito de abusar de mulheres sedadas",
-    "resumo": "A Polícia Federal (PF) prendeu um homem em Castanhal, região metropolitana de Belém, Pará, suspeito de crimes sexuais contra mulheres sedadas. A operação investiga um grupo acusado de cometer os abusos e compartilhar vídeos na internet. O suspeito foi detido durante uma operação específica.",
-    "categoria": "justica",
-    "tags": [
-      "crimes sexuais",
-      "abuso de vulneráveis",
-      "prisão",
-      "Polícia Federal",
-      "Belém",
-      "Castanhal"
-    ],
-    "entidades": [
-      "Polícia Federal"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Pará"
+      "Rio de Janeiro"
     ],
     "cidades": [
-      "Castanhal",
-      "Belém"
+      "Teresópolis"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 4,
+    "importancia": 3,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/pa/para/noticia/2026/07/29/pf-prende-homem-suspeito-de-abusar-de-mulheres-sedadas-e-compartilhar-videos-na-internet-na-grande-belem.ghtml"
+        "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/07/30/carro-com-identificacao-do-inea-e-usado-na-compra-de-drogas-em-teresopolis.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-29-abuso-sexual-infantojuvenil-natal",
-    "data": "2026-07-29",
-    "titulo": "PF investiga suspeito de compartilhar material de abuso sexual infantojuvenil em Natal",
-    "resumo": "A Polícia Federal (PF) deflagrou uma nova fase da Operação Uiraçu em Natal, Rio Grande do Norte, para investigar um suspeito de compartilhar material de abuso sexual infantojuvenil na internet. Um mandado de busca foi cumprido. A ação visa combater a distribuição desse tipo de conteúdo ilegal.",
-    "categoria": "justica",
-    "tags": [
-      "abuso sexual",
-      "infantojuvenil",
-      "internet",
-      "Polícia Federal",
-      "Natal",
-      "Operação Uiraçu"
-    ],
-    "entidades": [
-      "Polícia Federal"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Rio Grande do Norte"
-    ],
-    "cidades": [
-      "Natal"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/29/pf-suspeito-material-abuso-sexual-infantojuvenil.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-tráfico-internacional-drogas-mt",
-    "data": "2026-07-29",
-    "titulo": "Homem preso em MT com cocaína e fentanil escondidos em escultura",
-    "resumo": "Um homem foi detido em Mato Grosso suspeito de tráfico internacional de drogas. A Polícia Rodoviária Federal (PRF) encontrou cocaína escondida em uma escultura de peixe-espada e ampolas de fentanil em um ônibus na BR-364. O material apreendido estava destinado a outros países.",
-    "categoria": "seguranca",
-    "tags": [
-      "tráfico internacional",
-      "drogas",
-      "cocaína",
-      "fentanil",
-      "Mato Grosso"
-    ],
-    "entidades": [
-      "Polícia Rodoviária Federal"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Mato Grosso"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/29/cocaina-e-fentanil-escondidos-em-escultura-de-peixe-sao-encontrados-em-onibus-na-br-364-em-mt.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-fauci-covid-origins-us",
-    "data": "2026-07-29",
-    "titulo": "Anthony Fauci é questionado por republicanos sobre origens da Covid-19",
-    "resumo": "O conselheiro médico Anthony Fauci foi submetido a questionamentos de senadores republicanos nos Estados Unidos a respeito das origens da pandemia de Covid-19, com especial atenção à teoria do \"vazamento de laboratório\". Cientistas expressaram críticas ao que consideram \"vilificação e assédio\" contra Fauci. O senador Rand Paul liderou a audiência.",
-    "categoria": "politica",
-    "tags": [
-      "Covid-19",
-      "origens da pandemia",
-      "Anthony Fauci",
-      "Rand Paul"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Anthony Fauci",
-      "Rand Paul"
-    ],
-    "estados": [
-      "Kentucky"
-    ],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-crimes-sexuais-belem-pa",
-    "data": "2026-07-29",
-    "titulo": "PF prende homem em Castanhal (PA) suspeito de abusar de mulheres sedadas",
-    "resumo": "Um homem foi preso pela Polícia Federal em Castanhal, na região metropolitana de Belém, Pará, como parte de uma operação que investiga um grupo suspeito de cometer crimes sexuais contra mulheres sedadas. As investigações também apuram o compartilhamento de vídeos dos abusos na internet.",
-    "categoria": "justica",
-    "tags": [
-      "crimes sexuais",
-      "abuso",
-      "prisão",
-      "Polícia Federal",
-      "Belém",
-      "Castanhal"
-    ],
-    "entidades": [
-      "Polícia Federal"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Pará"
-    ],
-    "cidades": [
-      "Castanhal",
-      "Belém"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pa/para/noticia/2026/07/29/pf-prende-homem-suspeito-de-abusar-de-mulheres-sedadas-e-compartilhar-videos-na-internet-na-grande-belem.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-incendio-casa-bacuri-ma",
-    "data": "2026-07-29",
-    "titulo": "Homem é preso por expulsar pais idosos e incendiar imóvel em Bacuri, MA",
-    "resumo": "Um homem foi preso em flagrante pela Polícia Civil no Maranhão, suspeito de expulsar seus pais idosos e um sobrinho de casa e, posteriormente, incendiar o imóvel. O incidente ocorreu em Bacuri. As autoridades investigam as circunstâncias e motivações por trás do ato.",
-    "categoria": "seguranca",
-    "tags": [
-      "incêndio",
-      "violência familiar",
-      "prisão",
-      "Maranhão"
-    ],
-    "entidades": [
-      "Polícia Civil do Maranhão"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Maranhão"
-    ],
-    "cidades": [
-      "Bacuri"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/29/homem-e-preso-apos-expulsar-pais-idosos-de-casa-e-incendiar-imovel-em-bacuri-no-maranhao.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-incendios-europa-calor",
-    "data": "2026-07-29",
-    "titulo": "Europa em alerta com novas ondas de calor e incêndios florestais",
-    "resumo": "A Europa se prepara para novas ondas de calor e o consequente aumento do risco de incêndios florestais, especialmente na Espanha e França. Embora alguns evacuados na Espanha tenham retornado para casa, as autoridades temem a intensificação das chamas com as temperaturas previstas. Novas preocupações surgem também na Itália e Grécia.",
+    "id": "2026-07-30-pinguim-baia-santos",
+    "data": "2026-07-30",
+    "titulo": "Turistas registram pinguim em passeio na Baía de Santos",
+    "resumo": "Turistas registraram a presença de um pinguim-de-magalhães durante um passeio de barco na Baía de Santos, no litoral de São Paulo. A espécie costuma migrar para o Brasil durante o período de inverno. A aparição do animal chamou a atenção dos visitantes.",
     "categoria": "meio-ambiente",
     "tags": [
-      "incêndios florestais",
-      "calor",
-      "onda de calor",
-      "Europa",
-      "Espanha",
-      "França"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Gironde"
-    ],
-    "cidades": [
-      "Madrid"
-    ],
-    "paises": [
-      "Espanha",
-      "França",
-      "Itália",
-      "Grécia"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates"
-      },
-      {
-        "nome": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-houthis-taxacao-mar-vermelho",
-    "data": "2026-07-29",
-    "titulo": "Houthis do Iêmen planejam taxar navios no Mar Vermelho, dizem fontes",
-    "resumo": "Fontes informam que o grupo Houthi no Iêmen está considerando a imposição de taxações sobre navios que navegam pelo Mar Vermelho. Conselheiros iranianos estariam prestando assistência na criação de uma autoridade regulatória para cobranças no estreito de Bab El-Mandeb. Essa medida pode afetar o tráfego marítimo internacional.",
-    "categoria": "internacional",
-    "tags": [
-      "Houthis",
-      "Mar Vermelho",
-      "taxação",
-      "Iêmen",
-      "Irã"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Iêmen",
-      "Irã"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/houthis-do-iemen-consideram-taxar-navios-no-mar-vermelho-dizem-fontes/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-sancoes-eua-brasil-moraes",
-    "data": "2026-07-29",
-    "titulo": "Cúpula da campanha de Flávio Bolsonaro espera medidas contra Alexandre de Moraes após sanções dos EUA",
-    "resumo": "A liderança da campanha de Flávio Bolsonaro (PL) aguarda novas ações contra o ministro Alexandre de Moraes, do STF, após os Estados Unidos prorrogaram sanções contra o Brasil. A expectativa é que essas movimentações estejam ligadas a decisões do ministro. A situação reflete tensões políticas e institucionais.",
-    "categoria": "politica",
-    "tags": [
-      "sanções",
-      "Estados Unidos",
-      "Brasil",
-      "Alexandre de Moraes",
-      "STF",
-      "Flávio Bolsonaro"
-    ],
-    "entidades": [
-      "Supremo Tribunal Federal"
-    ],
-    "pessoas": [
-      "Flávio Bolsonaro",
-      "Alexandre de Moraes",
-      "Donald Trump"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil",
-      "Estados Unidos"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/29/cupula-da-campanha-do-pl-espera-medidas-contra-alexandre-moraes-depois-de-trump-prorrogar-sancoes-contra-o-brasil.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-morte-sao-mateus",
-    "data": "2026-07-29",
-    "titulo": "Homem é morto a tiros ao entrar em carro em São Mateus, SP",
-    "resumo": "Um homem de 49 anos foi assassinado a tiros na noite de terça-feira (28) em São Mateus, Zona Leste de São Paulo. Ele foi surpreendido por um atirador enquanto se preparava para entrar em seu veículo. A Polícia Civil investiga o crime para determinar autoria e motivação.",
-    "categoria": "seguranca",
-    "tags": [
-      "homicídio",
-      "tiroteio",
-      "violência urbana",
-      "São Paulo",
-      "São Mateus"
+      "fauna",
+      "pinguim",
+      "Santos"
     ],
     "entidades": [],
     "pessoas": [],
@@ -1495,172 +278,480 @@
       "São Paulo"
     ],
     "cidades": [
-      "São Mateus"
+      "Santos"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 4,
+    "importancia": 2,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/29/video-mostra-homem-sendo-morto-a-tiros-ao-se-preparar-para-entrar-em-carro-em-sao-mateus.ghtml"
+        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/30/turistas-registram-pinguim-durante-passeio-de-barco-na-baia-de-santos-video.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-29-assédio-ufape-garanhuns",
-    "data": "2026-07-29",
-    "titulo": "Professor da UFAPE em Garanhuns é demitido por assédio sexual",
-    "resumo": "Um professor da Universidade Federal do Agreste de Pernambuco (UFAPE), em Garanhuns, foi demitido após processo administrativo que apurou casos de assédio sexual contra professoras e estudantes. A Controladoria-Geral da União (CGU) concluiu a investigação. O caso foi encaminhado para as autoridades.",
-    "categoria": "justica",
-    "tags": [
-      "assédio sexual",
-      "demissão",
-      "UFAPE",
-      "Garanhuns",
-      "Pernambuco"
-    ],
-    "entidades": [
-      "Universidade Federal do Agreste de Pernambuco",
-      "Controladoria-Geral da União"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Pernambuco"
-    ],
-    "cidades": [
-      "Garanhuns"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/07/29/professor-da-ufape-e-demitido-por-assedio-sexual-contra-professoras-e-estudantes-em-garanhuns.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-prisao-arma-restrita-ma",
-    "data": "2026-07-29",
-    "titulo": "Homem é preso com pistola de uso restrito e equipamento de antiespionagem no MA",
-    "resumo": "Um homem foi preso em flagrante no Maranhão pela posse ilegal de arma de fogo de uso restrito, durante uma operação conjunta da Polícia Civil e do Centro Tático Aéreo. O suspeito também portava um equipamento de antiespionagem. A prisão ocorreu durante uma ação de segurança pública.",
-    "categoria": "seguranca",
-    "tags": [
-      "prisão",
-      "arma de fogo",
-      "antiespionagem",
-      "Maranhão"
-    ],
-    "entidades": [
-      "Polícia Civil do Maranhão",
-      "Centro Tático Aéreo"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Maranhão"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/07/29/homem-e-preso-com-pistola-de-uso-restrito-e-equipamento-de-antiespionagem-no-ma.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-violencia-indigenas-roraima",
-    "data": "2026-07-29",
-    "titulo": "Três indígenas são baleados na Terra Yanomami em Roraima",
-    "resumo": "Três indígenas, um homem, uma mulher e uma criança, foram baleados na comunidade Boca das Pacas, na Terra Indígena Yanomami, em Roraima. As vítimas adultas foram levadas para atendimento médico. A Polícia Federal iniciou as investigações para apurar os fatos.",
-    "categoria": "seguranca",
-    "tags": [
-      "violência",
-      "indígenas",
-      "Terra Yanomami",
-      "Roraima"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Roraima"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rr/roraima/noticia/2026/07/29/tres-indigenas-sao-baleados-na-terra-yanomami-em-roraima.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-tornado-girua-rs",
-    "data": "2026-07-29",
-    "titulo": "Tornado destrói casas e deixa feridos no Rio Grande do Sul",
-    "resumo": "Um tornado causou destruição em Giruá, no Rio Grande do Sul, derrubando três casas de uma mesma família na localidade de Rincão dos Ribeiro. O fenômeno, confirmado pela Defesa Civil, deixou quatro moradores feridos na cidade. As autoridades estão prestando assistência aos desabrigados.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "tornado",
-      "desastre natural",
-      "Rio Grande do Sul",
-      "Giruá"
-    ],
-    "entidades": [
-      "Defesa Civil"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Rio Grande do Sul"
-    ],
-    "cidades": [
-      "Giruá"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/29/familia-resgatada-de-escombros-apos-tornado-destruir-casas-no-rs.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-29-songwriter-glen-hansard",
-    "data": "2026-07-29",
-    "titulo": "Compositor vencedor do Oscar, Glen Hansard, morre em acidente",
-    "resumo": "O compositor vencedor do Oscar, Glen Hansard, faleceu em um acidente aos 56 anos. Hansard ganhou o Oscar de Melhor Canção Original pelo filme \"Once\" de 2007. A notícia de sua morte foi confirmada por fontes próximas. Sua carreira foi marcada por sucessos na música e no cinema.",
+    "id": "2026-07-30-vaquinha-afroito",
+    "data": "2026-07-30",
+    "titulo": "Cantor Afroito é criticado por criar vaquinha de R$ 1 milhão",
+    "resumo": "O cantor pernambucano Afroito gerou polêmica ao abrir uma vaquinha virtual com o objetivo de arrecadar R$ 1 milhão para comprar uma casa e pagar aluguel atrasado. O vídeo divulgado pelo artista repercutiu nas redes sociais e recebeu críticas.",
     "categoria": "cultura",
     "tags": [
-      "morte",
       "música",
-      "Oscar",
-      "Glen Hansard"
+      "redes sociais",
+      "polêmica"
     ],
     "entidades": [],
     "pessoas": [
-      "Glen Hansard"
+      "Afroito"
+    ],
+    "estados": [
+      "Pernambuco"
+    ],
+    "cidades": [
+      "Recife"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/07/30/afroito-saiba-quem-e-o-cantor-criticado-por-abrir-vaquinha-de-r-1-milhao-para-comprar-casa-e-pagar-aluguel-atrasado.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-30-morte-policial-reserva-para",
+    "data": "2026-07-30",
+    "titulo": "Policial militar da reserva é morto a tiros no Pará",
+    "resumo": "Um policial militar da reserva foi assassinado a tiros no centro comercial de Mãe do Rio, no nordeste do Pará. A vítima foi identificada como sargento Alves, que também atuou como guarda municipal. O crime ocorreu na tarde desta quarta-feira (29).",
+    "categoria": "seguranca",
+    "tags": [
+      "homicídio",
+      "policial",
+      "Pará"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Pará"
+    ],
+    "cidades": [
+      "Mãe do Rio"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pa/para/noticia/2026/07/30/policial-militar-da-reserva-e-morto-a-tiros-no-centro-de-mae-do-rio-no-pa.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-30-deportacoes-alemanha-afeganistao",
+    "data": "2026-07-30",
+    "titulo": "Alemanha amplia deportações para o Afeganistão",
+    "resumo": "Pela primeira vez, a Alemanha deportou um homem sem antecedentes criminais para Cabul. O afegão Faridoon Tofan, que está em detenção para deportação, teme o mesmo destino. A medida marca uma ampliação nas políticas de deportação do país.",
+    "categoria": "internacional",
+    "tags": [
+      "deportação",
+      "migração",
+      "Afeganistão",
+      "Alemanha"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Faridoon Tofan"
+    ],
+    "estados": [],
+    "cidades": [
+      "Cabul"
+    ],
+    "paises": [
+      "Alemanha",
+      "Afeganistão"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "DW",
+        "url": "https://www.dw.com/en/germany-widens-deportations-to-afghanistan/a-78173466?maca=en-rss-en-all-1573-rdf"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-30-ataques-paulo-figueiredo-jornalistas",
+    "data": "2026-07-30",
+    "titulo": "Associação repudia ataques de Paulo Figueiredo a jornalistas",
+    "resumo": "A Associação Brasileira de Emissoras de Rádio e Televisão (Abert) publicou uma nota de repúdio contra os ataques feitos por Paulo Figueiredo a jornalistas e veículos de comunicação. A associação defendeu a liberdade de imprensa e o trabalho da mídia.",
+    "categoria": "politica",
+    "tags": [
+      "imprensa",
+      "liberdade de expressão",
+      "ataques"
+    ],
+    "entidades": [
+      "Abert"
+    ],
+    "pessoas": [
+      "Paulo Figueiredo",
+      "João Baptista de Oliveira Figueiredo"
     ],
     "estados": [],
     "cidades": [],
-    "paises": [],
-    "importancia": 4,
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
     "fontes": [
       {
-        "nome": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss"
+        "nome": "G1",
+        "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/07/30/abert-paulo-figueiredo.shtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-30-posse-colombia-de-la-espriella",
+    "data": "2026-07-30",
+    "titulo": "Congresso da Colômbia aprova mudança de local para posse de De la Espriella",
+    "resumo": "O Congresso da Colômbia aprovou a alteração do local da cerimônia de posse de De la Espriella. A cidade originalmente escolhida para o evento enfrenta atividade vulcânica constante, com queda de cinzas. A mudança visa garantir a segurança.",
+    "categoria": "politica",
+    "tags": [
+      "posse",
+      "política",
+      "Colômbia",
+      "vulcão"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "De la Espriella"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Colômbia"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/congresso-da-colombia-aprova-mudanca-de-local-para-posse-de-de-la-espriella/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-30-morte-trabalhador-pedreira-es",
+    "data": "2026-07-30",
+    "titulo": "Trabalhador morre atingido por bloco de rocha em pedreira no ES",
+    "resumo": "Um trabalhador de 59 anos faleceu após ser atingido por um bloco de rocha enquanto exercia suas funções em uma pedreira na zona rural de Baixo Guandu, no Noroeste do Espírito Santo. A Polícia Militar foi acionada para o local. O acidente ocorreu na terça-feira (28).",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente de trabalho",
+      "morte",
+      "Espírito Santo"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Espírito Santo"
+    ],
+    "cidades": [
+      "Baixo Guandu"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/07/30/trabalhador-morre-atingido-por-bloco-de-rocha-em-pedreira-no-es.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-30-condenacao-assassinato-caminhoneiro-rs",
+    "data": "2026-07-30",
+    "titulo": "Três são condenados pelo assassinato de caminhoneiro no RS",
+    "resumo": "Três réus foram condenados pela morte do caminhoneiro Luciano Boeira Melos, desaparecido há três anos. O julgamento teve início na terça-feira (28) e a sentença foi proferida na noite de quarta-feira (29). O crime ocorreu no Rio Grande do Sul.",
+    "categoria": "justica",
+    "tags": [
+      "homicídio",
+      "condenação",
+      "justiça",
+      "Rio Grande do Sul"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Luciano Boeira Melos"
+    ],
+    "estados": [
+      "Rio Grande do Sul"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/30/reu-confesso-e-mais-dois-sao-condenados-pelo-assassinato-de-caminhoneiro-desaparecido-ha-3-anos.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-30-prisao-comando-vermelho-detector-drones-rj",
+    "data": "2026-07-30",
+    "titulo": "Integrantes do Comando Vermelho presos com detector de drones no RJ",
+    "resumo": "Integrantes da facção criminosa Comando Vermelho foram presos no Rio de Janeiro portando um detector de drones. Segundo a Polícia Civil, os suspeitos possuem extensa ficha criminal e foram autuados por tráfico de drogas e associação para o tráfico.",
+    "categoria": "seguranca",
+    "tags": [
+      "crime organizado",
+      "prisão",
+      "Comando Vermelho",
+      "Rio de Janeiro"
+    ],
+    "entidades": [
+      "Comando Vermelho"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/integrantes-do-comando-vermelho-sao-presos-com-detector-de-drones-no-rj/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-30-filhotes-lobo-guara-zoo-sp",
+    "data": "2026-07-30",
+    "titulo": "Zoo de São Paulo apresenta filhotes de lobo-guará",
+    "resumo": "O Zoológico de São Paulo apresentou pela primeira vez ao público um trio de filhotes de lobo-guará. Nascidos há pouco mais de dois meses, os animais já deixaram a área de cuidados intensivos e estão disponíveis para visitação. A espécie é um símbolo da fauna brasileira.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "animais",
+      "lobo-guará",
+      "zoologia",
+      "São Paulo"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "São Paulo"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/30/zoo-de-sao-paulo-apresenta-trio-de-filhotes-de-lobo-guara-pela-primeira-vez-ao-publico.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-30-legislacao-autista-sorocaba",
+    "data": "2026-07-30",
+    "titulo": "Sorocaba avança em legislação sobre TEA, mas aplicação de direitos ainda é desafio",
+    "resumo": "A Câmara Municipal de Sorocaba recebeu 38 projetos de lei voltados a pessoas com Transtorno do Espectro Autista (TEA) entre 2018 e 2026. Apesar do avanço legislativo, entidades apontam que a aplicação efetiva dos direitos constitui um desafio.",
+    "categoria": "politica",
+    "tags": [
+      "autismo",
+      "legislação",
+      "direitos",
+      "Sorocaba"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Sorocaba"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/30/transtorno-do-espectro-autista-legislacao-avanca-em-sorocaba-com-38-projetos-de-lei-mas-aplicacao-de-direitos-ainda-e-desafio.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-30-chefes-week-copacabana",
+    "data": "2026-07-30",
+    "titulo": "Chefs Week oferece aulas de degustação de vinhos em Copacabana",
+    "resumo": "O evento Chefs Week está oferecendo aulas de degustação de vinhos em um hotel tradicional de Copacabana, no Rio de Janeiro. As masterclasses exclusivas acontecem nesta semana, atraindo público interessado em gastronomia e enologia.",
+    "categoria": "cultura",
+    "tags": [
+      "gastronomia",
+      "vinhos",
+      "evento",
+      "Rio de Janeiro"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Rio de Janeiro",
+      "Copacabana"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/lifestyle/chefs-week-leva-aulas-de-degustacao-de-vinhos-para-copacabana/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-30-obras-ponte-teresopolis",
+    "data": "2026-07-30",
+    "titulo": "Moradores de Teresópolis cobram reparos em ponte danificada há mais de um ano",
+    "resumo": "Moradores de Vargem Grande, em Teresópolis (RJ), reclamam da demora na realização de reparos em uma ponte na RJ-130, danificada há mais de um ano por uma árvore caída. A estrutura apresenta problemas no parapeito, gerando preocupação na comunidade.",
+    "categoria": "infraestrutura",
+    "tags": [
+      "infraestrutura",
+      "reparos",
+      "Teresópolis",
+      "denúncia"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Teresópolis"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/07/30/ponte-da-rj-130-danificada-ha-mais-de-um-ano-preocupa-moradores-em-teresopolis.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-30-saldo-credito-junho",
+    "data": "2026-07-30",
+    "titulo": "Saldo das operações de crédito avança 0,7% em junho",
+    "resumo": "O saldo das operações de crédito no Brasil apresentou um avanço de 0,7% em junho, totalizando R$ 7,4 trilhões. Os dados foram divulgados pelo Banco Central em seu relatório de Estatísticas Monetárias e de Crédito. O setor financeiro registrou crescimento.",
+    "categoria": "economia",
+    "tags": [
+      "crédito",
+      "economia",
+      "Banco Central",
+      "Brasil"
+    ],
+    "entidades": [
+      "Banco Central"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/saldo-das-operacoes-de-credito-avanca-07-em-junho-e-soma-r-74-trilhoes/"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-30-lito-sousa-alta-hospitalar",
+    "data": "2026-07-30",
+    "titulo": "Lito Sousa tem alta após internação e foca em conscientização sobre câncer de próstata",
+    "resumo": "O criador de conteúdo Lito Sousa recebeu alta após oito dias internado em São Paulo. Ele expressou o desejo de usar sua experiência para conscientizar homens sobre o câncer de próstata. Lito foi recebido com homenagens ao retornar ao trabalho.",
+    "categoria": "saude",
+    "tags": [
+      "saúde",
+      "câncer de próstata",
+      "conscientização",
+      "influenciador"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Lito Sousa"
+    ],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "São Paulo"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/30/lito-sousa-tem-alta-apos-oito-dias-internado-e-diz-que-vai-conscientizar-homens-sobre-cancer-de-prostata.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-07-30-cnbb-acampamento-catolico-para",
+    "data": "2026-07-30",
+    "titulo": "CNBB lamenta mortes em acampamento católico no Pará",
+    "resumo": "A Regional Norte 2 da Conferência Nacional dos Bispos do Brasil (CNBB) publicou uma nota de pesar pelas quatro mortes ocorridas em um acampamento católico no Pará. A entidade lamentou o ocorrido, afirmando que as vítimas 'partiram enquanto sonhavam'.",
+    "categoria": "religiao",
+    "tags": [
+      "religião",
+      "luto",
+      "acidente",
+      "Pará"
+    ],
+    "entidades": [
+      "CNBB"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Pará"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pa/para/noticia/2026/07/30/partiram-enquanto-sonhavam-diz-regional-da-cnbb-sobre-vitimas-de-choque-em-acampamento-catolico-no-para.ghtml"
       }
     ]
   }
