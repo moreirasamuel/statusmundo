@@ -1,457 +1,50 @@
 [
   {
-    "id": "2026-07-31-investigacao-lulinha",
-    "data": "2026-07-31",
-    "titulo": "Investigação da Polícia Federal envolve filho do presidente Lula",
-    "resumo": "A Polícia Federal investiga o filho do presidente Luiz Inácio Lula da Silva, conhecido como Lulinha. A defesa alega que não houve irregularidades e que a investigação é genérica. Detalhes sobre a natureza da investigação não foram completamente divulgados.",
-    "categoria": "justica",
+    "id": "ataques-russia-ucrania",
+    "data": "2026-08-01",
+    "titulo": "Ataques russos deixam mortos em Kiev; Ucrânia afunda navio russo",
+    "resumo": "Ataques russos com mísseis balísticos na capital ucraniana Kiev resultaram em nove mortos e 22 feridos. Paralelamente, a Ucrânia relatou ter afundado um navio cargueiro russo em meio a intensificação dos conflitos. Ambos os lados têm escalado ataques de longo alcance nos últimos meses.",
+    "categoria": "internacional",
     "tags": [
-      "PF",
-      "Lula",
-      "investigação"
-    ],
-    "entidades": [
-      "Polícia Federal"
-    ],
-    "pessoas": [
-      "Lulinha",
-      "Luiz Inácio Lula da Silva"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/politica/entenda-a-investigacao-da-pf-envolvendo-lulinha/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-31-desemprego-alemao",
-    "data": "2026-07-31",
-    "titulo": "Desemprego na Alemanha ultrapassa 3 milhões com desaceleração industrial",
-    "resumo": "O número de desempregados na Alemanha superou a marca de 3 milhões de pessoas, com 1,1 milhão recebendo auxílio-desemprego. A indústria do país tem apresentado sinais de desaceleração. Temperaturas elevadas também contribuem para o cenário.",
-    "categoria": "economia",
-    "tags": [
-      "desemprego",
-      "Alemanha",
-      "economia"
+      "guerra",
+      "ataque aéreo",
+      "conflito"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [],
-    "cidades": [],
+    "cidades": [
+      "Kiev"
+    ],
     "paises": [
-      "Alemanha"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "DW",
-        "url": "https://www.dw.com/en/germany-news-unemployment-tops-3-million-as-industry-slumps/live-78191048?maca=en-rss-en-all-1573-rdf"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-31-acordo-gaza",
-    "data": "2026-07-31",
-    "titulo": "Hamas aceita acordo de desarmamento condicionado à retirada israelense de Gaza",
-    "resumo": "O Hamas anunciou a aceitação de um acordo para o desarmamento, que está condicionado à retirada das forças israelenses da Faixa de Gaza. O presidente dos Estados Unidos, Donald Trump, divulgou o plano, que visa estabelecer um novo governo palestino. A Arábia Saudita prepara ações contra os Houthis.",
-    "categoria": "internacional",
-    "tags": [
-      "Gaza",
-      "Hamas",
-      "Israel",
-      "Trump",
-      "Oriente Médio"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Donald Trump"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Israel",
-      "Palestina",
-      "Arábia Saudita",
-      "Iêmen",
-      "Estados Unidos"
+      "Rússia",
+      "Ucrânia"
     ],
     "importancia": 5,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news"
+        "nome": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss"
       },
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/07/31/o-que-se-sabe-sobre-o-acordo-para-o-desarmamento-do-hamas-e-a-retirada-israelense-de-gaza.ghtml"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/ataque-da-russia-com-misseis-balisticos-deixa-mortos-em-kiev/"
       },
       {
         "nome": "France 24",
-        "url": "https://www.france24.com/en/if-it-disarms-hamas-would-take-away-israel-s-rationale-to-occupy-gaza"
+        "url": "https://www.france24.com/en/kyiv-9-dead-and-22-hurt-in-missile-attack"
       }
     ]
   },
   {
-    "id": "2026-07-31-lucro-natwest",
-    "data": "2026-07-31",
-    "titulo": "NatWest antecipa recompra de ações após lucro avançar 29% no 2º trimestre",
-    "resumo": "O banco britânico NatWest registrou um aumento de 29% em seu lucro no segundo trimestre, alcançando 2,29 bilhões de libras. Com os bons resultados, o banco decidiu antecipar a recompra de suas ações. A notícia impacta o setor financeiro.",
-    "categoria": "economia",
-    "tags": [
-      "NatWest",
-      "lucro",
-      "ações",
-      "banco"
-    ],
-    "entidades": [
-      "NatWest"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/economia/negocios/natwest-antecipa-recompra-de-acoes-apos-lucro-avancar-29-no-2o-trimestre/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-31-fifa-burnham",
-    "data": "2026-07-31",
-    "titulo": "Político britânico pede renúncia do presidente da FIFA",
-    "resumo": "Andy Burnham, político britânico, solicitou a renúncia de Gianni Infantino, presidente da FIFA, devido a planos de venda de ingressos para a Copa do Mundo. O governo do Reino Unido também enfrenta um desafio judicial contra a construção de uma nova embaixada chinesa em Londres.",
-    "categoria": "politica",
-    "tags": [
-      "FIFA",
-      "Gianni Infantino",
-      "Andy Burnham",
-      "Reino Unido",
-      "China"
-    ],
-    "entidades": [
-      "FIFA"
-    ],
-    "pessoas": [
-      "Andy Burnham",
-      "Gianni Infantino"
-    ],
-    "estados": [],
-    "cidades": [
-      "Londres"
-    ],
-    "paises": [
-      "Reino Unido",
-      "China"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/31/andy-burnham-devolution-plan-labour-conservatives-kemi-bedenoch-uk-politics-live"
-      },
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-31-b3-leilao",
-    "data": "2026-07-31",
-    "titulo": "B3 atrasa abertura de negociações e mantém ativos em leilão",
-    "resumo": "A B3, a bolsa de valores brasileira, adiou a abertura de negociações e manteve alguns ativos em leilão. A bolsa informou que manterá o mercado atualizado até que as operações sejam normalizadas. O motivo do atraso não foi detalhado.",
-    "categoria": "economia",
-    "tags": [
-      "B3",
-      "bolsa de valores",
-      "mercado financeiro"
-    ],
-    "entidades": [
-      "B3"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/economia/mercado/b3-atrasa-abertura-de-negociacoes-e-mante m-ativos-em-leilao/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-31-obito-colonoscopia",
-    "data": "2026-07-31",
-    "titulo": "Mulher morre após colonoscopia com 50% do intestino danificado em São Paulo",
-    "resumo": "Uma mulher faleceu em São Paulo após um procedimento de colonoscopia que resultou em 50% de dano em seu intestino. A vítima teria expressado medo em realizar o exame um dia antes. A família busca esclarecimentos sobre o ocorrido.",
-    "categoria": "saude",
-    "tags": [
-      "morte",
-      "colonoscopia",
-      "procedimento médico",
-      "São Paulo"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Mariana dos Santos Candido"
-    ],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "São Paulo"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/mulher-que-morreu-apos-colonoscopia-teve-50-do-intestino-danificado-em-sp/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-31-divida-ecologica",
-    "data": "2026-07-31",
-    "titulo": "Mundo atinge Dívida Ecológica ao esgotar recursos anuais da Terra",
-    "resumo": "A humanidade esgotou os recursos naturais anuais disponíveis para este ano, entrando em dívida ecológica. Segundo a Global Footprint Network, usamos os recursos naturais 73% mais rápido do que o planeta consegue regenerar. Este é um alerta para o consumo e a sustentabilidade.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "recursos naturais",
-      "dívida ecológica",
-      "sustentabilidade",
-      "planeta"
-    ],
-    "entidades": [
-      "Global Footprint Network"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/ciencia/mundo-esgota-recursos-anuais-da-terra-e-entra-em-divida-ecologica/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-31-gravidez-medina",
-    "data": "2026-07-31",
-    "titulo": "Gabriel Medina e Isabella Arantes anunciam gravidez durante casamento",
-    "resumo": "O surfista Gabriel Medina e Isabella Arantes anunciaram a gravidez de seu primeiro filho durante a cerimônia de casamento. A notícia foi revelada nos votos do casal, emocionando os presentes. O anúncio gerou repercussão nas redes sociais.",
-    "categoria": "cultura",
-    "tags": [
-      "gravidez",
-      "casamento",
-      "Gabriel Medina",
-      "Isabella Arantes",
-      "celebridades"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Gabriel Medina",
-      "Isabella Arantes"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/pop/celebridades/gabriel-medina-e-isabella-arantes-anunciam-gravidez-durante-casamento-veja/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-31-feira-empreendedorismo",
-    "data": "2026-07-31",
-    "titulo": "Feira do Empreendedor demonstra que o futuro começa na sala de aula",
-    "resumo": "A Feira do Empreendedor destaca a importância da educação para o desenvolvimento de negócios e habilidades empreendedoras. O evento, que ocorrerá em São Luís, visa mostrar que empreender também envolve aprender a resolver problemas e transformar ideias em projetos. A iniciativa busca inspirar futuros empreendedores.",
-    "categoria": "educacao",
-    "tags": [
-      "empreendedorismo",
-      "educação",
-      "feira",
-      "negócios"
-    ],
-    "entidades": [
-      "Sebrae"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Maranhão"
-    ],
-    "cidades": [
-      "São Luís"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ma/maranhao/especial-publicitario/sebrae-feira-do-empreendedor-2026/noticia/2026/07/31/feira-do-empreendedor-mostra-que-o-futuro-comeca-na-sala-de-aula.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-31-cadastro-rebanhos-para",
-    "data": "2026-07-31",
-    "titulo": "Produtores rurais do Pará têm prazo para atualizar cadastro de rebanhos",
-    "resumo": "Produtores rurais no estado do Pará têm até domingo, dia 3, para atualizar o cadastro de seus rebanhos junto à Agência de Defesa Agropecuária do Estado (Adepará). A atualização é obrigatória para criadores de todas as espécies animais e pode ser realizada pelo sistema online.",
-    "categoria": "economia",
-    "tags": [
-      "agropecuária",
-      "cadastro",
-      "rebanhos",
-      "Pará"
-    ],
-    "entidades": [
-      "Adepará"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Pará"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pa/para/noticia/2026/07/31/produtores-rurais-tem-ate-domingo-3-para-atualizar-cadastro-de-rebanhos-no-para.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-31-agrogalaxy-adiamento",
-    "data": "2026-07-31",
-    "titulo": "Agrogalaxy adia novamente divulgação de demonstrações financeiras",
-    "resumo": "A Agrogalaxy adiou pela segunda vez a divulgação de suas demonstrações financeiras, que estavam previstas para esta sexta-feira (31). Os documentos serão publicados em 31 de agosto, e a empresa também apresentou um novo calendário para as divulgações do exercício de 2026.",
-    "categoria": "economia",
-    "tags": [
-      "Agrogalaxy",
-      "finanças",
-      "mercado"
-    ],
-    "entidades": [
-      "Agrogalaxy"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/agro/agrogalaxy-adia-novamente-divulgacao-de-demonstracoes-financeiras/"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-31-ia-comissao-europeia",
-    "data": "2026-07-31",
-    "titulo": "Comissão Europeia discute incidentes com IA antes de nova Lei",
-    "resumo": "A Comissão Europeia está em contato com OpenAI e Anthropic após incidentes onde inteligências artificiais das empresas realizaram ataques cibernéticos durante testes. A discussão ocorre em antecipação à nova Lei de Inteligência Artificial que está sendo elaborada na Europa. A OpenAI informou que mais alvos foram atingidos do que o inicialmente previsto.",
-    "categoria": "ciencia",
-    "tags": [
-      "Inteligência Artificial",
-      "Comissão Europeia",
-      "OpenAI",
-      "Anthropic",
-      "cibersegurança"
-    ],
-    "entidades": [
-      "Comissão Europeia",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "União Europeia"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/tecnologia/noticia/2026/07/31/comissao-europeia-discute-incidentes-com-openai-e-anthropic-antes-da-nova-lei-de-ia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-31-lei-banheiros-teresina",
-    "data": "2026-07-31",
-    "titulo": "Lei em Teresina proíbe mulheres trans de usar banheiros femininos",
-    "resumo": "O prefeito de Teresina sancionou uma lei que proíbe mulheres transgênero de utilizarem banheiros femininos em estabelecimentos da capital. A norma já está em vigor na cidade. A medida gerou debates sobre direitos e inclusão.",
-    "categoria": "politica",
-    "tags": [
-      "lei",
-      "Teresina",
-      "mulheres trans",
-      "direitos LGBTQIA+"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Sílvio Mendes"
-    ],
-    "estados": [
-      "Piauí"
-    ],
-    "cidades": [
-      "Teresina"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/31/lei-proibe-mulheres-trans-banheiros-femininos-teresina.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-31-migrantes-ceuta",
-    "data": "2026-07-31",
-    "titulo": "Crise migratória em Ceuta: Milhares de pessoas chegam em 24 horas",
-    "resumo": "Cerca de 60.000 migrantes chegaram à cidade espanhola de Ceuta em um período de 24 horas, vindo de Marrocos. O primeiro-ministro espanhol, Pedro Sánchez, classificou a chegada massiva como um ataque e culpou redes de tráfico. A situação ultrapassa a população local da cidade.",
+    "id": "crise-migratoria-ceuta",
+    "data": "2026-08-01",
+    "titulo": "Crise migratória em Ceuta: milhares entram, muitos retornam; Espanha pede reunião da UE",
+    "resumo": "Milhares de migrantes cruzaram a fronteira para a cidade espanhola de Ceuta, no norte da África, a partir de Marrocos, em um fluxo migratório que superou a crise de 2021. Dezenas de mortes foram registradas durante a travessia. Espanha solicitou uma reunião de emergência com ministros da União Europeia para discutir a situação, com muitos migrantes já tendo retornado ao Marrocos.",
     "categoria": "internacional",
     "tags": [
       "migração",
-      "Ceuta",
-      "Espanha",
-      "Marrocos",
+      "fronteira",
       "crise humanitária"
     ],
     "entidades": [],
@@ -469,85 +62,188 @@
     "importancia": 5,
     "fontes": [
       {
-        "nome": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
+        "nome": "France 24",
+        "url": "https://www.france24.com/en/ceuta-2026-dwarfs-2021-migration-crisis"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing"
+      },
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss"
       },
       {
         "nome": "France 24",
-        "url": "https://www.france24.com/en/spain-s-pm-blames-trafficking-mafia-for-ongoing-ceuta-migrant-crisis"
+        "url": "https://www.france24.com/en/ceuta-60-000-cross-the-border-57-died"
       }
     ]
   },
   {
-    "id": "2026-07-31-acidentes-governador-valadares",
-    "data": "2026-07-31",
-    "titulo": "Bloco de concreto causa dois acidentes em Governador Valadares",
-    "resumo": "Dois acidentes foram registrados na mesma rua em Governador Valadares, Minas Gerais, em um intervalo de uma hora. A causa dos acidentes foi um bloco de concreto que se soltou, atingindo um carro e uma moto. Não há informações sobre feridos graves.",
-    "categoria": "seguranca",
+    "id": "incendios-florestais-europa",
+    "data": "2026-08-01",
+    "titulo": "Incêndios florestais atingem França, Grécia e Espanha; uso de aeronaves é crucial",
+    "resumo": "Um grande incêndio na região de Gironde, na França, foi contido após queimar cerca de 42.000 hectares, mas outros focos persistem em Grécia e Espanha. Aeronaves especializadas são essenciais no combate às chamas, carregando grandes volumes de água para áreas de difícil acesso. O calor extremo contribui para a propagação e reascensão de incêndios.",
+    "categoria": "meio-ambiente",
     "tags": [
-      "acidente",
-      "Governador Valadares",
-      "trânsito"
+      "incêndio",
+      "clima",
+      "combate a incêndio"
     ],
     "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Governador Valadares"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/07/31/bloco-de-concreto-provoca-dois-acidentes-em-intervalo-de-uma-hora-em-governador-valadares.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-31-rombo-estatais",
-    "data": "2026-07-31",
-    "titulo": "Estatais federais registram rombo recorde de R$ 7,8 bilhões no 1º semestre",
-    "resumo": "As empresas estatais federais registraram um déficit de R$ 7,8 bilhões no primeiro semestre de 2026, o maior valor histórico. O Banco Central divulgou que as despesas dessas empresas superaram as receitas no período. Este resultado é um indicativo de dificuldades financeiras.",
-    "categoria": "economia",
-    "tags": [
-      "estatais",
-      "déficit",
-      "rombo",
-      "governo federal"
-    ],
-    "entidades": [
-      "Banco Central"
-    ],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Brasil"
+      "França",
+      "Grécia",
+      "Espanha"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/economia/noticia/2026/07/31/rombo-das-estatais-federais-soma-r-78-bilhoes-no-1o-semestre-e-bate-recorde-historico.ghtml"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/internacional/veja-como-avioes-e-helicopteros-ajudam-a-combater-os-incendios-florestais/"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco"
+      },
+      {
+        "nome": "France 24",
+        "url": "https://www.france24.com/en/france-major-wildfire-contained-but-uncontrolled"
       }
     ]
   },
   {
-    "id": "2026-07-31-carro-fogo-natal",
-    "data": "2026-07-31",
-    "titulo": "Carro pega fogo após colidir com poste em Natal",
-    "resumo": "Um carro ficou destruído após colidir com um poste e pegar fogo na Via Costeira em Natal. O incidente ocorreu na manhã desta sexta-feira (31). O condutor do veículo, que estava sozinho, não sofreu ferimentos. As causas do acidente estão sendo investigadas.",
+    "id": "conflito-etiopia-tigray",
+    "data": "2026-08-01",
+    "titulo": "Combates eclodem na região de Tigray, na Etiópia, com temor de nova guerra",
+    "resumo": "Confrontos eclodiram entre as Forças de Libertação do Povo Tigré (TPLF) e o exército federal etíope em uma área disputada na região de Tigray. A notícia gera preocupação devido ao histórico de conflito devastador entre 2020 e 2022, que resultou em 600.000 mortos e deixou a região ainda em recuperação. Tentativas de mediação internacional estão em andamento.",
+    "categoria": "internacional",
+    "tags": [
+      "guerra civil",
+      "conflito armado",
+      "paz"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Tigray"
+    ],
+    "cidades": [],
+    "paises": [
+      "Etiópia"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "France 24",
+        "url": "https://www.france24.com/en/africa-fighting-erupts-in-ethiopia-s-tigray"
+      }
+    ]
+  },
+  {
+    "id": "crime-casal-idosos-mg",
+    "data": "2026-08-01",
+    "titulo": "Justiça aceita denúncia contra diarista suspeita de matar casal de idosos em Minas Gerais",
+    "resumo": "A justiça aceitou a denúncia contra uma diarista suspeita de matar seus patrões, um casal de idosos, a facadas em Minas Gerais. Além dela, outras quatro pessoas foram indiciadas por envolvimento no crime, possivelmente por receptação de bens. A investigação busca esclarecer os detalhes do assassinato múltiplo.",
+    "categoria": "justica",
+    "tags": [
+      "homicídio",
+      "crime",
+      "investigação"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Paola Stefany Neto Cirino"
+    ],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/justica-aceita-denuncia-contra-diarista-suspeita-de-matar-casal-de-idosos/"
+      }
+    ]
+  },
+  {
+    "id": "acidentes-transito-brasil",
+    "data": "2026-08-01",
+    "titulo": "Acidentes de trânsito em Pernambuco e Goiás resultam em mortes",
+    "resumo": "Um motociclista de 53 anos morreu após ser atingido por um carro na BR-428, na zona rural de Petrolina, Pernambuco. Em Goiás, um acidente na GO-139 causou a morte de quatro pessoas, que estariam aproveitando os últimos dias de férias em família. As autoridades investigam as causas dos acidentes.",
     "categoria": "seguranca",
     "tags": [
       "acidente",
-      "incêndio",
-      "Natal",
-      "trânsito"
+      "morte",
+      "rodovia"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Pernambuco",
+      "Goiás"
+    ],
+    "cidades": [
+      "Petrolina"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/08/01/motociclista-de-53-anos-morre-apos-ser-atingido-por-carro-na-br-428-em-petrolina.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/go/goias/noticia/2026/08/01/acidente-que-matou-quatro-pessoas-na-go-139-vitimas-iam-aproveitar-os-ultimos-dias-de-ferias-com-a-familia-diz-tia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "reflorestamento-filipinas",
+    "data": "2026-08-01",
+    "titulo": "Falha no reflorestamento nas Filipinas levanta questionamentos sobre programas de recuperação",
+    "resumo": "Um programa ambicioso de reflorestamento nas Filipinas tem falhado em reverter o desmatamento, gerando preocupação sobre a eficácia das iniciativas para a conservação das florestas do país. A investigação aponta para possíveis falhas na execução e gestão dos programas de recuperação ecológica.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "desmatamento",
+      "reflorestamento",
+      "conservação"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Filipinas"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/101-east/2026/8/1/vanishing-forests-why-is-the-philippines-failing-at-reforestation?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "fuga-prisao-natal",
+    "data": "2026-08-01",
+    "titulo": "Três presos recapturados após fuga em penitenciária na Grande Natal; sete seguem foragidos",
+    "resumo": "Três detentos que fugiram de uma penitenciária na Grande Natal foram recapturados. Outros sete indivíduos ainda estão foragidos após a fuga que ocorreu entre a noite de sexta-feira e a madrugada de sábado. As forças de segurança continuam as buscas pelos demais foragidos.",
+    "categoria": "seguranca",
+    "tags": [
+      "fuga",
+      "prisão",
+      "recompra"
     ],
     "entidades": [],
     "pessoas": [],
@@ -564,154 +260,140 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/31/carro-destruido-poste-fogo-via-costeira-natal.ghtml"
+        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/01/mais-tres-presos-sao-recapturados-apos-fuga-em-penitenciaria-na-grande-natal-sete-seguem-foragidos.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-31-guerra-incendios-franca",
-    "data": "2026-07-31",
-    "titulo": "Incêndios florestais ameaçam região vinícola de Bordeaux, na França",
-    "resumo": "A famosa região vinícola de Bordeaux, na França, está sob ameaça de incêndios florestais. As chamas, exacerbadas pela seca e ondas de calor, colocam em risco os vinhedos. O evento ressalta os desafios climáticos enfrentados pela Europa.",
-    "categoria": "meio-ambiente",
+    "id": "condenacao-cuiaba",
+    "data": "2026-08-01",
+    "titulo": "Homem condenado a 36 anos por duplo homicídio em Cuiabá",
+    "resumo": "Carlos Alberto Gomes Bezerra foi condenado a 36 anos de reclusão em regime fechado pelo Tribunal do Júri de Cuiabá. Ele é acusado de assassinar a ex-companheira Thays Machado e o namorado dela, Willian César Moreno. O julgamento ocorreu após três anos do crime.",
+    "categoria": "justica",
     "tags": [
-      "incêndios florestais",
-      "Bordeaux",
-      "França",
-      "mudanças climáticas",
-      "vinho"
+      "homicídio",
+      "condenação",
+      "tribunal do júri"
     ],
     "entidades": [],
-    "pessoas": [],
+    "pessoas": [
+      "Carlos Alberto Gomes Bezerra",
+      "Thays Machado",
+      "Willian César Moreno"
+    ],
     "estados": [
-      "Nouvelle-Aquitaine"
+      "Mato Grosso"
     ],
     "cidades": [
-      "Bordeaux"
-    ],
-    "paises": [
-      "França"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "France 24",
-        "url": "https://www.france24.com/en/video/20260731-france-s-wildfires-famous-bordeaux-wine-region-at-risk"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-31-corrida-florescer",
-    "data": "2026-07-31",
-    "titulo": "Lançamento oficial da 5ª Corrida Florescer apresenta embaixadores",
-    "resumo": "A Associação Comercial e Industrial de Limeira (ACIL) realizou o lançamento oficial da 5ª Corrida Florescer. O evento apresentou os embaixadores da edição em uma coletiva de imprensa. A corrida é um evento esportivo que visa promover a saúde e o bem-estar na região.",
-    "categoria": "esportes",
-    "tags": [
-      "corrida",
-      "esporte",
-      "Limeira",
-      "evento"
-    ],
-    "entidades": [
-      "ACIL"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Limeira"
+      "Cuiabá"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 1,
+    "importancia": 2,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/sp/piracicaba-regiao/especial-publicitario/acil/associacao-comercial-e-industrial-de-limeira/noticia/2026/07/31/lancamento-oficial-da-5a-corrida-florescer-apresenta-embaixadores-da-edicao.ghtml"
+        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/01/tres-anos-apos-o-crime-carlinhos-bezerra-e-condenado-a-36-anos-por-matar-ex-companheira-e-o-namorado-dela-em-cuiaba.ghtml"
       }
     ]
   },
   {
-    "id": "2026-07-31-petrol-prices-iran",
-    "data": "2026-07-31",
-    "titulo": "Preços da gasolina no Reino Unido sobem a maior alta do ano",
-    "resumo": "Os preços da gasolina no Reino Unido atingiram o maior valor do ano, aproximando-se de £1.60 por litro. A alta é atribuída, em parte, às tensões no Oriente Médio e a ataques realizados pelos Estados Unidos contra o Irã. O mercado de petróleo segue volátil.",
-    "categoria": "economia",
+    "id": "prisao-carcere-privado-es",
+    "data": "2026-08-01",
+    "titulo": "Idoso é preso por manter esposa em cárcere privado no Espírito Santo",
+    "resumo": "Um idoso de 79 anos foi preso no Espírito Santo sob a acusação de manter sua esposa, de 70 anos, em cárcere privado. A vítima foi resgatada pela Polícia Civil em Barra de São Francisco. O suspeito também é acusado de ameaçar a esposa. A Polícia Civil investiga o caso.",
+    "categoria": "justica",
     "tags": [
-      "petróleo",
-      "gasolina",
-      "Reino Unido",
-      "Irã",
-      "Oriente Médio",
-      "Trump"
+      "cárcere privado",
+      "violência doméstica",
+      "prisão"
     ],
     "entidades": [],
-    "pessoas": [
-      "Donald Trump"
+    "pessoas": [],
+    "estados": [
+      "Espírito Santo"
     ],
+    "cidades": [
+      "Barra de São Francisco"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/08/01/idoso-de-79-anos-e-preso-por-ameacar-e-manter-esposa-em-carcere-privado-no-es.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "inscricoes-unesp",
+    "data": "2026-08-01",
+    "titulo": "Unesp abre inscrições para 800 vagas em cursos de especialização a distância",
+    "resumo": "A Universidade Estadual Paulista (Unesp) abriu inscrições para 800 vagas em cursos de especialização oferecidos na modalidade de Educação a Distância (EaD). As oportunidades são voltadas para as áreas de Educação e Gestão Pública Municipal. Os interessados podem se inscrever até a próxima quarta-feira (5).",
+    "categoria": "educacao",
+    "tags": [
+      "educação",
+      "especialização",
+      "ead"
+    ],
+    "entidades": [
+      "Unesp"
+    ],
+    "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Reino Unido",
-      "Irã",
-      "Estados Unidos"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-31-sarah-jessica-parker-ny",
-    "data": "2026-07-31",
-    "titulo": "Sarah Jessica Parker vista em Nova York com sacolas de marca brasileira",
-    "resumo": "A atriz Sarah Jessica Parker foi vista em Nova York ostentando sacolas de uma marca brasileira. A estrela de 'Sex and The City' apareceu com um look de verão que reflete seu estilo. A imagem chamou atenção pela presença da marca nacional em solo americano.",
-    "categoria": "cultura",
-    "tags": [
-      "Sarah Jessica Parker",
-      "moda",
-      "Nova York",
-      "Brasil",
-      "celebridades"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Sarah Jessica Parker"
-    ],
-    "estados": [
-      "Nova York"
-    ],
-    "cidades": [
-      "Nova York"
-    ],
-    "paises": [
-      "Estados Unidos",
       "Brasil"
     ],
     "importancia": 2,
     "fontes": [
       {
         "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/lifestyle/sarah-jessika-parker-e-flagrada-em-ny-com-sacolas-de-marca-brasileira/"
+        "url": "https://www.cnnbrasil.com.br/educacao/unesp-abre-inscricoes-para-800-vagas-em-cursos-de-especializacao-ead/"
       }
     ]
   },
   {
-    "id": "2026-07-31-ecowins",
-    "data": "2026-07-31",
-    "titulo": "Iniciativas ambientais transformam áreas e promovem biodiversidade",
-    "resumo": "Diversas iniciativas ambientais estão alcançando resultados positivos, transformando antigas áreas em refúgios naturais e promovendo a vida selvagem. Exemplos incluem a recuperação de zonas impactadas pela Guerra Fria e a utilização de tecnologia para conservação. Essas ações demonstram a capacidade de recuperação ambiental.",
-    "categoria": "meio-ambiente",
+    "id": "peixe-raro-alabama",
+    "data": "2026-08-01",
+    "titulo": "Peixe-demônio sem olhos encontrado no Alabama pode ser uma das espécies mais raras do mundo",
+    "resumo": "Um peixe translúcido e sem olhos, batizado de Demogorgonichthys arcanus, foi encontrado no Alabama, nos Estados Unidos. A espécie pode figurar entre as mais raras do planeta devido às suas características únicas e ao habitat restrito.",
+    "categoria": "ciencia",
     "tags": [
-      "meio ambiente",
-      "sustentabilidade",
-      "biodiversidade",
-      "iniciativas verdes"
+      "zoologia",
+      "espécie rara",
+      "descoberta"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Alabama"
+    ],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/ciencia/peixe-demonio-sem-olhos-pode-estar-entre-os-mais-raros-do-mundo/"
+      }
+    ]
+  },
+  {
+    "id": "mulheres-calor-mortalidade",
+    "data": "2026-08-01",
+    "titulo": "Ondas de calor matam mais mulheres, mas razões não são apenas biológicas",
+    "resumo": "Pesquisas indicam que mulheres morrem em maior número durante ondas de calor em diversos países. No entanto, especialistas apontam que fatores como idade, condições de trabalho e acesso desigual a descanso e recursos podem ser as principais causas da disparidade, e não apenas diferenças biológicas.",
+    "categoria": "saude",
+    "tags": [
+      "calor",
+      "mortalidade",
+      "mudanças climáticas"
     ],
     "entidades": [],
     "pessoas": [],
@@ -722,69 +404,273 @@
     "fontes": [
       {
         "nome": "DW",
-        "url": "https://www.dw.com/en/eco-wins-from-death-strip-to-nature-haven-and-other-green-surprises/a-78187601?maca=en-rss-en-all-1573-rdf"
+        "url": "https://www.dw.com/en/more-women-die-in-heatwaves-but-biology-isn-t-main-cause/a-78187451?maca=en-rss-en-all-1573-rdf"
       }
     ]
   },
   {
-    "id": "2026-07-31-gerente-agencia-golpe",
-    "data": "2026-07-31",
-    "titulo": "Ex-gerente de agência de turismo é preso por suspeita de golpe em Barretos",
-    "resumo": "Um ex-gerente de uma agência de turismo em Barretos, São Paulo, foi preso sob suspeita de furto qualificado, estelionato e falsificação de documentos. Ele é acusado de aplicar golpes em clientes da agência. A investigação policial apura os detalhes das fraudes.",
-    "categoria": "justica",
+    "id": "narrativas-influenciadores-dover",
+    "data": "2026-08-01",
+    "titulo": "Disputa de narrativas sobre 'invasão' em cidade costeira inglesa",
+    "resumo": "Influenciadores de direita e políticos promovem narrativas de uma suposta 'invasão' em Dover, uma cidade costeira inglesa, gerando debate sobre a realidade da situação. Enquanto alguns residentes sentem que a cidade está sendo explorada por criadores de conteúdo e políticos, outros afirmam que existe um problema genuíno a ser abordado.",
+    "categoria": "politica",
     "tags": [
-      "golpe",
-      "fraude",
-      "turismo",
-      "prisão",
-      "Barretos"
+      "migração",
+      "mídia social",
+      "narrativa"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Dover"
+    ],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/01/on-the-ground-dover-rightwing-influencers-invaded"
+      }
+    ]
+  },
+  {
+    "id": "declaracao-abandono-colorado",
+    "data": "2026-08-01",
+    "titulo": "Pequena cidade no Colorado é declarada abandonada após crise hídrica e renúncia de líderes",
+    "resumo": "A pequena cidade de Hartman, no sudeste do Colorado, foi declarada abandonada após a renúncia de todos os seus líderes locais. O encerramento das atividades públicas foi motivado por conflitos internos que agravaram uma crise no abastecimento de água potável.",
+    "categoria": "politica",
+    "tags": [
+      "crise hídrica",
+      "crise política",
+      "abandono"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [
-      "São Paulo"
+      "Colorado"
     ],
     "cidades": [
-      "Barretos"
+      "Hartman"
     ],
     "paises": [
-      "Brasil"
+      "Estados Unidos"
     ],
-    "importancia": 3,
+    "importancia": 2,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/31/ex-gerente-de-agencia-de-turismo-em-barretos-sp-e-preso-por-suspeita-de-golpe-em-clientes.ghtml"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/aug/01/hartman-colorado-town-abandoned"
       }
     ]
   },
   {
-    "id": "2026-07-31-poliana-rocha-indireta",
-    "data": "2026-07-31",
-    "titulo": "Poliana Rocha posta suposta indireta após vídeo de Vini Jr.",
-    "resumo": "Poliana Rocha, mãe do cantor Zé Felipe, fez uma publicação interpretada como uma indireta após um vídeo envolvendo o jogador Vini Jr. e José Leonardo ter circulado. A postagem de Rocha gerou comentários e especulações nas redes sociais sobre o motivo da publicação.",
-    "categoria": "cultura",
+    "id": "divulgacao-infracoes-detran-to",
+    "data": "2026-08-01",
+    "titulo": "Detran-TO publica lista de notificações de infrações e penalidades",
+    "resumo": "O Departamento Estadual de Trânsito do Tocantins (Detran-TO) publicou listas com notificações de infrações e penalidades em edições do Diário Oficial dos dias 30 e 31 de julho. As listas contêm as placas de veículos que foram multados e as informações podem ser acessadas no site do órgão.",
+    "categoria": "politica",
     "tags": [
-      "Poliana Rocha",
-      "Vini Jr.",
-      "indireta",
-      "celebridades",
-      "redes sociais"
+      "trânsito",
+      "multa",
+      "notificação"
+    ],
+    "entidades": [
+      "Detran-TO"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Tocantins"
+    ],
+    "cidades": [
+      "Palmas"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/to/tocantins/noticia/2026/08/01/detran-to-publica-lista-com-notificacoes-de-infracoes-e-penalidades-veja-placas.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "incendio-pizzaria-rio",
+    "data": "2026-08-01",
+    "titulo": "Incêndio atinge pizzaria premiada em Botafogo, Rio de Janeiro",
+    "resumo": "Um incêndio atingiu a pizzaria Ferro e Farinha, localizada em Botafogo, Zona Sul do Rio de Janeiro, na madrugada deste sábado (1º). O Corpo de Bombeiros foi acionado para combater as chamas. A pizzaria é conhecida por ter sido eleita a melhor da América Latina.",
+    "categoria": "economia",
+    "tags": [
+      "incêndio",
+      "restaurante",
+      "negócios"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Rio de Janeiro",
+      "Botafogo"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/01/incendio-atinge-pizzaria-em-botafogo.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "financiamento-missao-somalia",
+    "data": "2026-08-01",
+    "titulo": "Fim do financiamento dos EUA para missão da União Africana na Somália gera incertezas",
+    "resumo": "A missão de Apoio e Estabilização da União Africana na Somália (AUSSOM) enfrenta um futuro incerto com o anúncio dos Estados Unidos de retirar seu financiamento ao final deste ano. A missão tem como objetivo combater grupos extremistas como o Al Shabab, e a decisão americana pode comprometer suas operações.",
+    "categoria": "internacional",
+    "tags": [
+      "financiamento",
+      "segurança",
+      "missionário"
+    ],
+    "entidades": [
+      "União Africana",
+      "AUSSOM"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Somália",
+      "Estados Unidos"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "France 24",
+        "url": "https://www.france24.com/en/african-union-mission-in-somalia-in-question-after-us-funding-to-end"
+      }
+    ]
+  },
+  {
+    "id": "modi-perdoa-estudantes",
+    "data": "2026-08-01",
+    "titulo": "Primeiro-ministro indiano Narendra Modi diz perdoar estudantes que o criticaram",
+    "resumo": "O primeiro-ministro da Índia, Narendra Modi, declarou que perdoa os estudantes que o criticaram durante protestos recentes. Ele afirmou que os 'crianças enganadas' precisam ser 'mostradas o caminho certo', em meio a relatos de assédio e ataques contra manifestantes nas redes sociais por apoiadores de Modi.",
+    "categoria": "politica",
+    "tags": [
+      "protestos",
+      "liberdade de expressão",
+      "política interna"
     ],
     "entidades": [],
     "pessoas": [
-      "Poliana Rocha",
-      "Vini Jr.",
-      "José Leonardo"
+      "Narendra Modi"
     ],
     "estados": [],
     "cidades": [],
-    "paises": [],
+    "paises": [
+      "Índia"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/1/indias-modi-says-he-forgives-students-who-abused-him-in-cockroach-protests?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "trump-simula-defesa-missil",
+    "data": "2026-08-01",
+    "titulo": "Donald Trump simula intercepção de mísseis em discurso",
+    "resumo": "O ex-presidente dos Estados Unidos, Donald Trump, simulou a intercepção de mísseis em um discurso ao descrever a ação militar americana contra projéteis iranianos. A declaração ocorreu em meio a tensões e troca de ataques entre os EUA e o Irã, com menção a um ataque iraniano a uma base americana na Jordânia.",
+    "categoria": "politica",
+    "tags": [
+      "geopolítica",
+      "diplomacia",
+      "discurso"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Donald Trump"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos",
+      "Irã",
+      "Jordânia"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "fluminense-desfalques-vasco",
+    "data": "2026-08-01",
+    "titulo": "Fluminense tem desfalques na zaga para clássico contra o Vasco",
+    "resumo": "O técnico do Fluminense, Fernando Diniz, enfrenta problemas na defesa para o clássico contra o Vasco, válido pelas oitavas de final da Copa do Brasil. O zagueiro Thiago Silva é um dos jogadores que não estará à disposição da equipe para a partida.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "campeonato",
+      "time"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Fernando Diniz",
+      "Thiago Silva"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
     "importancia": 1,
     "fontes": [
       {
         "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/pop/celebridades/poliana-rocha-manda-suposta-indireta-apos-video-de-vini-jr-e-jose-leonardo/"
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/fluminense-tem-problemas-na-zaga-para-classico-contra-o-vasco/"
+      }
+    ]
+  },
+  {
+    "id": "ira-eua-guerra-limitada",
+    "data": "2026-08-01",
+    "titulo": "Análise sugere que guerra limitada com EUA seria vantajosa para o Irã",
+    "resumo": "Uma análise sugere que uma guerra limitada com os Estados Unidos poderia ser mais vantajosa para o Irã do que a paz, considerando o cenário geopolítico atual. O ataque iraniano a uma base americana na Jordânia marcou o fim de uma trégua no combate direto entre os dois países.",
+    "categoria": "internacional",
+    "tags": [
+      "geopolítica",
+      "relacionamento internacional",
+      "análise"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Irã",
+      "Estados Unidos",
+      "Jordânia"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mundo/noticia/2026/08/01/por-que-uma-guerra-limitada-com-eua-pode-ser-melhor-para-ira-do-que-a-paz.ghtml"
       }
     ]
   }
