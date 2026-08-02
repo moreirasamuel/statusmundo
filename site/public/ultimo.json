@@ -1,197 +1,510 @@
 [
   {
-    "id": "ataques-russia-ucrania",
-    "data": "2026-08-01",
-    "titulo": "Ataques russos deixam mortos em Kiev; Ucrânia afunda navio russo",
-    "resumo": "Ataques russos com mísseis balísticos na capital ucraniana Kiev resultaram em nove mortos e 22 feridos. Paralelamente, a Ucrânia relatou ter afundado um navio cargueiro russo em meio a intensificação dos conflitos. Ambos os lados têm escalado ataques de longo alcance nos últimos meses.",
+    "id": "2026-08-02-ataque-iran",
+    "data": "2026-08-02",
+    "titulo": "Trump cancela ataques militares contra o Irã após alertas e expectativa de acordo",
+    "resumo": "O presidente dos Estados Unidos, Donald Trump, anunciou o cancelamento de ataques militares planejados contra o Irã. Ele afirmou que a decisão foi baseada na expectativa de alcançar um acordo \"rapidamente\" sobre o programa nuclear iraniano e a reabertura do Estreito de Hormuz. Trump declarou que a suspensão também atendeu a pedidos do Irã e de outros países da região.",
     "categoria": "internacional",
     "tags": [
-      "guerra",
-      "ataque aéreo",
-      "conflito"
+      "trump",
+      "ira",
+      "acordo nuclear",
+      "geopolitica"
     ],
-    "entidades": [],
-    "pessoas": [],
+    "entidades": [
+      "Estados Unidos",
+      "Irã"
+    ],
+    "pessoas": [
+      "Donald Trump"
+    ],
     "estados": [],
-    "cidades": [
-      "Kiev"
-    ],
+    "cidades": [],
     "paises": [
-      "Rússia",
-      "Ucrânia"
+      "Estados Unidos",
+      "Irã"
     ],
     "importancia": 5,
     "fontes": [
       {
-        "nome": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran"
       },
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/ataque-da-russia-com-misseis-balisticos-deixa-mortos-em-kiev/"
-      },
-      {
-        "nome": "France 24",
-        "url": "https://www.france24.com/en/kyiv-9-dead-and-22-hurt-in-missile-attack"
+        "nome": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
       }
     ]
   },
   {
-    "id": "crise-migratoria-ceuta",
-    "data": "2026-08-01",
-    "titulo": "Crise migratória em Ceuta: milhares entram, muitos retornam; Espanha pede reunião da UE",
-    "resumo": "Milhares de migrantes cruzaram a fronteira para a cidade espanhola de Ceuta, no norte da África, a partir de Marrocos, em um fluxo migratório que superou a crise de 2021. Dezenas de mortes foram registradas durante a travessia. Espanha solicitou uma reunião de emergência com ministros da União Europeia para discutir a situação, com muitos migrantes já tendo retornado ao Marrocos.",
+    "id": "2026-08-02-acidente-salvador",
+    "data": "2026-08-02",
+    "titulo": "Carro cai de viaduto em Salvador e fica a centímetros da pista inferior",
+    "resumo": "Um carro caiu de um viaduto no bairro de Brotas, em Salvador, após derrubar uma mureta de proteção. O acidente ocorreu na manhã deste domingo e o veículo parou a poucos centímetros da pista inferior. Não há informações sobre feridos.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente",
+      "transito",
+      "salvador",
+      "bahia"
+    ],
+    "entidades": [
+      "Salvador"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Bahia"
+    ],
+    "cidades": [
+      "Salvador"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ba/bahia/noticia/2026/08/02/acidente-de-carro-em-salvador.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-02-ataque-fabrica-bombril",
+    "data": "2026-08-02",
+    "titulo": "Velórios de funcionários mortos em ataque em fábrica da Bombril ocorrem em SP",
+    "resumo": "Os velórios dos três funcionários mortos em um ataque com faca dentro da fábrica da Bombril, em São Bernardo do Campo, no ABC Paulista, acontecem neste domingo. As vítimas foram atacadas por um colega de trabalho. A Polícia investiga as circunstâncias do crime.",
+    "categoria": "seguranca",
+    "tags": [
+      "ataque",
+      "violencia",
+      "fabrica",
+      "sao bernardo do campo",
+      "bombril"
+    ],
+    "entidades": [
+      "Bombril"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "São Bernardo do Campo"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/02/velorios-de-funcionarios-mortos-em-ataque-na-fabrica-da-bombril-acontecem-neste-domingo-em-sao-bernardo-do-campo.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-02-voto-feminino-rn",
+    "data": "2026-08-02",
+    "titulo": "História do voto feminino no Brasil teve marcos inéditos no Rio Grande do Norte",
+    "resumo": "O Rio Grande do Norte foi pioneiro no Brasil e na América do Sul na luta pelo direito ao voto feminino. Cidadãs do estado têm uma representação singular na história do sufrágio feminino brasileiro, resistindo à misoginia histórica. A conquista do voto feminino foi um processo longo e desafiador.",
+    "categoria": "politica",
+    "tags": [
+      "voto feminino",
+      "historia",
+      "sufragio",
+      "rio grande do norte",
+      "politica"
+    ],
+    "entidades": [
+      "Rio Grande do Norte"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Rio Grande do Norte"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/historia-do-voto-mulheres-do-rn-tiveram-feitos-ineditos"
+      },
+      {
+        "nome": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/conquista-do-voto-feminino-no-brasil-resistiu-misoginia-historica"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-02-voo-delta-guarulhos",
+    "data": "2026-08-02",
+    "titulo": "Voo da Delta de Nova York para São Paulo desvia rota para Porto Rico",
+    "resumo": "Um voo da Delta Airlines com destino a São Paulo, partindo de Nova York, teve sua rota desviada para Porto Rico. A companhia aérea ainda não se pronunciou oficialmente sobre a mudança. O pouso estava previsto para ocorrer em Guarulhos neste domingo.",
     "categoria": "internacional",
     "tags": [
-      "migração",
+      "voo",
+      "delta airlines",
+      "aeroporto",
+      "sao paulo",
+      "guarulhos",
+      "nova york",
+      "porto rico"
+    ],
+    "entidades": [
+      "Delta Airlines"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [
+      "Nova York",
+      "São Paulo",
+      "Porto Rico",
+      "Guarulhos"
+    ],
+    "paises": [
+      "Estados Unidos",
+      "Brasil",
+      "Porto Rico"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/voo-da-delta-de-nova-york-para-sao-paulo-tem-rota-desvia-para-porto-rico/"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-02-presos-litoral-sp",
+    "data": "2026-08-02",
+    "titulo": "Suspeito de 'disk-drogas' e fraude bancária é preso no litoral de SP",
+    "resumo": "Um homem de 30 anos foi preso em Praia Grande, litoral de São Paulo, suspeito de tráfico de drogas e fraude bancária. Segundo a Polícia Civil, ele teria utilizado dados bancários de uma vítima para adquirir equipamentos eletrônicos. A identidade do suspeito não foi divulgada.",
+    "categoria": "seguranca",
+    "tags": [
+      "prisao",
+      "trafico de drogas",
+      "fraude bancaria",
+      "litoral de sp",
+      "praia grande"
+    ],
+    "entidades": [
+      "Polícia Civil"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "Praia Grande"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/02/suspeito-de-disk-drogas-e-fraude-bancaria-e-preso-no-litoral-de-sp.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-02-migrantes-ceuta",
+    "data": "2026-08-02",
+    "titulo": "Número de migrantes mortos ao tentar entrar em Ceuta sobe para 72",
+    "resumo": "O número de pessoas mortas ao tentar atravessar a nado a fronteira entre Marrocos e Ceuta, enclave espanhol no norte da África, subiu para 72. As autoridades locais atualizaram o balanço neste domingo. A Espanha tem auxiliado no resgate de imigrantes e instalado barreiras marítimas para tentar evitar novas chegadas.",
+    "categoria": "internacional",
+    "tags": [
+      "migracao",
       "fronteira",
-      "crise humanitária"
+      "ceuta",
+      "marrocos",
+      "espanha",
+      "mortes"
     ],
-    "entidades": [],
-    "pessoas": [
-      "Pedro Sánchez"
+    "entidades": [
+      "Espanha"
     ],
+    "pessoas": [],
     "estados": [],
     "cidades": [
       "Ceuta"
     ],
     "paises": [
-      "Espanha",
-      "Marrocos"
-    ],
-    "importancia": 5,
-    "fontes": [
-      {
-        "nome": "France 24",
-        "url": "https://www.france24.com/en/ceuta-2026-dwarfs-2021-migration-crisis"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing"
-      },
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss"
-      },
-      {
-        "nome": "France 24",
-        "url": "https://www.france24.com/en/ceuta-60-000-cross-the-border-57-died"
-      }
-    ]
-  },
-  {
-    "id": "incendios-florestais-europa",
-    "data": "2026-08-01",
-    "titulo": "Incêndios florestais atingem França, Grécia e Espanha; uso de aeronaves é crucial",
-    "resumo": "Um grande incêndio na região de Gironde, na França, foi contido após queimar cerca de 42.000 hectares, mas outros focos persistem em Grécia e Espanha. Aeronaves especializadas são essenciais no combate às chamas, carregando grandes volumes de água para áreas de difícil acesso. O calor extremo contribui para a propagação e reascensão de incêndios.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "incêndio",
-      "clima",
-      "combate a incêndio"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "França",
-      "Grécia",
+      "Marrocos",
       "Espanha"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/veja-como-avioes-e-helicopteros-ajudam-a-combater-os-incendios-florestais/"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco"
-      },
-      {
-        "nome": "France 24",
-        "url": "https://www.france24.com/en/france-major-wildfire-contained-but-uncontrolled"
+        "nome": "G1",
+        "url": "https://g1.globo.com/mundo/noticia/2026/08/02/sobe-para-72-numero-migrantes-mortos-ceuta.ghtml"
       }
     ]
   },
   {
-    "id": "conflito-etiopia-tigray",
-    "data": "2026-08-01",
-    "titulo": "Combates eclodem na região de Tigray, na Etiópia, com temor de nova guerra",
-    "resumo": "Confrontos eclodiram entre as Forças de Libertação do Povo Tigré (TPLF) e o exército federal etíope em uma área disputada na região de Tigray. A notícia gera preocupação devido ao histórico de conflito devastador entre 2020 e 2022, que resultou em 600.000 mortos e deixou a região ainda em recuperação. Tentativas de mediação internacional estão em andamento.",
-    "categoria": "internacional",
+    "id": "2026-08-02-violencia-bh",
+    "data": "2026-08-02",
+    "titulo": "Dois homens são baleados durante festa de aniversário em Belo Horizonte",
+    "resumo": "Dois homens foram baleados durante uma festa de aniversário no bairro Salgado Filho, em Belo Horizonte, na noite de sábado. As vítimas têm 28 e 34 anos. A Polícia Militar foi acionada e uma testemunha relatou informações sobre o suspeito. As investigações sobre a autoria e motivação do crime estão em curso.",
+    "categoria": "seguranca",
     "tags": [
-      "guerra civil",
-      "conflito armado",
-      "paz"
+      "violencia",
+      "baleados",
+      "festa",
+      "belo horizonte",
+      "minas gerais"
+    ],
+    "entidades": [
+      "Polícia Militar"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Belo Horizonte"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/08/02/homens-baleados-festa-aniversario-salgado-filho-bh.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-02-torneio-robotica-joao-pessoa",
+    "data": "2026-08-02",
+    "titulo": "João Pessoa sedia etapa regional de torneio mundial de robótica infantil",
+    "resumo": "João Pessoa sediou neste domingo uma etapa regional da FIRST LEGO League (FLL) Explore, um torneio internacional de robótica voltado para crianças de 6 a 10 anos. Participaram 185 estudantes. O evento celebra a inovação e o aprendizado em ciência e tecnologia para os mais jovens.",
+    "categoria": "educacao",
+    "tags": [
+      "robotica",
+      "torneio",
+      "educacao",
+      "infantil",
+      "joao pessoa",
+      "paraiba",
+      "first lego league"
+    ],
+    "entidades": [
+      "FIRST LEGO League"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Paraíba"
+    ],
+    "cidades": [
+      "João Pessoa"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/08/02/joao-pessoa-sedia-etapa-regional-de-torneio-mundial-de-robotica-com-alunos-de-6-a-10-anos.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-02-influenciadora-ia",
+    "data": "2026-08-02",
+    "titulo": "Mulheres de TV de MG criam influenciadora digital com ajuda de IA",
+    "resumo": "Profissionais da TV Integração, em Minas Gerais, criaram uma influenciadora digital utilizando inteligência artificial (IA). A personagem, batizada de Mavi, nasceu em Uberlândia e tem paisagens de Juiz de Fora como cenário. A iniciativa explora as novas tecnologias na criação de conteúdo.",
+    "categoria": "cultura",
+    "tags": [
+      "inteligencia artificial",
+      "influenciadora digital",
+      "midia",
+      "minas gerais",
+      "tv"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [
-      "Tigray"
+      "Minas Gerais"
     ],
-    "cidades": [],
+    "cidades": [
+      "Uberlândia",
+      "Juiz de Fora"
+    ],
     "paises": [
-      "Etiópia"
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/02/mulheres-da-tv-integracao-criam-influenciadora-digital-com-ajuda-de-ia-conheca-a-mavi.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-02-troca-combustivel-tap",
+    "data": "2026-08-02",
+    "titulo": "Avião da TAP de Lisboa para Curitiba faz pouso de emergência em Portugal",
+    "resumo": "Um avião da TAP, que viajava de Lisboa para Curitiba, realizou um pouso de emergência em Portugal. A aeronave Airbus A330-200 teve que retornar após uma emergência por despressurização. A tripulação realizou manobras para aliviar o peso antes do pouso.",
+    "categoria": "internacional",
+    "tags": [
+      "aviao",
+      "tap",
+      "emergencia",
+      "despressurizacao",
+      "lisboa",
+      "curitiba",
+      "portugal"
+    ],
+    "entidades": [
+      "TAP"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Paraná"
+    ],
+    "cidades": [
+      "Lisboa",
+      "Curitiba"
+    ],
+    "paises": [
+      "Portugal",
+      "Brasil"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "France 24",
-        "url": "https://www.france24.com/en/africa-fighting-erupts-in-ethiopia-s-tigray"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/aviao-da-tap-de-lisboa-para-curitiba-tem-emergencia-por-despressurizacao/"
       }
     ]
   },
   {
-    "id": "crime-casal-idosos-mg",
-    "data": "2026-08-01",
-    "titulo": "Justiça aceita denúncia contra diarista suspeita de matar casal de idosos em Minas Gerais",
-    "resumo": "A justiça aceitou a denúncia contra uma diarista suspeita de matar seus patrões, um casal de idosos, a facadas em Minas Gerais. Além dela, outras quatro pessoas foram indiciadas por envolvimento no crime, possivelmente por receptação de bens. A investigação busca esclarecer os detalhes do assassinato múltiplo.",
-    "categoria": "justica",
+    "id": "2026-08-02-michele-hospital",
+    "data": "2026-08-02",
+    "titulo": "Michele Bolsonaro posta foto no hospital após crises de enxaqueca",
+    "resumo": "Michele Bolsonaro postou uma foto em um hospital, informando sobre crises de enxaqueca. O Ministro Alexandre de Moraes autorizou a visita de sua cunhada durante os exames da ex-primeira-dama. A postagem gerou repercussão nas redes sociais.",
+    "categoria": "politica",
     "tags": [
-      "homicídio",
-      "crime",
-      "investigação"
+      "michele bolsonaro",
+      "hospital",
+      "enxaqueca",
+      "politica"
     ],
     "entidades": [],
     "pessoas": [
-      "Paola Stefany Neto Cirino"
+      "Michele Bolsonaro",
+      "Alexandre de Moraes"
     ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/michelle-posta-foto-no-hospital-apos-relato-de-crises-de-enxaqueca/"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-02-casamento-eduardo-leite",
+    "data": "2026-08-02",
+    "titulo": "Governador Eduardo Leite confirma separação de médico Thalis Bolzan",
+    "resumo": "O governador do Rio Grande do Sul, Eduardo Leite (PSD), confirmou o fim de seu relacionamento com o médico Thalis Bolzan. A união estável, oficializada no início de 2024, chegou ao fim. O relacionamento se tornou público após um período.",
+    "categoria": "politica",
+    "tags": [
+      "eduardo leite",
+      "separacao",
+      "relacionamento",
+      "politica",
+      "rio grande do sul"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Eduardo Leite",
+      "Thalis Bolzan"
+    ],
+    "estados": [
+      "Rio Grande do Sul"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/02/eduardo-leite-confirma-separacao-de-medico-thalis-bolzan.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-02-atentado-moscou",
+    "data": "2026-08-02",
+    "titulo": "Explosão em restaurante de Moscou é classificada como 'brutal ataque terrorista'",
+    "resumo": "O prefeito de Moscou, Sergei Sobyanin, classificou a explosão ocorrida em um restaurante na Praça Kudrinskaya como um \"brutal ataque terrorista\". Ele prometeu que os responsáveis serão punidos. As autoridades continuam investigando o incidente, e muitas perguntas permanecem em aberto.",
+    "categoria": "seguranca",
+    "tags": [
+      "ataque terrorista",
+      "explosao",
+      "moscou",
+      "russia",
+      "seguranca"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Sergei Sobyanin"
+    ],
+    "estados": [],
+    "cidades": [
+      "Moscou"
+    ],
+    "paises": [
+      "Rússia"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "DW",
+        "url": "https://www.dw.com/en/moscow-restaurant-blast-a-brutal-terror-attack-mayor-says/a-78205022?maca=en-rss-en-all-1573-rdf"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-02-acidentes-motos-juiz-fora",
+    "data": "2026-08-02",
+    "titulo": "Mais de 60% dos acidentes com motos em Juiz de Fora resultam em vítimas",
+    "resumo": "Seis em cada dez acidentes envolvendo motocicletas em Juiz de Fora, Minas Gerais, deixaram vítimas no primeiro semestre de 2026. A Avenida JK lidera o número de ocorrências de trânsito na cidade. Os dados são da Secretaria de Estado de Justiça e Segurança Pública (Sejusp).",
+    "categoria": "seguranca",
+    "tags": [
+      "acidentes de transito",
+      "motos",
+      "vitimas",
+      "juiz de fora",
+      "minas gerais",
+      "seguranca"
+    ],
+    "entidades": [
+      "Secretaria de Estado de Justiça e Segurança Pública (Sejusp)"
+    ],
+    "pessoas": [],
     "estados": [
       "Minas Gerais"
     ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/justica-aceita-denuncia-contra-diarista-suspeita-de-matar-casal-de-idosos/"
-      }
-    ]
-  },
-  {
-    "id": "acidentes-transito-brasil",
-    "data": "2026-08-01",
-    "titulo": "Acidentes de trânsito em Pernambuco e Goiás resultam em mortes",
-    "resumo": "Um motociclista de 53 anos morreu após ser atingido por um carro na BR-428, na zona rural de Petrolina, Pernambuco. Em Goiás, um acidente na GO-139 causou a morte de quatro pessoas, que estariam aproveitando os últimos dias de férias em família. As autoridades investigam as causas dos acidentes.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente",
-      "morte",
-      "rodovia"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Pernambuco",
-      "Goiás"
-    ],
     "cidades": [
-      "Petrolina"
+      "Juiz de Fora"
     ],
     "paises": [
       "Brasil"
@@ -200,200 +513,183 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/08/01/motociclista-de-53-anos-morre-apos-ser-atingido-por-carro-na-br-428-em-petrolina.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/go/goias/noticia/2026/08/01/acidente-que-matou-quatro-pessoas-na-go-139-vitimas-iam-aproveitar-os-ultimos-dias-de-ferias-com-a-familia-diz-tia.ghtml"
+        "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/08/02/mais-de-60percent-dos-acidentes-com-motos-deixam-vitimas-em-juiz-de-fora.ghtml"
       }
     ]
   },
   {
-    "id": "reflorestamento-filipinas",
-    "data": "2026-08-01",
-    "titulo": "Falha no reflorestamento nas Filipinas levanta questionamentos sobre programas de recuperação",
-    "resumo": "Um programa ambicioso de reflorestamento nas Filipinas tem falhado em reverter o desmatamento, gerando preocupação sobre a eficácia das iniciativas para a conservação das florestas do país. A investigação aponta para possíveis falhas na execução e gestão dos programas de recuperação ecológica.",
-    "categoria": "meio-ambiente",
+    "id": "2026-08-02-fogo-ferry-indonesia",
+    "data": "2026-08-02",
+    "titulo": "Cinco mortos e 41 desaparecidos após incêndio em ferry na Indonésia",
+    "resumo": "Cinco pessoas morreram e 41 estão desaparecidas após um incêndio em um ferry que transportava pelo menos 250 pessoas na costa da ilha de Madura, na Indonésia. As operações de resgate estão em andamento. As causas do incêndio ainda estão sob investigação.",
+    "categoria": "internacional",
     "tags": [
-      "desmatamento",
-      "reflorestamento",
-      "conservação"
+      "incendio",
+      "ferry",
+      "naufragio",
+      "indonesia",
+      "madura",
+      "resgate"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Filipinas"
+      "Indonésia"
     ],
-    "importancia": 2,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/101-east/2026/8/1/vanishing-forests-why-is-the-philippines-failing-at-reforestation?traffic_source=rss"
+        "nome": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss"
       }
     ]
   },
   {
-    "id": "fuga-prisao-natal",
-    "data": "2026-08-01",
-    "titulo": "Três presos recapturados após fuga em penitenciária na Grande Natal; sete seguem foragidos",
-    "resumo": "Três detentos que fugiram de uma penitenciária na Grande Natal foram recapturados. Outros sete indivíduos ainda estão foragidos após a fuga que ocorreu entre a noite de sexta-feira e a madrugada de sábado. As forças de segurança continuam as buscas pelos demais foragidos.",
-    "categoria": "seguranca",
+    "id": "2026-08-02-trump-base-desiludida",
+    "data": "2026-08-02",
+    "titulo": "Análise: Base de Trump demonstra desilusão com decisões recentes",
+    "resumo": "Uma nova pesquisa da CNN indica que uma parte significativa dos apoiadores do ex-presidente americano Donald Trump se sente desiludida com decisões recentes. A análise sugere um cenário de crescente insatisfação dentro de sua base eleitoral. Os resultados apontam para um desafio em manter o engajamento de seus seguidores.",
+    "categoria": "politica",
     "tags": [
-      "fuga",
-      "prisão",
-      "recompra"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio Grande do Norte"
-    ],
-    "cidades": [
-      "Natal"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/01/mais-tres-presos-sao-recapturados-apos-fuga-em-penitenciaria-na-grande-natal-sete-seguem-foragidos.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "condenacao-cuiaba",
-    "data": "2026-08-01",
-    "titulo": "Homem condenado a 36 anos por duplo homicídio em Cuiabá",
-    "resumo": "Carlos Alberto Gomes Bezerra foi condenado a 36 anos de reclusão em regime fechado pelo Tribunal do Júri de Cuiabá. Ele é acusado de assassinar a ex-companheira Thays Machado e o namorado dela, Willian César Moreno. O julgamento ocorreu após três anos do crime.",
-    "categoria": "justica",
-    "tags": [
-      "homicídio",
-      "condenação",
-      "tribunal do júri"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Carlos Alberto Gomes Bezerra",
-      "Thays Machado",
-      "Willian César Moreno"
-    ],
-    "estados": [
-      "Mato Grosso"
-    ],
-    "cidades": [
-      "Cuiabá"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/01/tres-anos-apos-o-crime-carlinhos-bezerra-e-condenado-a-36-anos-por-matar-ex-companheira-e-o-namorado-dela-em-cuiaba.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "prisao-carcere-privado-es",
-    "data": "2026-08-01",
-    "titulo": "Idoso é preso por manter esposa em cárcere privado no Espírito Santo",
-    "resumo": "Um idoso de 79 anos foi preso no Espírito Santo sob a acusação de manter sua esposa, de 70 anos, em cárcere privado. A vítima foi resgatada pela Polícia Civil em Barra de São Francisco. O suspeito também é acusado de ameaçar a esposa. A Polícia Civil investiga o caso.",
-    "categoria": "justica",
-    "tags": [
-      "cárcere privado",
-      "violência doméstica",
-      "prisão"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Espírito Santo"
-    ],
-    "cidades": [
-      "Barra de São Francisco"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/08/01/idoso-de-79-anos-e-preso-por-ameacar-e-manter-esposa-em-carcere-privado-no-es.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "inscricoes-unesp",
-    "data": "2026-08-01",
-    "titulo": "Unesp abre inscrições para 800 vagas em cursos de especialização a distância",
-    "resumo": "A Universidade Estadual Paulista (Unesp) abriu inscrições para 800 vagas em cursos de especialização oferecidos na modalidade de Educação a Distância (EaD). As oportunidades são voltadas para as áreas de Educação e Gestão Pública Municipal. Os interessados podem se inscrever até a próxima quarta-feira (5).",
-    "categoria": "educacao",
-    "tags": [
-      "educação",
-      "especialização",
-      "ead"
+      "trump",
+      "eleicao",
+      "pesquisa",
+      "politica",
+      "estados unidos"
     ],
     "entidades": [
-      "Unesp"
+      "CNN"
     ],
-    "pessoas": [],
+    "pessoas": [
+      "Trump"
+    ],
     "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/educacao/unesp-abre-inscricoes-para-800-vagas-em-cursos-de-especializacao-ead/"
-      }
-    ]
-  },
-  {
-    "id": "peixe-raro-alabama",
-    "data": "2026-08-01",
-    "titulo": "Peixe-demônio sem olhos encontrado no Alabama pode ser uma das espécies mais raras do mundo",
-    "resumo": "Um peixe translúcido e sem olhos, batizado de Demogorgonichthys arcanus, foi encontrado no Alabama, nos Estados Unidos. A espécie pode figurar entre as mais raras do planeta devido às suas características únicas e ao habitat restrito.",
-    "categoria": "ciencia",
-    "tags": [
-      "zoologia",
-      "espécie rara",
-      "descoberta"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Alabama"
-    ],
     "cidades": [],
     "paises": [
       "Estados Unidos"
     ],
-    "importancia": 2,
+    "importancia": 3,
     "fontes": [
       {
         "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/ciencia/peixe-demonio-sem-olhos-pode-estar-entre-os-mais-raros-do-mundo/"
+        "url": "https://www.cnnbrasil.com.br/internacional/analise-coisas-vao-de-mal-a-pior-para-trump-e-sua-base/"
       }
     ]
   },
   {
-    "id": "mulheres-calor-mortalidade",
-    "data": "2026-08-01",
-    "titulo": "Ondas de calor matam mais mulheres, mas razões não são apenas biológicas",
-    "resumo": "Pesquisas indicam que mulheres morrem em maior número durante ondas de calor em diversos países. No entanto, especialistas apontam que fatores como idade, condições de trabalho e acesso desigual a descanso e recursos podem ser as principais causas da disparidade, e não apenas diferenças biológicas.",
-    "categoria": "saude",
+    "id": "2026-08-02-corrida-desafio-ponte",
+    "data": "2026-08-02",
+    "titulo": "Desafio da Ponte 2026 reúne 8 mil corredores no Rio de Janeiro",
+    "resumo": "Cerca de 8 mil corredores participaram neste domingo do Desafio da Ponte 2026, uma corrida de rua que atravessa a Ponte Rio-Niterói. A largada ocorreu em Niterói pela manhã. O trânsito na região foi normalizado após o evento.",
+    "categoria": "esportes",
     "tags": [
-      "calor",
-      "mortalidade",
-      "mudanças climáticas"
+      "corrida",
+      "desafio da ponte",
+      "rio de janeiro",
+      "niteroi",
+      "esportes"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Rio de Janeiro",
+      "Niterói"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/02/desafio-da-ponte-2026-transito-sera-normalizado-a-partir-de-meio-dia-veja-fotos-da-corrida.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-02-furto-diarista",
+    "data": "2026-08-02",
+    "titulo": "Diarista é presa após furtar R$ 1,6 mil de patrão que anotou números de série",
+    "resumo": "Uma diarista de 47 anos foi presa em flagrante em Patos de Minas, Minas Gerais, após furtar aproximadamente R$ 1,6 mil do apartamento onde trabalhava. O patrão desconfiou do sumiço do dinheiro e anotou os números de série das cédulas. A mulher confessou o crime.",
+    "categoria": "seguranca",
+    "tags": [
+      "furto",
+      "prisao",
+      "diarista",
+      "patos de minas",
+      "minas gerais"
+    ],
+    "entidades": [
+      "Polícia Militar"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Patos de Minas"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/02/diarista-furtou-r-16-mil-de-patrao-que-descobriu-o-crime-apos-anotar-numeros-de-serie-de-cedulas-diz-pm.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-02-indigenas-argentina",
+    "data": "2026-08-02",
+    "titulo": "Grupos indígenas protestam contra plano de Milei de abrir Argentina a compradores estrangeiros",
+    "resumo": "Grupos indígenas protestaram em Buenos Aires contra um projeto de lei que visa abrir a Argentina à propriedade estrangeira de terras rurais. Os manifestantes expressaram oposição à medida proposta pelo governo de Javier Milei. A discussão sobre a venda de terras para investidores estrangeiros gera controvérsia.",
+    "categoria": "politica",
+    "tags": [
+      "indigenas",
+      "protesto",
+      "argentina",
+      "milei",
+      "terras rurais",
+      "politica"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Milei"
+    ],
+    "estados": [],
+    "cidades": [
+      "Buenos Aires"
+    ],
+    "paises": [
+      "Argentina"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-02-negocios-networking",
+    "data": "2026-08-02",
+    "titulo": "Estudo aponta importância do networking para transformar relações em negócios",
+    "resumo": "Uma decisão comum entre empresários é ter um amigo para manter uma sociedade, representando 29% das escolhas. O networking se destaca como ferramenta fundamental para transformar relações em negócios reais. A pesquisa indica que conexões pessoais são cruciais no mundo corporativo.",
+    "categoria": "economia",
+    "tags": [
+      "networking",
+      "negocios",
+      "empreendedorismo",
+      "economia",
+      "relacoes"
     ],
     "entidades": [],
     "pessoas": [],
@@ -403,274 +699,196 @@
     "importancia": 2,
     "fontes": [
       {
-        "nome": "DW",
-        "url": "https://www.dw.com/en/more-women-die-in-heatwaves-but-biology-isn-t-main-cause/a-78187451?maca=en-rss-en-all-1573-rdf"
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/negocios/economia-das-relacoes-como-transformar-networking-em-negocios-reais/"
       }
     ]
   },
   {
-    "id": "narrativas-influenciadores-dover",
-    "data": "2026-08-01",
-    "titulo": "Disputa de narrativas sobre 'invasão' em cidade costeira inglesa",
-    "resumo": "Influenciadores de direita e políticos promovem narrativas de uma suposta 'invasão' em Dover, uma cidade costeira inglesa, gerando debate sobre a realidade da situação. Enquanto alguns residentes sentem que a cidade está sendo explorada por criadores de conteúdo e políticos, outros afirmam que existe um problema genuíno a ser abordado.",
-    "categoria": "politica",
+    "id": "2026-08-02-cantor-road-movie",
+    "data": "2026-08-02",
+    "titulo": "Cantor estreia em road movie que exalta música e belezas do Pantanal",
+    "resumo": "O cantor sul-mato-grossense André Stábile estreia como ator no cinema no longa-metragem \"Filhos do Litoral Central\". O filme, que teve sua premiere no Bonito Cinesur, exalta a música e as belezas naturais do Pantanal. A obra busca promover a cultura local.",
+    "categoria": "cultura",
     "tags": [
-      "migração",
-      "mídia social",
-      "narrativa"
+      "cinema",
+      "musica",
+      "pantanal",
+      "road movie",
+      "mato grosso do sul",
+      "ator",
+      "estreia"
     ],
     "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Dover"
+    "pessoas": [
+      "André Stábile"
     ],
-    "paises": [
-      "Reino Unido"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/01/on-the-ground-dover-rightwing-influencers-invaded"
-      }
-    ]
-  },
-  {
-    "id": "declaracao-abandono-colorado",
-    "data": "2026-08-01",
-    "titulo": "Pequena cidade no Colorado é declarada abandonada após crise hídrica e renúncia de líderes",
-    "resumo": "A pequena cidade de Hartman, no sudeste do Colorado, foi declarada abandonada após a renúncia de todos os seus líderes locais. O encerramento das atividades públicas foi motivado por conflitos internos que agravaram uma crise no abastecimento de água potável.",
-    "categoria": "politica",
-    "tags": [
-      "crise hídrica",
-      "crise política",
-      "abandono"
-    ],
-    "entidades": [],
-    "pessoas": [],
     "estados": [
-      "Colorado"
+      "Mato Grosso do Sul"
     ],
-    "cidades": [
-      "Hartman"
-    ],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/2026/aug/01/hartman-colorado-town-abandoned"
-      }
-    ]
-  },
-  {
-    "id": "divulgacao-infracoes-detran-to",
-    "data": "2026-08-01",
-    "titulo": "Detran-TO publica lista de notificações de infrações e penalidades",
-    "resumo": "O Departamento Estadual de Trânsito do Tocantins (Detran-TO) publicou listas com notificações de infrações e penalidades em edições do Diário Oficial dos dias 30 e 31 de julho. As listas contêm as placas de veículos que foram multados e as informações podem ser acessadas no site do órgão.",
-    "categoria": "politica",
-    "tags": [
-      "trânsito",
-      "multa",
-      "notificação"
-    ],
-    "entidades": [
-      "Detran-TO"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Tocantins"
-    ],
-    "cidades": [
-      "Palmas"
-    ],
+    "cidades": [],
     "paises": [
       "Brasil"
     ],
-    "importancia": 1,
+    "importancia": 3,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/to/tocantins/noticia/2026/08/01/detran-to-publica-lista-com-notificacoes-de-infracoes-e-penalidades-veja-placas.ghtml"
+        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/02/cantor-estreia-como-protagonista-em-road-movie-que-exalta-a-musica-e-as-belezas-do-pantanal.ghtml"
       }
     ]
   },
   {
-    "id": "incendio-pizzaria-rio",
-    "data": "2026-08-01",
-    "titulo": "Incêndio atinge pizzaria premiada em Botafogo, Rio de Janeiro",
-    "resumo": "Um incêndio atingiu a pizzaria Ferro e Farinha, localizada em Botafogo, Zona Sul do Rio de Janeiro, na madrugada deste sábado (1º). O Corpo de Bombeiros foi acionado para combater as chamas. A pizzaria é conhecida por ter sido eleita a melhor da América Latina.",
-    "categoria": "economia",
+    "id": "2026-08-02-ensina-brasil-trainee",
+    "data": "2026-08-02",
+    "titulo": "Ensina Brasil abre inscrições para programa de trainee focado em liderança e educação",
+    "resumo": "O programa Ensina Brasil abriu inscrições para seu processo seletivo de trainee, com foco em desenvolvimento de liderança e atuação na área da educação. Podem se candidatar formados entre dezembro de 2021 e janeiro de 2027 em cursos de bacharelado ou licenciatura. A iniciativa busca novos talentos para o setor educacional.",
+    "categoria": "educacao",
     "tags": [
-      "incêndio",
-      "restaurante",
-      "negócios"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Rio de Janeiro",
-      "Botafogo"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/01/incendio-atinge-pizzaria-em-botafogo.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "financiamento-missao-somalia",
-    "data": "2026-08-01",
-    "titulo": "Fim do financiamento dos EUA para missão da União Africana na Somália gera incertezas",
-    "resumo": "A missão de Apoio e Estabilização da União Africana na Somália (AUSSOM) enfrenta um futuro incerto com o anúncio dos Estados Unidos de retirar seu financiamento ao final deste ano. A missão tem como objetivo combater grupos extremistas como o Al Shabab, e a decisão americana pode comprometer suas operações.",
-    "categoria": "internacional",
-    "tags": [
-      "financiamento",
-      "segurança",
-      "missionário"
+      "ensina brasil",
+      "trainee",
+      "educacao",
+      "lideranca",
+      "processo seletivo"
     ],
     "entidades": [
-      "União Africana",
-      "AUSSOM"
+      "Ensina Brasil"
     ],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Somália",
-      "Estados Unidos"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "France 24",
-        "url": "https://www.france24.com/en/african-union-mission-in-somalia-in-question-after-us-funding-to-end"
-      }
-    ]
-  },
-  {
-    "id": "modi-perdoa-estudantes",
-    "data": "2026-08-01",
-    "titulo": "Primeiro-ministro indiano Narendra Modi diz perdoar estudantes que o criticaram",
-    "resumo": "O primeiro-ministro da Índia, Narendra Modi, declarou que perdoa os estudantes que o criticaram durante protestos recentes. Ele afirmou que os 'crianças enganadas' precisam ser 'mostradas o caminho certo', em meio a relatos de assédio e ataques contra manifestantes nas redes sociais por apoiadores de Modi.",
-    "categoria": "politica",
-    "tags": [
-      "protestos",
-      "liberdade de expressão",
-      "política interna"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Narendra Modi"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Índia"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/8/1/indias-modi-says-he-forgives-students-who-abused-him-in-cockroach-protests?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "trump-simula-defesa-missil",
-    "data": "2026-08-01",
-    "titulo": "Donald Trump simula intercepção de mísseis em discurso",
-    "resumo": "O ex-presidente dos Estados Unidos, Donald Trump, simulou a intercepção de mísseis em um discurso ao descrever a ação militar americana contra projéteis iranianos. A declaração ocorreu em meio a tensões e troca de ataques entre os EUA e o Irã, com menção a um ataque iraniano a uma base americana na Jordânia.",
-    "categoria": "politica",
-    "tags": [
-      "geopolítica",
-      "diplomacia",
-      "discurso"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Donald Trump"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos",
-      "Irã",
-      "Jordânia"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "fluminense-desfalques-vasco",
-    "data": "2026-08-01",
-    "titulo": "Fluminense tem desfalques na zaga para clássico contra o Vasco",
-    "resumo": "O técnico do Fluminense, Fernando Diniz, enfrenta problemas na defesa para o clássico contra o Vasco, válido pelas oitavas de final da Copa do Brasil. O zagueiro Thiago Silva é um dos jogadores que não estará à disposição da equipe para a partida.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "campeonato",
-      "time"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Fernando Diniz",
-      "Thiago Silva"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
       "Brasil"
     ],
-    "importancia": 1,
+    "importancia": 2,
     "fontes": [
       {
         "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/fluminense-tem-problemas-na-zaga-para-classico-contra-o-vasco/"
+        "url": "https://www.cnnbrasil.com.br/educacao/ensina-brasil-abre-inscricoes-para-trainee-focado-em-lideranca-e-educacao/"
       }
     ]
   },
   {
-    "id": "ira-eua-guerra-limitada",
-    "data": "2026-08-01",
-    "titulo": "Análise sugere que guerra limitada com EUA seria vantajosa para o Irã",
-    "resumo": "Uma análise sugere que uma guerra limitada com os Estados Unidos poderia ser mais vantajosa para o Irã do que a paz, considerando o cenário geopolítico atual. O ataque iraniano a uma base americana na Jordânia marcou o fim de uma trégua no combate direto entre os dois países.",
+    "id": "2026-08-02-sonho-mar-parkinson",
+    "data": "2026-08-02",
+    "titulo": "Mulher com Parkinson realiza sonho de ver o mar com cadeira adaptada",
+    "resumo": "Aos 64 anos e com diagnóstico de Parkinson, Arilda Gonzaga de Assis realizou o sonho de andar de avião e ver o mar pela primeira vez com o auxílio de uma cadeira adaptada. Ela contou com o apoio das filhas para concretizar seus desejos. A história destaca a superação e a busca pela realização pessoal.",
+    "categoria": "cultura",
+    "tags": [
+      "superacao",
+      "sonho",
+      "parkinson",
+      "viagem",
+      "mar",
+      "mato grosso do sul"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Mato Grosso do Sul"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/02/com-64-anos-e-parkinson-mulher-anda-de-aviao-e-realiza-sonho-de-ver-o-mar-com-cadeira-adaptada.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-02-sabonetes-artesanais-piaui",
+    "data": "2026-08-02",
+    "titulo": "Engenheira transforma hobby em negócio de sabonetes artesanais no Piauí",
+    "resumo": "Cristina Lima, engenheira civil de 46 anos, transformou seu hobby de criar sabonetes artesanais em um negócio de sucesso no Piauí. Ela produz peças em formatos de frutas e doces. A empreendedora retomou a produção durante a pandemia e expandiu seu empreendimento com participação em feiras.",
+    "categoria": "economia",
+    "tags": [
+      "empreendedorismo",
+      "artesanato",
+      "sabonetes",
+      "negocio",
+      "piaui",
+      "engenheira"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Piauí"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/02/engenheira-sabonetes-formatos-frutas-doces.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-02-refugiado-sudanes-espanha",
+    "data": "2026-08-02",
+    "titulo": "Jovem refugiado do Sudão reconstrói a vida na Espanha enquanto guerra o afasta da família",
+    "resumo": "Um jovem refugiado do Sudão está reconstruindo sua vida na Espanha, mas a guerra em seu país natal o mantém afastado da família. A história acompanha os desafios e as esperanças de quem busca um novo lar longe do conflito. A situação ressalta as dificuldades enfrentadas por refugiados.",
     "categoria": "internacional",
     "tags": [
-      "geopolítica",
-      "relacionamento internacional",
-      "análise"
+      "refugiado",
+      "sudao",
+      "espanha",
+      "guerra",
+      "familia",
+      "historias"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Irã",
-      "Estados Unidos",
-      "Jordânia"
+      "Sudão",
+      "Espanha"
     ],
-    "importancia": 1,
+    "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/08/01/por-que-uma-guerra-limitada-com-eua-pode-ser-melhor-para-ira-do-que-a-paz.ghtml"
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-02-ben-gvir-prisioneiro",
+    "data": "2026-08-02",
+    "titulo": "Ministro israelense Ben-Gvir ironiza detento palestino sobre condições prisionais",
+    "resumo": "O ministro israelense Itamar Ben-Gvir ironizou um detento palestino em relação às condições de sua prisão. O incidente ocorreu em um contexto de tensões e preocupações com os direitos humanos. As declarações de Ben-Gvir geraram críticas.",
+    "categoria": "politica",
+    "tags": [
+      "ben gvir",
+      "israel",
+      "palestina",
+      "detento",
+      "condicoes prisionais",
+      "politica"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Ben-Gvir"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Israel",
+      "Palestina"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ben-gvir-mocks-palestinian-detainee-over-prison-conditions?traffic_source=rss"
       }
     ]
   }
