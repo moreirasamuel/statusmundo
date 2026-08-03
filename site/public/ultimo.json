@@ -1,273 +1,146 @@
 [
   {
-    "id": "2026-08-02-ataque-iran",
-    "data": "2026-08-02",
-    "titulo": "Trump cancela ataques militares contra o Irã após alertas e expectativa de acordo",
-    "resumo": "O presidente dos Estados Unidos, Donald Trump, anunciou o cancelamento de ataques militares planejados contra o Irã. Ele afirmou que a decisão foi baseada na expectativa de alcançar um acordo \"rapidamente\" sobre o programa nuclear iraniano e a reabertura do Estreito de Hormuz. Trump declarou que a suspensão também atendeu a pedidos do Irã e de outros países da região.",
-    "categoria": "internacional",
+    "id": "2026-08-03-ondas-de-calor-coreia-gaza-europa",
+    "data": "2026-08-03",
+    "titulo": "Ondas de Calor Atingem Coreias, Gaza e Sudeste Europeu",
+    "resumo": "Uma onda de calor recorde afeta a Coreia do Sul e a Coreia do Norte, com relatos de moradores buscando alívio em praias. Na região de Gaza, o calor agrava o sofrimento da população palestina. Enquanto isso, o sudeste da Europa enfrenta uma crise energética devido ao calor extremo, com a Romênia tomando medidas para aumentar o fluxo de água para usinas nucleares.",
+    "categoria": "meio-ambiente",
     "tags": [
-      "trump",
-      "ira",
-      "acordo nuclear",
-      "geopolitica"
+      "onda de calor",
+      "temperaturas extremas",
+      "energia",
+      "Gaza",
+      "Coreias",
+      "Europa"
     ],
-    "entidades": [
-      "Estados Unidos",
-      "Irã"
-    ],
-    "pessoas": [
-      "Donald Trump"
-    ],
+    "entidades": [],
+    "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Estados Unidos",
-      "Irã"
+      "Coreia do Norte",
+      "Coreia do Sul",
+      "Palestina",
+      "Romênia"
     ],
     "importancia": 5,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran"
+        "nome": "G1",
+        "url": "https://g1.globo.com/mundo/noticia/2026/08/03/coreias-do-sul-e-do-norte-enfrentam-onda-de-calor-recorde.ghtml"
       },
       {
-        "nome": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-02-acidente-salvador",
-    "data": "2026-08-02",
-    "titulo": "Carro cai de viaduto em Salvador e fica a centímetros da pista inferior",
-    "resumo": "Um carro caiu de um viaduto no bairro de Brotas, em Salvador, após derrubar uma mureta de proteção. O acidente ocorreu na manhã deste domingo e o veículo parou a poucos centímetros da pista inferior. Não há informações sobre feridos.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente",
-      "transito",
-      "salvador",
-      "bahia"
-    ],
-    "entidades": [
-      "Salvador"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Bahia"
-    ],
-    "cidades": [
-      "Salvador"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/heatwave-in-gaza-compounds-palestinian-suffering?traffic_source=rss"
+      },
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ba/bahia/noticia/2026/08/02/acidente-de-carro-em-salvador.ghtml"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates"
       }
     ]
   },
   {
-    "id": "2026-08-02-ataque-fabrica-bombril",
-    "data": "2026-08-02",
-    "titulo": "Velórios de funcionários mortos em ataque em fábrica da Bombril ocorrem em SP",
-    "resumo": "Os velórios dos três funcionários mortos em um ataque com faca dentro da fábrica da Bombril, em São Bernardo do Campo, no ABC Paulista, acontecem neste domingo. As vítimas foram atacadas por um colega de trabalho. A Polícia investiga as circunstâncias do crime.",
-    "categoria": "seguranca",
-    "tags": [
-      "ataque",
-      "violencia",
-      "fabrica",
-      "sao bernardo do campo",
-      "bombril"
-    ],
-    "entidades": [
-      "Bombril"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "São Bernardo do Campo"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/02/velorios-de-funcionarios-mortos-em-ataque-na-fabrica-da-bombril-acontecem-neste-domingo-em-sao-bernardo-do-campo.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-02-voto-feminino-rn",
-    "data": "2026-08-02",
-    "titulo": "História do voto feminino no Brasil teve marcos inéditos no Rio Grande do Norte",
-    "resumo": "O Rio Grande do Norte foi pioneiro no Brasil e na América do Sul na luta pelo direito ao voto feminino. Cidadãs do estado têm uma representação singular na história do sufrágio feminino brasileiro, resistindo à misoginia histórica. A conquista do voto feminino foi um processo longo e desafiador.",
+    "id": "2026-08-03-politica-reino-unido-reform-uk-farage",
+    "data": "2026-08-03",
+    "titulo": "Reform UK Propõe Operação Naval e Líder Acusado de Mentir",
+    "resumo": "O partido de direita Reform UK propôs uma operação liderada pela marinha para deter barcos de migrantes no Canal da Mancha, uma ideia criticada por especialistas. Paralelamente, o líder do partido, Nigel Farage, é acusado de mentir sobre ofertas de pactos, embora o partido afirme manter-se aberto a negociações.",
     "categoria": "politica",
     "tags": [
-      "voto feminino",
-      "historia",
-      "sufragio",
-      "rio grande do norte",
-      "politica"
+      "eleições",
+      "migração",
+      "Reino Unido",
+      "política"
     ],
-    "entidades": [
-      "Rio Grande do Norte"
+    "entidades": [],
+    "pessoas": [
+      "Nigel Farage"
     ],
-    "pessoas": [],
-    "estados": [
-      "Rio Grande do Norte"
-    ],
+    "estados": [],
     "cidades": [],
     "paises": [
-      "Brasil"
+      "Reino Unido",
+      "França"
     ],
-    "importancia": 3,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "Agência Brasil",
-        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/historia-do-voto-mulheres-do-rn-tiveram-feitos-ineditos"
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/politics/live/2026/aug/03/reform-immigration-small-boats-nigel-farage-restore-clacton-latest-news-updates"
       },
       {
-        "nome": "Agência Brasil",
-        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/conquista-do-voto-feminino-no-brasil-resistiu-misoginia-historica"
+        "nome": "France 24",
+        "url": "https://www.france24.com/en/europe/20260803-hard-right-reform-uk-proposes-navy-led-operation-to-stop-small-migrant-boats"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/politics/2026/aug/03/nigel-farage-admits-discussed-returning-reform-leader-months-earlier"
       }
     ]
   },
   {
-    "id": "2026-08-02-voo-delta-guarulhos",
-    "data": "2026-08-02",
-    "titulo": "Voo da Delta de Nova York para São Paulo desvia rota para Porto Rico",
-    "resumo": "Um voo da Delta Airlines com destino a São Paulo, partindo de Nova York, teve sua rota desviada para Porto Rico. A companhia aérea ainda não se pronunciou oficialmente sobre a mudança. O pouso estava previsto para ocorrer em Guarulhos neste domingo.",
-    "categoria": "internacional",
+    "id": "2026-08-03-politica-brasil-eleicoes-tse-stf-milei",
+    "data": "2026-08-03",
+    "titulo": "STF Retoma Trabalhos, TSE Define Regras para Propaganda e Milei Volta a Atacar Lula",
+    "resumo": "O Supremo Tribunal Federal (STF) reinicia suas atividades com uma pauta controversa, enquanto o Tribunal Superior Eleitoral (TSE) proibiu o uso de adesivos de propaganda eleitoral em carros de aplicativo e manteve multa a um candidato. O presidente da Argentina, Javier Milei, reiterou críticas ao presidente brasileiro Luiz Inácio Lula da Silva, reaquecendo a crise diplomática.",
+    "categoria": "politica",
     "tags": [
-      "voo",
-      "delta airlines",
-      "aeroporto",
-      "sao paulo",
-      "guarulhos",
-      "nova york",
-      "porto rico"
-    ],
-    "entidades": [
-      "Delta Airlines"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [
-      "Nova York",
-      "São Paulo",
-      "Porto Rico",
-      "Guarulhos"
-    ],
-    "paises": [
-      "Estados Unidos",
+      "justiça",
+      "eleições",
+      "propaganda",
+      "diplomacia",
       "Brasil",
-      "Porto Rico"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/voo-da-delta-de-nova-york-para-sao-paulo-tem-rota-desvia-para-porto-rico/"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-02-presos-litoral-sp",
-    "data": "2026-08-02",
-    "titulo": "Suspeito de 'disk-drogas' e fraude bancária é preso no litoral de SP",
-    "resumo": "Um homem de 30 anos foi preso em Praia Grande, litoral de São Paulo, suspeito de tráfico de drogas e fraude bancária. Segundo a Polícia Civil, ele teria utilizado dados bancários de uma vítima para adquirir equipamentos eletrônicos. A identidade do suspeito não foi divulgada.",
-    "categoria": "seguranca",
-    "tags": [
-      "prisao",
-      "trafico de drogas",
-      "fraude bancaria",
-      "litoral de sp",
-      "praia grande"
+      "Argentina"
     ],
     "entidades": [
-      "Polícia Civil"
+      "STF",
+      "TSE"
     ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
+    "pessoas": [
+      "Luiz Inácio Lula da Silva",
+      "Javier Milei"
     ],
-    "cidades": [
-      "Praia Grande"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/02/suspeito-de-disk-drogas-e-fraude-bancaria-e-preso-no-litoral-de-sp.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-02-migrantes-ceuta",
-    "data": "2026-08-02",
-    "titulo": "Número de migrantes mortos ao tentar entrar em Ceuta sobe para 72",
-    "resumo": "O número de pessoas mortas ao tentar atravessar a nado a fronteira entre Marrocos e Ceuta, enclave espanhol no norte da África, subiu para 72. As autoridades locais atualizaram o balanço neste domingo. A Espanha tem auxiliado no resgate de imigrantes e instalado barreiras marítimas para tentar evitar novas chegadas.",
-    "categoria": "internacional",
-    "tags": [
-      "migracao",
-      "fronteira",
-      "ceuta",
-      "marrocos",
-      "espanha",
-      "mortes"
-    ],
-    "entidades": [
-      "Espanha"
-    ],
-    "pessoas": [],
     "estados": [],
     "cidades": [
-      "Ceuta"
+      "Caruaru"
     ],
     "paises": [
-      "Marrocos",
-      "Espanha"
+      "Brasil",
+      "Argentina"
     ],
     "importancia": 4,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/08/02/sobe-para-72-numero-migrantes-mortos-ceuta.ghtml"
+        "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/08/03/resumao-diario-2087-stf-retoma-trabalhos-com-pauta-polemica-milei-volta-a-atacar-lula-humanizadores-de-redacoes-feitas-por-ia-preocupam-professores.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/caruaru-regiao/eleicoes/2026/08/03/tse-proibe-uso-de-adesivos-de-propaganda-eleitoral-em-carros-de-aplicativo-e-mantem-multa-a-candidato-de-caruaru.ghtml"
       }
     ]
   },
   {
-    "id": "2026-08-02-violencia-bh",
-    "data": "2026-08-02",
-    "titulo": "Dois homens são baleados durante festa de aniversário em Belo Horizonte",
-    "resumo": "Dois homens foram baleados durante uma festa de aniversário no bairro Salgado Filho, em Belo Horizonte, na noite de sábado. As vítimas têm 28 e 34 anos. A Polícia Militar foi acionada e uma testemunha relatou informações sobre o suspeito. As investigações sobre a autoria e motivação do crime estão em curso.",
+    "id": "2026-08-03-seguranca-brasil-prisao-drogas-baloes",
+    "data": "2026-08-03",
+    "titulo": "Operações Policiais Resultam em Prisões e Apreensões no Rio de Janeiro",
+    "resumo": "Em Petrópolis, Rio de Janeiro, sete homens foram presos e 36 balões apreendidos em uma operação contra a soltura de balões. Em Angra dos Reis, um jovem de 20 anos foi detido com mais de 1,9 mil cápsulas de cocaína. Em Paulista, uma carreta tombou na BR-101, bloqueando o trânsito sem vítimas.",
     "categoria": "seguranca",
     "tags": [
-      "violencia",
-      "baleados",
-      "festa",
-      "belo horizonte",
-      "minas gerais"
+      "drogas",
+      "balões",
+      "apreensão",
+      "prisão",
+      "trânsito"
     ],
     "entidades": [
       "Polícia Militar"
     ],
     "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
+    "estados": [],
     "cidades": [
-      "Belo Horizonte"
+      "Petrópolis",
+      "Angra dos Reis",
+      "Paulista"
     ],
     "paises": [
       "Brasil"
@@ -276,34 +149,132 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/08/02/homens-baleados-festa-aniversario-salgado-filho-bh.ghtml"
+        "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/08/03/sete-homens-sao-presos-e-36-baloes-sao-apreendidos-em-petropolis.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/03/jovem-e-preso-com-mais-de-19-mil-capsulas-de-cocaina-em-angra-dos-reis.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/pernambuco/bom-dia-pe/noticia/2026/08/03/carreta-tomba-na-br-101-e-bloqueia-transito-em-paulista-no-grande-recife.ghtml"
       }
     ]
   },
   {
-    "id": "2026-08-02-torneio-robotica-joao-pessoa",
-    "data": "2026-08-02",
-    "titulo": "João Pessoa sedia etapa regional de torneio mundial de robótica infantil",
-    "resumo": "João Pessoa sediou neste domingo uma etapa regional da FIRST LEGO League (FLL) Explore, um torneio internacional de robótica voltado para crianças de 6 a 10 anos. Participaram 185 estudantes. O evento celebra a inovação e o aprendizado em ciência e tecnologia para os mais jovens.",
-    "categoria": "educacao",
+    "id": "2026-08-03-internacional-eua-trump-ira-gaza",
+    "data": "2026-08-03",
+    "titulo": "EUA: Incerteza em Relação ao Irã e Preocupações de Israel Sobre Plano para Gaza",
+    "resumo": "Persiste a incerteza sobre as negociações entre os Estados Unidos e o Irã, com declarações contraditórias do presidente Donald Trump e do governo iraniano. Israel comunicou aos EUA suas preocupações sobre um plano para Gaza promovido por Trump. Nos EUA, o procurador-geral indicado por Trump, Todd Blanche, retirou uma proposta de fundo após negociações com senadores.",
+    "categoria": "internacional",
     "tags": [
-      "robotica",
-      "torneio",
-      "educacao",
-      "infantil",
-      "joao pessoa",
-      "paraiba",
-      "first lego league"
+      "negociações",
+      "política externa",
+      "Gaza",
+      "Irã",
+      "Estados Unidos"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Donald Trump",
+      "Todd Blanche"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos",
+      "Irã",
+      "Israel"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "France 24",
+        "url": "https://www.france24.com/en/after-donald-trump-s-latest-u-turn-uncertainty-remains-over-talks-with-iran"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mundo/noticia/2026/08/03/israel-transmite-aos-estados-unidos-suas-preocupacoes-sobre-o-plano-para-gaza.ghtml"
+      },
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-03-brasil-eleicoes-logistica-candidatura-para",
+    "data": "2026-08-03",
+    "titulo": "Apoio Logístico das Forças Armadas para Eleições e Lançamento de Candidatura no Pará",
+    "resumo": "As Forças Armadas apoiarão a logística da Justiça Eleitoral nas eleições de 2026 em municípios do Acre e outros seis estados brasileiros. No Pará, o PRTB lançou Roberto Martins como candidato ao governo do estado durante convenção em Belém. No Distrito Federal, um cursinho pré-vestibular gratuito abriu nova turma com 60 vagas.",
+    "categoria": "politica",
+    "tags": [
+      "eleições",
+      "logística",
+      "militar",
+      "candidatura",
+      "educação"
     ],
     "entidades": [
-      "FIRST LEGO League"
+      "Forças Armadas",
+      "Justiça Eleitoral",
+      "PRTB"
+    ],
+    "pessoas": [
+      "Roberto Martins"
+    ],
+    "estados": [
+      "Acre",
+      "Pará",
+      "Distrito Federal"
+    ],
+    "cidades": [
+      "Belém"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/03/eleicoes-2026-forcas-armadas-devem-apoiar-logistica-em-regioes-de-dificil-acesso-no-acre.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/03/prtb-lanca-roberto-martins-como-candidato-ao-governo-do-para.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/03/cursinho-pre-vestibular-gratuito-do-df-abre-nova-turma-com-60-vagas-veja-como-se-inscrever.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-03-brasil-seguranca-violencia-juventude",
+    "data": "2026-08-03",
+    "titulo": "Casos de Violência e Acidentes Registrados em Diversas Cidades Brasileiras",
+    "resumo": "Em Barretos (SP), um homem morreu e seu filho ficou ferido durante uma briga generalizada em um bar. Em Santarém (PA), o aumento da violência doméstica levou a Delegacia da Mulher a ampliar o plantão. Em Boa Vista (RR), duas irmãs ficaram feridas em um acidente entre bicicleta elétrica e caminhonete.",
+    "categoria": "seguranca",
+    "tags": [
+      "violência",
+      "acidente",
+      "homicídio",
+      "violência doméstica"
+    ],
+    "entidades": [
+      "Delegacia Especializada no Atendimento à Mulher"
     ],
     "pessoas": [],
     "estados": [
-      "Paraíba"
+      "São Paulo",
+      "Pará",
+      "Roraima"
     ],
     "cidades": [
-      "João Pessoa"
+      "Barretos",
+      "Santarém",
+      "Boa Vista"
     ],
     "paises": [
       "Brasil"
@@ -312,583 +283,282 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/pb/paraiba/noticia/2026/08/02/joao-pessoa-sedia-etapa-regional-de-torneio-mundial-de-robotica-com-alunos-de-6-a-10-anos.ghtml"
+        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/03/homem-morre-e-filho-fica-ferido-durante-briga-generalizada-em-bar-de-barretos-sp.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/08/03/alta-de-casos-de-violencia-leva-deam-a-ampliar-plantao-aos-fins-de-semana-em-santarem.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rr/roraima/noticia/2026/08/03/jovem-e-adolescente-ficam-feridas-em-acidente-entre-bicicleta-eletrica-e-caminhonete-em-boa-vista.ghtml"
       }
     ]
   },
   {
-    "id": "2026-08-02-influenciadora-ia",
-    "data": "2026-08-02",
-    "titulo": "Mulheres de TV de MG criam influenciadora digital com ajuda de IA",
-    "resumo": "Profissionais da TV Integração, em Minas Gerais, criaram uma influenciadora digital utilizando inteligência artificial (IA). A personagem, batizada de Mavi, nasceu em Uberlândia e tem paisagens de Juiz de Fora como cenário. A iniciativa explora as novas tecnologias na criação de conteúdo.",
-    "categoria": "cultura",
+    "id": "2026-08-03-meio-ambiente-chuvas-india-cataratas",
+    "data": "2026-08-03",
+    "titulo": "Chuvas Causam Deslizamento na Índia e Alagamento nas Cataratas do Iguaçu",
+    "resumo": "Fortes chuvas provocaram um deslizamento de terra na região de Kerala, na Índia, atingindo uma rodovia. No Brasil, as passarelas da Garganta do Diabo, nas Cataratas do Iguaçu, no lado argentino, serão removidas temporariamente devido a alertas de cheias associadas ao El Niño.",
+    "categoria": "meio-ambiente",
     "tags": [
-      "inteligencia artificial",
-      "influenciadora digital",
-      "midia",
-      "minas gerais",
-      "tv"
+      "chuvas",
+      "deslizamento",
+      "enchente",
+      "El Niño",
+      "turismo"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Uberlândia",
-      "Juiz de Fora"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/02/mulheres-da-tv-integracao-criam-influenciadora-digital-com-ajuda-de-ia-conheca-a-mavi.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-02-troca-combustivel-tap",
-    "data": "2026-08-02",
-    "titulo": "Avião da TAP de Lisboa para Curitiba faz pouso de emergência em Portugal",
-    "resumo": "Um avião da TAP, que viajava de Lisboa para Curitiba, realizou um pouso de emergência em Portugal. A aeronave Airbus A330-200 teve que retornar após uma emergência por despressurização. A tripulação realizou manobras para aliviar o peso antes do pouso.",
-    "categoria": "internacional",
-    "tags": [
-      "aviao",
-      "tap",
-      "emergencia",
-      "despressurizacao",
-      "lisboa",
-      "curitiba",
-      "portugal"
-    ],
-    "entidades": [
-      "TAP"
-    ],
-    "pessoas": [],
-    "estados": [
+      "Kerala",
       "Paraná"
     ],
     "cidades": [
-      "Lisboa",
-      "Curitiba"
+      "Porto Iguaçu"
     ],
     "paises": [
-      "Portugal",
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/aviao-da-tap-de-lisboa-para-curitiba-tem-emergencia-por-despressurizacao/"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-02-michele-hospital",
-    "data": "2026-08-02",
-    "titulo": "Michele Bolsonaro posta foto no hospital após crises de enxaqueca",
-    "resumo": "Michele Bolsonaro postou uma foto em um hospital, informando sobre crises de enxaqueca. O Ministro Alexandre de Moraes autorizou a visita de sua cunhada durante os exames da ex-primeira-dama. A postagem gerou repercussão nas redes sociais.",
-    "categoria": "politica",
-    "tags": [
-      "michele bolsonaro",
-      "hospital",
-      "enxaqueca",
-      "politica"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Michele Bolsonaro",
-      "Alexandre de Moraes"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
+      "Índia",
+      "Argentina",
       "Brasil"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/politica/michelle-posta-foto-no-hospital-apos-relato-de-crises-de-enxaqueca/"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-02-casamento-eduardo-leite",
-    "data": "2026-08-02",
-    "titulo": "Governador Eduardo Leite confirma separação de médico Thalis Bolzan",
-    "resumo": "O governador do Rio Grande do Sul, Eduardo Leite (PSD), confirmou o fim de seu relacionamento com o médico Thalis Bolzan. A união estável, oficializada no início de 2024, chegou ao fim. O relacionamento se tornou público após um período.",
-    "categoria": "politica",
-    "tags": [
-      "eduardo leite",
-      "separacao",
-      "relacionamento",
-      "politica",
-      "rio grande do sul"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Eduardo Leite",
-      "Thalis Bolzan"
-    ],
-    "estados": [
-      "Rio Grande do Sul"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
+        "nome": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-india-landslide-clip?traffic_source=rss"
+      },
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/02/eduardo-leite-confirma-separacao-de-medico-thalis-bolzan.ghtml"
+        "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/03/passarela-cataratas-garganta-diabo-fechadas.ghtml"
       }
     ]
   },
   {
-    "id": "2026-08-02-atentado-moscou",
-    "data": "2026-08-02",
-    "titulo": "Explosão em restaurante de Moscou é classificada como 'brutal ataque terrorista'",
-    "resumo": "O prefeito de Moscou, Sergei Sobyanin, classificou a explosão ocorrida em um restaurante na Praça Kudrinskaya como um \"brutal ataque terrorista\". Ele prometeu que os responsáveis serão punidos. As autoridades continuam investigando o incidente, e muitas perguntas permanecem em aberto.",
-    "categoria": "seguranca",
+    "id": "2026-08-03-economia-emprego-industria-automotiva",
+    "data": "2026-08-03",
+    "titulo": "Fábrica de Chocolates Abre 270 Vagas Temporárias e Oficina é Condenada por Serviço Ineficaz",
+    "resumo": "Uma fábrica de chocolates em Bragança Paulista (SP) anunciou a abertura de 270 vagas de trabalho temporário para a produção de ovos de Páscoa. Em Natal (RN), uma oficina foi condenada pela Justiça por um serviço considerado ineficaz em um carro que ficou mais de dois meses em conserto.",
+    "categoria": "economia",
     "tags": [
-      "ataque terrorista",
-      "explosao",
-      "moscou",
-      "russia",
-      "seguranca"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Sergei Sobyanin"
-    ],
-    "estados": [],
-    "cidades": [
-      "Moscou"
-    ],
-    "paises": [
-      "Rússia"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "DW",
-        "url": "https://www.dw.com/en/moscow-restaurant-blast-a-brutal-terror-attack-mayor-says/a-78205022?maca=en-rss-en-all-1573-rdf"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-02-acidentes-motos-juiz-fora",
-    "data": "2026-08-02",
-    "titulo": "Mais de 60% dos acidentes com motos em Juiz de Fora resultam em vítimas",
-    "resumo": "Seis em cada dez acidentes envolvendo motocicletas em Juiz de Fora, Minas Gerais, deixaram vítimas no primeiro semestre de 2026. A Avenida JK lidera o número de ocorrências de trânsito na cidade. Os dados são da Secretaria de Estado de Justiça e Segurança Pública (Sejusp).",
-    "categoria": "seguranca",
-    "tags": [
-      "acidentes de transito",
-      "motos",
-      "vitimas",
-      "juiz de fora",
-      "minas gerais",
-      "seguranca"
-    ],
-    "entidades": [
-      "Secretaria de Estado de Justiça e Segurança Pública (Sejusp)"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Juiz de Fora"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/08/02/mais-de-60percent-dos-acidentes-com-motos-deixam-vitimas-em-juiz-de-fora.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-02-fogo-ferry-indonesia",
-    "data": "2026-08-02",
-    "titulo": "Cinco mortos e 41 desaparecidos após incêndio em ferry na Indonésia",
-    "resumo": "Cinco pessoas morreram e 41 estão desaparecidas após um incêndio em um ferry que transportava pelo menos 250 pessoas na costa da ilha de Madura, na Indonésia. As operações de resgate estão em andamento. As causas do incêndio ainda estão sob investigação.",
-    "categoria": "internacional",
-    "tags": [
-      "incendio",
-      "ferry",
-      "naufragio",
-      "indonesia",
-      "madura",
-      "resgate"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Indonésia"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-02-trump-base-desiludida",
-    "data": "2026-08-02",
-    "titulo": "Análise: Base de Trump demonstra desilusão com decisões recentes",
-    "resumo": "Uma nova pesquisa da CNN indica que uma parte significativa dos apoiadores do ex-presidente americano Donald Trump se sente desiludida com decisões recentes. A análise sugere um cenário de crescente insatisfação dentro de sua base eleitoral. Os resultados apontam para um desafio em manter o engajamento de seus seguidores.",
-    "categoria": "politica",
-    "tags": [
-      "trump",
-      "eleicao",
-      "pesquisa",
-      "politica",
-      "estados unidos"
-    ],
-    "entidades": [
-      "CNN"
-    ],
-    "pessoas": [
-      "Trump"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Estados Unidos"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/internacional/analise-coisas-vao-de-mal-a-pior-para-trump-e-sua-base/"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-02-corrida-desafio-ponte",
-    "data": "2026-08-02",
-    "titulo": "Desafio da Ponte 2026 reúne 8 mil corredores no Rio de Janeiro",
-    "resumo": "Cerca de 8 mil corredores participaram neste domingo do Desafio da Ponte 2026, uma corrida de rua que atravessa a Ponte Rio-Niterói. A largada ocorreu em Niterói pela manhã. O trânsito na região foi normalizado após o evento.",
-    "categoria": "esportes",
-    "tags": [
-      "corrida",
-      "desafio da ponte",
-      "rio de janeiro",
-      "niteroi",
-      "esportes"
+      "emprego",
+      "vagas",
+      "temporário",
+      "indústria",
+      "justiça do consumidor"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [
-      "Rio de Janeiro"
+      "São Paulo",
+      "Rio Grande do Norte"
     ],
     "cidades": [
-      "Rio de Janeiro",
-      "Niterói"
+      "Bragança Paulista",
+      "Natal"
     ],
     "paises": [
       "Brasil"
     ],
-    "importancia": 3,
+    "importancia": 2,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/02/desafio-da-ponte-2026-transito-sera-normalizado-a-partir-de-meio-dia-veja-fotos-da-corrida.ghtml"
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/03/fabrica-de-chocolates-abre-270-vagas-de-emprego-para-producao-de-ovos-de-pascoa-em-braganca-paulista-sp.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/03/oficina-condenada-servico-ineficaz-carro-conserto.ghtml"
       }
     ]
   },
   {
-    "id": "2026-08-02-furto-diarista",
-    "data": "2026-08-02",
-    "titulo": "Diarista é presa após furtar R$ 1,6 mil de patrão que anotou números de série",
-    "resumo": "Uma diarista de 47 anos foi presa em flagrante em Patos de Minas, Minas Gerais, após furtar aproximadamente R$ 1,6 mil do apartamento onde trabalhava. O patrão desconfiou do sumiço do dinheiro e anotou os números de série das cédulas. A mulher confessou o crime.",
-    "categoria": "seguranca",
+    "id": "2026-08-03-cultura-musica-palestina-singapura",
+    "data": "2026-08-03",
+    "titulo": "Banda Massive Attack Detida em Singapura por Apoio à Palestina",
+    "resumo": "Membros da banda Massive Attack foram detidos em Singapura após exibirem uma bandeira em apoio à Palestina durante um show. O grupo expressou orgulho pela manifestação, descrevendo-a como uma \"expressão improvisada\" de solidariedade.",
+    "categoria": "cultura",
     "tags": [
-      "furto",
-      "prisao",
-      "diarista",
-      "patos de minas",
-      "minas gerais"
-    ],
-    "entidades": [
-      "Polícia Militar"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Patos de Minas"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/02/diarista-furtou-r-16-mil-de-patrao-que-descobriu-o-crime-apos-anotar-numeros-de-serie-de-cedulas-diz-pm.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-02-indigenas-argentina",
-    "data": "2026-08-02",
-    "titulo": "Grupos indígenas protestam contra plano de Milei de abrir Argentina a compradores estrangeiros",
-    "resumo": "Grupos indígenas protestaram em Buenos Aires contra um projeto de lei que visa abrir a Argentina à propriedade estrangeira de terras rurais. Os manifestantes expressaram oposição à medida proposta pelo governo de Javier Milei. A discussão sobre a venda de terras para investidores estrangeiros gera controvérsia.",
-    "categoria": "politica",
-    "tags": [
-      "indigenas",
+      "música",
       "protesto",
-      "argentina",
-      "milei",
-      "terras rurais",
-      "politica"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Milei"
-    ],
-    "estados": [],
-    "cidades": [
-      "Buenos Aires"
-    ],
-    "paises": [
-      "Argentina"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-02-negocios-networking",
-    "data": "2026-08-02",
-    "titulo": "Estudo aponta importância do networking para transformar relações em negócios",
-    "resumo": "Uma decisão comum entre empresários é ter um amigo para manter uma sociedade, representando 29% das escolhas. O networking se destaca como ferramenta fundamental para transformar relações em negócios reais. A pesquisa indica que conexões pessoais são cruciais no mundo corporativo.",
-    "categoria": "economia",
-    "tags": [
-      "networking",
-      "negocios",
-      "empreendedorismo",
-      "economia",
-      "relacoes"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/economia/negocios/economia-das-relacoes-como-transformar-networking-em-negocios-reais/"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-02-cantor-road-movie",
-    "data": "2026-08-02",
-    "titulo": "Cantor estreia em road movie que exalta música e belezas do Pantanal",
-    "resumo": "O cantor sul-mato-grossense André Stábile estreia como ator no cinema no longa-metragem \"Filhos do Litoral Central\". O filme, que teve sua premiere no Bonito Cinesur, exalta a música e as belezas naturais do Pantanal. A obra busca promover a cultura local.",
-    "categoria": "cultura",
-    "tags": [
-      "cinema",
-      "musica",
-      "pantanal",
-      "road movie",
-      "mato grosso do sul",
-      "ator",
-      "estreia"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "André Stábile"
-    ],
-    "estados": [
-      "Mato Grosso do Sul"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/02/cantor-estreia-como-protagonista-em-road-movie-que-exalta-a-musica-e-as-belezas-do-pantanal.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-02-ensina-brasil-trainee",
-    "data": "2026-08-02",
-    "titulo": "Ensina Brasil abre inscrições para programa de trainee focado em liderança e educação",
-    "resumo": "O programa Ensina Brasil abriu inscrições para seu processo seletivo de trainee, com foco em desenvolvimento de liderança e atuação na área da educação. Podem se candidatar formados entre dezembro de 2021 e janeiro de 2027 em cursos de bacharelado ou licenciatura. A iniciativa busca novos talentos para o setor educacional.",
-    "categoria": "educacao",
-    "tags": [
-      "ensina brasil",
-      "trainee",
-      "educacao",
-      "lideranca",
-      "processo seletivo"
-    ],
-    "entidades": [
-      "Ensina Brasil"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/educacao/ensina-brasil-abre-inscricoes-para-trainee-focado-em-lideranca-e-educacao/"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-02-sonho-mar-parkinson",
-    "data": "2026-08-02",
-    "titulo": "Mulher com Parkinson realiza sonho de ver o mar com cadeira adaptada",
-    "resumo": "Aos 64 anos e com diagnóstico de Parkinson, Arilda Gonzaga de Assis realizou o sonho de andar de avião e ver o mar pela primeira vez com o auxílio de uma cadeira adaptada. Ela contou com o apoio das filhas para concretizar seus desejos. A história destaca a superação e a busca pela realização pessoal.",
-    "categoria": "cultura",
-    "tags": [
-      "superacao",
-      "sonho",
-      "parkinson",
-      "viagem",
-      "mar",
-      "mato grosso do sul"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Mato Grosso do Sul"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/02/com-64-anos-e-parkinson-mulher-anda-de-aviao-e-realiza-sonho-de-ver-o-mar-com-cadeira-adaptada.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-02-sabonetes-artesanais-piaui",
-    "data": "2026-08-02",
-    "titulo": "Engenheira transforma hobby em negócio de sabonetes artesanais no Piauí",
-    "resumo": "Cristina Lima, engenheira civil de 46 anos, transformou seu hobby de criar sabonetes artesanais em um negócio de sucesso no Piauí. Ela produz peças em formatos de frutas e doces. A empreendedora retomou a produção durante a pandemia e expandiu seu empreendimento com participação em feiras.",
-    "categoria": "economia",
-    "tags": [
-      "empreendedorismo",
-      "artesanato",
-      "sabonetes",
-      "negocio",
-      "piaui",
-      "engenheira"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Piauí"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/02/engenheira-sabonetes-formatos-frutas-doces.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-02-refugiado-sudanes-espanha",
-    "data": "2026-08-02",
-    "titulo": "Jovem refugiado do Sudão reconstrói a vida na Espanha enquanto guerra o afasta da família",
-    "resumo": "Um jovem refugiado do Sudão está reconstruindo sua vida na Espanha, mas a guerra em seu país natal o mantém afastado da família. A história acompanha os desafios e as esperanças de quem busca um novo lar longe do conflito. A situação ressalta as dificuldades enfrentadas por refugiados.",
-    "categoria": "internacional",
-    "tags": [
-      "refugiado",
-      "sudao",
-      "espanha",
-      "guerra",
-      "familia",
-      "historias"
+      "Palestina",
+      "Singapura",
+      "direitos humanos"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Sudão",
-      "Espanha"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-02-ben-gvir-prisioneiro",
-    "data": "2026-08-02",
-    "titulo": "Ministro israelense Ben-Gvir ironiza detento palestino sobre condições prisionais",
-    "resumo": "O ministro israelense Itamar Ben-Gvir ironizou um detento palestino em relação às condições de sua prisão. O incidente ocorreu em um contexto de tensões e preocupações com os direitos humanos. As declarações de Ben-Gvir geraram críticas.",
-    "categoria": "politica",
-    "tags": [
-      "ben gvir",
-      "israel",
-      "palestina",
-      "detento",
-      "condicoes prisionais",
-      "politica"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Ben-Gvir"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Israel",
+      "Singapura",
       "Palestina"
     ],
     "importancia": 3,
     "fontes": [
       {
         "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ben-gvir-mocks-palestinian-detainee-over-prison-conditions?traffic_source=rss"
+        "url": "https://www.aljazeera.com/news/2026/8/3/massive-attack-says-members-held-after-pro-palestine-display-in-singapore?traffic_source=rss"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-03-brasil-educacao-buscas-afogamento",
+    "data": "2026-08-03",
+    "titulo": "Buscas por Jovem Desaparecido em Minas Gerais e Cursinho Gratuito no DF",
+    "resumo": "Bombeiros retomaram as buscas por um jovem de 23 anos que desapareceu no Rio Preto, em Natalândia, Minas Gerais. No Distrito Federal, o cursinho pré-vestibular gratuito Galt abriu uma nova turma com 60 vagas para jovens em situação de vulnerabilidade socioeconômica.",
+    "categoria": "educacao",
+    "tags": [
+      "busca",
+      "afogamento",
+      "educação",
+      "pré-vestibular",
+      "gratuidade"
+    ],
+    "entidades": [
+      "Corpo de Bombeiros"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais",
+      "Distrito Federal"
+    ],
+    "cidades": [
+      "Natalândia"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/03/bombeiros-retomam-buscas-por-jovem-de-23-anos-desaparecido-no-rio-preto-em-natalandia.ghtml"
+      },
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/03/cursinho-pre-vestibular-gratuito-do-df-abre-nova-turma-com-60-vagas-veja-como-se-inscrever.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-03-brasil-turismo-saude-estetica",
+    "data": "2026-08-03",
+    "titulo": "Tecnologias de Rejuvenescimento Atraem Pacientes para Jacutinga (MG)",
+    "resumo": "A cidade de Jacutinga, em Minas Gerais, se destaca como um polo regional de rejuvenescimento, atraindo pacientes de toda a região. O segmento impulsiona a economia local, especialmente durante eventos como a FestMalhas, considerada a maior feira de malhas do Brasil.",
+    "categoria": "saude",
+    "tags": [
+      "turismo",
+      "saúde",
+      "estética",
+      "rejuvenescimento",
+      "economia"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Jacutinga"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/sul-de-minas/especial-publicitario/medclinic/noticia/2026/08/03/tecnologias-de-rejuvenescimento-atraem-pacientes-de-toda-a-regiao-para-jacutinga.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-03-brasil-feriados-calendario",
+    "data": "2026-08-03",
+    "titulo": "Calendário de Feriados no Tocantins até o Fim de 2026",
+    "resumo": "O estado do Tocantins terá um feriado estadual em 15 de agosto, em celebração ao Dia do Senhor do Bonfim. A data é marcada por romarias, missas e atos de devoção em diversas regiões do estado. A notícia informa sobre a lista de feriados até o final de 2026.",
+    "categoria": "politica",
+    "tags": [
+      "feriados",
+      "calendário",
+      "religião",
+      "eventos"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Tocantins"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/to/tocantins/noticia/2026/08/03/agosto-tem-folga-veja-lista-de-feriados-no-to-ate-o-fim-de-2026.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-03-brasil-clima-previsao",
+    "data": "2026-08-03",
+    "titulo": "Tempo Seco e Temperaturas Elevadas em Juiz de Fora e Região",
+    "resumo": "A primeira semana de agosto em Juiz de Fora e região, em Minas Gerais, apresentará tempo seco e elevação nas temperaturas, podendo atingir até 32 °C. A Zona da Mata e o Campo das Vertentes estão sob influência de condições meteorológicas específicas.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "previsão do tempo",
+      "temperatura",
+      "seca",
+      "clima"
+    ],
+    "entidades": [
+      "Instituto Nacional de Meteorologia"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Juiz de Fora"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/08/03/primeira-semana-de-agosto-tem-tempo-seco-e-temperaturas-de-ate-32-c-em-juiz-de-fora-e-regiao.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-03-brasil-noticias-sc",
+    "data": "2026-08-03",
+    "titulo": "Resumo de Notícias de Santa Catarina",
+    "resumo": "Este item corresponde a um compêndio de vídeos com as principais notícias do estado de Santa Catarina, veiculado em 3 de agosto de 2026.",
+    "categoria": "politica",
+    "tags": [
+      "notícias",
+      "Santa Catarina",
+      "atualidades"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Santa Catarina"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sc/santa-catarina/edicao/2026/08/03/videos-bom-dia-santa-catarina-de-segunda-feira-3-de-agosto-de-2026.ghtml"
       }
     ]
   }
