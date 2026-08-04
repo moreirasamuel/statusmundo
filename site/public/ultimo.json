@@ -1,146 +1,83 @@
 [
   {
-    "id": "2026-08-03-ondas-de-calor-coreia-gaza-europa",
-    "data": "2026-08-03",
-    "titulo": "Ondas de Calor Atingem Coreias, Gaza e Sudeste Europeu",
-    "resumo": "Uma onda de calor recorde afeta a Coreia do Sul e a Coreia do Norte, com relatos de moradores buscando alívio em praias. Na região de Gaza, o calor agrava o sofrimento da população palestina. Enquanto isso, o sudeste da Europa enfrenta uma crise energética devido ao calor extremo, com a Romênia tomando medidas para aumentar o fluxo de água para usinas nucleares.",
-    "categoria": "meio-ambiente",
+    "id": "2026-08-04-eleicoes-presidencia",
+    "data": "2026-08-04",
+    "titulo": "Eleições 2026: Partidos Definem Candidatos à Presidência",
+    "resumo": "Com o fim do prazo para convenções partidárias se aproximando, a maioria dos partidos já definiu seus candidatos à Presidência. As campanhas eleitorais para 2026 começam a tomar forma com a oficialização das candidaturas aprovadas pelos filiados.",
+    "categoria": "politica",
     "tags": [
-      "onda de calor",
-      "temperaturas extremas",
-      "energia",
-      "Gaza",
-      "Coreias",
-      "Europa"
+      "eleições",
+      "presidência",
+      "partidos",
+      "candidatos"
     ],
     "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Coreia do Norte",
-      "Coreia do Sul",
-      "Palestina",
-      "Romênia"
+      "Brasil"
     ],
-    "importancia": 5,
+    "importancia": 4,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/08/03/coreias-do-sul-e-do-norte-enfrentam-onda-de-calor-recorde.ghtml"
-      },
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/heatwave-in-gaza-compounds-palestinian-suffering?traffic_source=rss"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates"
+        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/04/eleicoes-2026-candidatos-a-presidencia-oficializados.ghtml"
       }
     ]
   },
   {
-    "id": "2026-08-03-politica-reino-unido-reform-uk-farage",
-    "data": "2026-08-03",
-    "titulo": "Reform UK Propõe Operação Naval e Líder Acusado de Mentir",
-    "resumo": "O partido de direita Reform UK propôs uma operação liderada pela marinha para deter barcos de migrantes no Canal da Mancha, uma ideia criticada por especialistas. Paralelamente, o líder do partido, Nigel Farage, é acusado de mentir sobre ofertas de pactos, embora o partido afirme manter-se aberto a negociações.",
+    "id": "2026-08-04-greve-cptm",
+    "data": "2026-08-04",
+    "titulo": "Greve na CPTM Afeta 1 Milhão de Pessoas em São Paulo",
+    "resumo": "Três linhas da Companhia Paulista de Trens Metropolitanos (CPTM) estão com operação paralisada, afetando cerca de 1 milhão de pessoas. As linhas 11-Coral, 12-Safira e 13-Jade, incluindo o Expresso Aeroporto, foram impactadas. O presidente da CPTM alegou descumprimento do efetivo mínimo.",
     "categoria": "politica",
     "tags": [
-      "eleições",
-      "migração",
-      "Reino Unido",
-      "política"
+      "greve",
+      "transporte público",
+      "CPTM",
+      "São Paulo"
     ],
     "entidades": [],
-    "pessoas": [
-      "Nigel Farage"
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
     ],
-    "estados": [],
     "cidades": [],
     "paises": [
-      "Reino Unido",
-      "França"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/03/reform-immigration-small-boats-nigel-farage-restore-clacton-latest-news-updates"
-      },
-      {
-        "nome": "France 24",
-        "url": "https://www.france24.com/en/europe/20260803-hard-right-reform-uk-proposes-navy-led-operation-to-stop-small-migrant-boats"
-      },
-      {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/2026/aug/03/nigel-farage-admits-discussed-returning-reform-leader-months-earlier"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-03-politica-brasil-eleicoes-tse-stf-milei",
-    "data": "2026-08-03",
-    "titulo": "STF Retoma Trabalhos, TSE Define Regras para Propaganda e Milei Volta a Atacar Lula",
-    "resumo": "O Supremo Tribunal Federal (STF) reinicia suas atividades com uma pauta controversa, enquanto o Tribunal Superior Eleitoral (TSE) proibiu o uso de adesivos de propaganda eleitoral em carros de aplicativo e manteve multa a um candidato. O presidente da Argentina, Javier Milei, reiterou críticas ao presidente brasileiro Luiz Inácio Lula da Silva, reaquecendo a crise diplomática.",
-    "categoria": "politica",
-    "tags": [
-      "justiça",
-      "eleições",
-      "propaganda",
-      "diplomacia",
-      "Brasil",
-      "Argentina"
-    ],
-    "entidades": [
-      "STF",
-      "TSE"
-    ],
-    "pessoas": [
-      "Luiz Inácio Lula da Silva",
-      "Javier Milei"
-    ],
-    "estados": [],
-    "cidades": [
-      "Caruaru"
-    ],
-    "paises": [
-      "Brasil",
-      "Argentina"
+      "Brasil"
     ],
     "importancia": 4,
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/08/03/resumao-diario-2087-stf-retoma-trabalhos-com-pauta-polemica-milei-volta-a-atacar-lula-humanizadores-de-redacoes-feitas-por-ia-preocupam-professores.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pe/caruaru-regiao/eleicoes/2026/08/03/tse-proibe-uso-de-adesivos-de-propaganda-eleitoral-em-carros-de-aplicativo-e-mantem-multa-a-candidato-de-caruaru.ghtml"
+        "url": "https://g1.globo.com/sp/sao-paulo/ao-vivo/greve-afeta-3-linhas-da-cptm-nesta-terca-feira-rodizio-esta-suspenso.ghtml"
       }
     ]
   },
   {
-    "id": "2026-08-03-seguranca-brasil-prisao-drogas-baloes",
-    "data": "2026-08-03",
-    "titulo": "Operações Policiais Resultam em Prisões e Apreensões no Rio de Janeiro",
-    "resumo": "Em Petrópolis, Rio de Janeiro, sete homens foram presos e 36 balões apreendidos em uma operação contra a soltura de balões. Em Angra dos Reis, um jovem de 20 anos foi detido com mais de 1,9 mil cápsulas de cocaína. Em Paulista, uma carreta tombou na BR-101, bloqueando o trânsito sem vítimas.",
-    "categoria": "seguranca",
+    "id": "2026-08-04-investigacao-morte",
+    "data": "2026-08-04",
+    "titulo": "Investigação da Morte de Cozinheira em Ubatuba Leva à Prisão de Suspeito",
+    "resumo": "A Polícia Civil prendeu Irimar Castilho, companheiro da empresária Eliane Alves dos Santos, que é suspeita de envolvimento na morte da cozinheira Berenice Ramos de Aguiar. A vítima, de 60 anos, foi encontrada morta em Ubatuba. A investigação segue em andamento.",
+    "categoria": "justica",
     "tags": [
-      "drogas",
-      "balões",
-      "apreensão",
+      "investigação",
+      "homicídio",
       "prisão",
-      "trânsito"
+      "Ubatuba"
     ],
-    "entidades": [
-      "Polícia Militar"
+    "entidades": [],
+    "pessoas": [
+      "Berenice Ramos de Aguiar",
+      "Eliane Alves dos Santos",
+      "Irimar Castilho"
     ],
-    "pessoas": [],
-    "estados": [],
+    "estados": [
+      "São Paulo"
+    ],
     "cidades": [
-      "Petrópolis",
-      "Angra dos Reis",
-      "Paulista"
+      "Ubatuba"
     ],
     "paises": [
       "Brasil"
@@ -149,30 +86,759 @@
     "fontes": [
       {
         "nome": "G1",
-        "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/08/03/sete-homens-sao-presos-e-36-baloes-sao-apreendidos-em-petropolis.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/03/jovem-e-preso-com-mais-de-19-mil-capsulas-de-cocaina-em-angra-dos-reis.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pe/pernambuco/bom-dia-pe/noticia/2026/08/03/carreta-tomba-na-br-101-e-bloqueia-transito-em-paulista-no-grande-recife.ghtml"
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/04/caso-berenice-companheiro-da-patroa-suspeita-e-preso-durante-investigacao-da-morte-da-cozinheira-em-ubatuba.ghtml"
       }
     ]
   },
   {
-    "id": "2026-08-03-internacional-eua-trump-ira-gaza",
-    "data": "2026-08-03",
-    "titulo": "EUA: Incerteza em Relação ao Irã e Preocupações de Israel Sobre Plano para Gaza",
-    "resumo": "Persiste a incerteza sobre as negociações entre os Estados Unidos e o Irã, com declarações contraditórias do presidente Donald Trump e do governo iraniano. Israel comunicou aos EUA suas preocupações sobre um plano para Gaza promovido por Trump. Nos EUA, o procurador-geral indicado por Trump, Todd Blanche, retirou uma proposta de fundo após negociações com senadores.",
+    "id": "2026-08-04-protecao-ebola",
+    "data": "2026-08-04",
+    "titulo": "Porto de Santos Reforça Proteção Contra o Vírus Ebola",
+    "resumo": "O Porto de Santos intensificou suas preparações para proteção contra a Doença do Vírus Ebola (DVE). A medida foi tomada após um surto do vírus na República Democrática do Congo, levando a Organização Mundial de Saúde (OMS) a tomar decisões sobre a situação.",
+    "categoria": "saude",
+    "tags": [
+      "ebola",
+      "saúde pública",
+      "Porto de Santos",
+      "OMS"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil",
+      "República Democrática do Congo"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2026/08/04/porto-de-santos-reforca-protecao-contra-o-virus-ebola-apos-surto-no-congo-saiba-mais.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-incendio-mg",
+    "data": "2026-08-04",
+    "titulo": "Incêndio Destrói Área de Vegetação em Araguari, Minas Gerais",
+    "resumo": "Um incêndio de grandes proporções destruiu cerca de 34 hectares de vegetação, equivalente a 48 campos de futebol, próximo ao bairro Bela Vista em Araguari, no Triângulo Mineiro. As chamas começaram na tarde de segunda-feira. As causas exatas do incêndio ainda estão sob investigação.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "incêndio",
+      "vegetação",
+      "Minas Gerais",
+      "Araguari"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Araguari"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/04/video-incendio-destroi-area-de-vegetacao-equivalente-a-48-campos-de-futebol-em-mg.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-trafico-pipa",
+    "data": "2026-08-04",
+    "titulo": "Operação Policial em Pipa Prende Homens e Apreende Adolescentes por Tráfico de Drogas",
+    "resumo": "Uma operação conjunta das polícias Civil e Militar na praia de Pipa, em Tibau do Sul, resultou na prisão em flagrante de dois homens, de 22 e 23 anos. Quatro adolescentes, com idades entre 15 e 17 anos, foram apreendidos. A ação visava combater o tráfico de drogas na região.",
+    "categoria": "seguranca",
+    "tags": [
+      "tráfico de drogas",
+      "prisão",
+      "Pipa",
+      "operação policial"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio Grande do Norte"
+    ],
+    "cidades": [
+      "Tibau do Sul"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/04/operacao-prende-dois-homens-e-apreende-quatro-adolescentes-suspeitos-de-trafico-de-drogas-em-pipa.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-audiencia-juizes",
+    "data": "2026-08-04",
+    "titulo": "CNJ Discute Proposta para Prevenir Conflitos de Interesse entre Magistrados",
+    "resumo": "O Conselho Nacional de Justiça (CNJ) iniciou a discussão de uma proposta apresentada por Edson Fachin para prevenir conflitos de interesse entre magistrados. A discussão ocorre em meio a cobranças sobre regras para juízes, embora o próprio STF ainda discuta seu código de ética.",
+    "categoria": "justica",
+    "tags": [
+      "CNJ",
+      "magistratura",
+      "conflito de interesse",
+      "código de ética"
+    ],
+    "entidades": [
+      "Conselho Nacional de Justiça"
+    ],
+    "pessoas": [
+      "Edson Fachin"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/08/04/analise-stf-cobra-regra-para-juizes-mas-segue-sem-resolver-o-proprio-codigo-de-etica.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-recompra-hsbc",
+    "data": "2026-08-04",
+    "titulo": "HSBC Anuncia Recompra de Ações Após Lucro Acima do Esperado",
+    "resumo": "O HSBC anunciou um programa de recompra de ações no valor de até US$ 1 bilhão. A decisão foi tomada após a divulgação de resultados financeiros do banco que superaram as expectativas do mercado. O lucro divulgado foi superior à projeção de US$ 7,36 bilhões.",
+    "categoria": "economia",
+    "tags": [
+      "HSBC",
+      "ações",
+      "lucro",
+      "mercado financeiro"
+    ],
+    "entidades": [
+      "HSBC"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/negocios/hsbc-anuncia-recompra-de-acoes-de-ate-us-1-bi-apos-lucro-acima-do-esperado/"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-negociacoes-oriente-medio",
+    "data": "2026-08-04",
+    "titulo": "Esforços Diplomáticos Continuam no Oriente Médio; Irã Afirma Não Buscar Expansão da Guerra",
+    "resumo": "O Catar informou que os esforços diplomáticos para a resolução da crise no Oriente Médio estão em andamento, apesar de declarações conflitantes. O Irã insiste que não busca expandir o conflito na região. O secretário do Tesouro dos EUA mencionou a possibilidade de um acordo com o Irã para reabrir o Estreito de Hormuz.",
     "categoria": "internacional",
     "tags": [
-      "negociações",
-      "política externa",
-      "Gaza",
+      "Oriente Médio",
+      "diplomacia",
+      "Irã",
+      "Estados Unidos",
+      "Catar"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Catar",
       "Irã",
       "Estados Unidos"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/aug/04/middle-east-crisis-qatar-iran-us-israel-war-donald-trump-strait-hormuz-gaza-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-migracao-ceuta",
+    "data": "2026-08-04",
+    "titulo": "Espanha Afirma que Maioria dos Migrantes que Entraram em Ceuta Retornou a Marrocos",
+    "resumo": "A Espanha informou que cerca de 70.000 dos 72.000 migrantes que entraram em Ceuta durante um grande cruzamento de fronteira retornaram a Marrocos. A situação foi discutida em uma reunião de ministros da União Europeia para encontrar respostas para a crise migratória.",
+    "categoria": "internacional",
+    "tags": [
+      "migração",
+      "Ceuta",
+      "Espanha",
+      "Marrocos",
+      "União Europeia"
+    ],
+    "entidades": [
+      "União Europeia"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Andaluzia"
+    ],
+    "cidades": [
+      "Ceuta"
+    ],
+    "paises": [
+      "Espanha",
+      "Marrocos"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-futebol-mexicano",
+    "data": "2026-08-04",
+    "titulo": "Fim dos Acessos e Rebaixamentos Gera Turbulência no Futebol Mexicano",
+    "resumo": "O futebol mexicano está vivenciando um período de turbulência com a decisão definitiva da federação de acabar com os acessos e rebaixamentos. Clubes e jogadores da Liga de Expansão contestam a medida, que levou a manifestações nas primeiras rodadas da temporada.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol mexicano",
+      "ligas",
+      "federação",
+      "protestos"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "México"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-mexicano-vive-turbulencia-com-fim-de-acessos-e-rebaixamentos/"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-proposta-roma",
+    "data": "2026-08-04",
+    "titulo": "Roma Faz Proposta para Contratar Ex-Jogador do Palmeiras",
+    "resumo": "O clube italiano Roma apresentou uma proposta de R$ 293 milhões para contratar um ex-jogador do Palmeiras que atua na Inglaterra. A equipe, classificada para a Champions League, busca reforçar seu setor ofensivo com a contratação.",
+    "categoria": "esportes",
+    "tags": [
+      "futebol",
+      "Roma",
+      "Palmeiras",
+      "contratação",
+      "Champions League"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Itália",
+      "Inglaterra"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/roma-faz-proposta-de-r-293-milhoes-para-tirar-ex-palmeiras-da-inglaterra/"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-comentarios-ariana-grande",
+    "data": "2026-08-04",
+    "titulo": "Caso Ariana Grande Levanta Debate sobre Comentários e Body Shaming",
+    "resumo": "Os frequentes comentários sobre a aparência da cantora Ariana Grande foram um dos motivos para a artista decidir por uma pausa na carreira e evitar aparições públicas. O caso reacende a discussão sobre os limites dos comentários sobre o corpo e a preocupação com o body shaming.",
+    "categoria": "cultura",
+    "tags": [
+      "Ariana Grande",
+      "música",
+      "body shaming",
+      "saúde mental"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Ariana Grande"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/saude/noticia/2026/08/04/preocupacao-ou-body-shaming-caso-de-ariana-grande-expoe-limites-dos-comentarios-sobre-o-corpo.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-vestibular-unicentro",
+    "data": "2026-08-04",
+    "titulo": "Unicentro Abre Inscrições para Vestibular 2027 no Paraná",
+    "resumo": "A Universidade Estadual do Centro-Oeste (Unicentro PR) abriu as inscrições para o vestibular com ingresso em 2027. Serão oferecidas mais de mil vagas em 43 cursos. Os interessados podem se inscrever até o dia 3 de setembro através do portal do candidato.",
+    "categoria": "educacao",
+    "tags": [
+      "vestibular",
+      "universidade",
+      "Unicentro",
+      "Paraná",
+      "inscrições"
+    ],
+    "entidades": [
+      "Unicentro"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Paraná"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/04/inscricoes-vestibular-unicentro-2027-cursos.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-crise-climatica",
+    "data": "2026-08-04",
+    "titulo": "Itaperuna Cria Comitê para Enfrentar Efeitos do El Niño",
+    "resumo": "A Prefeitura de Itaperuna, no Norte Fluminense, criou um Comitê Municipal de Enfrentamento aos Efeitos do El Niño. O objetivo é coordenar ações de prevenção, monitoramento e resposta para mitigar os impactos causados por eventos climáticos. O comitê visa fortalecer a capacidade de resposta a desastres.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "El Niño",
+      "mudanças climáticas",
+      "Itaperuna",
+      "prevenção"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Itaperuna"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/08/04/itaperuna-cria-comitê-para-enfrentar-os-efeitos-do-el-nino.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-acidentes-motociclistas",
+    "data": "2026-08-04",
+    "titulo": "Dois Motociclistas Morrem em Acidente em Minas Gerais; Nenhum Tinha CNH",
+    "resumo": "Dois motociclistas morreram após uma colisão frontal na LMG-633, em Jaíba, no Norte de Minas. Segundo a Polícia Militar, nenhum dos envolvidos possuía Carteira Nacional de Habilitação (CNH). As vítimas tinham 50 e 53 anos.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente de trânsito",
+      "morte",
+      "Minas Gerais",
+      "CNH"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Jaíba"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/04/dois-motociclistas-morrem-apos-baterem-de-frente-na-lmg-633-nenhum-tinha-cnh.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-vereador-preso",
+    "data": "2026-08-04",
+    "titulo": "Vereador Preso por Violência Doméstica Retoma Mandato na Bahia",
+    "resumo": "O vereador Edivan de Jesus Santos, conhecido como Morão, reassumiu seu mandato na Câmara Municipal de Santo Antônio de Jesus, na Bahia. Ele havia sido preso sob suspeita de violência doméstica e ficou afastado por 10 meses. Seu retorno gerou repercussão na região.",
+    "categoria": "politica",
+    "tags": [
+      "violência doméstica",
+      "vereador",
+      "mandato",
+      "Bahia"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Edivan de Jesus Santos"
+    ],
+    "estados": [
+      "Bahia"
+    ],
+    "cidades": [
+      "Santo Antônio de Jesus"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/04/vereador-preso-suspeita-violencia-bahia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-secretarios-teresina",
+    "data": "2026-08-04",
+    "titulo": "Três Secretários de Teresina Exonerados; Todos São Vereadores",
+    "resumo": "Três secretários da Prefeitura de Teresina, que também exercem mandato de vereador na capital, foram exonerados de seus cargos. Os decretos de exoneração foram publicados no Diário Oficial do Município nesta segunda-feira (3). A medida afeta as pastas ocupadas por Samuel Alencar, Zé Neto e Roncallin.",
+    "categoria": "politica",
+    "tags": [
+      "Teresina",
+      "exoneração",
+      "secretários",
+      "vereadores"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Samuel Alencar",
+      "Zé Neto",
+      "Roncallin"
+    ],
+    "estados": [
+      "Piauí"
+    ],
+    "cidades": [
+      "Teresina"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/04/tres-secretarios-exonerados.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-salao-do-livro",
+    "data": "2026-08-04",
+    "titulo": "Salão do Livro de Ipatinga Começa com Teatro e Oficinas",
+    "resumo": "O 17º Salão do Livro de Ipatinga iniciou nesta terça-feira (4) e seguirá até domingo (9) no Teatro Usiminas. O evento conta com teatro, oficinas e uma feira literária. Nesta edição, o tema abordado é 'Sustentabilidade e Inteligência Artificial: le.",
+    "categoria": "cultura",
+    "tags": [
+      "Salão do Livro",
+      "Ipatinga",
+      "literatura",
+      "eventos culturais"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Minas Gerais"
+    ],
+    "cidades": [
+      "Ipatinga"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/08/04/salao-do-livro-comeca-nesta-terca-4-em-ipatinga-com-teatro-oficinas-e-feira-literaria.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-filhotes-tubarao",
+    "data": "2026-08-04",
+    "titulo": "Filhotes de Tubarão São Registrados na Baía do Sueste em Fernando de Noronha",
+    "resumo": "Um grupo de aproximadamente 60 filhotes de tubarão-limão foi registrado na Baía do Sueste, em Fernando de Noronha. O registro foi feito pela pesquisadora Mariana Rêgo. O fenômeno ocorre em um período de maior atenção à vida marinha na região.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "vida marinha",
+      "tubarão",
+      "Fernando de Noronha",
+      "biologia"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Mariana Rêgo"
+    ],
+    "estados": [
+      "Pernambuco"
+    ],
+    "cidades": [
+      "Fernando de Noronha"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/08/04/video-mostra-cerca-de-60-filhotes-de-tubarao-na-baia-do-sueste-fernando-de-noronha.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-bayer-lucro",
+    "data": "2026-08-04",
+    "titulo": "Bayer Reverte Prejuízos e Lucra 219 Milhões de Euros no 2º Trimestre",
+    "resumo": "A Bayer registrou um lucro líquido de 219 milhões de euros no segundo trimestre do ano, revertendo os prejuízos anteriores. O Ebitda do conglomerado alemão, atuante nos setores de agricultura e farmacêuticos, somou 2,14 bilhões de euros, com alta de 1,9%.",
+    "categoria": "economia",
+    "tags": [
+      "Bayer",
+      "lucro",
+      "resultados financeiros",
+      "setor farmacêutico",
+      "agronegócio"
+    ],
+    "entidades": [
+      "Bayer"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Alemanha"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/economia/negocios/bayer-reverte-prejuizos-no-2o-trimestre-ao-lucrar-219-milhoes-de-euros/"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-bracell-premiada",
+    "data": "2026-08-04",
+    "titulo": "Bracell Premiada por Gestão de Emissões de Gases de Efeito Estufa",
+    "resumo": "A Bracell, empresa líder na produção de celulose solúvel e especial, foi premiada pela quarta vez por sua gestão de emissões de Gases de Efeito Estufa (GEE). Em 2024 e 2025, a empresa removeu mais CO₂e da atmosfera do que emitiu, contribuindo positivamente para o clima.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "Bracell",
+      "sustentabilidade",
+      "emissões",
+      "GEE",
+      "celulose"
+    ],
+    "entidades": [
+      "Bracell"
+    ],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/bauru-marilia/especial-publicitario/bracell-fazer-a-diferenca-em-cada-detalhe/noticia/2026/08/04/bracell-e-premiada-pela-4a-vez-por-gestao-de-emissoes-de-gee.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-defesa-candidato-uk",
+    "data": "2026-08-04",
+    "titulo": "Líder Conservadora Defende Candidatura de Homem Condenado por Assédio",
+    "resumo": "A líder conservadora britânica Kemi Badenoch defendeu a decisão de selecionar Joshua Bonehill-Paine, que foi preso por assédio contra uma deputada judia, como candidato para uma eleição local em Somerset. Bonehill-Paine é um ex-ativista neonazista. A oposição critica a escolha.",
+    "categoria": "politica",
+    "tags": [
+      "política britânica",
+      "eleições locais",
+      "conservadores",
+      "assédio"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Kemi Badenoch",
+      "Joshua Bonehill-Paine"
+    ],
+    "estados": [
+      "Somerset"
+    ],
+    "cidades": [],
+    "paises": [
+      "Reino Unido"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "The Guardian",
+        "url": "https://www.theguardian.com/politics/live/2026/aug/04/pc-harper-prisoner-early-release-andy-burnham-labour-conservatives-badenoch-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-busca-jovem-aracaju",
+    "data": "2026-08-04",
+    "titulo": "Bombeiros Retomam Buscas por Jovem Desaparecido em Praia de Aracaju",
+    "resumo": "Equipes do Corpo de Bombeiros retomaram as buscas pelo jovem que desapareceu no mar na Praia dos Artistas, em Aracaju. O desaparecimento ocorreu no último domingo, após o jovem mergulhar na água. As buscas estão concentradas na área onde ele foi visto pela última vez.",
+    "categoria": "seguranca",
+    "tags": [
+      "desaparecimento",
+      "praia",
+      "Aracaju",
+      "bombeiros",
+      "buscas"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Sergipe"
+    ],
+    "cidades": [
+      "Aracaju"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/se/sergipe/noticia/2026/08/04/jovem-desaparecido-no-mar-de-aracaju.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-bandejao-carros-antigos",
+    "data": "2026-08-04",
+    "titulo": "Encontro de Carros Antigos em Volta Redonda Reúne Colecionadores",
+    "resumo": "Volta Redonda, no Rio de Janeiro, sediará o XXXI Encontro de Carros Antigos e Fora de Série entre os dias 14 e 16 de agosto, na Ilha São João. O evento tradicionalmente atrai colecionadores e entusiastas do setor, apresentando veículos clássicos e oferecendo shows musicais.",
+    "categoria": "cultura",
+    "tags": [
+      "carros antigos",
+      "encontro",
+      "Volta Redonda",
+      "cultura automotiva"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Rio de Janeiro"
+    ],
+    "cidades": [
+      "Volta Redonda"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/04/volta-redonda-recebe-encontro-tradicional-de-carros-antigos-com-shows.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-dedetizacao-cupins",
+    "data": "2026-08-04",
+    "titulo": "Alerta sobre Infestação de Cupins em São José dos Campos",
+    "resumo": "A presença de pequenos montes de pó, portas emperradas ou furos na madeira podem ser sinais de infestação de cupins em imóveis. A recomendação é agir rapidamente para evitar que a situação evolua. O artigo oferece informações sobre dedetização em São José dos Campos.",
+    "categoria": "saude",
+    "tags": [
+      "cupins",
+      "pragas urbanas",
+      "dedetização",
+      "São José dos Campos"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "São José dos Campos"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 1,
+    "fontes": [
+      {
+        "nome": "G1",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/cupins-sp-descupinizacao/noticia/2026/08/04/dedetizacao-de-cupins-em-sjc-o-que-voce-precisa-saber.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-reformas-bangladesh",
+    "data": "2026-08-04",
+    "titulo": "Críticos Questionam Reformas em Bangladesh Pós-Sheikh Hasina",
+    "resumo": "Críticos afirmam que o ímpeto das reformas em Bangladesh está diminuindo, dois anos após um levante estudantil que derrubou a primeira-ministra Sheikh Hasina. Divisões políticas profundas e a estagnação de mudanças chave alimentam as preocupações sobre um possível retrocesso nas reformas.",
+    "categoria": "politica",
+    "tags": [
+      "Bangladesh",
+      "reformas políticas",
+      "Sheikh Hasina",
+      "crítica"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Sheikh Hasina"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Bangladesh"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "DW",
+        "url": "https://www.dw.com/en/is-bangladesh-backtracking-on-post-hasina-reforms/a-78231437?maca=en-rss-en-all-1573-rdf"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-04-debate-trump",
+    "data": "2026-08-04",
+    "titulo": "Senadores Republicanos Desistem de Oposição à Nomeação de Todd Blanche",
+    "resumo": "Senadores republicanos retiraram sua oposição à nomeação de Todd Blanche, ex-advogado pessoal de Donald Trump, para o cargo de procurador-geral. Uma votação sobre a nomeação está prevista. Críticos denunciaram um acordo para interromper um fundo de Trump considerado controverso.",
+    "categoria": "politica",
+    "tags": [
+      "Donald Trump",
+      "Todd Blanche",
+      "senado",
+      "nomeação",
+      "política dos EUA"
     ],
     "entidades": [],
     "pessoas": [
@@ -182,383 +848,13 @@
     "estados": [],
     "cidades": [],
     "paises": [
-      "Estados Unidos",
-      "Irã",
-      "Israel"
+      "Estados Unidos"
     ],
-    "importancia": 4,
+    "importancia": 3,
     "fontes": [
-      {
-        "nome": "France 24",
-        "url": "https://www.france24.com/en/after-donald-trump-s-latest-u-turn-uncertainty-remains-over-talks-with-iran"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mundo/noticia/2026/08/03/israel-transmite-aos-estados-unidos-suas-preocupacoes-sobre-o-plano-para-gaza.ghtml"
-      },
       {
         "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-03-brasil-eleicoes-logistica-candidatura-para",
-    "data": "2026-08-03",
-    "titulo": "Apoio Logístico das Forças Armadas para Eleições e Lançamento de Candidatura no Pará",
-    "resumo": "As Forças Armadas apoiarão a logística da Justiça Eleitoral nas eleições de 2026 em municípios do Acre e outros seis estados brasileiros. No Pará, o PRTB lançou Roberto Martins como candidato ao governo do estado durante convenção em Belém. No Distrito Federal, um cursinho pré-vestibular gratuito abriu nova turma com 60 vagas.",
-    "categoria": "politica",
-    "tags": [
-      "eleições",
-      "logística",
-      "militar",
-      "candidatura",
-      "educação"
-    ],
-    "entidades": [
-      "Forças Armadas",
-      "Justiça Eleitoral",
-      "PRTB"
-    ],
-    "pessoas": [
-      "Roberto Martins"
-    ],
-    "estados": [
-      "Acre",
-      "Pará",
-      "Distrito Federal"
-    ],
-    "cidades": [
-      "Belém"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/03/eleicoes-2026-forcas-armadas-devem-apoiar-logistica-em-regioes-de-dificil-acesso-no-acre.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/03/prtb-lanca-roberto-martins-como-candidato-ao-governo-do-para.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/03/cursinho-pre-vestibular-gratuito-do-df-abre-nova-turma-com-60-vagas-veja-como-se-inscrever.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-03-brasil-seguranca-violencia-juventude",
-    "data": "2026-08-03",
-    "titulo": "Casos de Violência e Acidentes Registrados em Diversas Cidades Brasileiras",
-    "resumo": "Em Barretos (SP), um homem morreu e seu filho ficou ferido durante uma briga generalizada em um bar. Em Santarém (PA), o aumento da violência doméstica levou a Delegacia da Mulher a ampliar o plantão. Em Boa Vista (RR), duas irmãs ficaram feridas em um acidente entre bicicleta elétrica e caminhonete.",
-    "categoria": "seguranca",
-    "tags": [
-      "violência",
-      "acidente",
-      "homicídio",
-      "violência doméstica"
-    ],
-    "entidades": [
-      "Delegacia Especializada no Atendimento à Mulher"
-    ],
-    "pessoas": [],
-    "estados": [
-      "São Paulo",
-      "Pará",
-      "Roraima"
-    ],
-    "cidades": [
-      "Barretos",
-      "Santarém",
-      "Boa Vista"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/03/homem-morre-e-filho-fica-ferido-durante-briga-generalizada-em-bar-de-barretos-sp.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/08/03/alta-de-casos-de-violencia-leva-deam-a-ampliar-plantao-aos-fins-de-semana-em-santarem.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rr/roraima/noticia/2026/08/03/jovem-e-adolescente-ficam-feridas-em-acidente-entre-bicicleta-eletrica-e-caminhonete-em-boa-vista.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-03-meio-ambiente-chuvas-india-cataratas",
-    "data": "2026-08-03",
-    "titulo": "Chuvas Causam Deslizamento na Índia e Alagamento nas Cataratas do Iguaçu",
-    "resumo": "Fortes chuvas provocaram um deslizamento de terra na região de Kerala, na Índia, atingindo uma rodovia. No Brasil, as passarelas da Garganta do Diabo, nas Cataratas do Iguaçu, no lado argentino, serão removidas temporariamente devido a alertas de cheias associadas ao El Niño.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "chuvas",
-      "deslizamento",
-      "enchente",
-      "El Niño",
-      "turismo"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Kerala",
-      "Paraná"
-    ],
-    "cidades": [
-      "Porto Iguaçu"
-    ],
-    "paises": [
-      "Índia",
-      "Argentina",
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-india-landslide-clip?traffic_source=rss"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/03/passarela-cataratas-garganta-diabo-fechadas.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-03-economia-emprego-industria-automotiva",
-    "data": "2026-08-03",
-    "titulo": "Fábrica de Chocolates Abre 270 Vagas Temporárias e Oficina é Condenada por Serviço Ineficaz",
-    "resumo": "Uma fábrica de chocolates em Bragança Paulista (SP) anunciou a abertura de 270 vagas de trabalho temporário para a produção de ovos de Páscoa. Em Natal (RN), uma oficina foi condenada pela Justiça por um serviço considerado ineficaz em um carro que ficou mais de dois meses em conserto.",
-    "categoria": "economia",
-    "tags": [
-      "emprego",
-      "vagas",
-      "temporário",
-      "indústria",
-      "justiça do consumidor"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo",
-      "Rio Grande do Norte"
-    ],
-    "cidades": [
-      "Bragança Paulista",
-      "Natal"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/03/fabrica-de-chocolates-abre-270-vagas-de-emprego-para-producao-de-ovos-de-pascoa-em-braganca-paulista-sp.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/03/oficina-condenada-servico-ineficaz-carro-conserto.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-03-cultura-musica-palestina-singapura",
-    "data": "2026-08-03",
-    "titulo": "Banda Massive Attack Detida em Singapura por Apoio à Palestina",
-    "resumo": "Membros da banda Massive Attack foram detidos em Singapura após exibirem uma bandeira em apoio à Palestina durante um show. O grupo expressou orgulho pela manifestação, descrevendo-a como uma \"expressão improvisada\" de solidariedade.",
-    "categoria": "cultura",
-    "tags": [
-      "música",
-      "protesto",
-      "Palestina",
-      "Singapura",
-      "direitos humanos"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Singapura",
-      "Palestina"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/8/3/massive-attack-says-members-held-after-pro-palestine-display-in-singapore?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-03-brasil-educacao-buscas-afogamento",
-    "data": "2026-08-03",
-    "titulo": "Buscas por Jovem Desaparecido em Minas Gerais e Cursinho Gratuito no DF",
-    "resumo": "Bombeiros retomaram as buscas por um jovem de 23 anos que desapareceu no Rio Preto, em Natalândia, Minas Gerais. No Distrito Federal, o cursinho pré-vestibular gratuito Galt abriu uma nova turma com 60 vagas para jovens em situação de vulnerabilidade socioeconômica.",
-    "categoria": "educacao",
-    "tags": [
-      "busca",
-      "afogamento",
-      "educação",
-      "pré-vestibular",
-      "gratuidade"
-    ],
-    "entidades": [
-      "Corpo de Bombeiros"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais",
-      "Distrito Federal"
-    ],
-    "cidades": [
-      "Natalândia"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/03/bombeiros-retomam-buscas-por-jovem-de-23-anos-desaparecido-no-rio-preto-em-natalandia.ghtml"
-      },
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/03/cursinho-pre-vestibular-gratuito-do-df-abre-nova-turma-com-60-vagas-veja-como-se-inscrever.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-03-brasil-turismo-saude-estetica",
-    "data": "2026-08-03",
-    "titulo": "Tecnologias de Rejuvenescimento Atraem Pacientes para Jacutinga (MG)",
-    "resumo": "A cidade de Jacutinga, em Minas Gerais, se destaca como um polo regional de rejuvenescimento, atraindo pacientes de toda a região. O segmento impulsiona a economia local, especialmente durante eventos como a FestMalhas, considerada a maior feira de malhas do Brasil.",
-    "categoria": "saude",
-    "tags": [
-      "turismo",
-      "saúde",
-      "estética",
-      "rejuvenescimento",
-      "economia"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Jacutinga"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/sul-de-minas/especial-publicitario/medclinic/noticia/2026/08/03/tecnologias-de-rejuvenescimento-atraem-pacientes-de-toda-a-regiao-para-jacutinga.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-03-brasil-feriados-calendario",
-    "data": "2026-08-03",
-    "titulo": "Calendário de Feriados no Tocantins até o Fim de 2026",
-    "resumo": "O estado do Tocantins terá um feriado estadual em 15 de agosto, em celebração ao Dia do Senhor do Bonfim. A data é marcada por romarias, missas e atos de devoção em diversas regiões do estado. A notícia informa sobre a lista de feriados até o final de 2026.",
-    "categoria": "politica",
-    "tags": [
-      "feriados",
-      "calendário",
-      "religião",
-      "eventos"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Tocantins"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/to/tocantins/noticia/2026/08/03/agosto-tem-folga-veja-lista-de-feriados-no-to-ate-o-fim-de-2026.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-03-brasil-clima-previsao",
-    "data": "2026-08-03",
-    "titulo": "Tempo Seco e Temperaturas Elevadas em Juiz de Fora e Região",
-    "resumo": "A primeira semana de agosto em Juiz de Fora e região, em Minas Gerais, apresentará tempo seco e elevação nas temperaturas, podendo atingir até 32 °C. A Zona da Mata e o Campo das Vertentes estão sob influência de condições meteorológicas específicas.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "previsão do tempo",
-      "temperatura",
-      "seca",
-      "clima"
-    ],
-    "entidades": [
-      "Instituto Nacional de Meteorologia"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Juiz de Fora"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/08/03/primeira-semana-de-agosto-tem-tempo-seco-e-temperaturas-de-ate-32-c-em-juiz-de-fora-e-regiao.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-03-brasil-noticias-sc",
-    "data": "2026-08-03",
-    "titulo": "Resumo de Notícias de Santa Catarina",
-    "resumo": "Este item corresponde a um compêndio de vídeos com as principais notícias do estado de Santa Catarina, veiculado em 3 de agosto de 2026.",
-    "categoria": "politica",
-    "tags": [
-      "notícias",
-      "Santa Catarina",
-      "atualidades"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Santa Catarina"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 1,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sc/santa-catarina/edicao/2026/08/03/videos-bom-dia-santa-catarina-de-segunda-feira-3-de-agosto-de-2026.ghtml"
+        "url": "https://www.theguardian.com/us-news/live/2026/aug/04/donald-trump-todd-blanche-republicans-vote-michigan-midterm-primary-democrats-latest-news-updates"
       }
     ]
   }
