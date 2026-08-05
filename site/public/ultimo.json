@@ -1,607 +1,221 @@
 [
   {
-    "id": "2026-08-04-eleicoes-presidencia",
-    "data": "2026-08-04",
-    "titulo": "Eleições 2026: Partidos Definem Candidatos à Presidência",
-    "resumo": "Com o fim do prazo para convenções partidárias se aproximando, a maioria dos partidos já definiu seus candidatos à Presidência. As campanhas eleitorais para 2026 começam a tomar forma com a oficialização das candidaturas aprovadas pelos filiados.",
+    "id": "2026-08-05-acidentes-rodoviarios-brasil",
+    "data": "2026-08-05",
+    "titulo": "Acidentes de trânsito interrompem rodovias e causam interdições em diferentes estados brasileiros",
+    "resumo": "Vários acidentes de trânsito foram registrados nesta quarta-feira (5) em rodovias brasileiras, causando interdições e transtornos no tráfego. Em São José dos Campos (SP), um engavetamento com quatro caminhões e dois carros bloqueou a Via Dutra. Em Vinhedo (SP), uma carreta tombou após colidir com um poste. No Recife (PE), um caminhão-baú tombou em um viaduto na Zona Sul. Já no Paraná, um acidente na BR-277 resultou na morte de duas pessoas após uma ultrapassagem proibida.",
+    "categoria": "seguranca",
+    "tags": [
+      "acidente",
+      "transito",
+      "rodovia",
+      "interdição"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "Pernambuco",
+      "Paraná",
+      "São Paulo"
+    ],
+    "cidades": [
+      "São José dos Campos",
+      "Vinhedo",
+      "Recife",
+      "Céu Azul"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/05/engavetamento-envolvendo-quatro-caminhoes-e-dois-carros-interdita-pista-da-dutra-em-sao-jose-dos-campos-sp.ghtml"
+      },
+      {
+        "nome": "g1",
+        "url": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/08/05/carreta-tomba-apos-bater-em-poste-na-rodovia-miguel-melhado-em-vinhedo.ghtml"
+      },
+      {
+        "nome": "g1",
+        "url": "https://g1.globo.com/pe/pernambuco/bom-dia-pe/noticia/2026/08/05/caminhao-bau-tomba-em-viaduto-e-interdita-via-no-recife-video-mostra-momento-do-acidente.ghtml"
+      },
+      {
+        "nome": "g1",
+        "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/05/duas-pessoas-morrem-apos-acidente-na-br-277.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-05-crimes-violentos-brasil",
+    "data": "2026-08-05",
+    "titulo": "Investigações de crimes violentos em andamento em São Paulo e Bahia",
+    "resumo": "Duas notícias relatam crimes violentos com investigações em curso. Em Franca (SP), um homem é suspeito de matar uma mulher e ferir a ex-companheira a facadas. Na Bahia, um advogado foi encontrado morto a tiros dentro de um veículo. A OAB da Bahia acompanha o caso e exige investigação rápida.",
+    "categoria": "justica",
+    "tags": [
+      "crime",
+      "homicídio",
+      "violência",
+      "investigação"
+    ],
+    "entidades": [
+      "OAB"
+    ],
+    "pessoas": [],
+    "estados": [
+      "São Paulo",
+      "Bahia"
+    ],
+    "cidades": [
+      "Franca"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1",
+        "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/05/homem-e-suspeito-de-matar-mulher-e-ferir-ex-companheira-a-facadas-apos-desconfiar-de-relacao-entre-elas-em-franca-sp.ghtml"
+      },
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/nordeste/ba/advogado-e-encontrado-morto-a-tiros-dentro-de-veiculo-no-interior-da-bahia/"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-05-politica-eleicoes-eua",
+    "data": "2026-08-05",
+    "titulo": "Primárias em Michigan: El-Sayed lidera disputa apertada pelo Senado; republicano desiste de reeleição",
+    "resumo": "A disputa pela indicação democrata para o Senado em Michigan segue indefinida, com El-Sayed mantendo uma pequena vantagem sobre a congressista Haley Stevens. Em outra notícia da política americana, o congressista republicano Chuck Edwards anunciou que não buscará a reeleição após um relatório sobre assédio sexual a funcionários. Um outro congressoista republicano, Donald Trump, foi mencionado em relação a embaixadas dos EUA sem embaixador.",
     "categoria": "politica",
     "tags": [
       "eleições",
-      "presidência",
-      "partidos",
-      "candidatos"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/04/eleicoes-2026-candidatos-a-presidencia-oficializados.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-04-greve-cptm",
-    "data": "2026-08-04",
-    "titulo": "Greve na CPTM Afeta 1 Milhão de Pessoas em São Paulo",
-    "resumo": "Três linhas da Companhia Paulista de Trens Metropolitanos (CPTM) estão com operação paralisada, afetando cerca de 1 milhão de pessoas. As linhas 11-Coral, 12-Safira e 13-Jade, incluindo o Expresso Aeroporto, foram impactadas. O presidente da CPTM alegou descumprimento do efetivo mínimo.",
-    "categoria": "politica",
-    "tags": [
-      "greve",
-      "transporte público",
-      "CPTM",
-      "São Paulo"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/sao-paulo/ao-vivo/greve-afeta-3-linhas-da-cptm-nesta-terca-feira-rodizio-esta-suspenso.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-04-investigacao-morte",
-    "data": "2026-08-04",
-    "titulo": "Investigação da Morte de Cozinheira em Ubatuba Leva à Prisão de Suspeito",
-    "resumo": "A Polícia Civil prendeu Irimar Castilho, companheiro da empresária Eliane Alves dos Santos, que é suspeita de envolvimento na morte da cozinheira Berenice Ramos de Aguiar. A vítima, de 60 anos, foi encontrada morta em Ubatuba. A investigação segue em andamento.",
-    "categoria": "justica",
-    "tags": [
-      "investigação",
-      "homicídio",
-      "prisão",
-      "Ubatuba"
+      "primárias",
+      "Senado",
+      "Michigan",
+      "assédio"
     ],
     "entidades": [],
     "pessoas": [
-      "Berenice Ramos de Aguiar",
-      "Eliane Alves dos Santos",
-      "Irimar Castilho"
+      "El-Sayed",
+      "Haley Stevens",
+      "Chuck Edwards",
+      "Donald Trump"
     ],
     "estados": [
-      "São Paulo"
-    ],
-    "cidades": [
-      "Ubatuba"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/04/caso-berenice-companheiro-da-patroa-suspeita-e-preso-durante-investigacao-da-morte-da-cozinheira-em-ubatuba.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-04-protecao-ebola",
-    "data": "2026-08-04",
-    "titulo": "Porto de Santos Reforça Proteção Contra o Vírus Ebola",
-    "resumo": "O Porto de Santos intensificou suas preparações para proteção contra a Doença do Vírus Ebola (DVE). A medida foi tomada após um surto do vírus na República Democrática do Congo, levando a Organização Mundial de Saúde (OMS) a tomar decisões sobre a situação.",
-    "categoria": "saude",
-    "tags": [
-      "ebola",
-      "saúde pública",
-      "Porto de Santos",
-      "OMS"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "São Paulo"
+      "Michigan"
     ],
     "cidades": [],
     "paises": [
-      "Brasil",
-      "República Democrática do Congo"
-    ],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2026/08/04/porto-de-santos-reforca-protecao-contra-o-virus-ebola-apos-surto-no-congo-saiba-mais.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-04-incendio-mg",
-    "data": "2026-08-04",
-    "titulo": "Incêndio Destrói Área de Vegetação em Araguari, Minas Gerais",
-    "resumo": "Um incêndio de grandes proporções destruiu cerca de 34 hectares de vegetação, equivalente a 48 campos de futebol, próximo ao bairro Bela Vista em Araguari, no Triângulo Mineiro. As chamas começaram na tarde de segunda-feira. As causas exatas do incêndio ainda estão sob investigação.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "incêndio",
-      "vegetação",
-      "Minas Gerais",
-      "Araguari"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Araguari"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/04/video-incendio-destroi-area-de-vegetacao-equivalente-a-48-campos-de-futebol-em-mg.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-04-trafico-pipa",
-    "data": "2026-08-04",
-    "titulo": "Operação Policial em Pipa Prende Homens e Apreende Adolescentes por Tráfico de Drogas",
-    "resumo": "Uma operação conjunta das polícias Civil e Militar na praia de Pipa, em Tibau do Sul, resultou na prisão em flagrante de dois homens, de 22 e 23 anos. Quatro adolescentes, com idades entre 15 e 17 anos, foram apreendidos. A ação visava combater o tráfico de drogas na região.",
-    "categoria": "seguranca",
-    "tags": [
-      "tráfico de drogas",
-      "prisão",
-      "Pipa",
-      "operação policial"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio Grande do Norte"
-    ],
-    "cidades": [
-      "Tibau do Sul"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/04/operacao-prende-dois-homens-e-apreende-quatro-adolescentes-suspeitos-de-trafico-de-drogas-em-pipa.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-04-audiencia-juizes",
-    "data": "2026-08-04",
-    "titulo": "CNJ Discute Proposta para Prevenir Conflitos de Interesse entre Magistrados",
-    "resumo": "O Conselho Nacional de Justiça (CNJ) iniciou a discussão de uma proposta apresentada por Edson Fachin para prevenir conflitos de interesse entre magistrados. A discussão ocorre em meio a cobranças sobre regras para juízes, embora o próprio STF ainda discuta seu código de ética.",
-    "categoria": "justica",
-    "tags": [
-      "CNJ",
-      "magistratura",
-      "conflito de interesse",
-      "código de ética"
-    ],
-    "entidades": [
-      "Conselho Nacional de Justiça"
-    ],
-    "pessoas": [
-      "Edson Fachin"
-    ],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/08/04/analise-stf-cobra-regra-para-juizes-mas-segue-sem-resolver-o-proprio-codigo-de-etica.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-04-recompra-hsbc",
-    "data": "2026-08-04",
-    "titulo": "HSBC Anuncia Recompra de Ações Após Lucro Acima do Esperado",
-    "resumo": "O HSBC anunciou um programa de recompra de ações no valor de até US$ 1 bilhão. A decisão foi tomada após a divulgação de resultados financeiros do banco que superaram as expectativas do mercado. O lucro divulgado foi superior à projeção de US$ 7,36 bilhões.",
-    "categoria": "economia",
-    "tags": [
-      "HSBC",
-      "ações",
-      "lucro",
-      "mercado financeiro"
-    ],
-    "entidades": [
-      "HSBC"
-    ],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [],
-    "importancia": 4,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/economia/negocios/hsbc-anuncia-recompra-de-acoes-de-ate-us-1-bi-apos-lucro-acima-do-esperado/"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-04-negociacoes-oriente-medio",
-    "data": "2026-08-04",
-    "titulo": "Esforços Diplomáticos Continuam no Oriente Médio; Irã Afirma Não Buscar Expansão da Guerra",
-    "resumo": "O Catar informou que os esforços diplomáticos para a resolução da crise no Oriente Médio estão em andamento, apesar de declarações conflitantes. O Irã insiste que não busca expandir o conflito na região. O secretário do Tesouro dos EUA mencionou a possibilidade de um acordo com o Irã para reabrir o Estreito de Hormuz.",
-    "categoria": "internacional",
-    "tags": [
-      "Oriente Médio",
-      "diplomacia",
-      "Irã",
-      "Estados Unidos",
-      "Catar"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Catar",
-      "Irã",
       "Estados Unidos"
     ],
     "importancia": 4,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/aug/04/middle-east-crisis-qatar-iran-us-israel-war-donald-trump-strait-hormuz-gaza-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-04-migracao-ceuta",
-    "data": "2026-08-04",
-    "titulo": "Espanha Afirma que Maioria dos Migrantes que Entraram em Ceuta Retornou a Marrocos",
-    "resumo": "A Espanha informou que cerca de 70.000 dos 72.000 migrantes que entraram em Ceuta durante um grande cruzamento de fronteira retornaram a Marrocos. A situação foi discutida em uma reunião de ministros da União Europeia para encontrar respostas para a crise migratória.",
-    "categoria": "internacional",
-    "tags": [
-      "migração",
-      "Ceuta",
-      "Espanha",
-      "Marrocos",
-      "União Europeia"
-    ],
-    "entidades": [
-      "União Europeia"
-    ],
-    "pessoas": [],
-    "estados": [
-      "Andaluzia"
-    ],
-    "cidades": [
-      "Ceuta"
-    ],
-    "paises": [
-      "Espanha",
-      "Marrocos"
-    ],
-    "importancia": 4,
-    "fontes": [
+        "nome": "theguardian",
+        "url": "https://www.theguardian.com/us-news/live/2026/aug/05/michigan-primary-race-democrats-midterms-senate-el-sayed-haley-stevens-donald-trump-republicans-us-politics-latest-news-updates"
+      },
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-04-futebol-mexicano",
-    "data": "2026-08-04",
-    "titulo": "Fim dos Acessos e Rebaixamentos Gera Turbulência no Futebol Mexicano",
-    "resumo": "O futebol mexicano está vivenciando um período de turbulência com a decisão definitiva da federação de acabar com os acessos e rebaixamentos. Clubes e jogadores da Liga de Expansão contestam a medida, que levou a manifestações nas primeiras rodadas da temporada.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol mexicano",
-      "ligas",
-      "federação",
-      "protestos"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "México"
-    ],
-    "importancia": 3,
-    "fontes": [
+        "nome": "theguardian",
+        "url": "https://www.theguardian.com/us-news/2026/aug/05/chuck-edwards-sexual-harassment-reelection"
+      },
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-mexicano-vive-turbulencia-com-fim-de-acessos-e-rebaixamentos/"
+        "nome": "g1",
+        "url": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/08/05/assim-como-no-brasil-mais-da-metade-das-embaixadas-dos-eua-no-exterior-estao-sem-embaixador.ghtml"
       }
     ]
   },
   {
-    "id": "2026-08-04-proposta-roma",
-    "data": "2026-08-04",
-    "titulo": "Roma Faz Proposta para Contratar Ex-Jogador do Palmeiras",
-    "resumo": "O clube italiano Roma apresentou uma proposta de R$ 293 milhões para contratar um ex-jogador do Palmeiras que atua na Inglaterra. A equipe, classificada para a Champions League, busca reforçar seu setor ofensivo com a contratação.",
-    "categoria": "esportes",
-    "tags": [
-      "futebol",
-      "Roma",
-      "Palmeiras",
-      "contratação",
-      "Champions League"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [],
-    "cidades": [],
-    "paises": [
-      "Itália",
-      "Inglaterra"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/roma-faz-proposta-de-r-293-milhoes-para-tirar-ex-palmeiras-da-inglaterra/"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-04-comentarios-ariana-grande",
-    "data": "2026-08-04",
-    "titulo": "Caso Ariana Grande Levanta Debate sobre Comentários e Body Shaming",
-    "resumo": "Os frequentes comentários sobre a aparência da cantora Ariana Grande foram um dos motivos para a artista decidir por uma pausa na carreira e evitar aparições públicas. O caso reacende a discussão sobre os limites dos comentários sobre o corpo e a preocupação com o body shaming.",
+    "id": "2026-08-05-midia-regional-brasil",
+    "data": "2026-08-05",
+    "titulo": "Telejornais regionais e programas de notícias transmitidos online no Brasil",
+    "resumo": "Diversos veículos de comunicação regionais transmitiram seus programas de notícias nesta quarta-feira (5). O g1 AC exibiu o BDAC com Melícia Moura. A TV Bahia também disponibilizou seus telejornais para transmissão online. Essas iniciativas permitem o acesso a informações locais.",
     "categoria": "cultura",
     "tags": [
-      "Ariana Grande",
-      "música",
-      "body shaming",
-      "saúde mental"
+      "mídia",
+      "telejornal",
+      "regional",
+      "transmissão online"
     ],
     "entidades": [],
     "pessoas": [
-      "Ariana Grande"
+      "Melícia Moura"
     ],
-    "estados": [],
-    "cidades": [],
-    "paises": [],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/saude/noticia/2026/08/04/preocupacao-ou-body-shaming-caso-de-ariana-grande-expoe-limites-dos-comentarios-sobre-o-corpo.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-04-vestibular-unicentro",
-    "data": "2026-08-04",
-    "titulo": "Unicentro Abre Inscrições para Vestibular 2027 no Paraná",
-    "resumo": "A Universidade Estadual do Centro-Oeste (Unicentro PR) abriu as inscrições para o vestibular com ingresso em 2027. Serão oferecidas mais de mil vagas em 43 cursos. Os interessados podem se inscrever até o dia 3 de setembro através do portal do candidato.",
-    "categoria": "educacao",
-    "tags": [
-      "vestibular",
-      "universidade",
-      "Unicentro",
-      "Paraná",
-      "inscrições"
-    ],
-    "entidades": [
-      "Unicentro"
-    ],
-    "pessoas": [],
     "estados": [
-      "Paraná"
-    ],
-    "cidades": [],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/04/inscricoes-vestibular-unicentro-2027-cursos.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-04-crise-climatica",
-    "data": "2026-08-04",
-    "titulo": "Itaperuna Cria Comitê para Enfrentar Efeitos do El Niño",
-    "resumo": "A Prefeitura de Itaperuna, no Norte Fluminense, criou um Comitê Municipal de Enfrentamento aos Efeitos do El Niño. O objetivo é coordenar ações de prevenção, monitoramento e resposta para mitigar os impactos causados por eventos climáticos. O comitê visa fortalecer a capacidade de resposta a desastres.",
-    "categoria": "meio-ambiente",
-    "tags": [
-      "El Niño",
-      "mudanças climáticas",
-      "Itaperuna",
-      "prevenção"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Itaperuna"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/08/04/itaperuna-cria-comitê-para-enfrentar-os-efeitos-do-el-nino.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-04-acidentes-motociclistas",
-    "data": "2026-08-04",
-    "titulo": "Dois Motociclistas Morrem em Acidente em Minas Gerais; Nenhum Tinha CNH",
-    "resumo": "Dois motociclistas morreram após uma colisão frontal na LMG-633, em Jaíba, no Norte de Minas. Segundo a Polícia Militar, nenhum dos envolvidos possuía Carteira Nacional de Habilitação (CNH). As vítimas tinham 50 e 53 anos.",
-    "categoria": "seguranca",
-    "tags": [
-      "acidente de trânsito",
-      "morte",
-      "Minas Gerais",
-      "CNH"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Jaíba"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/04/dois-motociclistas-morrem-apos-baterem-de-frente-na-lmg-633-nenhum-tinha-cnh.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-04-vereador-preso",
-    "data": "2026-08-04",
-    "titulo": "Vereador Preso por Violência Doméstica Retoma Mandato na Bahia",
-    "resumo": "O vereador Edivan de Jesus Santos, conhecido como Morão, reassumiu seu mandato na Câmara Municipal de Santo Antônio de Jesus, na Bahia. Ele havia sido preso sob suspeita de violência doméstica e ficou afastado por 10 meses. Seu retorno gerou repercussão na região.",
-    "categoria": "politica",
-    "tags": [
-      "violência doméstica",
-      "vereador",
-      "mandato",
+      "Acre",
       "Bahia"
     ],
-    "entidades": [],
-    "pessoas": [
-      "Edivan de Jesus Santos"
-    ],
-    "estados": [
-      "Bahia"
-    ],
-    "cidades": [
-      "Santo Antônio de Jesus"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/04/vereador-preso-suspeita-violencia-bahia.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-04-secretarios-teresina",
-    "data": "2026-08-04",
-    "titulo": "Três Secretários de Teresina Exonerados; Todos São Vereadores",
-    "resumo": "Três secretários da Prefeitura de Teresina, que também exercem mandato de vereador na capital, foram exonerados de seus cargos. Os decretos de exoneração foram publicados no Diário Oficial do Município nesta segunda-feira (3). A medida afeta as pastas ocupadas por Samuel Alencar, Zé Neto e Roncallin.",
-    "categoria": "politica",
-    "tags": [
-      "Teresina",
-      "exoneração",
-      "secretários",
-      "vereadores"
-    ],
-    "entidades": [],
-    "pessoas": [
-      "Samuel Alencar",
-      "Zé Neto",
-      "Roncallin"
-    ],
-    "estados": [
-      "Piauí"
-    ],
-    "cidades": [
-      "Teresina"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 3,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pi/piaui/noticia/2026/08/04/tres-secretarios-exonerados.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-04-salao-do-livro",
-    "data": "2026-08-04",
-    "titulo": "Salão do Livro de Ipatinga Começa com Teatro e Oficinas",
-    "resumo": "O 17º Salão do Livro de Ipatinga iniciou nesta terça-feira (4) e seguirá até domingo (9) no Teatro Usiminas. O evento conta com teatro, oficinas e uma feira literária. Nesta edição, o tema abordado é 'Sustentabilidade e Inteligência Artificial: le.",
-    "categoria": "cultura",
-    "tags": [
-      "Salão do Livro",
-      "Ipatinga",
-      "literatura",
-      "eventos culturais"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Minas Gerais"
-    ],
-    "cidades": [
-      "Ipatinga"
-    ],
+    "cidades": [],
     "paises": [
       "Brasil"
     ],
     "importancia": 2,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/08/04/salao-do-livro-comeca-nesta-terca-4-em-ipatinga-com-teatro-oficinas-e-feira-literaria.ghtml"
+        "nome": "g1",
+        "url": "https://g1.globo.com/ac/acre/ao-vivo/ao-vivo-assista-ao-bdac-com-melicia-moura.ghtml"
+      },
+      {
+        "nome": "g1",
+        "url": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml"
       }
     ]
   },
   {
-    "id": "2026-08-04-filhotes-tubarao",
-    "data": "2026-08-04",
-    "titulo": "Filhotes de Tubarão São Registrados na Baía do Sueste em Fernando de Noronha",
-    "resumo": "Um grupo de aproximadamente 60 filhotes de tubarão-limão foi registrado na Baía do Sueste, em Fernando de Noronha. O registro foi feito pela pesquisadora Mariana Rêgo. O fenômeno ocorre em um período de maior atenção à vida marinha na região.",
-    "categoria": "meio-ambiente",
+    "id": "2026-08-05-politica-pesquisa-brasil",
+    "data": "2026-08-05",
+    "titulo": "Pesquisa eleitoral indica recuperação de Flávio Bolsonaro e perda de impulso na imagem do governo Lula",
+    "resumo": "Uma nova pesquisa divulgada pela Quaest mostra uma recuperação na intenção de voto de Flávio Bolsonaro (PL) na disputa presidencial. Simultaneamente, a pesquisa aponta para uma perda de impulso na melhora da imagem do governo do presidente Lula. A análise foi divulgada por Felipe Nunes, diretor do instituto de pesquisa.",
+    "categoria": "politica",
     "tags": [
-      "vida marinha",
-      "tubarão",
-      "Fernando de Noronha",
-      "biologia"
+      "pesquisa eleitoral",
+      "eleições",
+      "governo",
+      "política"
+    ],
+    "entidades": [
+      "Quaest"
+    ],
+    "pessoas": [
+      "Flávio Bolsonaro",
+      "Lula",
+      "Felipe Nunes"
+    ],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1",
+        "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/05/pesquisa-quaest-eleicoes-2026-analise-felipe-nunes-agosto-flavio-bolsonaro-lula.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-05-violencia-domestica-parana",
+    "data": "2026-08-05",
+    "titulo": "Sinal de socorro salva vítima de violência doméstica no Paraná",
+    "resumo": "Um gesto discreto, o \"sinal universal de socorro\" (mão aberta e punho cerrado), foi fundamental para que testemunhas ajudassem uma vítima de violência doméstica em Pitanga, no Paraná. O homem envolvido na agressão foi preso após a ação das testemunhas, que entenderam o pedido de ajuda.",
+    "categoria": "justica",
+    "tags": [
+      "violência doméstica",
+      "socorro",
+      "agressão",
+      "prisão"
     ],
     "entidades": [],
-    "pessoas": [
-      "Mariana Rêgo"
-    ],
+    "pessoas": [],
     "estados": [
-      "Pernambuco"
+      "Paraná"
     ],
     "cidades": [
-      "Fernando de Noronha"
+      "Pitanga"
     ],
     "paises": [
       "Brasil"
@@ -609,27 +223,24 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/08/04/video-mostra-cerca-de-60-filhotes-de-tubarao-na-baia-do-sueste-fernando-de-noronha.ghtml"
+        "nome": "g1",
+        "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/05/mao-aberta-e-punho-cerrado-entenda-sinal-de-socorro-que-salvou-vitima-de-violencia-domestica-no-parana.ghtml"
       }
     ]
   },
   {
-    "id": "2026-08-04-bayer-lucro",
-    "data": "2026-08-04",
-    "titulo": "Bayer Reverte Prejuízos e Lucra 219 Milhões de Euros no 2º Trimestre",
-    "resumo": "A Bayer registrou um lucro líquido de 219 milhões de euros no segundo trimestre do ano, revertendo os prejuízos anteriores. O Ebitda do conglomerado alemão, atuante nos setores de agricultura e farmacêuticos, somou 2,14 bilhões de euros, com alta de 1,9%.",
-    "categoria": "economia",
+    "id": "2026-08-05-seguranca-alem-aeroporto",
+    "data": "2026-08-05",
+    "titulo": "Drone com explosivos é encontrado em aeroporto alemão; objeto colide com aeronave",
+    "resumo": "Um drone transportando explosivos foi encontrado na área de carga de um aeroporto na Alemanha, próximo a uma aeronave ucraniana. Em um incidente separado, outro objeto teria colidido com uma aeronave de carga em pleno voo. As autoridades policiais alemãs estão investigando os eventos.",
+    "categoria": "seguranca",
     "tags": [
-      "Bayer",
-      "lucro",
-      "resultados financeiros",
-      "setor farmacêutico",
-      "agronegócio"
+      "drone",
+      "explosivos",
+      "aeroporto",
+      "investigação"
     ],
-    "entidades": [
-      "Bayer"
-    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
@@ -639,91 +250,191 @@
     "importancia": 4,
     "fontes": [
       {
-        "nome": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/economia/negocios/bayer-reverte-prejuizos-no-2o-trimestre-ao-lucrar-219-milhoes-de-euros/"
+        "nome": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss"
       }
     ]
   },
   {
-    "id": "2026-08-04-bracell-premiada",
-    "data": "2026-08-04",
-    "titulo": "Bracell Premiada por Gestão de Emissões de Gases de Efeito Estufa",
-    "resumo": "A Bracell, empresa líder na produção de celulose solúvel e especial, foi premiada pela quarta vez por sua gestão de emissões de Gases de Efeito Estufa (GEE). Em 2024 e 2025, a empresa removeu mais CO₂e da atmosfera do que emitiu, contribuindo positivamente para o clima.",
+    "id": "2026-08-05-meio-ambiente-conservacao-sp",
+    "data": "2026-08-05",
+    "titulo": "Monitoramento de mico-leão-preto é iniciado em região do centro-oeste paulista",
+    "resumo": "A Bracell, em parceria com o Instituto de Pesquisas Ecológicas (IPÊ), iniciou o monitoramento do mico-leão-preto em áreas do centro-oeste paulista. A iniciativa visa ampliar o conhecimento sobre a espécie ameaçada de extinção e fortalecer as estratégias de conservação da biodiversidade na região.",
     "categoria": "meio-ambiente",
     "tags": [
-      "Bracell",
-      "sustentabilidade",
-      "emissões",
-      "GEE",
-      "celulose"
+      "conservação",
+      "biodiversidade",
+      "mico-leão-preto",
+      "monitoramento"
     ],
     "entidades": [
-      "Bracell"
+      "Bracell",
+      "IPÊ"
     ],
+    "pessoas": [
+      "João Vitor Medeiros Teixeira"
+    ],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1",
+        "url": "https://g1.globo.com/sp/bauru-marilia/especial-publicitario/bracell-fazer-a-diferenca-em-cada-detalhe/noticia/2026/08/05/bracell-e-ipe-monitoram-mico-leao-preto-na-regiao-de-lencois-e-marilia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-05-justica-paternidade-ma",
+    "data": "2026-08-05",
+    "titulo": "Defensoria Pública do MA abre inscrições para mutirão de reconhecimento de paternidade em São Luís",
+    "resumo": "A Defensoria Pública do Estado do Maranhão (DPE-MA) abriu inscrições para o projeto \"Meu Pai Tem Nome\", que oferece reconhecimento e investigação de paternidade gratuitos. O mutirão será realizado em São Luís no dia 15 de agosto e visa auxiliar famílias a estabelecerem vínculos paternos.",
+    "categoria": "justica",
+    "tags": [
+      "paternidade",
+      "reconhecimento",
+      "DNA",
+      "mutirão"
+    ],
+    "entidades": [
+      "DPE-MA"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Maranhão"
+    ],
+    "cidades": [
+      "São Luís"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1",
+        "url": "https://g1.globo.com/ma/maranhao/noticia/2026/08/05/dpe-ma-abre-inscricoes-para-mutirao-de-reconhecimento-de-paternidade-em-sao-luis.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-05-seguranca-operacao-trafico-pr",
+    "data": "2026-08-05",
+    "titulo": "PF deflagra operação contra grupo de tráfico internacional de armas no Paraná",
+    "resumo": "A Polícia Federal realizou uma operação nesta quarta-feira (5) contra um grupo suspeito de envolvimento em tráfico internacional de armas. Foram cumpridos mandados de prisão e de busca e apreensão. O grupo criminoso era responsável pela aquisição, transporte, armazenamento e distribuição de armamentos de uso restrito.",
+    "categoria": "seguranca",
+    "tags": [
+      "PF",
+      "operação policial",
+      "tráfico de armas",
+      "armamento"
+    ],
+    "entidades": [
+      "Polícia Federal"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Paraná"
+    ],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/pf-faz-operacao-contra-grupo-de-trafico-internacional-de-armas/"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-05-saude-mercado-trabalho",
+    "data": "2026-08-05",
+    "titulo": "Mercado de trabalho aponta alta demanda por profissionais da área da saúde",
+    "resumo": "A área da saúde continua sendo um dos setores mais promissores no mercado de trabalho em 2026. A crescente demanda por profissionais qualificados, impulsionada pelos avanços tecnológicos, gera oportunidades de carreira. A escolha de uma profissão na área da saúde é considerada uma decisão importante.",
+    "categoria": "economia",
+    "tags": [
+      "mercado de trabalho",
+      "saúde",
+      "profissionais",
+      "demanda"
+    ],
+    "entidades": [],
     "pessoas": [],
     "estados": [],
     "cidades": [],
-    "paises": [],
+    "paises": [
+      "Brasil"
+    ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/bauru-marilia/especial-publicitario/bracell-fazer-a-diferenca-em-cada-detalhe/noticia/2026/08/04/bracell-e-premiada-pela-4a-vez-por-gestao-de-emissoes-de-gee.ghtml"
+        "nome": "g1",
+        "url": "https://g1.globo.com/sp/bauru-marilia/especial-publicitario/unoeste-unoeste-melhor-universidade-de-sp/noticia/2026/08/05/mercado-de-trabalho-aponta-alta-demanda-por-profissionais-da-saude.html"
       }
     ]
   },
   {
-    "id": "2026-08-04-defesa-candidato-uk",
-    "data": "2026-08-04",
-    "titulo": "Líder Conservadora Defende Candidatura de Homem Condenado por Assédio",
-    "resumo": "A líder conservadora britânica Kemi Badenoch defendeu a decisão de selecionar Joshua Bonehill-Paine, que foi preso por assédio contra uma deputada judia, como candidato para uma eleição local em Somerset. Bonehill-Paine é um ex-ativista neonazista. A oposição critica a escolha.",
+    "id": "2026-08-05-politica-eleicoes-mt",
+    "data": "2026-08-05",
+    "titulo": "Município de MT com idosos centenários apresenta número expressivo de eleitores nessa faixa etária",
+    "resumo": "O município de Campinápolis, no Mato Grosso, registrou um número incomum de eleitores com mais de 100 anos para as eleições de 2026. A cidade possui 42 moradores centenários, mas o cadastro eleitoral aponta 224 eleitores nessa faixa etária. Essa discrepância está sendo investigada.",
     "categoria": "politica",
     "tags": [
-      "política britânica",
-      "eleições locais",
-      "conservadores",
-      "assédio"
+      "eleições",
+      "idosos",
+      "cadastro eleitoral",
+      "Mato Grosso"
     ],
-    "entidades": [],
-    "pessoas": [
-      "Kemi Badenoch",
-      "Joshua Bonehill-Paine"
+    "entidades": [
+      "TSE"
     ],
+    "pessoas": [],
     "estados": [
-      "Somerset"
+      "Mato Grosso"
     ],
-    "cidades": [],
+    "cidades": [
+      "Campinápolis"
+    ],
     "paises": [
-      "Reino Unido"
+      "Brasil"
     ],
-    "importancia": 3,
+    "importancia": 4,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/04/pc-harper-prisoner-early-release-andy-burnham-labour-conservatives-badenoch-latest-news-updates"
+        "nome": "g1",
+        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/05/municipio-de-mt-com-42-moradores-acima-de-100-anos-aparece-com-224-eleitores-cadastrados-nesta-faixa-etaria-entenda.ghtml"
       }
     ]
   },
   {
-    "id": "2026-08-04-busca-jovem-aracaju",
-    "data": "2026-08-04",
-    "titulo": "Bombeiros Retomam Buscas por Jovem Desaparecido em Praia de Aracaju",
-    "resumo": "Equipes do Corpo de Bombeiros retomaram as buscas pelo jovem que desapareceu no mar na Praia dos Artistas, em Aracaju. O desaparecimento ocorreu no último domingo, após o jovem mergulhar na água. As buscas estão concentradas na área onde ele foi visto pela última vez.",
-    "categoria": "seguranca",
+    "id": "2026-08-05-educacao-antidiscriminacao-sp",
+    "data": "2026-08-05",
+    "titulo": "Tremembé (SP) é pioneira em projeto de educação antidiscriminação",
+    "resumo": "A Estância Turística de Tremembé, em São Paulo, foi convidada pelo Ministério Público de Taubaté para integrar um projeto piloto de educação preventiva contra o racismo e outras formas de discriminação. A iniciativa busca promover um ambiente escolar mais inclusivo e combater preconceitos.",
+    "categoria": "educacao",
     "tags": [
-      "desaparecimento",
-      "praia",
-      "Aracaju",
-      "bombeiros",
-      "buscas"
+      "educação",
+      "antidiscriminação",
+      "racismo",
+      "projeto piloto"
     ],
-    "entidades": [],
+    "entidades": [
+      "Ministério Público"
+    ],
     "pessoas": [],
     "estados": [
-      "Sergipe"
+      "São Paulo"
     ],
     "cidades": [
-      "Aracaju"
+      "Tremembé",
+      "Taubaté"
     ],
     "paises": [
       "Brasil"
@@ -731,55 +442,84 @@
     "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/se/sergipe/noticia/2026/08/04/jovem-desaparecido-no-mar-de-aracaju.ghtml"
+        "nome": "g1",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-tremembe/nossa-tremembe/noticia/2026/08/05/tremembe-e-pioneira-e-vai-integrar-projeto-para-educacao-antidiscriminacao.ghtml"
       }
     ]
   },
   {
-    "id": "2026-08-04-bandejao-carros-antigos",
-    "data": "2026-08-04",
-    "titulo": "Encontro de Carros Antigos em Volta Redonda Reúne Colecionadores",
-    "resumo": "Volta Redonda, no Rio de Janeiro, sediará o XXXI Encontro de Carros Antigos e Fora de Série entre os dias 14 e 16 de agosto, na Ilha São João. O evento tradicionalmente atrai colecionadores e entusiastas do setor, apresentando veículos clássicos e oferecendo shows musicais.",
-    "categoria": "cultura",
-    "tags": [
-      "carros antigos",
-      "encontro",
-      "Volta Redonda",
-      "cultura automotiva"
-    ],
-    "entidades": [],
-    "pessoas": [],
-    "estados": [
-      "Rio de Janeiro"
-    ],
-    "cidades": [
-      "Volta Redonda"
-    ],
-    "paises": [
-      "Brasil"
-    ],
-    "importancia": 2,
-    "fontes": [
-      {
-        "nome": "G1",
-        "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/04/volta-redonda-recebe-encontro-tradicional-de-carros-antigos-com-shows.ghtml"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-04-dedetizacao-cupins",
-    "data": "2026-08-04",
-    "titulo": "Alerta sobre Infestação de Cupins em São José dos Campos",
-    "resumo": "A presença de pequenos montes de pó, portas emperradas ou furos na madeira podem ser sinais de infestação de cupins em imóveis. A recomendação é agir rapidamente para evitar que a situação evolua. O artigo oferece informações sobre dedetização em São José dos Campos.",
+    "id": "2026-08-05-saude-imunopreveniveis",
+    "data": "2026-08-05",
+    "titulo": "Pediatria debate a atualização médica sobre doenças imunopreveníveis",
+    "resumo": "A pediatria reforça a importância da atualização médica sobre doenças imunopreveníveis, como sarampo e meningite. A redução da cobertura vacinal nos últimos anos tem levado ao reaparecimento dessas enfermidades. A discussão visa conscientizar sobre os desafios para a saúde pública.",
     "categoria": "saude",
     "tags": [
-      "cupins",
-      "pragas urbanas",
-      "dedetização",
-      "São José dos Campos"
+      "pediatria",
+      "doenças",
+      "vacinação",
+      "saúde pública"
     ],
     "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1",
+        "url": "https://g1.globo.com/ba/bahia/especial-publicitario/pitagoras/noticia/2026/08/05/pediatria-doencas-imunopreveniveis-reforcam-a-atualizacao-medica.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-05-meio-ambiente-limpeza-urbana-sp",
+    "data": "2026-08-05",
+    "titulo": "São Sebastião (SP) moderniza gestão de limpeza urbana e amplia fiscalização",
+    "resumo": "A Prefeitura de São Sebastião, em São Paulo, implementou um novo modelo para a gestão da limpeza urbana e dos resíduos sólidos, visando maior eficiência e transparência. A contratação de um novo serviço amplia a capacidade de fiscalização, incorpora tecnologia para monitoramento em tempo real e prevê uma economia de quase R$ 10 milhões.",
+    "categoria": "meio-ambiente",
+    "tags": [
+      "limpeza urbana",
+      "resíduos sólidos",
+      "gestão pública",
+      "fiscalização"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [
+      "São Paulo"
+    ],
+    "cidades": [
+      "São Sebastião"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 3,
+    "fontes": [
+      {
+        "nome": "g1",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-sao-sebastiao-sao-sebastiao-bem-cuidada/noticia/2026/08/05/sao-sebastiao-moderniza-limpeza-urbana-economiza-e-amplia-fiscalizacao.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-05-seguranca-prisao-sp",
+    "data": "2026-08-05",
+    "titulo": "Suspeito de assassinato em São José dos Campos (SP) é identificado e tem prisão decretada",
+    "resumo": "A Polícia Civil identificou o suspeito de ter assassinado um homem a tiros na madrugada do último domingo (2) em São José dos Campos, São Paulo. A prisão do indivíduo já teve a decretação de sua prisão. As investigações para elucidar o caso continuam.",
+    "categoria": "justica",
+    "tags": [
+      "homicídio",
+      "prisão",
+      "investigação policial",
+      "suspeito"
+    ],
+    "entidades": [
+      "Polícia Civil"
+    ],
     "pessoas": [],
     "estados": [
       "São Paulo"
@@ -790,71 +530,228 @@
     "paises": [
       "Brasil"
     ],
-    "importancia": 1,
+    "importancia": 3,
     "fontes": [
       {
-        "nome": "G1",
-        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/cupins-sp-descupinizacao/noticia/2026/08/04/dedetizacao-de-cupins-em-sjc-o-que-voce-precisa-saber.ghtml"
+        "nome": "g1",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/05/suspeito-de-assassinar-homem-a-tiros-em-sao-jose-e-identificado-e-tem-prisao-decretada.ghtml"
       }
     ]
   },
   {
-    "id": "2026-08-04-reformas-bangladesh",
-    "data": "2026-08-04",
-    "titulo": "Críticos Questionam Reformas em Bangladesh Pós-Sheikh Hasina",
-    "resumo": "Críticos afirmam que o ímpeto das reformas em Bangladesh está diminuindo, dois anos após um levante estudantil que derrubou a primeira-ministra Sheikh Hasina. Divisões políticas profundas e a estagnação de mudanças chave alimentam as preocupações sobre um possível retrocesso nas reformas.",
-    "categoria": "politica",
+    "id": "2026-08-05-seguranca-operacao-furtos-mt",
+    "data": "2026-08-05",
+    "titulo": "Operação policial em Cuiabá visa desarticular grupo suspeito de furtar caminhonetes",
+    "resumo": "Uma operação policial foi deflagrada em Cuiabá, Mato Grosso, para investigar um grupo suspeito de furtar caminhonetes. Treze ordens judiciais estão sendo cumpridas, incluindo mandados de busca e apreensão, como parte da Operação Conexão CPA. O objetivo é desarticular a ação criminosa na região metropolitana.",
+    "categoria": "seguranca",
     "tags": [
-      "Bangladesh",
-      "reformas políticas",
-      "Sheikh Hasina",
-      "crítica"
+      "operação policial",
+      "furto",
+      "caminhonetes",
+      "crime organizado"
     ],
     "entidades": [],
-    "pessoas": [
-      "Sheikh Hasina"
+    "pessoas": [],
+    "estados": [
+      "Mato Grosso"
     ],
-    "estados": [],
-    "cidades": [],
+    "cidades": [
+      "Cuiabá"
+    ],
     "paises": [
-      "Bangladesh"
+      "Brasil"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "DW",
-        "url": "https://www.dw.com/en/is-bangladesh-backtracking-on-post-hasina-reforms/a-78231437?maca=en-rss-en-all-1573-rdf"
+        "nome": "g1",
+        "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/05/grupo-suspeito-de-furtar-caminhonetes-e-alvo-de-operacao-em-cuiaba.ghtml"
       }
     ]
   },
   {
-    "id": "2026-08-04-debate-trump",
-    "data": "2026-08-04",
-    "titulo": "Senadores Republicanos Desistem de Oposição à Nomeação de Todd Blanche",
-    "resumo": "Senadores republicanos retiraram sua oposição à nomeação de Todd Blanche, ex-advogado pessoal de Donald Trump, para o cargo de procurador-geral. Uma votação sobre a nomeação está prevista. Críticos denunciaram um acordo para interromper um fundo de Trump considerado controverso.",
-    "categoria": "politica",
+    "id": "2026-08-05-saude-atendimento-pr",
+    "data": "2026-08-05",
+    "titulo": "Secretaria de Saúde de Araucária (PR) implementa Protocolo Digital para solicitações",
+    "resumo": "A Secretaria Municipal de Saúde de Araucária, no Paraná, informou que todas as solicitações externas, como pedidos de palestras, ações educativas e vacinação, deverão ser feitas através do Protocolo Digital da Prefeitura. A medida visa otimizar o atendimento e a gestão das demandas institucionais.",
+    "categoria": "saude",
     "tags": [
-      "Donald Trump",
-      "Todd Blanche",
-      "senado",
-      "nomeação",
-      "política dos EUA"
+      "saúde",
+      "atendimento",
+      "protocolo digital",
+      "administração pública"
+    ],
+    "entidades": [
+      "Secretaria Municipal de Saúde"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Paraná"
+    ],
+    "cidades": [
+      "Araucária"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "g1",
+        "url": "https://g1.globo.com/pr/parana/especial-publicitario/municipio-de-araucaria/araucaria-noticias/noticia/2026/08/05/pedidos-a-secretaria-de-saude-devem-ser-feitos-pelo-protocolo-digital.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-05-sociedade-violencia-ba",
+    "data": "2026-08-05",
+    "titulo": "Homem é denunciado por ato obsceno em frente a crianças no interior da Bahia",
+    "resumo": "Um homem de 22 anos foi detido em Valente, na Bahia, sob suspeita de praticar ato obsceno em frente a crianças em um ponto de ônibus. O incidente ocorreu enquanto as crianças aguardavam o transporte escolar. O caso foi registrado na delegacia local.",
+    "categoria": "justica",
+    "tags": [
+      "ato obsceno",
+      "crianças",
+      "denúncia",
+      "polícia"
+    ],
+    "entidades": [
+      "Polícia Militar"
+    ],
+    "pessoas": [],
+    "estados": [
+      "Bahia"
+    ],
+    "cidades": [
+      "Valente"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1",
+        "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/05/homem-denunciado-ato-obsceno-bahia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-05-saude-mortalidade-go",
+    "data": "2026-08-05",
+    "titulo": "Fisioterapeuta morre aos 30 anos em Goiás após relatar dor intensa na perna",
+    "resumo": "Uma fisioterapeuta de 30 anos morreu em Mozarlândia, no norte de Goiás, após sentir dor intensa na perna direita, que apresentava inchaço. A paciente relatou os sintomas aos médicos do Hospital Municipal de Mozarlândia antes de falecer. A polícia investiga as circunstâncias da morte.",
+    "categoria": "saude",
+    "tags": [
+      "morte",
+      "fisioterapeuta",
+      "dor",
+      "hospital"
     ],
     "entidades": [],
     "pessoas": [
-      "Donald Trump",
-      "Todd Blanche"
+      "Larissa da Mata Silva"
+    ],
+    "estados": [
+      "Goiás"
+    ],
+    "cidades": [
+      "Mozarlândia"
+    ],
+    "paises": [
+      "Brasil"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "g1",
+        "url": "https://g1.globo.com/go/goias/noticia/2026/08/05/fisioterapeuta-que-morreu-aos-30-anos-reclamou-de-dor-intensa-na-perna-ao-ir-ao-hospital-diz-policia.ghtml"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-05-internacional-oriente-medio",
+    "data": "2026-08-05",
+    "titulo": "EUA e Irã sinalizam esperança por acordo no Estreito de Ormuz, mas termos permanecem incertos",
+    "resumo": "Os Estados Unidos e o Irã indicaram otimismo em relação a um possível acordo que viabilizaria o tráfego seguro no Estreito de Ormuz. No entanto, os termos específicos desse acordo ainda não foram esclarecidos. O tema tem impactado o preço do petróleo globalmente.",
+    "categoria": "internacional",
+    "tags": [
+      "Oriente Médio",
+      "Estreito de Ormuz",
+      "EUA",
+      "Irã",
+      "acordo"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Estados Unidos",
+      "Irã",
+      "Omã"
+    ],
+    "importancia": 4,
+    "fontes": [
+      {
+        "nome": "theguardian",
+        "url": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-05-cultura-celebridade",
+    "data": "2026-08-05",
+    "titulo": "Adriane Galisteu celebra aniversário de 16 anos do filho",
+    "resumo": "A apresentadora Adriane Galisteu celebrou publicamente os 16 anos de seu filho, Vittorio, através das redes sociais. Galisteu compartilhou uma mensagem carinhosa e emotiva em homenagem ao herdeiro, destacando o forte laço entre mãe e filho.",
+    "categoria": "cultura",
+    "tags": [
+      "celebridade",
+      "aniversário",
+      "filho",
+      "mãe"
+    ],
+    "entidades": [],
+    "pessoas": [
+      "Adriane Galisteu",
+      "Vittorio"
     ],
     "estados": [],
     "cidades": [],
     "paises": [
-      "Estados Unidos"
+      "Brasil"
+    ],
+    "importancia": 2,
+    "fontes": [
+      {
+        "nome": "cnnbrasil",
+        "url": "https://www.cnnbrasil.com.br/pop/celebridades/adriane-galisteu-celebra-16-anos-do-filho-vittorio-amor-que-nao-se-mede/"
+      }
+    ]
+  },
+  {
+    "id": "2026-08-05-cotidiano-sorte-italia",
+    "data": "2026-08-05",
+    "titulo": "Trabalhadores encontram bilhete de loteria de €1 milhão descartado na Itália",
+    "resumo": "Uma história incomum ocorreu na Itália, onde trabalhadores de coleta de lixo auxiliaram um ganhador a recuperar um bilhete de loteria premiado no valor de 1 milhão de euros. O ganhador só percebeu que havia descartado o bilhete após seus familiares confirmarem que os números jogados pela sorte foram sorteados.",
+    "categoria": "economia",
+    "tags": [
+      "loteria",
+      "sorte",
+      "bilhete premiado",
+      "Itália"
+    ],
+    "entidades": [],
+    "pessoas": [],
+    "estados": [],
+    "cidades": [],
+    "paises": [
+      "Itália"
     ],
     "importancia": 3,
     "fontes": [
       {
-        "nome": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/live/2026/aug/04/donald-trump-todd-blanche-republicans-vote-michigan-midterm-primary-democrats-latest-news-updates"
+        "nome": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
